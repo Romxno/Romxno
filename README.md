@@ -282,10 +282,10 @@ const monitoring = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shubham-pauranik-95b5a2102)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle)](https://www.kaggle.com/stazek)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:miralemp91@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?logo=vercel)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shubham-pauranik-95b5a2102)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Data%20Science-20BEFF?logo=kaggle&style=for-the-badge)](https://www.kaggle.com/stazek)
+[![Email](https://img.shields.io/badge/Contact-Email-D14836?logo=gmail&style=for-the-badge)](mailto:miralemp91@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-100000?logo=vercel&style=for-the-badge)](https://your-portfolio-link.com)
 
 </div>
 
