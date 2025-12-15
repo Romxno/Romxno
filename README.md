@@ -315,8 +315,7 @@ const monitoring = {
 
 ## 🖥️ DevOps System Status
 
-![DevOps Heartbeat](https://raw.githubusercontent.com/${{ github.repository_owner }}/${{ github.repository_owner }}/output/devops-heartbeat.svg)
-
+![DevOps Heartbeat](https://raw.githubusercontent.com/Romxno/Romxno/output/devops-heartbeat.svg)
 
 </div>
 
