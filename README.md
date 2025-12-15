@@ -313,9 +313,10 @@ const monitoring = {
 
 <div align="center">
 
-### 🐍 Contribution Activity
+## 🖥️ DevOps System Status
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Romxno/Shubham/output/github-contribution-snake.svg)
+![DevOps Heartbeat](https://raw.githubusercontent.com/${{ github.repository_owner }}/${{ github.repository_owner }}/output/devops-heartbeat.svg)
+
 
 </div>
 
