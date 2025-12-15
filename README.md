@@ -313,9 +313,9 @@ const monitoring = {
 
 <div align="center">
 
-## 🖥️ DevOps Dashboard
+## 🚀 Live GitHub Activity
 
-![DevOps Dashboard](https://raw.githubusercontent.com/Romxno/Romxno/output/dashboard.svg)
+![GitHub Activity Dashboard](https://raw.githubusercontent.com/Romxno/Romxno/output/github-activity-dashboard.svg)
 
 </div>
 
