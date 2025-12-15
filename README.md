@@ -313,9 +313,9 @@ const monitoring = {
 
 <div align="center">
 
-## 🖥️ DevOps System Status
+## 🖥️ DevOps Dashboard
 
-![DevOps Heartbeat](https://raw.githubusercontent.com/Romxno/Romxno/output/devops-heartbeat.svg)
+![DevOps Dashboard](https://raw.githubusercontent.com/Romxno/Romxno/output/dashboard.svg)
 
 </div>
 
