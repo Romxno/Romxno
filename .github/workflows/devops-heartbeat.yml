@@ -1,0 +1,42 @@
+name: Generate DevOps Heartbeat
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate DevOps heartbeat SVG
+        run: |
+          mkdir -p dist
+          echo '<svg width="800" height="120" viewBox="0 0 800 120"
+            xmlns="http://www.w3.org/2000/svg">
+            <polyline
+              fill="none"
+              stroke="#22c55e"
+              stroke-width="3"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              points="0,60 60,60 90,20 120,100 150,60
+                      220,60 250,30 280,90 320,60
+                      400,60 430,40 460,80 500,60
+                      800,60"/>
+          </svg>' > dist/devops-heartbeat.svg
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
