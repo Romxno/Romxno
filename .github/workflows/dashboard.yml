@@ -1,207 +1,116 @@
-- name: 🐍 Generate Dynamic Dashboard SVG
+name: DevOps Cloud AI Dashboard
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-dashboard:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate Dashboard SVG
         run: |
           mkdir -p dist
           python3 << 'EOF'
           from datetime import datetime
           import random
           import math
-          
-          now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-          
-          # ----------------------------------------------------
-          # 1. GENERATE DYNAMIC METRICS
-          # ----------------------------------------------------
-          cicd_success = random.randint(70, 99) # Increased range for dynamic status
-          deploy_count = random.randint(45, 95)
-          cloud_uptime = 99.8 + random.uniform(0, 0.19) # Can occasionally drop below 99.9
-          cloud_cost = random.randint(65, 95) # Can be lower than 75
-          ai_accuracy = random.randint(85, 98)
-          
-          # ----------------------------------------------------
-          # 2. DYNAMIC STATUS LOGIC
-          # ----------------------------------------------------
-          
-          # Overall Health Status
-          if cicd_success < 80 or cloud_uptime < 99.9:
-              overall_status = "Degraded"
-              status_color = "#f97316"  # Orange
-          else:
-              overall_status = "System Healthy"
-              status_color = "#22c55e"  # Green
-              
-          # Cost Alert
-          if cloud_cost < 70:
-              cost_alert_text = "⚠️ Cost: High Spend Detected"
-              cost_alert_color = "#ef4444"  # Red
-          else:
-              cost_alert_text = "Optimization: Compliant"
-              cost_alert_color = "#22c55e" # Green
-          
-          # AI Alert
-          if ai_accuracy < 90:
-              ai_alert_text = "🧠 AI: Review Model Accuracy"
-              ai_alert_color = "#fbbf24" # Yellow
-          else:
-              ai_alert_text = "AI: Model Performing Well"
-              ai_alert_color = "#22c55e" # Green
 
-          # ----------------------------------------------------
-          # 3. CI/CD BAR CHART (Last 12 deploys)
-          # ----------------------------------------------------
-          cicd_bars = [random.randint(40, 100) for _ in range(12)] # More variance
-          bars_html = ""
-          for i, val in enumerate(cicd_bars):
-              height = val * 1.2
-              y = 300 - height
-              # Conditional coloring for individual bars
-              color = "#22c55e" if val > 85 else "#fbbf24" if val > 65 else "#ef4444"
-              
-              bars_html += f'<rect x="{60+i*18}" y="{y}" width="12" height="{height}" rx="3" fill="{color}" opacity="0.9"><animate attributeName="height" values="0;{height}" dur="0.6s" begin="{i*0.05}s" fill="freeze"/><animate attributeName="y" values="300;{y}" dur="0.6s" begin="{i*0.05}s" fill="freeze"/></rect>'
-          
-          # ----------------------------------------------------
-          # 4. AI PROGRESS CIRCLE
-          # ----------------------------------------------------
-          ai_radius = 45
-          ai_circumference = 2 * math.pi * ai_radius
-          ai_offset = ai_circumference * (1 - ai_accuracy / 100) 
-          
-          # ----------------------------------------------------
-          # 5. CLOUD COST GAUGE ARC
-          # ----------------------------------------------------
-          gauge_radius = 55
-          gauge_percent = cloud_cost / 100 
-          gauge_dash_length = math.pi * gauge_radius * gauge_percent
-          gauge_gap_length = math.pi * gauge_radius * (1 - gauge_percent)
-          gauge_dash_array = f"{gauge_dash_length} {gauge_gap_length}"
-          
-          # Conditional color for the gauge stroke
-          gauge_stroke_color = "#22c55e" if cloud_cost > 85 else "#fbbf24" if cloud_cost > 70 else "#ef4444"
-          
-          # ----------------------------------------------------
-          # 6. SVG TEMPLATE
-          # ----------------------------------------------------
-          svg = f'''<svg width="900" height="600" viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
+          now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+
+          cicd = random.randint(80, 99)
+          deploys = random.randint(40, 90)
+          uptime = 99.7 + random.random() * 0.3
+          cost = random.randint(60, 95)
+          ai = random.randint(85, 98)
+
+          status = "Healthy" if cicd > 85 and uptime > 99.9 else "Degraded"
+          status_color = "#22c55e" if status == "Healthy" else "#f97316"
+
+          r = 42
+          circ = 2 * math.pi * r
+          offset = circ * (1 - ai / 100)
+
+          svg = f"""
+          <svg width="900" height="520" viewBox="0 0 900 520"
+               xmlns="http://www.w3.org/2000/svg">
+
           <defs>
-            <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-              <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
-              <stop offset="100%" style="stop-color:#1e293b;stop-opacity:1" />
+            <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0%" stop-color="#020617"/>
+              <stop offset="100%" stop-color="#0f172a"/>
             </linearGradient>
-            <linearGradient id="greenGrad" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" style="stop-color:#22c55e;stop-opacity:1" /><stop offset="100%" style="stop-color:#16a34a;stop-opacity:1" /></linearGradient>
-            <linearGradient id="blueGrad" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" style="stop-color:#38bdf8;stop-opacity:1" /><stop offset="100%" style="stop-color:#0ea5e9;stop-opacity:1" /></linearGradient>
-            <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" style="stop-color:#a855f7;stop-opacity:1" /><stop offset="100%" style="stop-color:#9333ea;stop-opacity:1" /></linearGradient>
-            <filter id="glow"><feGaussianBlur stdDeviation="3" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-            <filter id="shadow"><feDropShadow dx="0" dy="4" stdDeviation="8" flood-opacity="0.3"/></filter>
           </defs>
-          
+
           <style>
-            .bg {{ fill:url(#bgGrad); }}
-            .panel {{ fill:#1e293b; stroke:#334155; stroke-width:1; filter:url(#shadow); }}
-            .title {{ fill:#f1f5f9; font-family:'Inter', -apple-system, sans-serif; font-size:28px; font-weight:800; letter-spacing:-0.5px; }}
-            .subtitle {{ fill:#94a3b8; font-family:'Inter', -apple-system, sans-serif; font-size:14px; font-weight:500; }}
-            .label {{ fill:#cbd5e1; font-family:'Inter', -apple-system, sans-serif; font-size:13px; font-weight:600; }}
-            .value {{ fill:#f1f5f9; font-family:'SF Mono', 'Monaco', monospace; font-size:32px; font-weight:700; }}
-            .metric {{ fill:#e2e8f0; font-family:'Inter', -apple-system, sans-serif; font-size:14px; }}
-            .small {{ fill:#94a3b8; font-family:'Inter', -apple-system, sans-serif; font-size:12px; }}
-            .status-dot {{ fill:{status_color}; filter:url(#glow); }}
+            text {{ font-family: Inter, system-ui; }}
+            .title {{ fill:#e5e7eb; font-size:28px; font-weight:800; }}
+            .label {{ fill:#94a3b8; font-size:13px; }}
+            .value {{ fill:#f8fafc; font-size:30px; font-weight:700; }}
+            .panel {{ fill:#020617; stroke:#1e293b; stroke-width:1; rx:14; }}
           </style>
-          
-          <rect width="900" height="600" rx="20" class="bg"/>
-          
-          <text x="40" y="50" class="title">DevOps • Cloud • AI Platform</text>
-          <circle cx="710" cy="42" r="6" class="status-dot">
+
+          <rect width="100%" height="100%" fill="url(#bg)" rx="20"/>
+
+          <text x="40" y="50" class="title">DevOps • Cloud • AI Dashboard</text>
+          <circle cx="690" cy="42" r="6" fill="{status_color}">
             <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
           </circle>
-          <text x="725" y="48" class="subtitle">{overall_status}</text>
-          <text x="40" y="75" class="small">Last updated: {now}</text>
-          
-          <g id="metrics-row">
-            <rect x="40" y="100" width="260" height="120" rx="12" class="panel"/>
-            <text x="60" y="130" class="label">SUCCESS RATE (CI/CD)</text>
-            <text x="60" y="175" class="value" fill="url(#greenGrad)">{cicd_success}%</text>
-            <text x="60" y="200" class="small">↑ 2.3% from last week</text>
-            
-            <rect x="320" y="100" width="260" height="120" rx="12" class="panel"/>
-            <text x="340" y="130" class="label">DEPLOYMENTS (THIS WEEK)</text>
-            <text x="340" y="175" class="value" fill="url(#blueGrad)">{deploy_count}</text>
-            <text x="340" y="200" class="small">Target: 70</text>
-            
-            <rect x="600" y="100" width="260" height="120" rx="12" class="panel"/>
-            <text x="620" y="130" class="label">CLOUD UPTIME</text>
-            <text x="620" y="175" class="value" fill="url(#purpleGrad)">{cloud_uptime:.2f}%</text>
-            <text x="620" y="200" class="small">SLA: 99.9%</text>
-          </g>
-          
-          <g id="details-row">
-            <rect x="40" y="240" width="260" height="240" rx="12" class="panel"/>
-            <text x="60" y="270" class="label">CI/CD PIPELINE STATUS</text>
-            <text x="60" y="290" class="small">Last 12 builds success rate</text>
-            
-            <g id="cicd-bars">{bars_html}</g>
-            <line x1="60" y1="390" x2="280" y2="390" stroke="#334155" stroke-width="1"/>
-            
-            <text x="60" y="415" class="metric">✓ All tests passing</text>
-            <text x="60" y="435" class="metric">⚡ Avg deploy: 8.3min</text>
-            <text x="60" y="455" class="metric">🔄 Zero-downtime: 100%</text>
-            
-            <rect x="320" y="240" width="260" height="240" rx="12" class="panel"/>
-            <text x="340" y="270" class="label">CLOUD OPERATIONS</text>
-            <text x="340" y="290" class="small">Cost and resource optimization</text>
-            
-            <circle cx="450" cy="360" r="{gauge_radius}" fill="none" stroke="#334155" stroke-width="10"/>
-            <path d="M 395 360 A {gauge_radius} {gauge_radius} 0 0 1 505 360" fill="none" stroke="{gauge_stroke_color}" stroke-width="10" stroke-linecap="round"
-                  stroke-dasharray="{gauge_dash_array}">
-              <animate attributeName="stroke-dasharray" values="0 {math.pi * gauge_radius * 2};{gauge_dash_array}" dur="1.5s" fill="freeze"/>
-            </path>
-            <text x="450" y="365" class="value" font-size="24" text-anchor="middle">{cloud_cost}%</text>
-            <text x="450" y="385" class="small" text-anchor="middle">Optimized</text>
-            
-            <text x="340" y="430" class="metric">☁️ AWS + Azure + GCP</text>
-            <text x="340" y="450" class="metric">🎯 Cost savings: ${random.randint(12, 28)}K/mo</text>
-            <text x="340" y="470" class="metric">📊 Resources: {random.randint(340, 480)} active</text>
-            
-            <rect x="600" y="240" width="260" height="240" rx="12" class="panel"/>
-            <text x="620" y="270" class="label">AI/ML PLATFORM</text>
-            <text x="620" y="290" class="small">GenAI & Automation</text>
-            
-            <circle cx="730" cy="360" r="{ai_radius}" fill="none" stroke="#334155" stroke-width="6"/>
-            <circle cx="730" cy="360" r="{ai_radius}" fill="none" stroke="{ai_alert_color}" stroke-width="6" 
-                    stroke-dasharray="{ai_circumference}" stroke-dashoffset="{ai_offset}" 
-                    transform="rotate(-90 730 360)" stroke-linecap="round">
-              <animate attributeName="stroke-dashoffset" from="{ai_circumference}" to="{ai_offset}" dur="1.5s" fill="freeze"/>
-            </circle>
-            <text x="730" y="365" class="value" font-size="22" text-anchor="middle">{ai_accuracy}%</text>
-            <text x="730" y="382" class="small" text-anchor="middle">Accuracy</text>
-            
-            <text x="620" y="430" class="metric">🤖 LLMs: GPT-4, Claude</text>
-            <text x="620" y="450" class="metric">⚡ Agents: {random.randint(8, 15)} active</text>
-            <text x="620" y="470" class="metric">📈 Training: {random.randint(3, 7)} models</text>
-          </g>
-          
-          <rect x="40" y="500" width="820" height="60" rx="12" class="panel"/>
-          <text x="60" y="528" class="label">SYSTEM ALERTS</text>
-          
-          <g id="alerts">
-              <circle cx="60" cy="550" r="4" fill="{status_color}"/>
-              <text x="72" y="555" class="small">Health: {overall_status}</text>
-              
-              <circle cx="240" cy="550" r="4" fill="{cost_alert_color}"/>
-              <text x="252" y="555" class="small">{cost_alert_text}</text>
-              
-              <circle cx="480" cy="550" r="4" fill="{ai_alert_color}"/>
-              <text x="492" y="555" class="small">{ai_alert_text}</text>
-              
-              <circle cx="720" cy="550" r="4" fill="#22c55e"/>
-              <text x="732" y="555" class="small">Security: Compliant</text>
-          </g>
-          
-          </svg>'''
-          
-          with open("dist/devops-cloud-ai-dashboard.svg", "w") as f:
+          <text x="705" y="48" class="label">{status}</text>
+          <text x="40" y="75" class="label">Updated: {now}</text>
+
+          <!-- Metrics -->
+          <rect x="40" y="100" width="250" height="110" class="panel"/>
+          <text x="60" y="130" class="label">CI/CD Success</text>
+          <text x="60" y="175" class="value">{cicd}%</text>
+
+          <rect x="325" y="100" width="250" height="110" class="panel"/>
+          <text x="345" y="130" class="label">Deployments</text>
+          <text x="345" y="175" class="value">{deploys}</text>
+
+          <rect x="610" y="100" width="250" height="110" class="panel"/>
+          <text x="630" y="130" class="label">Cloud Uptime</text>
+          <text x="630" y="175" class="value">{uptime:.2f}%</text>
+
+          <!-- AI Gauge -->
+          <rect x="40" y="240" width="820" height="230" class="panel"/>
+          <text x="60" y="270" class="label">AI Model Accuracy</text>
+
+          <circle cx="450" cy="360" r="{r}" stroke="#1e293b" stroke-width="8" fill="none"/>
+          <circle cx="450" cy="360" r="{r}"
+                  stroke="#22c55e"
+                  stroke-width="8"
+                  fill="none"
+                  stroke-dasharray="{circ}"
+                  stroke-dashoffset="{offset}"
+                  transform="rotate(-90 450 360)"
+                  stroke-linecap="round">
+            <animate attributeName="stroke-dashoffset"
+                     from="{circ}" to="{offset}"
+                     dur="1.4s" fill="freeze"/>
+          </circle>
+
+          <text x="450" y="368" text-anchor="middle" class="value">{ai}%</text>
+          <text x="450" y="395" text-anchor="middle" class="label">Accuracy</text>
+
+          </svg>
+          """
+
+          with open("dist/dashboard.svg", "w") as f:
               f.write(svg)
-          print("✓ Modern dynamic dashboard generated successfully!")
+
+          print("Dashboard SVG generated")
           EOF
-          
-      - name: 🚀 Publish dashboard to 'output' branch
+
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
