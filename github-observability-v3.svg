@@ -1,0 +1,283 @@
+
+<svg width="900" height="560" viewBox="0 0 900 560"
+     xmlns="http://www.w3.org/2000/svg">
+
+<style>
+  :root {
+    --bg:#020617; --panel:#020617; --stroke:#1e293b;
+    --text:#e5e7eb; --muted:#94a3b8;
+  }
+  @media (prefers-color-scheme: light) {
+    :root {
+      --bg:#f8fafc; --panel:#ffffff; --stroke:#e2e8f0;
+      --text:#020617; --muted:#475569;
+    }
+  }
+  text {
+    font-family: system-ui, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  }
+  .panel { fill:var(--panel); stroke:var(--stroke); rx:14; }
+  .title { fill:var(--text); font-size:28px; font-weight:800; }
+  .label { fill:var(--muted); font-size:13px; }
+  .value { fill:var(--text); font-size:18px; font-weight:700; }
+</style>
+
+<rect width="100%" height="100%" rx="20" fill="var(--bg)"/>
+
+<text x="40" y="48" class="title">Engineering Observability</text>
+<text x="40" y="70" class="label">GitHub • DevOps • Cloud • AI</text>
+
+<!-- Heatmap -->
+<rect x="30" y="90" width="410" height="220" class="panel"/>
+<text x="50" y="115" class="label">Commit Activity (30 Days)</text>
+
+    <rect x="40" y="120" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="2.103152689022345s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="64" y="120" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="1.4518450203580042s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="88" y="120" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="2.043092227676597s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="112" y="120" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="2.04325497899212s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="136" y="120" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="1.5802949823083443s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="160" y="120" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="1.6480555115354791s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="184" y="120" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="2.08356998845312s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="208" y="120" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="2.000910622671717s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="232" y="120" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="1.9521339687701778s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="256" y="120" width="18" height="18" rx="4"
+      fill="#16a34a">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="1.5995818524843348s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="280" y="120" width="18" height="18" rx="4"
+      fill="#38bdf8">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="1.7315311568963039s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="304" y="120" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="2.1953320822940445s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="328" y="120" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="2.0504183299591707s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="352" y="120" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="1.371601866162498s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="376" y="120" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="1.960555131404246s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="40" y="144" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="2.1410839006031837s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="64" y="144" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="1.4583891885792228s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="88" y="144" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="1.6983696864145554s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="112" y="144" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="1.4331081803401964s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="136" y="144" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="1.8287334492648855s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="160" y="144" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="1.2644006324521366s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="184" y="144" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="1.371009352018696s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="208" y="144" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="1.2889540514974358s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="232" y="144" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="1.904896658420481s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="256" y="144" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="1.6778805563961636s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="280" y="144" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="2.0497335678838775s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="304" y="144" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="1.4271746783676744s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="328" y="144" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="2.0001410562354547s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="352" y="144" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="1.2853664600517822s"
+        repeatCount="indefinite"/>
+    </rect>
+    <rect x="376" y="144" width="18" height="18" rx="4"
+      fill="#020617">
+      <animate attributeName="opacity"
+        values="0.6;1;0.6"
+        dur="2.03595372140654s"
+        repeatCount="indefinite"/>
+    </rect>
+
+<!-- CI/CD -->
+<rect x="470" y="90" width="400" height="100" class="panel"/>
+<text x="490" y="120" class="label">CI/CD Throughput</text>
+<polyline points="490,151.73684210526315 504,142.89473684210526 518,157.6315789473684 532,151.73684210526315 546,145.8421052631579 560,156.1578947368421 574,144.3684210526316 588,144.3684210526316 602,142.89473684210526 616,157.6315789473684 630,148.78947368421052 644,144.3684210526316 658,142.89473684210526 672,157.6315789473684 686,156.1578947368421 700,154.68421052631578 714,148.78947368421052 728,151.73684210526315 742,142.89473684210526 756,137.0" fill="none" stroke="#38bdf8" stroke-width="2"/>
+
+<!-- PR Velocity -->
+<rect x="470" y="205" width="400" height="100" class="panel"/>
+<text x="490" y="235" class="label">PR Velocity</text>
+<polyline points="490,260.4 504,266.0 518,263.2 532,252.0 546,257.6 560,277.2 574,271.6 588,266.0 602,266.0 616,274.4 630,271.6 644,271.6 658,268.8 672,252.0 686,277.2 700,268.8 714,271.6 728,263.2 742,277.2 756,260.4" fill="none" stroke="#22c55e" stroke-width="2"/>
+<text x="760" y="255" class="value">0 PRs</text>
+
+<!-- DORA -->
+<rect x="30" y="330" width="410" height="180" class="panel"/>
+<text x="50" y="360" class="label">DORA Metrics</text>
+<text x="50" y="390" class="value">Deploy Frequency: 20/week</text>
+<text x="50" y="415" class="value">Lead Time: 41 min</text>
+<text x="50" y="440" class="value">MTTR: 18 min</text>
+<text x="50" y="465" class="value">Change Failure: 7%</text>
+
+<!-- Kubernetes -->
+<rect x="470" y="330" width="400" height="180" class="panel"/>
+<text x="490" y="360" class="label">Kubernetes Cluster</text>
+
+<circle cx="670" cy="410" r="20" fill="#38bdf8"/>
+<circle cx="610" cy="455" r="14" fill="#22c55e"/>
+<circle cx="670" cy="455" r="14" fill="#22c55e"/>
+<circle cx="730" cy="455" r="14" fill="#22c55e"/>
+
+<line x1="670" y1="430" x2="610" y2="440" stroke="#64748b"/>
+<line x1="670" y1="430" x2="670" y2="440" stroke="#64748b"/>
+<line x1="670" y1="430" x2="730" y2="440" stroke="#64748b"/>
+
+<!-- Footer -->
+<text x="40" y="535" class="label">
+  Streak 🔥 42 days • Commits 22 • Issues 0
+  • Stars 0 • Forks 0
+</text>
+
+</svg>
