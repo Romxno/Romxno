@@ -10,12 +10,12 @@
 
 ## 🧑‍💻 About Me
 
-👋 Hey! I'm **Shubham**, born in Bhopal, Madhya Pradesh 🇮🇳 
+👋 Hey! I'm **Shubham Pauranik**, born in Bhopal, Madhya Pradesh 🇮🇳 
 
--☁️ DevOps Engineer | Cloud Explorer | Automation & Reliability Enthusiast
+⌣ ☁️ DevOps Engineer | Cloud Explorer | Automation & Reliability Enthusiast
 
--🔧 Working at **Techshed Technologies** as a DevOps Engineer  
--📈 Continuously learning and growing in Cloud, DevOps, and AI technologies  
+⌣ 🔧 Working at **Techshed Technologies** as a DevOps Engineer  
+⌣ 📈 Continuously learning and growing in Cloud, DevOps, and AI technologies  
 
 
 ## ⚡ Tech Stack
