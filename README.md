@@ -41,50 +41,34 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40"/> 
 </p>
 
-## 📊 GitHub Analytics
+## 🔥 My GitHub Streak
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=romxno&theme=dark&hide_border=false" alt="GitHub Streak"/>
+</p>
 
-<a href="https://github.com/Romxno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romxno&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&ring_color=00D4FF&border_radius=10"/>
-</a>
-<a href="https://github.com/Romxno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romxno&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=10&langs_count=8"/>
-</a>
 
-</div>
+## 🚀 Connect & Collaborate
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-pauranik-95b5a2102" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   
-<a href="https://github.com/Romxno">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Romxno&theme=highcontrast&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideNums=00D4FF&border_radius=10" alt="GitHub Streak"/>
-</a>
+  <a href="https://www.kaggle.com/stazek" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  
+  <a href="https://medium.com/@shubhampauranik" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=romxno&label=Visitors&color=0e75b6&style=for-the-badge" />
+</p>
 
-<div align="center">
-
-<a href="https://github.com/Romxno">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Romxno&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true&border_radius=10&title_color=00D4FF&area_color=00D4FF" alt="Activity Graph"/>
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shubham-pauranik-95b5a2102)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Data%20Science-20BEFF?logo=kaggle&style=for-the-badge)](https://www.kaggle.com/stazek)
-[![Email](https://img.shields.io/badge/Contact-Email-D14836?logo=gmail&style=for-the-badge)](mailto:miralemp91@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-100000?logo=vercel&style=for-the-badge)](https://shubham-pauranik-devops-i66k3jg.gamma.site/)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
