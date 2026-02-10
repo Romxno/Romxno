@@ -51,6 +51,7 @@
 
 ## 🚀 Connect & Collaborate
 <p align="center">
+  
   <a href="https://www.linkedin.com/in/shubham-pauranik-95b5a2102" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -60,6 +61,10 @@
   <a href="https://medium.com/@shubhampauranik" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
+  <a href="https://discordapp.com/users/travis2519" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
 </p>
 
 
