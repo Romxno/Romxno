@@ -1,4 +1,5 @@
-# 🚀 My Tech News Dashboard
+## 📰 Latest Tech News
+---
 
 
 
