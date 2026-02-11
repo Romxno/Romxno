@@ -1,12 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0096FF,100:0061FF&height=200&section=header&text=Shubham%20Pauranik&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=DevOps+Engineer;Cloud+Architect;AI+Infrastructure+Specialist;Kubernetes+Expert;AWS+Solutions+Builder;CI%2FCD+Pipeline+Master;Infrastructure+as+Code+Advocate)](https://git.io/typing-svg)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# 🚀 My Tech News Dashboard
 
 ## 🧑‍💻 About Me
 
