@@ -1,5 +1,13 @@
 # 🚀 My Tech News Dashboard
 
+
+
+
+
+
+
+
+
 ## 🧑‍💻 About Me
 
 👋 Hey! I'm **Shubham Pauranik**, born in Bhopal, Madhya Pradesh 🇮🇳 
