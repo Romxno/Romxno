@@ -5,16 +5,15 @@ def update_readme(news_content):
     start_marker = ""
     end_marker = ""
     
-    # This check prevents the "ValueError" you saw
     if start_marker not in readme or end_marker not in readme:
-        print("Error: Markers not found in README.md! Please add them.")
+        print("❌ Error: Markers not found! Make sure you added them to README.md")
         return
 
-    # Splitting logic
-    parts = readme.split(start_marker)
-    header = parts[0]
-    footer = parts[1].split(end_marker)[1]
+    # Split the file safely
+    header = readme.split(start_marker)[0]
+    footer = readme.split(end_marker)[1]
     
+    # Reassemble with the new news in the middle
     new_readme = f"{header}{start_marker}\n{news_content}\n{end_marker}{footer}"
     
     with open("README.md", "w") as f:
