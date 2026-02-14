@@ -19,3 +19,11 @@ def update_readme(news_content):
     
     with open("README.md", "w") as f:
         f.write(new_readme)
+
+if __name__ == "__main__":
+    latest_news = get_tech_news()
+    print(f"DEBUG: News fetched: {latest_news[:100]}...") # This shows in your logs
+    if len(latest_news.strip()) > 30: # Only update if we actually got news
+        update_readme(latest_news)
+    else:
+        print("⚠️ No news found to update.")
