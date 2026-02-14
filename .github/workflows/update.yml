@@ -26,8 +26,3 @@ jobs:
           git add README.md
           git commit -m "Update news feed" || exit 0
           git push
-
-          - name: Run news script
-        env:
-          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
-        run: python -u fetch_news.py # Added -u to see prints in real-time
