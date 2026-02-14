@@ -2,6 +2,7 @@ def update_readme(news_content):
     with open("README.md", "r") as f:
         readme = f.read()
 
+    # ADD THE TEXT INSIDE THESE QUOTES
     start_marker = ""
     end_marker = ""
     
