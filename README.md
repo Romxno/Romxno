@@ -1,10 +1,4 @@
 ## 📰 Latest Tech News
----
-
-
-
-
-
 
 
 
