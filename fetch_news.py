@@ -1,29 +1,32 @@
-import requests, re
+name: Update Tech News
 
-url = "https://newsapi.org/v2/everything"
-params = {
-    "q": "DevOps OR Cloud OR AI",
-    "language": "en",
-    "sortBy": "publishedAt",
-    "pageSize": 5,
-    "apiKey": "YOUR_API_KEY"
-}
-r = requests.get(url, params=params)
-articles = r.json().get("articles", [])
+on:
+  schedule:
+    - cron: "0 6 * * *"   # Runs daily at 6 AM UTC
+  workflow_dispatch:       # Allow manual trigger
 
-news_md = ""
-for a in articles:
-    news_md += f"- [{a['title']}]({a['url']})\n"
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-with open("README.md", "r") as f:
-    content = f.read()
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
 
-new_content = re.sub(
-    r"<!-- NEWS_SECTION_START -->(.*?)<!-- NEWS_SECTION_END -->",
-    f"<!-- NEWS_SECTION_START -->\n{news_md}<!-- NEWS_SECTION_END -->",
-    content,
-    flags=re.DOTALL
-)
+      - name: Install dependencies
+        run: pip install requests feedparser
 
-with open("README.md", "w") as f:
-    f.write(new_content)
+      - name: Fetch latest news
+        run: python update_news.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update tech news"
+          git push
