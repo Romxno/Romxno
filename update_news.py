@@ -1,40 +1,21 @@
-import requests, re, os
-from datetime import datetime
+import requests, re
 
-API_KEY = os.getenv("NEWS_API_KEY")
-
-categories = {
-    "🔧 DevOps": "DevOps",
-    "☁️ Cloud": "Cloud",
-    "🤖 AI": "Artificial Intelligence OR AI"
+url = "https://newsapi.org/v2/everything"
+params = {
+    "q": "DevOps OR Cloud OR AI",
+    "language": "en",
+    "sortBy": "publishedAt",
+    "pageSize": 5,
+    "apiKey": "YOUR_API_KEY"
 }
+r = requests.get(url, params=params)
+articles = r.json().get("articles", [])
 
-news_md = f"**Last Updated:** {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}\n\n"
+news_md = ""
+for a in articles:
+    news_md += f"- [{a['title']}]({a['url']})\n"
 
-for category, query in categories.items():
-    url = "https://newsapi.org/v2/everything"
-    params = {
-        "q": query,
-        "language": "en",
-        "sortBy": "publishedAt",
-        "pageSize": 3,
-        "apiKey": API_KEY
-    }
-    r = requests.get(url, params=params)
-    data = r.json()
-    articles = data.get("articles", [])
-
-    news_md += f"### {category}\n"
-    if not articles:
-        news_md += "_No recent articles found._\n\n"
-    for a in articles:
-        title = a['title']
-        link = a['url']
-        desc = a.get('description', '')
-        date = a.get('publishedAt', '')[:10]
-        news_md += f"- [{title}]({link}) ({date})\n  > {desc}\n\n"
-
-with open("README.md", "r", encoding="utf-8") as f:
+with open("README.md", "r") as f:
     content = f.read()
 
 new_content = re.sub(
@@ -44,5 +25,5 @@ new_content = re.sub(
     flags=re.DOTALL
 )
 
-with open("README.md", "w", encoding="utf-8") as f:
+with open("README.md", "w") as f:
     f.write(new_content)
