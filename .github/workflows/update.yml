@@ -2,7 +2,7 @@ name: Update Tech News
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # Runs every day at 6 AM UTC
+    - cron: "0 6 * * *"   # Runs daily at 6 AM UTC
   workflow_dispatch:       # Allow manual trigger
 
 jobs:
@@ -18,43 +18,10 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests feedparser
 
       - name: Fetch latest news
-        run: |
-          python <<EOF
-          import requests, re
-
-          # Example using NewsAPI (replace with your API key)
-          url = "https://newsapi.org/v2/everything"
-          params = {
-              "q": "DevOps OR Cloud OR AI",
-              "language": "en",
-              "sortBy": "publishedAt",
-              "pageSize": 5,
-              "apiKey": "${{ secrets.NEWS_API_KEY }}"
-          }
-          r = requests.get(url, params=params)
-          articles = r.json().get("articles", [])
-
-          news_md = ""
-          for a in articles:
-              news_md += f"- [{a['title']}]({a['url']})\n"
-
-          # Update README.md
-          with open("README.md", "r") as f:
-              content = f.read()
-
-          new_content = re.sub(
-              r"<!-- NEWS_SECTION_START -->(.*?)<!-- NEWS_SECTION_END -->",
-              f"<!-- NEWS_SECTION_START -->\n{news_md}<!-- NEWS_SECTION_END -->",
-              content,
-              flags=re.DOTALL
-          )
-
-          with open("README.md", "w") as f:
-              f.write(new_content)
-          EOF
+        run: python update_news.py
 
       - name: Commit changes
         run: |
