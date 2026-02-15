@@ -1,25 +1,35 @@
-import requests, re, feedparser
+import requests, re
 from datetime import datetime
 
-# RSS feeds for each category
-rss_urls = {
-    "🔧 DevOps": "https://devops.com/feed/",
-    "☁️ Cloud": "https://cloudblogs.microsoft.com/feed/",
-    "🤖 AI": "https://ai.googleblog.com/feeds/posts/default"
+API_KEY = "YOUR_NEWS_API_KEY"  # store in GitHub Secrets
+categories = {
+    "🔧 DevOps": "DevOps",
+    "☁️ Cloud": "Cloud computing",
+    "🤖 AI": "Artificial Intelligence"
 }
 
 news_md = ""
-for category, url in rss_urls.items():
-    feed = feedparser.parse(url)
+for category, query in categories.items():
+    url = "https://newsapi.org/v2/everything"
+    params = {
+        "q": query,
+        "language": "en",
+        "sortBy": "publishedAt",
+        "pageSize": 3,
+        "apiKey": API_KEY
+    }
+    r = requests.get(url, params=params)
+    articles = r.json().get("articles", [])
+    
     news_md += f"### {category}\n"
-    for entry in feed.entries[:3]:  # latest 3 posts
-        title = entry.title
-        link = entry.link
-        summary = re.sub(r'\s+', ' ', entry.summary)[:200]  # short snippet
-        date = entry.get("published", "")[:16]  # trim date
-        news_md += f"- [{title}]({link}) ({date})\n  > {summary}...\n\n"
+    for a in articles:
+        title = a['title']
+        link = a['url']
+        desc = a.get('description', '')
+        date = a.get('publishedAt', '')[:10]
+        news_md += f"- [{title}]({link}) ({date})\n  > {desc}\n\n"
 
-# Update README.md
+# Insert into README
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
