@@ -1,7 +1,7 @@
-import requests, re
+import requests, re, os
 from datetime import datetime
 
-API_KEY = "YOUR_NEWS_API_KEY"  # store in GitHub Secrets
+API_KEY = os.getenv("NEWS_API_KEY")
 
 categories = {
     "🔧 DevOps": "DevOps",
@@ -21,8 +21,10 @@ for category, query in categories.items():
         "apiKey": API_KEY
     }
     r = requests.get(url, params=params)
-    articles = r.json().get("articles", [])
+    data = r.json()
+    print(f"{category} response:", data)  # Debug
     
+    articles = data.get("articles", [])
     news_md += f"### {category}\n"
     for a in articles:
         title = a['title']
@@ -31,7 +33,6 @@ for category, query in categories.items():
         date = a.get('publishedAt', '')[:10]
         news_md += f"- [{title}]({link}) ({date})\n  > {desc}\n\n"
 
-# Insert into README
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
