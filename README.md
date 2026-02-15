@@ -53,18 +53,16 @@
 
 ## 🚀 Connect & Collaborate
 
-# Connect with Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/shubham-pauranik-95b5a2102" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/yourprofile" target="_blank">
+  <a href="https://www.kaggle.com/stazek" target="_blank">
     <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@yourprofile" target="_blank">
+  <a href="https://medium.com/@shubhampauranik" target="_blank">
     <img src="https://img.shields.io/badge/MEDIUM-black?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
