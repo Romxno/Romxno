@@ -4,6 +4,9 @@
 
 ## 📌 Latest News on DevOps, Cloud & AI
 <!-- NEWS_SECTION_START -->
+### 🔧 DevOps
+### ☁️ Cloud
+### 🤖 AI
 <!-- NEWS_SECTION_END -->
 
 
