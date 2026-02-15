@@ -1,5 +1,10 @@
+name: Test Tech News Script
+
+on:
+  workflow_dispatch:   # Run manually from GitHub Actions tab
+
 jobs:
-  update-news:
+  test-news:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -15,11 +20,3 @@ jobs:
 
       - name: Fetch latest news
         run: python update_news.py
-
-      - name: Commit changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Update tech news"
-          git push
