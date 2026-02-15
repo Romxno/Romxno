@@ -1,7 +1,6 @@
 ## 📰 Latest Tech News
----
-
-
+<!-- NEWS_SECTION_START -->
+<!-- NEWS_SECTION_END -->
 
 
 ## 🧑‍💻 About Me
