@@ -1,13 +1,12 @@
 ## 📰 Latest Tech News
+
 ![Updated Daily](https://img.shields.io/badge/News-Updated%20Daily-blue?style=flat-square)
 ![Powered by GitHub Actions](https://img.shields.io/badge/Automation-GitHub%20Actions-green?style=flat-square)
 
 ## 📌 Latest News on DevOps, Cloud & AI
 <!-- NEWS_SECTION_START -->
-### 🔧 DevOps
-### ☁️ Cloud
-### 🤖 AI
 <!-- NEWS_SECTION_END -->
+
 
 
 ## 🧑‍💻 About Me
