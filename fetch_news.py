@@ -1,38 +1,29 @@
-import requests
-import os
+import requests, re
 
-def get_tech_news():
-    api_key = os.getenv("NEWS_API_KEY")
-    url = f"https://newsapi.org/v2/everything?q=DevOps+OR+Cloud+OR+AI&sortBy=publishedAt&pageSize=5&apiKey={api_key}&language=en"
-    
-    response = requests.get(url).json()
-    articles = response.get('articles', [])
-    
-    content = "### 📰 Latest News (Updated Daily)\n\n"
-    for art in articles:
-        content += f"- **[{art['title']}]({art['url']})** \n  *{art['source']['name']} - {art['publishedAt'][:10]}*\n\n"
-    return content
+url = "https://newsapi.org/v2/everything"
+params = {
+    "q": "DevOps OR Cloud OR AI",
+    "language": "en",
+    "sortBy": "publishedAt",
+    "pageSize": 5,
+    "apiKey": "YOUR_API_KEY"
+}
+r = requests.get(url, params=params)
+articles = r.json().get("articles", [])
 
-def update_readme(news_content):
-    with open("README.md", "r") as f:
-        readme = f.read()
+news_md = ""
+for a in articles:
+    news_md += f"- [{a['title']}]({a['url']})\n"
 
-    # DO NOT LEAVE THESE EMPTY
-    start_marker = ""
-    end_marker = ""
-    
-    if start_marker not in readme or end_marker not in readme:
-        print("❌ Error: Markers not found! Make sure you added them to README.md")
-        return
+with open("README.md", "r") as f:
+    content = f.read()
 
-    header = readme.split(start_marker)[0]
-    footer = readme.split(end_marker)[1]
-    
-    new_readme = f"{header}{start_marker}\n{news_content}\n{end_marker}{footer}"
-    
-    with open("README.md", "w") as f:
-        f.write(new_readme)
+new_content = re.sub(
+    r"<!-- NEWS_SECTION_START -->(.*?)<!-- NEWS_SECTION_END -->",
+    f"<!-- NEWS_SECTION_START -->\n{news_md}<!-- NEWS_SECTION_END -->",
+    content,
+    flags=re.DOTALL
+)
 
-if __name__ == "__main__":
-    news = get_tech_news()
-    update_readme(news)
+with open("README.md", "w") as f:
+    f.write(new_content)
