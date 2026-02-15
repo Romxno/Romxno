@@ -7,7 +7,6 @@
 <!-- NEWS_SECTION_END -->
 
 
-
 ## 🧑‍💻 About Me
 
 👋 Hey! I'm **Shubham Pauranik**, born in Bhopal, Madhya Pradesh 🇮🇳 
