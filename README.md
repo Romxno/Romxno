@@ -1,5 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
+- [Old/New Testament Reading for Saturday February 14, 2026 (KJV)](https://www.biblegateway.com/reading-plans/old-new-testament/2026/02/14/)
+- [600% Memory Price Surge Threatens Telcos' Broadband Router, Set-Top Box Supply](https://tech.slashdot.org/story/26/02/13/1921232/600-memory-price-surge-threatens-telcos-broadband-router-set-top-box-supply)
+- [Chronological Reading for Saturday February 14, 2026 (NIV)](https://www.biblegateway.com/reading-plans/chronological/2026/02/14/)
+- [AI tool Claude helped capture Venezuelan dictator Maduro in US military raid operation: report](https://www.foxnews.com/us/ai-tool-claude-helped-capture-venezuelan-dictator-maduro-us-military-raid-operation-report)
+- [pptx-mcp 0.7.0](https://pypi.org/project/pptx-mcp/0.7.0/)
 <!-- NEWS_SECTION_END -->
 
 
