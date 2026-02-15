@@ -1,10 +1,12 @@
-name: Test Tech News Script
+name: Update Tech News
 
 on:
-  workflow_dispatch:   # Run manually from GitHub Actions tab
+  schedule:
+    - cron: "0 6 * * *"   # Runs every day at 6 AM UTC
+  workflow_dispatch:       # Allow manual trigger
 
 jobs:
-  test-news:
+  update-news:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -19,4 +21,45 @@ jobs:
         run: pip install requests
 
       - name: Fetch latest news
-        run: python update_news.py
+        run: |
+          python <<EOF
+          import requests, re
+
+          # Example using NewsAPI (replace with your API key)
+          url = "https://newsapi.org/v2/everything"
+          params = {
+              "q": "DevOps OR Cloud OR AI",
+              "language": "en",
+              "sortBy": "publishedAt",
+              "pageSize": 5,
+              "apiKey": "${{ secrets.NEWS_API_KEY }}"
+          }
+          r = requests.get(url, params=params)
+          articles = r.json().get("articles", [])
+
+          news_md = ""
+          for a in articles:
+              news_md += f"- [{a['title']}]({a['url']})\n"
+
+          # Update README.md
+          with open("README.md", "r") as f:
+              content = f.read()
+
+          new_content = re.sub(
+              r"<!-- NEWS_SECTION_START -->(.*?)<!-- NEWS_SECTION_END -->",
+              f"<!-- NEWS_SECTION_START -->\n{news_md}<!-- NEWS_SECTION_END -->",
+              content,
+              flags=re.DOTALL
+          )
+
+          with open("README.md", "w") as f:
+              f.write(new_content)
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update tech news"
+          git push
