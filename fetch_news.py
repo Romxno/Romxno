@@ -1,32 +1,34 @@
-name: Update Tech News
+import requests, re, feedparser
+from datetime import datetime
 
-on:
-  schedule:
-    - cron: "0 6 * * *"   # Runs daily at 6 AM UTC
-  workflow_dispatch:       # Allow manual trigger
+# RSS feeds for each category
+rss_urls = {
+    "🔧 DevOps": "https://devops.com/feed/",
+    "☁️ Cloud": "https://cloudblogs.microsoft.com/feed/",
+    "🤖 AI": "https://ai.googleblog.com/feeds/posts/default"
+}
 
-jobs:
-  update-news:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+news_md = ""
+for category, url in rss_urls.items():
+    feed = feedparser.parse(url)
+    news_md += f"### {category}\n"
+    for entry in feed.entries[:3]:  # latest 3 posts
+        title = entry.title
+        link = entry.link
+        summary = re.sub(r'\s+', ' ', entry.summary)[:200]  # short snippet
+        date = entry.get("published", "")[:16]  # trim date
+        news_md += f"- [{title}]({link}) ({date})\n  > {summary}...\n\n"
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.x"
+# Update README.md
+with open("README.md", "r", encoding="utf-8") as f:
+    content = f.read()
 
-      - name: Install dependencies
-        run: pip install requests feedparser
+new_content = re.sub(
+    r"<!-- NEWS_SECTION_START -->(.*?)<!-- NEWS_SECTION_END -->",
+    f"<!-- NEWS_SECTION_START -->\n{news_md}<!-- NEWS_SECTION_END -->",
+    content,
+    flags=re.DOTALL
+)
 
-      - name: Fetch latest news
-        run: python update_news.py
-
-      - name: Commit changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Update tech news"
-          git push
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(new_content)
