@@ -52,15 +52,24 @@
 </p>
 
 ## 🚀 Connect & Collaborate
+
 <p align="center">
-  
-  <a href="https://www.linkedin.com/in/shubham-pauranik-95b5a2102" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/stazek" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://medium.com/@shubhampauranik" target="_blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/MEDIUM-black?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/yourserver" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   <a href="https://discordapp.com/users/travis2519" target="_blank">
