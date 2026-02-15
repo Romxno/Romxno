@@ -1,11 +1,11 @@
 ## 📰 Latest Tech News
+![Updated Daily](https://img.shields.io/badge/News-Updated%20Daily-blue?style=flat-square)
+![Powered by GitHub Actions](https://img.shields.io/badge/Automation-GitHub%20Actions-green?style=flat-square)
+
+## 📌 Latest News on DevOps, Cloud & AI
 <!-- NEWS_SECTION_START -->
-- [What does rotten crab smell like?](https://www.lifesciencesworld.com/what-does-rotten-crab-smell-like/)
-- [Klay Thompson reacts to Megan Thee Stallion's birthday surprise](https://www.sportingnews.com/us/culture/relationships/news/klay-thompson-reacts-megan-thee-stallions-birthday-surprise/5228177c138f8a7d4448a667)
-- [assay-ai 1.4.2](https://pypi.org/project/assay-ai/1.4.2/)
-- [iflow-mcp_analyticace-binance-mcp-server 1.2.7](https://pypi.org/project/iflow-mcp-analyticace-binance-mcp-server/1.2.7/)
-- [iflow-mcp_analyticace-binance-mcp-server added to PyPI](https://pypi.org/project/iflow-mcp-analyticace-binance-mcp-server/)
 <!-- NEWS_SECTION_END -->
+
 
 
 ## 🧑‍💻 About Me
