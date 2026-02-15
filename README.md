@@ -53,6 +53,8 @@
 
 ## 🚀 Connect & Collaborate
 
+# Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -65,17 +67,6 @@
   <a href="https://medium.com/@yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/MEDIUM-black?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/yourserver" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://discordapp.com/users/travis2519" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
 </p>
 
 
