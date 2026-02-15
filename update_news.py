@@ -11,7 +11,6 @@ categories = {
 
 news_md = f"**Last Updated:** {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}\n\n"
 
-# 🔹 Loop through categories
 for category, query in categories.items():
     url = "https://newsapi.org/v2/everything"
     params = {
@@ -22,14 +21,12 @@ for category, query in categories.items():
         "apiKey": API_KEY
     }
     r = requests.get(url, params=params)
-
-    # 🔹 Add debug prints here
-    print("Query:", query)
-    print("Response:", r.json())
-
     data = r.json()
     articles = data.get("articles", [])
+
     news_md += f"### {category}\n"
+    if not articles:
+        news_md += "_No recent articles found._\n\n"
     for a in articles:
         title = a['title']
         link = a['url']
@@ -37,7 +34,6 @@ for category, query in categories.items():
         date = a.get('publishedAt', '')[:10]
         news_md += f"- [{title}]({link}) ({date})\n  > {desc}\n\n"
 
-# 🔹 Update README
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
