@@ -3,7 +3,7 @@ name: Update Tech News
 on:
   schedule:
     - cron: "0 6 * * *"   # Runs daily at 6 AM UTC
-  workflow_dispatch:       # Allow manual trigger
+  workflow_dispatch:
 
 jobs:
   update-news:
@@ -18,7 +18,7 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: pip install requests feedparser
+        run: pip install requests
 
       - name: Fetch latest news
         run: python update_news.py
