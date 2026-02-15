@@ -2,13 +2,15 @@ import requests, re
 from datetime import datetime
 
 API_KEY = "YOUR_NEWS_API_KEY"  # store in GitHub Secrets
+
 categories = {
     "🔧 DevOps": "DevOps",
     "☁️ Cloud": "Cloud computing",
     "🤖 AI": "Artificial Intelligence"
 }
 
-news_md = ""
+news_md = f"**Last Updated:** {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}\n\n"
+
 for category, query in categories.items():
     url = "https://newsapi.org/v2/everything"
     params = {
