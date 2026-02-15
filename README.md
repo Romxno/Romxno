@@ -1,5 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
+- [CBSE DRQ answer key 2026 objection window closes today for Group A, B, C posts: Direct link to raise challenges here](https://timesofindia.indiatimes.com/education/news/cbse-drq-answer-key-2026-objection-window-closes-today-for-group-a-b-c-posts-direct-link-to-raise-challenges-here/articleshow/128338247.cms)
+- [safe-agent-cli 0.4.0](https://pypi.org/project/safe-agent-cli/0.4.0/)
+- [Shilpa Shetty recreates iconic 'Titanic' pose with Raj Kundra on Valentine’s Day](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shilpa-shetty-recreates-iconic-titanic-pose-with-raj-kundra-on-valentines-day/articleshow/128338888.cms)
+- [ai-edge-litert-nightly 2.2.0.dev20260214](https://pypi.org/project/ai-edge-litert-nightly/2.2.0.dev20260214/)
+- [blurt 0.2.8](https://pypi.org/project/blurt/0.2.8/)
 <!-- NEWS_SECTION_END -->
 
 
