@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [CBSE DRQ answer key 2026 objection window closes today for Group A, B, C posts: Direct link to raise challenges here](https://timesofindia.indiatimes.com/education/news/cbse-drq-answer-key-2026-objection-window-closes-today-for-group-a-b-c-posts-direct-link-to-raise-challenges-here/articleshow/128338247.cms)
-- [safe-agent-cli 0.4.0](https://pypi.org/project/safe-agent-cli/0.4.0/)
-- [Shilpa Shetty recreates iconic 'Titanic' pose with Raj Kundra on Valentine’s Day](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shilpa-shetty-recreates-iconic-titanic-pose-with-raj-kundra-on-valentines-day/articleshow/128338888.cms)
-- [ai-edge-litert-nightly 2.2.0.dev20260214](https://pypi.org/project/ai-edge-litert-nightly/2.2.0.dev20260214/)
-- [blurt 0.2.8](https://pypi.org/project/blurt/0.2.8/)
+- [Globe named PH’s Most Consistent 5G and Broadband Provider by Ookla (2H 2025)](https://www.yugatech.com/news/globe-named-phs-most-consistent-5g-and-broadband-provider-by-ookla-2h-2025/)
+- [PraisonAI 4.5.6](https://pypi.org/project/praisonai/4.5.6/)
+- [pptx-mcp 0.9.0](https://pypi.org/project/pptx-mcp/0.9.0/)
+- [Ex-Tech –> Homeless in SF](https://zamoshi.substack.com/p/ninety-four-degrees)
+- [engram-cli added to PyPI](https://pypi.org/project/engram-cli/)
 <!-- NEWS_SECTION_END -->
 
 
