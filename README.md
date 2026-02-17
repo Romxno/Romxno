@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Globe named PH’s Most Consistent 5G and Broadband Provider by Ookla (2H 2025)](https://www.yugatech.com/news/globe-named-phs-most-consistent-5g-and-broadband-provider-by-ookla-2h-2025/)
-- [PraisonAI 4.5.6](https://pypi.org/project/praisonai/4.5.6/)
-- [pptx-mcp 0.9.0](https://pypi.org/project/pptx-mcp/0.9.0/)
-- [Ex-Tech –> Homeless in SF](https://zamoshi.substack.com/p/ninety-four-degrees)
-- [engram-cli added to PyPI](https://pypi.org/project/engram-cli/)
+- [UK’s Starmer announces crackdown on AI chatbots in child safety push](https://www.aljazeera.com/news/2026/2/16/uks-starmer-announces-crackdown-on-ai-chatbots-in-child-safety-push)
+- [mindroom 2026.2.92](https://pypi.org/project/mindroom/2026.2.92/)
+- [ROAS Digital Expands White-Label Performance Marketing Capabilities; Invests in AI Systems and Talent Growth](https://www.thehindubusinessline.com/brandhub/pr-release/roas-digital-expands-white-label-performance-marketing-capabilities-invests-in-ai-systems-and-talent-growth/article70637512.ece)
+- [What are the 9 symbols of the Holy Spirit?](https://www.lifesciencesworld.com/what-are-the-9-symbols-of-the-holy-spirit/)
+- [Global visitors to AI Impact Summit get to use UPI via wallet](https://timesofindia.indiatimes.com/business/india-business/global-visitors-to-ai-impact-summit-get-to-use-upi-via-wallet/articleshow/128410721.cms)
 <!-- NEWS_SECTION_END -->
 
 
