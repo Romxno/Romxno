@@ -1,10 +1,9 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [UK’s Starmer announces crackdown on AI chatbots in child safety push](https://www.aljazeera.com/news/2026/2/16/uks-starmer-announces-crackdown-on-ai-chatbots-in-child-safety-push)
-- [mindroom 2026.2.92](https://pypi.org/project/mindroom/2026.2.92/)
-- [ROAS Digital Expands White-Label Performance Marketing Capabilities; Invests in AI Systems and Talent Growth](https://www.thehindubusinessline.com/brandhub/pr-release/roas-digital-expands-white-label-performance-marketing-capabilities-invests-in-ai-systems-and-talent-growth/article70637512.ece)
-- [What are the 9 symbols of the Holy Spirit?](https://www.lifesciencesworld.com/what-are-the-9-symbols-of-the-holy-spirit/)
-- [Global visitors to AI Impact Summit get to use UPI via wallet](https://timesofindia.indiatimes.com/business/india-business/global-visitors-to-ai-impact-summit-get-to-use-upi-via-wallet/articleshow/128410721.cms)
+- [pytest-aitest 0.5.3](https://pypi.org/project/pytest-aitest/0.5.3/)
+- [India eyes $200B in data center investments as it ramps up its AI hub ambitions](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_527f23d5-f833-45da-841c-82fe922ad9b7)
+- [antaris-context 1.1.0](https://pypi.org/project/antaris-context/1.1.0/)
+- [nkipy added to PyPI](https://pypi.org/project/nkipy/)
 <!-- NEWS_SECTION_END -->
 
 
