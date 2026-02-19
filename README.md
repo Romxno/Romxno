@@ -1,9 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [pytest-aitest 0.5.3](https://pypi.org/project/pytest-aitest/0.5.3/)
-- [India eyes $200B in data center investments as it ramps up its AI hub ambitions](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_527f23d5-f833-45da-841c-82fe922ad9b7)
-- [antaris-context 1.1.0](https://pypi.org/project/antaris-context/1.1.0/)
-- [nkipy added to PyPI](https://pypi.org/project/nkipy/)
+- [Poland bars Chinese-made cars from military sites over data security fears](https://www.internazionale.it/ultime-notizie-reuters/2026/02/18/poland-bars-chinese-made-cars-from-military-sites-over-data-security-fears)
+- [SoftBank and AMD Validate GPU Partitioning for AI Workloads Using Instinct GPUs](https://www.madshrimps.be/news/softbank-and-amd-validate-gpu-partitioning-for-ai-workloads-using-instinct-gpus/)
+- [attune-ai 2.10.2](https://pypi.org/project/attune-ai/2.10.2/)
+- [Qualcomm commits up to $150 mn for Strategic AI Venture Fund in India](https://www.thehindubusinessline.com/info-tech/qualcomm-commits-up-to-150-mn-for-strategic-ai-venture-fund-in-india/article70646296.ece)
+- [open-science-assistant 0.6.7](https://pypi.org/project/open-science-assistant/0.6.7/)
 <!-- NEWS_SECTION_END -->
 
 
