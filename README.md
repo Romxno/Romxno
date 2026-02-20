@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Poland bars Chinese-made cars from military sites over data security fears](https://www.internazionale.it/ultime-notizie-reuters/2026/02/18/poland-bars-chinese-made-cars-from-military-sites-over-data-security-fears)
-- [SoftBank and AMD Validate GPU Partitioning for AI Workloads Using Instinct GPUs](https://www.madshrimps.be/news/softbank-and-amd-validate-gpu-partitioning-for-ai-workloads-using-instinct-gpus/)
-- [attune-ai 2.10.2](https://pypi.org/project/attune-ai/2.10.2/)
-- [Qualcomm commits up to $150 mn for Strategic AI Venture Fund in India](https://www.thehindubusinessline.com/info-tech/qualcomm-commits-up-to-150-mn-for-strategic-ai-venture-fund-in-india/article70646296.ece)
-- [open-science-assistant 0.6.7](https://pypi.org/project/open-science-assistant/0.6.7/)
+- [ABEJA、ＮＴＴ東日本と「フィジカルAI時代を見据えたロボット基盤モデルの評価・検証」に関する契約を締結](https://prtimes.jp/main/html/rd/p/000000208.000010628.html)
+- [Healthcare, education, deep research, all areas will flourish with AI: Bharti Chairman Sunil Mittal](https://economictimes.indiatimes.com/tech/technology/healthcare-education-deep-research-all-areas-will-flourish-with-ai-bharti-chairman-sunil-mittal/articleshow/128543517.cms)
+- [CII collaborates with MeitY for conference on democratising AI for economic growth, social good](https://www.thehindubusinessline.com/info-tech/cii-collaborates-with-meity-for-conference-on-democratising-ai-for-economic-growth-social-good/article70650340.ece)
+- [YouTube on the big screen quietly tests a smarter way to watch](https://www.androidpolice.com/youtube-on-the-big-screen-quietly-tests-a-smarter-way-to-watch/)
+- [Tata Group in process of adopting AI across stack; plans domain-centric AI chips](https://economictimes.indiatimes.com/tech/artificial-intelligence/tata-group-in-process-of-adopting-ai-across-stack-plans-domain-centric-ai-chips/articleshow/128543431.cms)
 <!-- NEWS_SECTION_END -->
 
 
