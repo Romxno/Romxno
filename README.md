@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [ABEJA、ＮＴＴ東日本と「フィジカルAI時代を見据えたロボット基盤モデルの評価・検証」に関する契約を締結](https://prtimes.jp/main/html/rd/p/000000208.000010628.html)
-- [Healthcare, education, deep research, all areas will flourish with AI: Bharti Chairman Sunil Mittal](https://economictimes.indiatimes.com/tech/technology/healthcare-education-deep-research-all-areas-will-flourish-with-ai-bharti-chairman-sunil-mittal/articleshow/128543517.cms)
-- [CII collaborates with MeitY for conference on democratising AI for economic growth, social good](https://www.thehindubusinessline.com/info-tech/cii-collaborates-with-meity-for-conference-on-democratising-ai-for-economic-growth-social-good/article70650340.ece)
-- [YouTube on the big screen quietly tests a smarter way to watch](https://www.androidpolice.com/youtube-on-the-big-screen-quietly-tests-a-smarter-way-to-watch/)
-- [Tata Group in process of adopting AI across stack; plans domain-centric AI chips](https://economictimes.indiatimes.com/tech/artificial-intelligence/tata-group-in-process-of-adopting-ai-across-stack-plans-domain-centric-ai-chips/articleshow/128543431.cms)
+- [nmaipy 4.2.1a1](https://pypi.org/project/nmaipy/4.2.1a1/)
+- [pulumi-null 0.1.0a1771568569](https://pypi.org/project/pulumi-null/0.1.0a1771568569/)
+- [bazinga-indeed 4.9.31](https://pypi.org/project/bazinga-indeed/4.9.31/)
+- [The Missing Link Between AI and Business Value](https://blog.jetbrains.com/ai/2026/02/the-missing-link-between-ai-and-business-value/)
+- [pulumi-ns1 3.9.0a1771568506](https://pypi.org/project/pulumi-ns1/3.9.0a1771568506/)
 <!-- NEWS_SECTION_END -->
 
 
