@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [nmaipy 4.2.1a1](https://pypi.org/project/nmaipy/4.2.1a1/)
-- [pulumi-null 0.1.0a1771568569](https://pypi.org/project/pulumi-null/0.1.0a1771568569/)
-- [bazinga-indeed 4.9.31](https://pypi.org/project/bazinga-indeed/4.9.31/)
-- [The Missing Link Between AI and Business Value](https://blog.jetbrains.com/ai/2026/02/the-missing-link-between-ai-and-business-value/)
-- [pulumi-ns1 3.9.0a1771568506](https://pypi.org/project/pulumi-ns1/3.9.0a1771568506/)
+- [cachibot 0.2.63.dev3](https://pypi.org/project/cachibot/0.2.63.dev3/)
+- [pinescript-mcp 0.5.1](https://pypi.org/project/pinescript-mcp/0.5.1/)
+- [verdictswarm-mcp 0.1.2](https://pypi.org/project/verdictswarm-mcp/0.1.2/)
+- [homai added to PyPI](https://pypi.org/project/homai/)
+- [homai 0.0.1](https://pypi.org/project/homai/0.0.1/)
 <!-- NEWS_SECTION_END -->
 
 
