@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [cachibot 0.2.63.dev3](https://pypi.org/project/cachibot/0.2.63.dev3/)
-- [pinescript-mcp 0.5.1](https://pypi.org/project/pinescript-mcp/0.5.1/)
-- [verdictswarm-mcp 0.1.2](https://pypi.org/project/verdictswarm-mcp/0.1.2/)
-- [homai added to PyPI](https://pypi.org/project/homai/)
-- [homai 0.0.1](https://pypi.org/project/homai/0.0.1/)
+- [PM Modi in Mann ki Baat: World leaders impressed by India’s AI gains](https://economictimes.indiatimes.com/news/india/pm-modi-says-world-leaders-impressed-by-indias-ai-gains-in-mann-ki-baat/articleshow/128668400.cms)
+- [Fasting and Self-purification](https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/fasting-and-self-purification/articleshow/128668545.cms)
+- [Show HN: Microterm runs Linux VM in any browser tab via WASM, RISCV64 emulation](https://microterm.dev/)
+- [Barclays Lowers its Price Target on Ralliant Corporation (RAL) to $52 and Maintains an Overweight Rating](https://finance.yahoo.com/news/barclays-lowers-price-target-ralliant-064536915.html)
+- [Show HN: Kickstart – Set up a Claude Code project in 3seconds from clipboard](https://github.com/m4suisui/kickstart)
 <!-- NEWS_SECTION_END -->
 
 
