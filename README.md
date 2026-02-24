@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [PM Modi in Mann ki Baat: World leaders impressed by India’s AI gains](https://economictimes.indiatimes.com/news/india/pm-modi-says-world-leaders-impressed-by-indias-ai-gains-in-mann-ki-baat/articleshow/128668400.cms)
-- [Fasting and Self-purification](https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/fasting-and-self-purification/articleshow/128668545.cms)
-- [Show HN: Microterm runs Linux VM in any browser tab via WASM, RISCV64 emulation](https://microterm.dev/)
-- [Barclays Lowers its Price Target on Ralliant Corporation (RAL) to $52 and Maintains an Overweight Rating](https://finance.yahoo.com/news/barclays-lowers-price-target-ralliant-064536915.html)
-- [Show HN: Kickstart – Set up a Claude Code project in 3seconds from clipboard](https://github.com/m4suisui/kickstart)
+- [Kioxia sells out 2026 NAND capacity as AI demand tightens global memory supply](https://www.digitimes.com/news/a20260223VL214/kioxia-nand-demand-2026.html)
+- [What Is Azure Key Vault and How to Use It in .NET Applications?](https://www.c-sharpcorner.com/article/what-is-azure-key-vault-and-how-to-use-it-in-net-applications/)
+- [With US tariff rates up in the air, the economic fog again thickens](https://www.thehindubusinessline.com/news/world/with-us-tariff-rates-up-in-the-air-the-economic-fog-again-thickens/article70665871.ece)
+- [androincli 0.1.7](https://pypi.org/project/androincli/0.1.7/)
+- [cord-engine 2.2.0](https://pypi.org/project/cord-engine/2.2.0/)
 <!-- NEWS_SECTION_END -->
 
 
