@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Kioxia sells out 2026 NAND capacity as AI demand tightens global memory supply](https://www.digitimes.com/news/a20260223VL214/kioxia-nand-demand-2026.html)
-- [What Is Azure Key Vault and How to Use It in .NET Applications?](https://www.c-sharpcorner.com/article/what-is-azure-key-vault-and-how-to-use-it-in-net-applications/)
-- [With US tariff rates up in the air, the economic fog again thickens](https://www.thehindubusinessline.com/news/world/with-us-tariff-rates-up-in-the-air-the-economic-fog-again-thickens/article70665871.ece)
-- [androincli 0.1.7](https://pypi.org/project/androincli/0.1.7/)
-- [cord-engine 2.2.0](https://pypi.org/project/cord-engine/2.2.0/)
+- [Türkiye emerges as AI powerhouse in its region](https://www.hurriyetdailynews.com/turkiye-emerges-as-ai-powerhouse-in-its-region-219259)
+- [three-stars 0.1.6](https://pypi.org/project/three-stars/0.1.6/)
+- [claw-memory 1.2.0](https://pypi.org/project/claw-memory/1.2.0/)
+- [selfmemory 0.8.2.post2](https://pypi.org/project/selfmemory/0.8.2.post2/)
+- [salmalm 0.19.85](https://pypi.org/project/salmalm/0.19.85/)
 <!-- NEWS_SECTION_END -->
 
 
