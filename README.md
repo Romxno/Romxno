@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Türkiye emerges as AI powerhouse in its region](https://www.hurriyetdailynews.com/turkiye-emerges-as-ai-powerhouse-in-its-region-219259)
-- [three-stars 0.1.6](https://pypi.org/project/three-stars/0.1.6/)
-- [claw-memory 1.2.0](https://pypi.org/project/claw-memory/1.2.0/)
-- [selfmemory 0.8.2.post2](https://pypi.org/project/selfmemory/0.8.2.post2/)
-- [salmalm 0.19.85](https://pypi.org/project/salmalm/0.19.85/)
+- [ChatGPT Has Multiple Personalities. Here's How to Choose the Best One for Your Questions](https://www.cnet.com/tech/services-and-software/top-ways-to-customize-your-chatgpt-settings-according-to-an-openai-expert/)
+- [Climb and 11:11 Systems adding global reach](https://www.computerweekly.com/microscope/news/366639441/Climb-and-1111-Systems-adding-global-reach)
+- [Yeonwoo Pulls A Flustered Kim Hyun Jin Into An Unexpected Situation In “Love Phobia”](http://www.soompi.com/article/1821391wpp/yeonwoo-pulls-a-flustered-kim-hyun-jin-into-an-unexpected-situation-in-love-phobia)
+- [CNBC's UK Exchange newsletter: With shares up 1,200%, Rolls-Royce’s CEO has lots to shout about](https://www.cnbc.com/2026/02/25/rolls-royce-fy-earnings-due-for-aerospace-giant.html)
+- [‘One of The Best’: Congress Reacts to Trump’s Agenda-Setting State of the Union](https://www.dailysignal.com/2026/02/25/one-of-the-best-congress-reacts-to-trumps-agenda-setting-state-of-the-union/)
 <!-- NEWS_SECTION_END -->
 
 
