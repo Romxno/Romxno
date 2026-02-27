@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [ChatGPT Has Multiple Personalities. Here's How to Choose the Best One for Your Questions](https://www.cnet.com/tech/services-and-software/top-ways-to-customize-your-chatgpt-settings-according-to-an-openai-expert/)
-- [Climb and 11:11 Systems adding global reach](https://www.computerweekly.com/microscope/news/366639441/Climb-and-1111-Systems-adding-global-reach)
-- [Yeonwoo Pulls A Flustered Kim Hyun Jin Into An Unexpected Situation In “Love Phobia”](http://www.soompi.com/article/1821391wpp/yeonwoo-pulls-a-flustered-kim-hyun-jin-into-an-unexpected-situation-in-love-phobia)
-- [CNBC's UK Exchange newsletter: With shares up 1,200%, Rolls-Royce’s CEO has lots to shout about](https://www.cnbc.com/2026/02/25/rolls-royce-fy-earnings-due-for-aerospace-giant.html)
-- [‘One of The Best’: Congress Reacts to Trump’s Agenda-Setting State of the Union](https://www.dailysignal.com/2026/02/25/one-of-the-best-congress-reacts-to-trumps-agenda-setting-state-of-the-union/)
+- [iflow-bot 0.1.5](https://pypi.org/project/iflow-bot/0.1.5/)
+- [xoneaiagents 1.0.3](https://pypi.org/project/xoneaiagents/1.0.3/)
+- [Schneider beats profit expectations on data center demand](https://www.channelnewsasia.com/business/schneider-beats-profit-expectations-data-center-demand-5954586)
+- [Schneider beats profit expectations as data center demand offsets weak dollar](https://www.channelnewsasia.com/business/schneider-beats-profit-expectations-data-center-demand-offsets-weak-dollar-5954586)
+- [pulumi-opsgenie 1.4.0a1772087398](https://pypi.org/project/pulumi-opsgenie/1.4.0a1772087398/)
 <!-- NEWS_SECTION_END -->
 
 
