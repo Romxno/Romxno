@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [iflow-bot 0.1.5](https://pypi.org/project/iflow-bot/0.1.5/)
-- [xoneaiagents 1.0.3](https://pypi.org/project/xoneaiagents/1.0.3/)
-- [Schneider beats profit expectations on data center demand](https://www.channelnewsasia.com/business/schneider-beats-profit-expectations-data-center-demand-5954586)
-- [Schneider beats profit expectations as data center demand offsets weak dollar](https://www.channelnewsasia.com/business/schneider-beats-profit-expectations-data-center-demand-offsets-weak-dollar-5954586)
-- [pulumi-opsgenie 1.4.0a1772087398](https://pypi.org/project/pulumi-opsgenie/1.4.0a1772087398/)
+- [gllm-pipeline-binary 0.4.35](https://pypi.org/project/gllm-pipeline-binary/0.4.35/)
+- [Let’s Dissect Anthropic’s Stand Against the Pentagon](https://www.annielytics.com/blog/ai/lets-dissect-anthropics-stand-against-pentagon/)
+- [Show HN: Leviathan, A world where AI agents write the laws and govern themselves](https://chenyu-li.info/leviathan)
+- [zipline-ai 1.0.16](https://pypi.org/project/zipline-ai/1.0.16/)
+- [Burger King: Artificial intelligence to check staff politeness, use of please, thank you; see how the AI chatbot works](https://www.livemint.com/companies/news/burger-king-artificial-intelligence-to-check-staff-politeness-use-of-please-thank-you-see-how-the-ai-chatbot-works-11772172752126.html)
 <!-- NEWS_SECTION_END -->
 
 
