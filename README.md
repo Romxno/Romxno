@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [gllm-pipeline-binary 0.4.35](https://pypi.org/project/gllm-pipeline-binary/0.4.35/)
-- [Let’s Dissect Anthropic’s Stand Against the Pentagon](https://www.annielytics.com/blog/ai/lets-dissect-anthropics-stand-against-pentagon/)
-- [Show HN: Leviathan, A world where AI agents write the laws and govern themselves](https://chenyu-li.info/leviathan)
-- [zipline-ai 1.0.16](https://pypi.org/project/zipline-ai/1.0.16/)
-- [Burger King: Artificial intelligence to check staff politeness, use of please, thank you; see how the AI chatbot works](https://www.livemint.com/companies/news/burger-king-artificial-intelligence-to-check-staff-politeness-use-of-please-thank-you-see-how-the-ai-chatbot-works-11772172752126.html)
+- [ixv 0.4.1](https://pypi.org/project/ixv/0.4.1/)
+- [ixv added to PyPI](https://pypi.org/project/ixv/)
+- [guardianshield 1.0.1](https://pypi.org/project/guardianshield/1.0.1/)
+- [guardianshield added to PyPI](https://pypi.org/project/guardianshield/)
+- [ChatGPT crosses 900 million weekly users, 50 million paying subscribers](https://economictimes.indiatimes.com/tech/artificial-intelligence/chatgpt-crosses-900-million-weekly-users-50-million-paying-subscribers/articleshow/128876297.cms)
 <!-- NEWS_SECTION_END -->
 
 
