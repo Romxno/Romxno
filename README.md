@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [ixv 0.4.1](https://pypi.org/project/ixv/0.4.1/)
-- [ixv added to PyPI](https://pypi.org/project/ixv/)
-- [guardianshield 1.0.1](https://pypi.org/project/guardianshield/1.0.1/)
-- [guardianshield added to PyPI](https://pypi.org/project/guardianshield/)
-- [ChatGPT crosses 900 million weekly users, 50 million paying subscribers](https://economictimes.indiatimes.com/tech/artificial-intelligence/chatgpt-crosses-900-million-weekly-users-50-million-paying-subscribers/articleshow/128876297.cms)
+- [geniable 2.12.1](https://pypi.org/project/geniable/2.12.1/)
+- [FPIs inflow hit 17-month high at Rs 22,615 cr in Feb](https://economictimes.indiatimes.com/markets/stocks/news/fpis-inflow-hit-17-month-high-at-rs-22615-cr-in-feb/articleshow/128908023.cms)
+- [The Chinese Computer: Competition or Cooperation?](https://languagelog.ldc.upenn.edu/nll/?p=72879)
+- [jsondb-cloud 1.0.5](https://pypi.org/project/jsondb-cloud/1.0.5/)
+- [kiss-agent-framework 0.1.46](https://pypi.org/project/kiss-agent-framework/0.1.46/)
 <!-- NEWS_SECTION_END -->
 
 
