@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [geniable 2.12.1](https://pypi.org/project/geniable/2.12.1/)
-- [FPIs inflow hit 17-month high at Rs 22,615 cr in Feb](https://economictimes.indiatimes.com/markets/stocks/news/fpis-inflow-hit-17-month-high-at-rs-22615-cr-in-feb/articleshow/128908023.cms)
-- [The Chinese Computer: Competition or Cooperation?](https://languagelog.ldc.upenn.edu/nll/?p=72879)
-- [jsondb-cloud 1.0.5](https://pypi.org/project/jsondb-cloud/1.0.5/)
-- [kiss-agent-framework 0.1.46](https://pypi.org/project/kiss-agent-framework/0.1.46/)
+- [Why Companies Are Moving from Docker to Kubernetes-Native Container Runtimes](https://www.c-sharpcorner.com/article/why-companies-are-moving-from-docker-to-kubernetes-native-container-runtimes/)
+- [SEBI deploys AI tool 'Sudarshan', removes 1.2 lakh misleading 'finfluencer' posts: Tuhin Kanta Pandey](https://economictimes.indiatimes.com/markets/stocks/news/sebi-deploys-ai-tool-sudarshan-removes-1-2-lakh-misleading-finfluencer-posts-tuhin-kanta-pandey/articleshow/128939153.cms)
+- [s3dlio 0.9.65](https://pypi.org/project/s3dlio/0.9.65/)
+- [x-ipe 1.0.80](https://pypi.org/project/x-ipe/1.0.80/)
+- [MoltMatch AI Dating: What it is and How AI agents swipe and message for you](https://www.c-sharpcorner.com/article/moltmatch-ai-dating-what-it-is-and-how-ai-agents-swipe-and-message-for-you/)
 <!-- NEWS_SECTION_END -->
 
 
