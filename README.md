@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [AI went from assistant to autonomous actor and security never caught up](https://www.helpnetsecurity.com/2026/03/03/enterprise-ai-agent-security-2026/)
-- [One-fifth of Irish SMEs not using AI as yet - Google](https://www.rte.ie/news/business/2026/0303/1561296-irish-sme-ai/)
-- [mcp-atlassian-with-bitbucket added to PyPI](https://pypi.org/project/mcp-atlassian-with-bitbucket/)
-- [mcp-atlassian-with-bitbucket 1.0.0](https://pypi.org/project/mcp-atlassian-with-bitbucket/1.0.0/)
-- [【業界初※】自宅屋根への太陽光パネル設計をチャットAIで簡単に試算。生成AI×画像解析×収支計算『AI Solar』をメディア様向けに限定公開予定](https://prtimes.jp/main/html/rd/p/000000004.000177007.html)
+- [agent-preflight added to PyPI](https://pypi.org/project/agent-preflight/)
+- [kiss-agent-framework 0.2.1](https://pypi.org/project/kiss-agent-framework/0.2.1/)
+- [mindroom 2026.3.35](https://pypi.org/project/mindroom/2026.3.35/)
+- [Infosys, TCS and other IT stocks rise up to 2% despite weak market mood. What’s driving the resilience?](https://economictimes.indiatimes.com/markets/stocks/news/infosys-tcs-and-other-it-stocks-rise-up-to-2-despite-weak-market-mood-whats-driving-the-resilience/articleshow/129010577.cms)
+- [The student who created AI-generated nude images of female students in the class, and the principal who intervened](https://english.gossiplankanews.com/2026/03/the-student-who-created-ai-generated.html)
 <!-- NEWS_SECTION_END -->
 
 
