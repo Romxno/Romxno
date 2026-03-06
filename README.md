@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [agent-preflight added to PyPI](https://pypi.org/project/agent-preflight/)
-- [kiss-agent-framework 0.2.1](https://pypi.org/project/kiss-agent-framework/0.2.1/)
-- [mindroom 2026.3.35](https://pypi.org/project/mindroom/2026.3.35/)
-- [Infosys, TCS and other IT stocks rise up to 2% despite weak market mood. What’s driving the resilience?](https://economictimes.indiatimes.com/markets/stocks/news/infosys-tcs-and-other-it-stocks-rise-up-to-2-despite-weak-market-mood-whats-driving-the-resilience/articleshow/129010577.cms)
-- [The student who created AI-generated nude images of female students in the class, and the principal who intervened](https://english.gossiplankanews.com/2026/03/the-student-who-created-ai-generated.html)
+- [pulumi-minio 1.0.0a1772691912](https://pypi.org/project/pulumi-minio/1.0.0a1772691912/)
+- [kimi-auth-bridge added to PyPI](https://pypi.org/project/kimi-auth-bridge/)
+- [Serverless Java in 2026: Finally Ready or Still Struggling?](https://www.javacodegeeks.com/2026/03/serverless-java-in-2026-finally-ready-or-still-struggling.html)
+- [These Phones See What You See and Talk to iPhones Without an App](https://the-gadgeteer.com/2026/03/05/these-phones-see-what-you-see-and-talk-to-iphones-without-an-app/)
+- [China’s parents are outsourcing the homework grind to AI](https://www.thestar.com.my/tech/tech-news/2026/03/05/chinas-parents-are-outsourcing-the-homework-grind-to-ai)
 <!-- NEWS_SECTION_END -->
 
 
