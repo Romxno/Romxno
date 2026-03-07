@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [pulumi-minio 1.0.0a1772691912](https://pypi.org/project/pulumi-minio/1.0.0a1772691912/)
-- [kimi-auth-bridge added to PyPI](https://pypi.org/project/kimi-auth-bridge/)
-- [Serverless Java in 2026: Finally Ready or Still Struggling?](https://www.javacodegeeks.com/2026/03/serverless-java-in-2026-finally-ready-or-still-struggling.html)
-- [These Phones See What You See and Talk to iPhones Without an App](https://the-gadgeteer.com/2026/03/05/these-phones-see-what-you-see-and-talk-to-iphones-without-an-app/)
-- [China’s parents are outsourcing the homework grind to AI](https://www.thestar.com.my/tech/tech-news/2026/03/05/chinas-parents-are-outsourcing-the-homework-grind-to-ai)
+- [Why have a fish as a class pet?](https://www.lifesciencesworld.com/why-have-a-fish-as-a-class-pet/)
+- [wisent 0.7.1650](https://pypi.org/project/wisent/0.7.1650/)
+- [Australia to force porn sites to block under-18s from Monday](https://japantoday.com/category/world/australia-forces-porn-sites-to-block-under-18s-from-monday)
+- [Show HN: Anchor Engine – Deterministic Semantic Memory for LLMs local (](https://github.com/RSBalchII/anchor-engine-node/)
+- [mycoswarm 0.3.7](https://pypi.org/project/mycoswarm/0.3.7/)
 <!-- NEWS_SECTION_END -->
 
 
