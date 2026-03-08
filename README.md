@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Why have a fish as a class pet?](https://www.lifesciencesworld.com/why-have-a-fish-as-a-class-pet/)
-- [wisent 0.7.1650](https://pypi.org/project/wisent/0.7.1650/)
-- [Australia to force porn sites to block under-18s from Monday](https://japantoday.com/category/world/australia-forces-porn-sites-to-block-under-18s-from-monday)
-- [Show HN: Anchor Engine – Deterministic Semantic Memory for LLMs local (](https://github.com/RSBalchII/anchor-engine-node/)
-- [mycoswarm 0.3.7](https://pypi.org/project/mycoswarm/0.3.7/)
+- [corepy-ai 3.0.0](https://pypi.org/project/corepy-ai/3.0.0/)
+- [bao-ai 0.3.13](https://pypi.org/project/bao-ai/0.3.13/)
+- [autotapeout 1.0.1](https://pypi.org/project/autotapeout/1.0.1/)
+- [zhushou 0.1.3](https://pypi.org/project/zhushou/0.1.3/)
+- [amrood-mcp 0.3.3](https://pypi.org/project/amrood-mcp/0.3.3/)
 <!-- NEWS_SECTION_END -->
 
 
