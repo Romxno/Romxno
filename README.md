@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [corepy-ai 3.0.0](https://pypi.org/project/corepy-ai/3.0.0/)
-- [bao-ai 0.3.13](https://pypi.org/project/bao-ai/0.3.13/)
-- [autotapeout 1.0.1](https://pypi.org/project/autotapeout/1.0.1/)
-- [zhushou 0.1.3](https://pypi.org/project/zhushou/0.1.3/)
-- [amrood-mcp 0.3.3](https://pypi.org/project/amrood-mcp/0.3.3/)
+- [mcp-memory-service 10.26.1](https://pypi.org/project/mcp-memory-service/10.26.1/)
+- [AI integration to contribute up to $150 billion to manufacturing sector MSMEs by 2035: Report](https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-integration-to-contribute-up-to-150-billion-to-manufacturing-sector-msmes-by-2035-report/articleshow/129256284.cms)
+- [nikame 0.3.0](https://pypi.org/project/nikame/0.3.0/)
+- [Explained: The jobs that AI could most certainly replace, as per an Anthropic study](https://indianexpress.com/article/explained/explained-economics/jobs-that-ai-could-certainly-replace-anthropic-study-10571054/)
+- [Trump says invading Iran would be a 'waste of time' but wants new leader to 'clean out everything'](https://freerepublic.com/focus/f-news/4369791/posts)
 <!-- NEWS_SECTION_END -->
 
 
