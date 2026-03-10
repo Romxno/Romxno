@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [mcp-memory-service 10.26.1](https://pypi.org/project/mcp-memory-service/10.26.1/)
-- [AI integration to contribute up to $150 billion to manufacturing sector MSMEs by 2035: Report](https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-integration-to-contribute-up-to-150-billion-to-manufacturing-sector-msmes-by-2035-report/articleshow/129256284.cms)
-- [nikame 0.3.0](https://pypi.org/project/nikame/0.3.0/)
-- [Explained: The jobs that AI could most certainly replace, as per an Anthropic study](https://indianexpress.com/article/explained/explained-economics/jobs-that-ai-could-certainly-replace-anthropic-study-10571054/)
-- [Trump says invading Iran would be a 'waste of time' but wants new leader to 'clean out everything'](https://freerepublic.com/focus/f-news/4369791/posts)
+- [rayvision-katana 1.2.3](https://pypi.org/project/rayvision-katana/1.2.3/)
+- [Kharg Island: The oil island in Gulf at the centre of Trump’s Iran war calculations](https://economictimes.indiatimes.com/news/international/world-news/kharg-island-the-oil-island-in-gulf-at-the-centre-of-trumps-iran-war-calculations/articleshow/129314226.cms)
+- [vuctmd-skills 0.2.3](https://pypi.org/project/vuctmd-skills/0.2.3/)
+- [NVIDIA’s Answer to the GPU Shortage Has Samsung Resurrecting the RTX 3060, and It Might Just Pay Off for Gamers - Wccftech](https://slashdot.org/firehose.pl?op=view&amp;id=180931986)
+- [Samsung wants to let you vibe code apps and more on future Galaxy phones - 9to5Google](https://slashdot.org/firehose.pl?op=view&amp;id=180931984)
 <!-- NEWS_SECTION_END -->
 
 
