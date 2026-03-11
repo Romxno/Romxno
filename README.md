@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [rayvision-katana 1.2.3](https://pypi.org/project/rayvision-katana/1.2.3/)
-- [Kharg Island: The oil island in Gulf at the centre of Trump’s Iran war calculations](https://economictimes.indiatimes.com/news/international/world-news/kharg-island-the-oil-island-in-gulf-at-the-centre-of-trumps-iran-war-calculations/articleshow/129314226.cms)
-- [vuctmd-skills 0.2.3](https://pypi.org/project/vuctmd-skills/0.2.3/)
-- [NVIDIA’s Answer to the GPU Shortage Has Samsung Resurrecting the RTX 3060, and It Might Just Pay Off for Gamers - Wccftech](https://slashdot.org/firehose.pl?op=view&amp;id=180931986)
-- [Samsung wants to let you vibe code apps and more on future Galaxy phones - 9to5Google](https://slashdot.org/firehose.pl?op=view&amp;id=180931984)
+- [alligator-ai 0.1.0a1](https://pypi.org/project/alligator-ai/0.1.0a1/)
+- [alligator-ai added to PyPI](https://pypi.org/project/alligator-ai/)
+- [django-cfg 1.7.54](https://pypi.org/project/django-cfg/1.7.54/)
+- [clawlendar added to PyPI](https://pypi.org/project/clawlendar/)
+- [Silicon Laboratories Inc. (SLAB) Announces Fourth Quarter and Full Year 2025 Results](https://finance.yahoo.com/news/silicon-laboratories-inc-slab-announces-063608784.html)
 <!-- NEWS_SECTION_END -->
 
 
