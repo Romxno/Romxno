@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [alligator-ai 0.1.0a1](https://pypi.org/project/alligator-ai/0.1.0a1/)
-- [alligator-ai added to PyPI](https://pypi.org/project/alligator-ai/)
-- [django-cfg 1.7.54](https://pypi.org/project/django-cfg/1.7.54/)
-- [clawlendar added to PyPI](https://pypi.org/project/clawlendar/)
-- [Silicon Laboratories Inc. (SLAB) Announces Fourth Quarter and Full Year 2025 Results](https://finance.yahoo.com/news/silicon-laboratories-inc-slab-announces-063608784.html)
+- [Together, we can make Bengaluru even stronger: Deputy CM of Karnataka D K Shivakumar's speech at the Bangalore Times Headliners Gala](https://timesofindia.indiatimes.com/entertainment/events/bangalore/together-we-can-make-bengaluru-even-stronger-deputy-cm-of-karnataka-d-k-shivakumars-speech-at-the-bangalore-times-headliners-gala/articleshow/129443138.cms)
+- [Together, we can make Bengaluru even stronger: Deputy CM of Karnataka D K Shivakumar's speech at the Bangalore Times Headliners Gala](https://timesofindia.indiatimes.com/city/bengaluru/together-we-can-make-bengaluru-even-stronger-deputy-cm-of-karnataka-d-k-shivakumars-speech-at-the-bangalore-times-headliners-gala/articleshow/129443404.cms)
+- [Altcoin Season is Dead, Non-Traditional Cycles Taking Over Says Bitwise CIO](https://zycrypto.com/altcoin-season-is-dead-non-traditional-cycles-taking-over-says-bitwise-cio/)
+- [Wednesday to be dry and bright but wind warnings on the way](https://www.irishtimes.com/ireland/2026/03/11/wednesday-to-be-dry-and-bright-but-wind-warnings-on-the-way/)
+- [Show HN: Access all your apps with a single AI](https://www.reflexion-labs.com)
 <!-- NEWS_SECTION_END -->
 
 
