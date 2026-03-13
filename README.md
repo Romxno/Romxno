@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Together, we can make Bengaluru even stronger: Deputy CM of Karnataka D K Shivakumar's speech at the Bangalore Times Headliners Gala](https://timesofindia.indiatimes.com/entertainment/events/bangalore/together-we-can-make-bengaluru-even-stronger-deputy-cm-of-karnataka-d-k-shivakumars-speech-at-the-bangalore-times-headliners-gala/articleshow/129443138.cms)
-- [Together, we can make Bengaluru even stronger: Deputy CM of Karnataka D K Shivakumar's speech at the Bangalore Times Headliners Gala](https://timesofindia.indiatimes.com/city/bengaluru/together-we-can-make-bengaluru-even-stronger-deputy-cm-of-karnataka-d-k-shivakumars-speech-at-the-bangalore-times-headliners-gala/articleshow/129443404.cms)
-- [Altcoin Season is Dead, Non-Traditional Cycles Taking Over Says Bitwise CIO](https://zycrypto.com/altcoin-season-is-dead-non-traditional-cycles-taking-over-says-bitwise-cio/)
-- [Wednesday to be dry and bright but wind warnings on the way](https://www.irishtimes.com/ireland/2026/03/11/wednesday-to-be-dry-and-bright-but-wind-warnings-on-the-way/)
-- [Show HN: Access all your apps with a single AI](https://www.reflexion-labs.com)
+- [Asia Vital Components plans major liquid cooling expansion, expects market shift](https://www.digitimes.com/news/a20260312PD226/avc-liquid-cooling-chassis.html)
+- [Meta will let kids under 13 use WhatsApp with parent-managed accounts](https://www.madshrimps.be/news/meta-will-let-kids-under-13-use-whatsapp-with-parent-managed-accounts/)
+- [agent-doc 0.16.0](https://pypi.org/project/agent-doc/0.16.0/)
+- [Are Indian techies losing jobs due to AI? CLSA analysts make a strong argument](https://economictimes.indiatimes.com/markets/stocks/news/are-indian-techies-losing-jobs-due-to-ai-clsa-analysts-make-a-strong-argument/articleshow/129495329.cms)
+- [hybro-hub 0.1.1](https://pypi.org/project/hybro-hub/0.1.1/)
 <!-- NEWS_SECTION_END -->
 
 
