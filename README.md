@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Asia Vital Components plans major liquid cooling expansion, expects market shift](https://www.digitimes.com/news/a20260312PD226/avc-liquid-cooling-chassis.html)
-- [Meta will let kids under 13 use WhatsApp with parent-managed accounts](https://www.madshrimps.be/news/meta-will-let-kids-under-13-use-whatsapp-with-parent-managed-accounts/)
-- [agent-doc 0.16.0](https://pypi.org/project/agent-doc/0.16.0/)
-- [Are Indian techies losing jobs due to AI? CLSA analysts make a strong argument](https://economictimes.indiatimes.com/markets/stocks/news/are-indian-techies-losing-jobs-due-to-ai-clsa-analysts-make-a-strong-argument/articleshow/129495329.cms)
-- [hybro-hub 0.1.1](https://pypi.org/project/hybro-hub/0.1.1/)
+- [Don't predict the oil price; predict how long the pain lasts and hold cash: Nandan Chakraborty](https://economictimes.indiatimes.com/markets/expert-view/dont-predict-the-oil-price-predict-how-long-the-pain-lasts-and-hold-cash-nandan-chakraborty/articleshow/129541049.cms)
+- [Ord Minnett tips these ASX All Ords shares to rise 30% to 50%](https://www.fool.com.au/2026/03/13/ord-minnett-tips-these-asx-all-ords-shares-to-rise-30-to-50/)
+- [Nifty Auto extends fall amid energy supply worries, Ashok Leyland, TMPV, Bharat Forge among top losers](https://www.thehindubusinessline.com/markets/stock-markets/auto-stocks-extend-fall-amid-energy-supply-worries-ashok-leyland-tmpv-bharat-forge-among-top-losers-nifty-auto-index-depreciated-10-so-far-this-week/article70738278.ece)
+- [AIを”使う”から”つくる”へ。福岡から始まる共創のきっかけ Enable AI Fukuoka 3月23日（月）開催](https://prtimes.jp/main/html/rd/p/000000194.000048792.html)
+- [GMKtec Launches EVO-T2 Mini PC: Powered By Intel Panther Lake, 64 GB Memory, Phison SSDs, Priced at $1450](https://wccftech.com/gmktec-evo-t2-mini-pc-intel-panther-lake-64-gb-memory-phison-ssds-1450-usd-price/)
 <!-- NEWS_SECTION_END -->
 
 
