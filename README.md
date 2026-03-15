@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Don't predict the oil price; predict how long the pain lasts and hold cash: Nandan Chakraborty](https://economictimes.indiatimes.com/markets/expert-view/dont-predict-the-oil-price-predict-how-long-the-pain-lasts-and-hold-cash-nandan-chakraborty/articleshow/129541049.cms)
-- [Ord Minnett tips these ASX All Ords shares to rise 30% to 50%](https://www.fool.com.au/2026/03/13/ord-minnett-tips-these-asx-all-ords-shares-to-rise-30-to-50/)
-- [Nifty Auto extends fall amid energy supply worries, Ashok Leyland, TMPV, Bharat Forge among top losers](https://www.thehindubusinessline.com/markets/stock-markets/auto-stocks-extend-fall-amid-energy-supply-worries-ashok-leyland-tmpv-bharat-forge-among-top-losers-nifty-auto-index-depreciated-10-so-far-this-week/article70738278.ece)
-- [AIを”使う”から”つくる”へ。福岡から始まる共創のきっかけ Enable AI Fukuoka 3月23日（月）開催](https://prtimes.jp/main/html/rd/p/000000194.000048792.html)
-- [GMKtec Launches EVO-T2 Mini PC: Powered By Intel Panther Lake, 64 GB Memory, Phison SSDs, Priced at $1450](https://wccftech.com/gmktec-evo-t2-mini-pc-intel-panther-lake-64-gb-memory-phison-ssds-1450-usd-price/)
+- [linkllm added to PyPI](https://pypi.org/project/linkllm/)
+- [Indian-origin AI researcher Devendra Chaplot joins xAI](https://economictimes.indiatimes.com/tech/technology/indian-origin-ai-researcher-devendra-chaplot-joins-xai/articleshow/129570032.cms)
+- [Booming Taiwan can well afford more military spending, president says](https://www.channelnewsasia.com/east-asia/taiwan-budget-military-defence-spending-lai-ching-te-5993236)
+- [agentcab 0.7.0](https://pypi.org/project/agentcab/0.7.0/)
+- [Show HN: Mindease – AI Mental Health](https://mindease.zzstudio.io.vn/)
 <!-- NEWS_SECTION_END -->
 
 
