@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [linkllm added to PyPI](https://pypi.org/project/linkllm/)
-- [Indian-origin AI researcher Devendra Chaplot joins xAI](https://economictimes.indiatimes.com/tech/technology/indian-origin-ai-researcher-devendra-chaplot-joins-xai/articleshow/129570032.cms)
-- [Booming Taiwan can well afford more military spending, president says](https://www.channelnewsasia.com/east-asia/taiwan-budget-military-defence-spending-lai-ching-te-5993236)
-- [agentcab 0.7.0](https://pypi.org/project/agentcab/0.7.0/)
-- [Show HN: Mindease – AI Mental Health](https://mindease.zzstudio.io.vn/)
+- [PTE Request for Rank Math…](https://make.wordpress.org/polyglots/2026/03/15/pte-request-for-rank-math-4/)
+- [Who covers AI business blunders? Some insurers cautiously step up](https://www.straitstimes.com/business/who-covers-ai-business-blunders-some-insurers-cautiously-step-up)
+- [Strong cultural forces cloud the debate on one-off rural homes, but the critics have a point](https://www.thejournal.ie/one-off-housing-ireland-rules-6984536-Mar2026/)
+- [How does China view the US-Israeli war on its ally Iran?](https://www.rte.ie/news/analysis-and-comment/2026/0315/1563360-china-iran-war/)
+- [pylumbergh 0.1.0a57](https://pypi.org/project/pylumbergh/0.1.0a57/)
 <!-- NEWS_SECTION_END -->
 
 
