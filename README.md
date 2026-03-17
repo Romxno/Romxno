@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [PTE Request for Rank Math…](https://make.wordpress.org/polyglots/2026/03/15/pte-request-for-rank-math-4/)
-- [Who covers AI business blunders? Some insurers cautiously step up](https://www.straitstimes.com/business/who-covers-ai-business-blunders-some-insurers-cautiously-step-up)
-- [Strong cultural forces cloud the debate on one-off rural homes, but the critics have a point](https://www.thejournal.ie/one-off-housing-ireland-rules-6984536-Mar2026/)
-- [How does China view the US-Israeli war on its ally Iran?](https://www.rte.ie/news/analysis-and-comment/2026/0315/1563360-china-iran-war/)
-- [pylumbergh 0.1.0a57](https://pypi.org/project/pylumbergh/0.1.0a57/)
+- [matrx-ai 0.1.20](https://pypi.org/project/matrx-ai/0.1.20/)
+- [bazinga-indeed 5.16.0](https://pypi.org/project/bazinga-indeed/5.16.0/)
+- [Ruthenium prices hit record high as AI boom squeezes supply](https://economictimes.indiatimes.com/tech/technology/ruthenium-prices-hit-record-high-as-ai-boom-squeezes-supply/articleshow/129602568.cms)
+- [【ウェビナー】AI分析ツールCotoELウェビナー開催のご案内](https://prtimes.jp/main/html/rd/p/000001754.000007815.html)
+- [x-ipe 1.1.18](https://pypi.org/project/x-ipe/1.1.18/)
 <!-- NEWS_SECTION_END -->
 
 
