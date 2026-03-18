@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [matrx-ai 0.1.20](https://pypi.org/project/matrx-ai/0.1.20/)
-- [bazinga-indeed 5.16.0](https://pypi.org/project/bazinga-indeed/5.16.0/)
-- [Ruthenium prices hit record high as AI boom squeezes supply](https://economictimes.indiatimes.com/tech/technology/ruthenium-prices-hit-record-high-as-ai-boom-squeezes-supply/articleshow/129602568.cms)
-- [【ウェビナー】AI分析ツールCotoELウェビナー開催のご案内](https://prtimes.jp/main/html/rd/p/000001754.000007815.html)
-- [x-ipe 1.1.18](https://pypi.org/project/x-ipe/1.1.18/)
+- [rusticai-nats 1.2.1](https://pypi.org/project/rusticai-nats/1.2.1/)
+- [openseed added to PyPI](https://pypi.org/project/openseed/)
+- [Stagflation risk in US 'quite high': Stiglitz](https://www.hurriyetdailynews.com/stagflation-risk-in-us-quite-high-stiglitz-220042)
+- [IIJ Expands Safous Security Assessment with New Internal Vulnerability Assessment Service](https://en.antaranews.com/news/408786/iij-expands-safous-security-assessment-with-new-internal-vulnerability-assessment-service)
+- [NVIDIA introduces DLSS 5 for better game graphics](https://www.yugatech.com/news/nvidia-introduces-dlss-5-for-better-game-graphics/)
 <!-- NEWS_SECTION_END -->
 
 
