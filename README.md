@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [rusticai-nats 1.2.1](https://pypi.org/project/rusticai-nats/1.2.1/)
-- [openseed added to PyPI](https://pypi.org/project/openseed/)
-- [Stagflation risk in US 'quite high': Stiglitz](https://www.hurriyetdailynews.com/stagflation-risk-in-us-quite-high-stiglitz-220042)
-- [IIJ Expands Safous Security Assessment with New Internal Vulnerability Assessment Service](https://en.antaranews.com/news/408786/iij-expands-safous-security-assessment-with-new-internal-vulnerability-assessment-service)
-- [NVIDIA introduces DLSS 5 for better game graphics](https://www.yugatech.com/news/nvidia-introduces-dlss-5-for-better-game-graphics/)
+- [Microsoft considers legal action over $50 billion Amazon-OpenAI cloud deal: Report](https://economictimes.indiatimes.com/tech/technology/microsoft-considers-legal-action-over-50-billion-amazon-openai-cloud-deal-report/articleshow/129649363.cms)
+- [日本初※、非エンジニア経営者が"完全バイブコーディング"で商用SaaSを正式リリース。UooD株式会社、AIだけで開発したスキルシート作成SaaS「Skillsheet-Port」を提供開始](https://prtimes.jp/main/html/rd/p/000000004.000119590.html)
+- [vaultbank 0.1.0](https://pypi.org/project/vaultbank/0.1.0/)
+- [Take-Two CEO Calls the Idea That AI Could Create a Game From Scratch "Laughable"](https://www.techpowerup.com/347476/take-two-ceo-calls-the-idea-that-ai-could-create-a-game-from-scratch-laughable)
+- [exonware-xwsystem 0.9.0.11](https://pypi.org/project/exonware-xwsystem/0.9.0.11/)
 <!-- NEWS_SECTION_END -->
 
 
