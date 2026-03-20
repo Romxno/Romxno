@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Microsoft considers legal action over $50 billion Amazon-OpenAI cloud deal: Report](https://economictimes.indiatimes.com/tech/technology/microsoft-considers-legal-action-over-50-billion-amazon-openai-cloud-deal-report/articleshow/129649363.cms)
-- [日本初※、非エンジニア経営者が"完全バイブコーディング"で商用SaaSを正式リリース。UooD株式会社、AIだけで開発したスキルシート作成SaaS「Skillsheet-Port」を提供開始](https://prtimes.jp/main/html/rd/p/000000004.000119590.html)
-- [vaultbank 0.1.0](https://pypi.org/project/vaultbank/0.1.0/)
-- [Take-Two CEO Calls the Idea That AI Could Create a Game From Scratch "Laughable"](https://www.techpowerup.com/347476/take-two-ceo-calls-the-idea-that-ai-could-create-a-game-from-scratch-laughable)
-- [exonware-xwsystem 0.9.0.11](https://pypi.org/project/exonware-xwsystem/0.9.0.11/)
+- [健康のヒントを“食べて・遊んで・発見”できる体験型イベント『あすけん式 おとなの食育展2026～食べて、遊んで、健康アプデ！～』5月16日（土）品川で開催 ～大好評につき3年連続で開催～](https://prtimes.jp/main/html/rd/p/000000232.000058653.html)
+- [Switch、Steamダウンロード版セール開催！通常価格の最大80％OFF！](https://prtimes.jp/main/html/rd/p/000001082.000021592.html)
+- [Back domestic business, Collison -commissioned report says](https://www.irishtimes.com/business/2026/03/19/back-domestic-business-collison-commissioned-report-says/)
+- [attune-ai 5.0.3](https://pypi.org/project/attune-ai/5.0.3/)
+- [Crikey responds to AI claim about article published on March 18](http://www.crikey.com.au/2026/03/19/crikey-responds-to-ai-claim-about-article-published-on-march-18/)
 <!-- NEWS_SECTION_END -->
 
 
