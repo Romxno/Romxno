@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [健康のヒントを“食べて・遊んで・発見”できる体験型イベント『あすけん式 おとなの食育展2026～食べて、遊んで、健康アプデ！～』5月16日（土）品川で開催 ～大好評につき3年連続で開催～](https://prtimes.jp/main/html/rd/p/000000232.000058653.html)
-- [Switch、Steamダウンロード版セール開催！通常価格の最大80％OFF！](https://prtimes.jp/main/html/rd/p/000001082.000021592.html)
-- [Back domestic business, Collison -commissioned report says](https://www.irishtimes.com/business/2026/03/19/back-domestic-business-collison-commissioned-report-says/)
-- [attune-ai 5.0.3](https://pypi.org/project/attune-ai/5.0.3/)
-- [Crikey responds to AI claim about article published on March 18](http://www.crikey.com.au/2026/03/19/crikey-responds-to-ai-claim-about-article-published-on-march-18/)
+- [Ericsson, SK Telecom ink memorandum of understanding to strengthen AI-RAN, 5G to 6G innovation](https://www.computerweekly.com/news/366640451/Ericsson-SK-Telecom-ink-memorandum-of-understanding-to-strengthen-AI-RAN-5G-to-6G-innovation)
+- [Mechanical Connectors Market Size to Surpass USD 19.22 Billion by 2035 | Research by SNS Insider](https://www.globenewswire.com/news-release/2026/03/20/3259553/0/en/Mechanical-Connectors-Market-Size-to-Surpass-USD-19-22-Billion-by-2035-Research-by-SNS-Insider.html)
+- [fastapi-apcore 0.3.0](https://pypi.org/project/fastapi-apcore/0.3.0/)
+- [ipyai 0.0.7](https://pypi.org/project/ipyai/0.0.7/)
+- [Anupama: Anupama got injured while working, Digvijay received legal notice](https://timesofindia.indiatimes.com/tv/news/hindi/anupama-anupama-got-injured-while-working-digvijay-received-legal-notice/articleshow/129693870.cms)
 <!-- NEWS_SECTION_END -->
 
 
