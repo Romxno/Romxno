@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Ericsson, SK Telecom ink memorandum of understanding to strengthen AI-RAN, 5G to 6G innovation](https://www.computerweekly.com/news/366640451/Ericsson-SK-Telecom-ink-memorandum-of-understanding-to-strengthen-AI-RAN-5G-to-6G-innovation)
-- [Mechanical Connectors Market Size to Surpass USD 19.22 Billion by 2035 | Research by SNS Insider](https://www.globenewswire.com/news-release/2026/03/20/3259553/0/en/Mechanical-Connectors-Market-Size-to-Surpass-USD-19-22-Billion-by-2035-Research-by-SNS-Insider.html)
-- [fastapi-apcore 0.3.0](https://pypi.org/project/fastapi-apcore/0.3.0/)
-- [ipyai 0.0.7](https://pypi.org/project/ipyai/0.0.7/)
-- [Anupama: Anupama got injured while working, Digvijay received legal notice](https://timesofindia.indiatimes.com/tv/news/hindi/anupama-anupama-got-injured-while-working-digvijay-received-legal-notice/articleshow/129693870.cms)
+- [prompt-shield-ai 0.3.2](https://pypi.org/project/prompt-shield-ai/0.3.2/)
+- [agent-eyes 0.3.2](https://pypi.org/project/agent-eyes/0.3.2/)
+- [WordPress.com now lets AI agents write and publish posts, and more - TechCrunch](https://slashdot.org/firehose.pl?op=view&amp;id=181066012)
+- [cogmem-agent 0.2.0](https://pypi.org/project/cogmem-agent/0.2.0/)
+- [lore-book 1.2.0](https://pypi.org/project/lore-book/1.2.0/)
 <!-- NEWS_SECTION_END -->
 
 
