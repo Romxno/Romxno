@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [prompt-shield-ai 0.3.2](https://pypi.org/project/prompt-shield-ai/0.3.2/)
-- [agent-eyes 0.3.2](https://pypi.org/project/agent-eyes/0.3.2/)
-- [WordPress.com now lets AI agents write and publish posts, and more - TechCrunch](https://slashdot.org/firehose.pl?op=view&amp;id=181066012)
-- [cogmem-agent 0.2.0](https://pypi.org/project/cogmem-agent/0.2.0/)
-- [lore-book 1.2.0](https://pypi.org/project/lore-book/1.2.0/)
+- [Samsung union votes to strike, risking Nvidia HBM4 supply disruption](https://www.digitimes.com/news/a20260319PD230/samsung-labor-strike-hbm4.html)
+- [kinetic-cipher added to PyPI](https://pypi.org/project/kinetic-cipher/)
+- [How Ryan Gosling's 'dream' casting for 'Project Hail Mary' came through?](https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/how-ryan-goslings-dream-casting-for-project-hail-mary-came-through/articleshow/129729302.cms)
+- [Germany news: CDU set to win Rhineland-Palatinate election](https://www.dw.com/en/conservatives-leading-far-right-makes-gains-in-state-election-in-western-germany/live-76465368)
+- [focalpoint 0.2.0](https://pypi.org/project/focalpoint/0.2.0/)
 <!-- NEWS_SECTION_END -->
 
 
