@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Samsung union votes to strike, risking Nvidia HBM4 supply disruption](https://www.digitimes.com/news/a20260319PD230/samsung-labor-strike-hbm4.html)
-- [kinetic-cipher added to PyPI](https://pypi.org/project/kinetic-cipher/)
-- [How Ryan Gosling's 'dream' casting for 'Project Hail Mary' came through?](https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/how-ryan-goslings-dream-casting-for-project-hail-mary-came-through/articleshow/129729302.cms)
-- [Germany news: CDU set to win Rhineland-Palatinate election](https://www.dw.com/en/conservatives-leading-far-right-makes-gains-in-state-election-in-western-germany/live-76465368)
-- [focalpoint 0.2.0](https://pypi.org/project/focalpoint/0.2.0/)
+- [pinrag 0.9.13](https://pypi.org/project/pinrag/0.9.13/)
+- [Musk says SpaceX and Tesla to build advanced chip factories in Austin](https://economictimes.indiatimes.com/tech/technology/musk-says-spacex-and-tesla-to-build-advanced-chip-factories-in-austin/articleshow/129745144.cms)
+- [ezop 0.0.9](https://pypi.org/project/ezop/0.0.9/)
+- [GMKtec Updates NucBox K13 with Dual OS Support and OpenClaw Integration](https://www.madshrimps.be/news/gmktec-updates-nucbox-k13-with-dual-os-support-and-openclaw-integration/)
+- [Galaxy S26 can now share files with iPhones using AirDrop](https://www.cultofmac.com/news/galaxy-s26-share-files-with-iphones-airdrop)
 <!-- NEWS_SECTION_END -->
 
 
