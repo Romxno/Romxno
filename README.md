@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [pinrag 0.9.13](https://pypi.org/project/pinrag/0.9.13/)
-- [Musk says SpaceX and Tesla to build advanced chip factories in Austin](https://economictimes.indiatimes.com/tech/technology/musk-says-spacex-and-tesla-to-build-advanced-chip-factories-in-austin/articleshow/129745144.cms)
-- [ezop 0.0.9](https://pypi.org/project/ezop/0.0.9/)
-- [GMKtec Updates NucBox K13 with Dual OS Support and OpenClaw Integration](https://www.madshrimps.be/news/gmktec-updates-nucbox-k13-with-dual-os-support-and-openclaw-integration/)
-- [Galaxy S26 can now share files with iPhones using AirDrop](https://www.cultofmac.com/news/galaxy-s26-share-files-with-iphones-airdrop)
+- [Rajasthan Board 10th Result 2026: How students can view their scores on DigiLocker](https://timesofindia.indiatimes.com/education/news/rajasthan-board-10th-result-2026-how-students-can-view-their-scores-on-digilocker/articleshow/129769145.cms)
+- [kindex 0.14.0](https://pypi.org/project/kindex/0.14.0/)
+- [mloda 0.5.5](https://pypi.org/project/mloda/0.5.5/)
+- [Crimson Desert Sees Strong Player Retention After Launch Weekend](https://www.madshrimps.be/news/crimson-desert-sees-strong-player-retention-after-launch-weekend/)
+- [Claude Code and Cowork can now use your computer](https://www.madshrimps.be/news/claude-code-and-cowork-can-now-use-your-computer/)
 <!-- NEWS_SECTION_END -->
 
 
