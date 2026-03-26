@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Rajasthan Board 10th Result 2026: How students can view their scores on DigiLocker](https://timesofindia.indiatimes.com/education/news/rajasthan-board-10th-result-2026-how-students-can-view-their-scores-on-digilocker/articleshow/129769145.cms)
-- [kindex 0.14.0](https://pypi.org/project/kindex/0.14.0/)
-- [mloda 0.5.5](https://pypi.org/project/mloda/0.5.5/)
-- [Crimson Desert Sees Strong Player Retention After Launch Weekend](https://www.madshrimps.be/news/crimson-desert-sees-strong-player-retention-after-launch-weekend/)
-- [Claude Code and Cowork can now use your computer](https://www.madshrimps.be/news/claude-code-and-cowork-can-now-use-your-computer/)
+- [How Markets Took Over Our Relationships | HackerNoon](https://hackernoon.com/how-markets-took-over-our-relationships)
+- [triple-publish-skill added to PyPI](https://pypi.org/project/triple-publish-skill/)
+- [triple-publish-skill 1.0.0](https://pypi.org/project/triple-publish-skill/1.0.0/)
+- [agent-aegis 0.4.2](https://pypi.org/project/agent-aegis/0.4.2/)
+- [ghost-remover 0.3.1](https://pypi.org/project/ghost-remover/0.3.1/)
 <!-- NEWS_SECTION_END -->
 
 
