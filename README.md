@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [How Markets Took Over Our Relationships | HackerNoon](https://hackernoon.com/how-markets-took-over-our-relationships)
-- [triple-publish-skill added to PyPI](https://pypi.org/project/triple-publish-skill/)
-- [triple-publish-skill 1.0.0](https://pypi.org/project/triple-publish-skill/1.0.0/)
-- [agent-aegis 0.4.2](https://pypi.org/project/agent-aegis/0.4.2/)
-- [ghost-remover 0.3.1](https://pypi.org/project/ghost-remover/0.3.1/)
+- [crewai 1.12.2](https://pypi.org/project/crewai/1.12.2/)
+- [India’s urban health alarm: One in five at early heart risk, 25% face respiratory threat](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/indias-urban-health-alarm-one-in-five-at-early-heart-risk-25-face-respiratory-threat/articleshow/129817574.cms)
+- [mcp-memory-service 10.28.1](https://pypi.org/project/mcp-memory-service/10.28.1/)
+- [【開催案内】失語症からAIと音楽で復帰した上岡裕が語る「回復の物語は音楽とアートとともに ～下り坂を受け入れるケア～」](https://prtimes.jp/main/html/rd/p/000000036.000106321.html)
+- [New Zealand's Thomas hopes long road back from injury leads to World Cup](https://www.channelnewsasia.com/sport/new-zealands-thomas-hopes-long-road-back-injury-leads-world-cup-6018111)
 <!-- NEWS_SECTION_END -->
 
 
