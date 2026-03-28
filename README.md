@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [crewai 1.12.2](https://pypi.org/project/crewai/1.12.2/)
-- [India’s urban health alarm: One in five at early heart risk, 25% face respiratory threat](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/indias-urban-health-alarm-one-in-five-at-early-heart-risk-25-face-respiratory-threat/articleshow/129817574.cms)
-- [mcp-memory-service 10.28.1](https://pypi.org/project/mcp-memory-service/10.28.1/)
-- [【開催案内】失語症からAIと音楽で復帰した上岡裕が語る「回復の物語は音楽とアートとともに ～下り坂を受け入れるケア～」](https://prtimes.jp/main/html/rd/p/000000036.000106321.html)
-- [New Zealand's Thomas hopes long road back from injury leads to World Cup](https://www.channelnewsasia.com/sport/new-zealands-thomas-hopes-long-road-back-injury-leads-world-cup-6018111)
+- [NIOS result 2026 for ODE exams released at results.nios.ac.in: Direct link to download scorecard here](https://timesofindia.indiatimes.com/education/news/nios-result-2026-for-ode-exams-released-at-results-nios-ac-in-direct-link-to-download-scorecard-here/articleshow/129840550.cms)
+- [Google Search Live AI Mode Goes Global, Expands to More Than 200 Countries](https://www.ibtimes.com.au/google-search-live-ai-mode-goes-global-expands-more-200-countries-1864631)
+- [DDPAI Expands North American Availability with Amazon Canada Launch](https://financialpost.com/globe-newswire/ddpai-expands-north-american-availability-with-amazon-canada-launch)
+- [Mentally sick man drives bus, give tense moments](https://timesofindia.indiatimes.com/city/visakhapatnam/mentally-sick-man-drives-bus-give-tense-moments/articleshow/129840215.cms)
+- [Madhya Pradesh high court drops ‘unnatural offence’ charge against husband, cites marital exception](https://timesofindia.indiatimes.com/legal/news/madhya-pradesh-high-court-drops-unnatural-offence-charge-against-husband-cites-marital-exception/articleshow/129840486.cms)
 <!-- NEWS_SECTION_END -->
 
 
