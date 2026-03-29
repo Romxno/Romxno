@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [NIOS result 2026 for ODE exams released at results.nios.ac.in: Direct link to download scorecard here](https://timesofindia.indiatimes.com/education/news/nios-result-2026-for-ode-exams-released-at-results-nios-ac-in-direct-link-to-download-scorecard-here/articleshow/129840550.cms)
-- [Google Search Live AI Mode Goes Global, Expands to More Than 200 Countries](https://www.ibtimes.com.au/google-search-live-ai-mode-goes-global-expands-more-200-countries-1864631)
-- [DDPAI Expands North American Availability with Amazon Canada Launch](https://financialpost.com/globe-newswire/ddpai-expands-north-american-availability-with-amazon-canada-launch)
-- [Mentally sick man drives bus, give tense moments](https://timesofindia.indiatimes.com/city/visakhapatnam/mentally-sick-man-drives-bus-give-tense-moments/articleshow/129840215.cms)
-- [Madhya Pradesh high court drops ‘unnatural offence’ charge against husband, cites marital exception](https://timesofindia.indiatimes.com/legal/news/madhya-pradesh-high-court-drops-unnatural-offence-charge-against-husband-cites-marital-exception/articleshow/129840486.cms)
+- [open-agent-observatory 0.1.0](https://pypi.org/project/open-agent-observatory/0.1.0/)
+- [open-agent-observatory added to PyPI](https://pypi.org/project/open-agent-observatory/)
+- [abi-core-ai 1.7.13](https://pypi.org/project/abi-core-ai/1.7.13/)
+- [nuklier added to PyPI](https://pypi.org/project/nuklier/)
+- [nuklier 15.0.0](https://pypi.org/project/nuklier/15.0.0/)
 <!-- NEWS_SECTION_END -->
 
 
