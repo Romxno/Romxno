@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [open-agent-observatory 0.1.0](https://pypi.org/project/open-agent-observatory/0.1.0/)
-- [open-agent-observatory added to PyPI](https://pypi.org/project/open-agent-observatory/)
-- [abi-core-ai 1.7.13](https://pypi.org/project/abi-core-ai/1.7.13/)
-- [nuklier added to PyPI](https://pypi.org/project/nuklier/)
-- [nuklier 15.0.0](https://pypi.org/project/nuklier/15.0.0/)
+- [pascal-agent 0.7.0](https://pypi.org/project/pascal-agent/0.7.0/)
+- [The Secret Social Lives of Animals Are Finally Being Decoded, and AI Is the Reason Why](https://economictimes.indiatimes.com/news/international/us/the-secret-social-lives-of-animals-are-finally-being-decoded-and-ai-is-the-reason-why/articleshow/129877047.cms)
+- [autopr-core 0.5.0](https://pypi.org/project/autopr-core/0.5.0/)
+- [pascal-agent 0.6.4](https://pypi.org/project/pascal-agent/0.6.4/)
+- [What Is LangSmith Prompt Hub and How to Use It to Create, Version, and Share Prompts](https://www.c-sharpcorner.com/article/what-is-langsmith-prompt-hub-and-how-to-use-it-to-create-version-and-share-pro/)
 <!-- NEWS_SECTION_END -->
 
 
