@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [pascal-agent 0.7.0](https://pypi.org/project/pascal-agent/0.7.0/)
-- [The Secret Social Lives of Animals Are Finally Being Decoded, and AI Is the Reason Why](https://economictimes.indiatimes.com/news/international/us/the-secret-social-lives-of-animals-are-finally-being-decoded-and-ai-is-the-reason-why/articleshow/129877047.cms)
-- [autopr-core 0.5.0](https://pypi.org/project/autopr-core/0.5.0/)
-- [pascal-agent 0.6.4](https://pypi.org/project/pascal-agent/0.6.4/)
-- [What Is LangSmith Prompt Hub and How to Use It to Create, Version, and Share Prompts](https://www.c-sharpcorner.com/article/what-is-langsmith-prompt-hub-and-how-to-use-it-to-create-version-and-share-pro/)
+- [tencentcloud-sdk-python-common 3.1.66](https://pypi.org/project/tencentcloud-sdk-python-common/3.1.66/)
+- [Bitdeer Engages DCI to Finalise Development of Norway’s Largest AI Data Center](https://www.globenewswire.com/news-release/2026/03/30/3264318/0/en/Bitdeer-Engages-DCI-to-Finalise-Development-of-Norway-s-Largest-AI-Data-Center.html)
+- [OpenAIがコーディング支援AIツール「Codex」用プラグインを発表、Gmail・Googleドライブ・GitHub・Figma・Notion・Slack・Cloudflare・Boxなど20以上のサービスとの連携を実現](https://news.livedoor.com/article/detail/30872414/)
+- [Adafruit IoT Monthly: LEGO SMART Brick, Local Voice Control, and more!](https://io.adafruit.com/blog/notebook/2026/03/30/iot-monthly/)
+- [Why I Still Choose Laravel in a World Full of Node and Python AI Stacks](https://origin-main.com/laravel/why-i-still-choose-laravel-over-node-python-ai-stacks/)
 <!-- NEWS_SECTION_END -->
 
 
