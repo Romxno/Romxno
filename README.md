@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [tencentcloud-sdk-python-common 3.1.66](https://pypi.org/project/tencentcloud-sdk-python-common/3.1.66/)
-- [Bitdeer Engages DCI to Finalise Development of Norway’s Largest AI Data Center](https://www.globenewswire.com/news-release/2026/03/30/3264318/0/en/Bitdeer-Engages-DCI-to-Finalise-Development-of-Norway-s-Largest-AI-Data-Center.html)
-- [OpenAIがコーディング支援AIツール「Codex」用プラグインを発表、Gmail・Googleドライブ・GitHub・Figma・Notion・Slack・Cloudflare・Boxなど20以上のサービスとの連携を実現](https://news.livedoor.com/article/detail/30872414/)
-- [Adafruit IoT Monthly: LEGO SMART Brick, Local Voice Control, and more!](https://io.adafruit.com/blog/notebook/2026/03/30/iot-monthly/)
-- [Why I Still Choose Laravel in a World Full of Node and Python AI Stacks](https://origin-main.com/laravel/why-i-still-choose-laravel-over-node-python-ai-stacks/)
+- [pylibseekdb 1.2.0](https://pypi.org/project/pylibseekdb/1.2.0/)
+- [Pull Request Velocity as a Proxy for AI Usage for Software Development](https://sematext.com/blog/pull-request-velocity-as-a-proxy-for-ai-usage-for-software-development/)
+- [aibrain 0.9.0](https://pypi.org/project/aibrain/0.9.0/)
+- [openleash-sdk added to PyPI](https://pypi.org/project/openleash-sdk/)
+- [CISA orders feds to patch actively exploited Citrix flaw by Thursday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/)
 <!-- NEWS_SECTION_END -->
 
 
