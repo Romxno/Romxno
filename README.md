@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [pylibseekdb 1.2.0](https://pypi.org/project/pylibseekdb/1.2.0/)
-- [Pull Request Velocity as a Proxy for AI Usage for Software Development](https://sematext.com/blog/pull-request-velocity-as-a-proxy-for-ai-usage-for-software-development/)
-- [aibrain 0.9.0](https://pypi.org/project/aibrain/0.9.0/)
-- [openleash-sdk added to PyPI](https://pypi.org/project/openleash-sdk/)
-- [CISA orders feds to patch actively exploited Citrix flaw by Thursday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/)
+- [skillprobe added to PyPI](https://pypi.org/project/skillprobe/)
+- [Intellect Design Arena wins AP automation deal with major West Asia logistics firm](https://www.thehindubusinessline.com/markets/stock-markets/intellect-design-arena-wins-ap-automation-deal-with-major-west-asia-logistics-firm/article70810332.ece)
+- [TAMBURINS代官山フラッグシップストア、俳優・坂口健太郎訪問！](https://prtimes.jp/main/html/rd/p/000000070.000137182.html)
+- [Hero Realty acquires land in Greater Noida for Rs 218 crore for residential development](https://economictimes.indiatimes.com/industry/services/property-/-cstruction/hero-realty-acquires-land-in-greater-noida-for-rs-218-crore-for-residential-development/articleshow/129944141.cms)
+- [Jungle Ventures eyes 8-10 exits in 18 months, half from India](https://www.livemint.com/companies/news/jungle-ventures-exits-india-startups-ipo-pipeline-11775006991020.html)
 <!-- NEWS_SECTION_END -->
 
 
