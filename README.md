@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [skillprobe added to PyPI](https://pypi.org/project/skillprobe/)
-- [Intellect Design Arena wins AP automation deal with major West Asia logistics firm](https://www.thehindubusinessline.com/markets/stock-markets/intellect-design-arena-wins-ap-automation-deal-with-major-west-asia-logistics-firm/article70810332.ece)
-- [TAMBURINS代官山フラッグシップストア、俳優・坂口健太郎訪問！](https://prtimes.jp/main/html/rd/p/000000070.000137182.html)
-- [Hero Realty acquires land in Greater Noida for Rs 218 crore for residential development](https://economictimes.indiatimes.com/industry/services/property-/-cstruction/hero-realty-acquires-land-in-greater-noida-for-rs-218-crore-for-residential-development/articleshow/129944141.cms)
-- [Jungle Ventures eyes 8-10 exits in 18 months, half from India](https://www.livemint.com/companies/news/jungle-ventures-exits-india-startups-ipo-pipeline-11775006991020.html)
+- [openmax 0.9.42](https://pypi.org/project/openmax/0.9.42/)
+- [Covalo raises €3.5M to become the shared data infrastructure for an industry where 80% of products will need reformulating by 2030](https://thenextweb.com/news/covalo-3-5m-hi-inov-personal-care-data-infrastructure/)
+- [Tech layoffs: India once again in the crosshairs, with 1 in 3 laid off by Oracle based here](https://economictimes.indiatimes.com/tech/technology/tech-layoffs-india-once-again-in-the-crosshairs-with-1-in-3-laid-off-by-oracle-based-here/articleshow/129970044.cms)
+- [Angel One CEO Dinesh Thakkar on India Stock Market Outlook](https://www.thehindubusinessline.com/multimedia/video/angel-one-dinesh-thakkar-retail-participation-india-investment-growth/article70814588.ece)
+- [zyndai-agent 0.3.2](https://pypi.org/project/zyndai-agent/0.3.2/)
 <!-- NEWS_SECTION_END -->
 
 
