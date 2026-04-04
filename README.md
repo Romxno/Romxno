@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [openmax 0.9.42](https://pypi.org/project/openmax/0.9.42/)
-- [Covalo raises €3.5M to become the shared data infrastructure for an industry where 80% of products will need reformulating by 2030](https://thenextweb.com/news/covalo-3-5m-hi-inov-personal-care-data-infrastructure/)
-- [Tech layoffs: India once again in the crosshairs, with 1 in 3 laid off by Oracle based here](https://economictimes.indiatimes.com/tech/technology/tech-layoffs-india-once-again-in-the-crosshairs-with-1-in-3-laid-off-by-oracle-based-here/articleshow/129970044.cms)
-- [Angel One CEO Dinesh Thakkar on India Stock Market Outlook](https://www.thehindubusinessline.com/multimedia/video/angel-one-dinesh-thakkar-retail-participation-india-investment-growth/article70814588.ece)
-- [zyndai-agent 0.3.2](https://pypi.org/project/zyndai-agent/0.3.2/)
+- [Markets underpricing West Asia risks; oil shock could turn ‘systemic’, warns Jefferies](https://www.thehindubusinessline.com/markets/markets-underpricing-west-asia-risks-oil-shock-could-turn-systemic-warns-jefferies/article70818875.ece)
+- [micropaw 0.2.3](https://pypi.org/project/micropaw/0.2.3/)
+- [drun 7.2.7](https://pypi.org/project/drun/7.2.7/)
+- [craft-code 0.1.2](https://pypi.org/project/craft-code/0.1.2/)
+- [Why Iran targeted Amazon data centres, what that does – and doesn’t – change about warfare](https://www.thehindubusinessline.com/news/world/why-iran-targeted-amazon-data-centres-what-that-does-and-doesnt-change-about-warfare/article70818873.ece)
 <!-- NEWS_SECTION_END -->
 
 
