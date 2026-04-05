@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Markets underpricing West Asia risks; oil shock could turn ‘systemic’, warns Jefferies](https://www.thehindubusinessline.com/markets/markets-underpricing-west-asia-risks-oil-shock-could-turn-systemic-warns-jefferies/article70818875.ece)
-- [micropaw 0.2.3](https://pypi.org/project/micropaw/0.2.3/)
-- [drun 7.2.7](https://pypi.org/project/drun/7.2.7/)
-- [craft-code 0.1.2](https://pypi.org/project/craft-code/0.1.2/)
-- [Why Iran targeted Amazon data centres, what that does – and doesn’t – change about warfare](https://www.thehindubusinessline.com/news/world/why-iran-targeted-amazon-data-centres-what-that-does-and-doesnt-change-about-warfare/article70818873.ece)
+- [appium-mcp 0.1.2](https://pypi.org/project/appium-mcp/0.1.2/)
+- [China proposes new rules to regulate AI “digital humans” and protect minors](https://www.medianama.com/2026/04/223-china-proposes-new-rules-regulate-ai-digital-humans-protect-minors/)
+- [Git Isn’t Just for Developers. It Might Be the Best Writing Tool Ever](https://itsfoss.com/opinion/git-plain-text-writing/)
+- [maid-runner 2.2.3](https://pypi.org/project/maid-runner/2.2.3/)
+- [agno-mnemopay added to PyPI](https://pypi.org/project/agno-mnemopay/)
 <!-- NEWS_SECTION_END -->
 
 
