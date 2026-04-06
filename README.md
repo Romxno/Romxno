@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [appium-mcp 0.1.2](https://pypi.org/project/appium-mcp/0.1.2/)
-- [China proposes new rules to regulate AI “digital humans” and protect minors](https://www.medianama.com/2026/04/223-china-proposes-new-rules-regulate-ai-digital-humans-protect-minors/)
-- [Git Isn’t Just for Developers. It Might Be the Best Writing Tool Ever](https://itsfoss.com/opinion/git-plain-text-writing/)
-- [maid-runner 2.2.3](https://pypi.org/project/maid-runner/2.2.3/)
-- [agno-mnemopay added to PyPI](https://pypi.org/project/agno-mnemopay/)
+- [kailash-pact 0.7.1](https://pypi.org/project/kailash-pact/0.7.1/)
+- [3 habits that help manage your ADHD in academia (and one that doesn’t)](https://thesiswhisperer.com/2026/04/05/3-habits-that-help-manage-your-adhd-in-academia-and-one-that-doesnt/)
+- [nepali-ai-tools added to PyPI](https://pypi.org/project/nepali-ai-tools/)
+- [agent-puter 1.0.0](https://pypi.org/project/agent-puter/1.0.0/)
+- [IIM Sambalpur awards degrees to 416 graduates at 10th convocation, with over 70% women candidates](https://indianexpress.com/article/education/iim-sambalpur-awards-degrees-to-416-graduates-at-10th-convocation-with-over-70-women-candidates-10619826/)
 <!-- NEWS_SECTION_END -->
 
 
