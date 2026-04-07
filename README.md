@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [kailash-pact 0.7.1](https://pypi.org/project/kailash-pact/0.7.1/)
-- [3 habits that help manage your ADHD in academia (and one that doesn’t)](https://thesiswhisperer.com/2026/04/05/3-habits-that-help-manage-your-adhd-in-academia-and-one-that-doesnt/)
-- [nepali-ai-tools added to PyPI](https://pypi.org/project/nepali-ai-tools/)
-- [agent-puter 1.0.0](https://pypi.org/project/agent-puter/1.0.0/)
-- [IIM Sambalpur awards degrees to 416 graduates at 10th convocation, with over 70% women candidates](https://indianexpress.com/article/education/iim-sambalpur-awards-degrees-to-416-graduates-at-10th-convocation-with-over-70-women-candidates-10619826/)
+- [Intel Arc Pro B70 is the best-selling workstation GPU on Newegg, with 32GB for under $1,000](https://www.tweaktown.com/news/110889/intel-arc-pro-b70-is-the-best-selling-workstation-gpu-on-newegg-with-32gb-for-under-dollars1000/index.html)
+- [energyscope-mcp 2.5.0](https://pypi.org/project/energyscope-mcp/2.5.0/)
+- [cvm-vnc 0.2.0](https://pypi.org/project/cvm-vnc/0.2.0/)
+- [Supermicro soared because of $4 trillion Nvidia—but Jensen Huang can walk away any time he wants](https://fortune.com/2026/04/06/supermicro-nvidia-jensen-huang-charles-liang-wally-liaw/)
+- [EUROTRASH: Readers Rate Flanders ’26!](https://pezcyclingnews.com/latestnews/tour-of-flanders-debate-vollering-eurotrash-cycling-news-2026/)
 <!-- NEWS_SECTION_END -->
 
 
