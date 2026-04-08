@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Intel Arc Pro B70 is the best-selling workstation GPU on Newegg, with 32GB for under $1,000](https://www.tweaktown.com/news/110889/intel-arc-pro-b70-is-the-best-selling-workstation-gpu-on-newegg-with-32gb-for-under-dollars1000/index.html)
-- [energyscope-mcp 2.5.0](https://pypi.org/project/energyscope-mcp/2.5.0/)
-- [cvm-vnc 0.2.0](https://pypi.org/project/cvm-vnc/0.2.0/)
-- [Supermicro soared because of $4 trillion Nvidia—but Jensen Huang can walk away any time he wants](https://fortune.com/2026/04/06/supermicro-nvidia-jensen-huang-charles-liang-wally-liaw/)
-- [EUROTRASH: Readers Rate Flanders ’26!](https://pezcyclingnews.com/latestnews/tour-of-flanders-debate-vollering-eurotrash-cycling-news-2026/)
+- [FORMLOVA – Chat-first form operations powered by MCP](https://betalist.com/startups/formlova)
+- [agentgraph-trust 0.3.0](https://pypi.org/project/agentgraph-trust/0.3.0/)
+- [openmax 0.9.44](https://pypi.org/project/openmax/0.9.44/)
+- [Korean chip suppliers face second year of price cuts despite AI boom](https://www.digitimes.com/news/a20260407PD208/samsung-sk-hynix-supply-chain-price-cuts-2025.html)
+- [aibrain 1.2.10](https://pypi.org/project/aibrain/1.2.10/)
 <!-- NEWS_SECTION_END -->
 
 
