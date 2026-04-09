@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [FORMLOVA – Chat-first form operations powered by MCP](https://betalist.com/startups/formlova)
-- [agentgraph-trust 0.3.0](https://pypi.org/project/agentgraph-trust/0.3.0/)
-- [openmax 0.9.44](https://pypi.org/project/openmax/0.9.44/)
-- [Korean chip suppliers face second year of price cuts despite AI boom](https://www.digitimes.com/news/a20260407PD208/samsung-sk-hynix-supply-chain-price-cuts-2025.html)
-- [aibrain 1.2.10](https://pypi.org/project/aibrain/1.2.10/)
+- [Conflicting reports cloud foldable iPhone launch as Samsung stays on track](https://www.sammobile.com/news/foldable-iphone-launch-timeline-conflicting-reports-samsung-on-track/)
+- [augint-tools 0.1.0](https://pypi.org/project/augint-tools/0.1.0/)
+- [surfacia added to PyPI](https://pypi.org/project/surfacia/)
+- [Global Power Solutions Signs LOI to Evaluate Data Centre Power Development that Could Support Up to 100 MW of Decentralized Energy Infrastructure in North America](https://financialpost.com/globe-newswire/global-power-solutions-signs-loi-to-evaluate-data-centre-power-development-that-could-support-up-to-100-mw-of-decentralized-energy-infrastructure-in-north-america)
+- [Google Gemini for Home Early Access Expands to 16 New Countries Across Europe and APAC](https://www.thurrott.com/?p=334660)
 <!-- NEWS_SECTION_END -->
 
 
