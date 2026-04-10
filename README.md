@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Conflicting reports cloud foldable iPhone launch as Samsung stays on track](https://www.sammobile.com/news/foldable-iphone-launch-timeline-conflicting-reports-samsung-on-track/)
-- [augint-tools 0.1.0](https://pypi.org/project/augint-tools/0.1.0/)
-- [surfacia added to PyPI](https://pypi.org/project/surfacia/)
-- [Global Power Solutions Signs LOI to Evaluate Data Centre Power Development that Could Support Up to 100 MW of Decentralized Energy Infrastructure in North America](https://financialpost.com/globe-newswire/global-power-solutions-signs-loi-to-evaluate-data-centre-power-development-that-could-support-up-to-100-mw-of-decentralized-energy-infrastructure-in-north-america)
-- [Google Gemini for Home Early Access Expands to 16 New Countries Across Europe and APAC](https://www.thurrott.com/?p=334660)
+- [Apple’s self-designed AI server chip “Baltra” may be manufactured by TSMC](http://technode.com/2026/04/09/apples-self-designed-ai-server-chip-baltra-may-be-manufactured-by-tsmc-using-3nm-n3e-process/)
+- [The 8 at 8: Thursday](https://www.thejournal.ie/morning-news-rundown-thursday-april-7007149-Apr2026/)
+- [spaik-sdk 0.8.0](https://pypi.org/project/spaik-sdk/0.8.0/)
+- [p2d-deepseek added to PyPI](https://pypi.org/project/p2d-deepseek/)
+- [agentiva 0.1.5](https://pypi.org/project/agentiva/0.1.5/)
 <!-- NEWS_SECTION_END -->
 
 
