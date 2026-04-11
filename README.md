@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Apple’s self-designed AI server chip “Baltra” may be manufactured by TSMC](http://technode.com/2026/04/09/apples-self-designed-ai-server-chip-baltra-may-be-manufactured-by-tsmc-using-3nm-n3e-process/)
-- [The 8 at 8: Thursday](https://www.thejournal.ie/morning-news-rundown-thursday-april-7007149-Apr2026/)
-- [spaik-sdk 0.8.0](https://pypi.org/project/spaik-sdk/0.8.0/)
-- [p2d-deepseek added to PyPI](https://pypi.org/project/p2d-deepseek/)
-- [agentiva 0.1.5](https://pypi.org/project/agentiva/0.1.5/)
+- [More than a tracker, SATELLAI seeks to redefine smart pet care](http://technode.com/2026/04/10/more-than-a-tracker-satellai-seeks-to-redefine-smart-pet-care/)
+- [meshcode 2.0.5](https://pypi.org/project/meshcode/2.0.5/)
+- [ASX 200 Top Gainers: Telix Pharma Jumps 3.23% on FDA Nod as Healthcare Leads Mixed Session Amid Oil Rebound](https://www.ibtimes.com.au/asx-200-top-gainers-telix-pharma-jumps-323-fda-nod-healthcare-leads-mixed-session-amid-oil-1866006)
+- [Emerging-Market Stocks Set for Best Weekly Gain Since 2020 Before Iran Talks](https://financialpost.com/pmn/business-pmn/emerging-market-stocks-set-for-best-weekly-gain-since-2020-before-iran-talks)
+- [zitguard added to PyPI](https://pypi.org/project/zitguard/)
 <!-- NEWS_SECTION_END -->
 
 
