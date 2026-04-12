@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [More than a tracker, SATELLAI seeks to redefine smart pet care](http://technode.com/2026/04/10/more-than-a-tracker-satellai-seeks-to-redefine-smart-pet-care/)
-- [meshcode 2.0.5](https://pypi.org/project/meshcode/2.0.5/)
-- [ASX 200 Top Gainers: Telix Pharma Jumps 3.23% on FDA Nod as Healthcare Leads Mixed Session Amid Oil Rebound](https://www.ibtimes.com.au/asx-200-top-gainers-telix-pharma-jumps-323-fda-nod-healthcare-leads-mixed-session-amid-oil-1866006)
-- [Emerging-Market Stocks Set for Best Weekly Gain Since 2020 Before Iran Talks](https://financialpost.com/pmn/business-pmn/emerging-market-stocks-set-for-best-weekly-gain-since-2020-before-iran-talks)
-- [zitguard added to PyPI](https://pypi.org/project/zitguard/)
+- [Beat the energy crisis: The ultimate EV home-charging setup tested](https://www.autocar.co.uk/car-news/electric-cars/beat-energy-crisis-ultimate-ev-home-charging-setup-tested)
+- [Wikipedia Is The Most Human Place On The Internet](https://slate.com/podcasts/icymi/2026/04/wikipedia-is-the-most-human-place-on-the-internet)
+- [TeachQuill – Plan lessons, build quizzes, and align to standards in seconds](https://betalist.com/startups/teachquill)
+- [ICYMI - Wikipedia Is The Most Human Place On The Internet](https://shows.acast.com/icymi/episodes/69d9a8ddaf4db69e0d204a1c)
+- [privylayer 0.1.4](https://pypi.org/project/privylayer/0.1.4/)
 <!-- NEWS_SECTION_END -->
 
 
