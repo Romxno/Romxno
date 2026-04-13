@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Beat the energy crisis: The ultimate EV home-charging setup tested](https://www.autocar.co.uk/car-news/electric-cars/beat-energy-crisis-ultimate-ev-home-charging-setup-tested)
-- [Wikipedia Is The Most Human Place On The Internet](https://slate.com/podcasts/icymi/2026/04/wikipedia-is-the-most-human-place-on-the-internet)
-- [TeachQuill – Plan lessons, build quizzes, and align to standards in seconds](https://betalist.com/startups/teachquill)
-- [ICYMI - Wikipedia Is The Most Human Place On The Internet](https://shows.acast.com/icymi/episodes/69d9a8ddaf4db69e0d204a1c)
-- [privylayer 0.1.4](https://pypi.org/project/privylayer/0.1.4/)
+- [meshcode 2.5.0](https://pypi.org/project/meshcode/2.5.0/)
+- [TCS makes 25,000 fresher offers in FY27, says more hiring hinges on demand: Report](https://www.livemint.com/companies/news/tcs-makes-25-000-fresher-offers-in-fy27-says-more-hiring-hinges-on-demand-report-11775977193435.html)
+- [skcapstone 0.6.3](https://pypi.org/project/skcapstone/0.6.3/)
+- [aya-ai-assist 1.25.0](https://pypi.org/project/aya-ai-assist/1.25.0/)
+- [sygen 1.2.38](https://pypi.org/project/sygen/1.2.38/)
 <!-- NEWS_SECTION_END -->
 
 
