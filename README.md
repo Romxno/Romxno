@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [meshcode 2.5.0](https://pypi.org/project/meshcode/2.5.0/)
-- [TCS makes 25,000 fresher offers in FY27, says more hiring hinges on demand: Report](https://www.livemint.com/companies/news/tcs-makes-25-000-fresher-offers-in-fy27-says-more-hiring-hinges-on-demand-report-11775977193435.html)
-- [skcapstone 0.6.3](https://pypi.org/project/skcapstone/0.6.3/)
-- [aya-ai-assist 1.25.0](https://pypi.org/project/aya-ai-assist/1.25.0/)
-- [sygen 1.2.38](https://pypi.org/project/sygen/1.2.38/)
+- [Why Your AI App Matters, What's Draining Your iPad & How TSA Digital ID Works](https://www.macgeekgab.com/episode/1137/)
+- [agloom 0.1.1](https://pypi.org/project/agloom/0.1.1/)
+- [NAB 2026, Via LA, and the Future of NDI|HX](https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=174341)
+- [Anthropic Mythos Reveals Pandora’s Box Of AI Extensional Risks And For Safety Sakes Not Yet Publicly Released](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_80eb2a69-4d53-4005-9f63-81214c284adc)
+- [Why China’s AI Models Are Secretly Struggling With Complex Reasoning](https://www.geeky-gadgets.com/china-ai-benchmark-gap/)
 <!-- NEWS_SECTION_END -->
 
 
