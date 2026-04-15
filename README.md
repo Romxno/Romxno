@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Why Your AI App Matters, What's Draining Your iPad & How TSA Digital ID Works](https://www.macgeekgab.com/episode/1137/)
-- [agloom 0.1.1](https://pypi.org/project/agloom/0.1.1/)
-- [NAB 2026, Via LA, and the Future of NDI|HX](https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=174341)
-- [Anthropic Mythos Reveals Pandora’s Box Of AI Extensional Risks And For Safety Sakes Not Yet Publicly Released](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_80eb2a69-4d53-4005-9f63-81214c284adc)
-- [Why China’s AI Models Are Secretly Struggling With Complex Reasoning](https://www.geeky-gadgets.com/china-ai-benchmark-gap/)
+- [The 2027 Mercedes EQS gets a big boost in range and charging performance](https://acquiremag.com/cars/the-2027-mercedes-eqs-gets-a-big-boost-in-range-and-charging-performance/)
+- [aicd 1.4.6](https://pypi.org/project/aicd/1.4.6/)
+- [skill 0.1.6](https://pypi.org/project/skill/0.1.6/)
+- [Chinese SSD Maker, PetaIO, Unveils PCIe Gen6 SSD With CXL 3.0: Over 28 GB/s & 50M IOPS](https://wccftech.com/chinese-ssd-maker-petaio-unveils-pcie-gen6-ssd-cxl-3-0-28-gbps-50m-iops/)
+- [Bitget lists Genius (GENIUS) for Spot Trading](https://www.globenewswire.com/news-release/2026/04/14/3273029/0/en/Bitget-lists-Genius-GENIUS-for-Spot-Trading.html)
 <!-- NEWS_SECTION_END -->
 
 
