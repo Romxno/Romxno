@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [The 2027 Mercedes EQS gets a big boost in range and charging performance](https://acquiremag.com/cars/the-2027-mercedes-eqs-gets-a-big-boost-in-range-and-charging-performance/)
-- [aicd 1.4.6](https://pypi.org/project/aicd/1.4.6/)
-- [skill 0.1.6](https://pypi.org/project/skill/0.1.6/)
-- [Chinese SSD Maker, PetaIO, Unveils PCIe Gen6 SSD With CXL 3.0: Over 28 GB/s & 50M IOPS](https://wccftech.com/chinese-ssd-maker-petaio-unveils-pcie-gen6-ssd-cxl-3-0-28-gbps-50m-iops/)
-- [Bitget lists Genius (GENIUS) for Spot Trading](https://www.globenewswire.com/news-release/2026/04/14/3273029/0/en/Bitget-lists-Genius-GENIUS-for-Spot-Trading.html)
+- [feishu-bridge 2026.4.15.1](https://pypi.org/project/feishu-bridge/2026.4.15.1/)
+- [fitmyllm 0.3.76](https://pypi.org/project/fitmyllm/0.3.76/)
+- [PlanHub Appoints David Fleischman as Chief Product Officer](https://apnews.com/press-release/pr-newswire/planhub-appoints-david-fleischman-as-chief-product-officer-a45a2fd3b4f74f888ac35f3bd6d43349)
+- [FluidStack is in talks to raise $1B at an $18B valuation](https://thenextweb.com/news/fluidstack-is-in-talks-to-raise-1b-at-an-18b-valuation/)
+- [toolrate 0.3.4](https://pypi.org/project/toolrate/0.3.4/)
 <!-- NEWS_SECTION_END -->
 
 
