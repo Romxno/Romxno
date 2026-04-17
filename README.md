@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [feishu-bridge 2026.4.15.1](https://pypi.org/project/feishu-bridge/2026.4.15.1/)
-- [fitmyllm 0.3.76](https://pypi.org/project/fitmyllm/0.3.76/)
-- [PlanHub Appoints David Fleischman as Chief Product Officer](https://apnews.com/press-release/pr-newswire/planhub-appoints-david-fleischman-as-chief-product-officer-a45a2fd3b4f74f888ac35f3bd6d43349)
-- [FluidStack is in talks to raise $1B at an $18B valuation](https://thenextweb.com/news/fluidstack-is-in-talks-to-raise-1b-at-an-18b-valuation/)
-- [toolrate 0.3.4](https://pypi.org/project/toolrate/0.3.4/)
+- [vibe-trade 0.2.2](https://pypi.org/project/vibe-trade/0.2.2/)
+- [augint-shell 0.76.0](https://pypi.org/project/augint-shell/0.76.0/)
+- [drift-analyzer 2.11.0](https://pypi.org/project/drift-analyzer/2.11.0/)
+- [Quantum computing pioneer Chad Rigetti is back](https://thenextweb.com/news/sygaldry-139m-quantum-accelerated-ai-servers-rigetti/)
+- [tethr-engine 0.3.0](https://pypi.org/project/tethr-engine/0.3.0/)
 <!-- NEWS_SECTION_END -->
 
 
