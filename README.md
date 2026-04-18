@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [vibe-trade 0.2.2](https://pypi.org/project/vibe-trade/0.2.2/)
-- [augint-shell 0.76.0](https://pypi.org/project/augint-shell/0.76.0/)
-- [drift-analyzer 2.11.0](https://pypi.org/project/drift-analyzer/2.11.0/)
-- [Quantum computing pioneer Chad Rigetti is back](https://thenextweb.com/news/sygaldry-139m-quantum-accelerated-ai-servers-rigetti/)
-- [tethr-engine 0.3.0](https://pypi.org/project/tethr-engine/0.3.0/)
+- [pulumi-postgresql 3.17.0a1776408336](https://pypi.org/project/pulumi-postgresql/3.17.0a1776408336/)
+- [skill-graphs 0.1.39](https://pypi.org/project/skill-graphs/0.1.39/)
+- [AWS Launches Agent Registry in Preview to Govern AI Agent Sprawl Across Enterprises](https://www.infoq.com/news/2026/04/aws-agent-registry-preview/)
+- [AWS Launches Agent Registry in Preview to Govern AI Agent Sprawl Across Enterprises](https://www.infoq.com/news/2026/04/aws-agent-registry-preview/)
+- [pulumi-pagerduty 4.32.0a1776408279](https://pypi.org/project/pulumi-pagerduty/4.32.0a1776408279/)
 <!-- NEWS_SECTION_END -->
 
 
