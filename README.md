@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [clawsentry 0.5.2](https://pypi.org/project/clawsentry/0.5.2/)
-- [onnx-web-optimizer added to PyPI](https://pypi.org/project/onnx-web-optimizer/)
-- [Circus Reports Strong Q1 2026 Operational Progress, Accelerates Defence Growth and Expands Product Portfolio](https://apnews.com/press-release/business-wire/circus-reports-strong-q1-2026-operational-progress-accelerates-defence-growth-and-expands-product-portfolio-ee96ffa58d2e4dc3a8de5591dc170044)
-- [cognitive-scoring added to PyPI](https://pypi.org/project/cognitive-scoring/)
-- [cloudmesh-ai-release 0.1.5](https://pypi.org/project/cloudmesh-ai-release/0.1.5/)
+- [Why the $259 Rokid AI Glasses Actually Beat the Ray-Ban Meta](https://www.geeky-gadgets.com/rokid-vs-ray-ban-meta/)
+- [Mastrogeorgiou to ProtoThema: Deepfakes in elections, Greece’s AI Factory ‘Faros’, and the two risks of AI](https://en.protothema.gr/2026/04/22/mastrogeorgiou-to-protothema-deepfakes-in-elections-greeces-ai-factory-faros-and-the-two-risks-of-ai/)
+- [Anthropic probes unauthorized access to Mythos AI model](https://www.digitaljournal.com/business/anthropic-probes-unauthorized-access-to-mythos-ai-model/article)
+- [Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape](https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html)
+- [SK Hynix Answers the HBM Shortage With a 32-Soccer-Field Mega-Fab, P&T7 Dedicated To HBM Production, Ready By 2028](https://wccftech.com/sk-hynix-answers-hbm-shortage-with-a-32-soccer-field-mega-fab-pt7-dedicated-to-hbm/)
 <!-- NEWS_SECTION_END -->
 
 
