@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [symvion 0.3.7](https://pypi.org/project/symvion/0.3.7/)
-- [cataforge 0.1.3](https://pypi.org/project/cataforge/0.1.3/)
-- [How AI Is Rearchitecting Lending](https://www.forrester.com/blogs/how-ai-is-rearchitecting-lending/)
-- [yoru-cli 0.1.1](https://pypi.org/project/yoru-cli/0.1.1/)
-- [JEDEC Previews LPDDR6 Memory With SOCAMM2 Modules & 512 GB Capacities, Clearing the Path for Next-Gen AI Servers](https://wccftech.com/jedec-lpddr6-memory-socamm2-modules-512-gb-capacities/)
+- [Top eight Chinese AI firms challenging US giants](https://punchng.com/top-eight-chinese-ai-firms-challenging-us-giants/)
+- [Government adoption of AI agents could outpace the private sector](https://www.zdnet.com/article/government-adoption-of-ai-agents-may-outpace-the-private-sector/)
+- [Verda raises $117 million to expand its GPU cloud platform from the Nordics into the US, UK, and Asia](https://thenextweb.com/news/verda-117m-funding-lifeline-ventures-ai-cloud/)
+- [Former Netflix Exec Sara May Launches French Action & Genre Banner Sonderworld With Backing From Goodfellas](http://deadline.com/2026/04/sara-may-sonderworld-netflix-goodfellas-action-1236870564/)
+- [iOS 27 Could Be Apple’s ‘Snow Leopard’ Moment—Focusing on One Huge Change](https://www.geeky-gadgets.com/ios-27-snow-leopard/)
 <!-- NEWS_SECTION_END -->
 
 
