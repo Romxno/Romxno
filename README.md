@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Top eight Chinese AI firms challenging US giants](https://punchng.com/top-eight-chinese-ai-firms-challenging-us-giants/)
-- [Government adoption of AI agents could outpace the private sector](https://www.zdnet.com/article/government-adoption-of-ai-agents-may-outpace-the-private-sector/)
-- [Verda raises $117 million to expand its GPU cloud platform from the Nordics into the US, UK, and Asia](https://thenextweb.com/news/verda-117m-funding-lifeline-ventures-ai-cloud/)
-- [Former Netflix Exec Sara May Launches French Action & Genre Banner Sonderworld With Backing From Goodfellas](http://deadline.com/2026/04/sara-may-sonderworld-netflix-goodfellas-action-1236870564/)
-- [iOS 27 Could Be Apple’s ‘Snow Leopard’ Moment—Focusing on One Huge Change](https://www.geeky-gadgets.com/ios-27-snow-leopard/)
+- [llmevalkit 5.0.0](https://pypi.org/project/llmevalkit/5.0.0/)
+- [Understanding The Psychology Of The Grim-Keeping Dating Trend By Getting Personal Advice From AI Such As ChatGPT](https://www.forbes.com/sites/lanceeliot/2026/04/25/understanding-the-psychology-of-the-grim-keeping-dating-trend-by-getting-personal-advice-from-ai-such-as-chatgpt/)
+- [unichat 4.3.2](https://pypi.org/project/unichat/4.3.2/)
+- [aibrain 1.5.31](https://pypi.org/project/aibrain/1.5.31/)
+- [lobster-ai 1.1.414](https://pypi.org/project/lobster-ai/1.1.414/)
 <!-- NEWS_SECTION_END -->
 
 
