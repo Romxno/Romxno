@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [llmevalkit 5.0.0](https://pypi.org/project/llmevalkit/5.0.0/)
-- [Understanding The Psychology Of The Grim-Keeping Dating Trend By Getting Personal Advice From AI Such As ChatGPT](https://www.forbes.com/sites/lanceeliot/2026/04/25/understanding-the-psychology-of-the-grim-keeping-dating-trend-by-getting-personal-advice-from-ai-such-as-chatgpt/)
-- [unichat 4.3.2](https://pypi.org/project/unichat/4.3.2/)
-- [aibrain 1.5.31](https://pypi.org/project/aibrain/1.5.31/)
-- [lobster-ai 1.1.414](https://pypi.org/project/lobster-ai/1.1.414/)
+- [Get Office 2024 & training courses for just $114](https://www.pcworld.com/article/3123052/get-office-2024-training-courses-for-just-114.html)
+- [‘You feel radicalized’: A Meta AI exec watched agents beat her top workers. Now she’s built a nonprofit to help Gen Z find jobs before they disappear](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bcf698d6-892c-4a4c-bd99-6a1396e0f97c)
+- [‘You feel radicalized’: A Meta AI exec watched agents beat her top workers. Now she’s built a nonprofit to help Gen Z find jobs before they disappear](https://fortune.com/2026/04/26/meta-salesforce-exec-ai-agents-gen-z-jobs-nonprofit/)
+- [You don’t need a scanner anymore — just this $25.97 app](https://www.macworld.com/article/3123330/you-dont-need-a-scanner-anymore-just-this-25-97-app.html)
+- [U.S. energy exports reach record high amid Iran war disruptions](https://koreajoongangdaily.joins.com/news/2026-04-26/business/industry/US-energy-exports-reach-record-high-amid-Iran-war-disruptions/2578079)
 <!-- NEWS_SECTION_END -->
 
 
