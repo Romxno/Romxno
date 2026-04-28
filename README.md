@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Get Office 2024 & training courses for just $114](https://www.pcworld.com/article/3123052/get-office-2024-training-courses-for-just-114.html)
-- [‘You feel radicalized’: A Meta AI exec watched agents beat her top workers. Now she’s built a nonprofit to help Gen Z find jobs before they disappear](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bcf698d6-892c-4a4c-bd99-6a1396e0f97c)
-- [‘You feel radicalized’: A Meta AI exec watched agents beat her top workers. Now she’s built a nonprofit to help Gen Z find jobs before they disappear](https://fortune.com/2026/04/26/meta-salesforce-exec-ai-agents-gen-z-jobs-nonprofit/)
-- [You don’t need a scanner anymore — just this $25.97 app](https://www.macworld.com/article/3123330/you-dont-need-a-scanner-anymore-just-this-25-97-app.html)
-- [U.S. energy exports reach record high amid Iran war disruptions](https://koreajoongangdaily.joins.com/news/2026-04-26/business/industry/US-energy-exports-reach-record-high-amid-Iran-war-disruptions/2578079)
+- [Simply Contact Launches AI Call Simulation Onboarding Program for Multilingual Contact Center Agents](https://www.globenewswire.com/news-release/2026/04/27/3281331/0/en/Simply-Contact-Launches-AI-Call-Simulation-Onboarding-Program-for-Multilingual-Contact-Center-Agents.html)
+- [Plain Text Editor By MCK](https://iphone.giveawayoftheday.com/plain-text-editor-by-mck/)
+- [Agentic Commerce Forces a Rethink of Card Infrastructure](https://www.pymnts.com/news/payments-innovation/2026/agentic-commerce-forces-a-rethink-of-card-infrastructure/)
+- [The Intelligent Spend Shift: How Card Platforms Can Prepare for Agentic Commerce](https://www.pymnts.com/tracker_posts/the-intelligent-spend-shift-how-card-platforms-can-prepare-for-agentic-commerce/)
+- [Affirm: Agentic Credit Rewrites the Rules of Consumer Lending](https://www.pymnts.com/consumer-finance/2026/affirm-agentic-credit-rewrites-the-rules-of-consumer-lending/)
 <!-- NEWS_SECTION_END -->
 
 
