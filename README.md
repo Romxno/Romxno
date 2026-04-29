@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Simply Contact Launches AI Call Simulation Onboarding Program for Multilingual Contact Center Agents](https://www.globenewswire.com/news-release/2026/04/27/3281331/0/en/Simply-Contact-Launches-AI-Call-Simulation-Onboarding-Program-for-Multilingual-Contact-Center-Agents.html)
-- [Plain Text Editor By MCK](https://iphone.giveawayoftheday.com/plain-text-editor-by-mck/)
-- [Agentic Commerce Forces a Rethink of Card Infrastructure](https://www.pymnts.com/news/payments-innovation/2026/agentic-commerce-forces-a-rethink-of-card-infrastructure/)
-- [The Intelligent Spend Shift: How Card Platforms Can Prepare for Agentic Commerce](https://www.pymnts.com/tracker_posts/the-intelligent-spend-shift-how-card-platforms-can-prepare-for-agentic-commerce/)
-- [Affirm: Agentic Credit Rewrites the Rules of Consumer Lending](https://www.pymnts.com/consumer-finance/2026/affirm-agentic-credit-rewrites-the-rules-of-consumer-lending/)
+- [Valve have plans for the Steam Deck 2, plus a brief Steam Machine / Steam Frame update](https://www.gamingonlinux.com/2026/04/valve-have-plans-for-the-steam-deck-2-plus-a-brief-steam-machine-steam-frame-update/.)
+- [The Hormuz digital chokepoint: Where oil, war and the internet collide](https://economictimes.indiatimes.com/news/international/world-news/the-hormuz-digital-chokepoint-where-oil-war-and-the-internet-collide/articleshow/130573562.cms)
+- [The Hormuz digital chokepoint: Where oil, war and the internet collide](https://economictimes.indiatimes.com/news/international/world-news/the-hormuz-digital-chokepoint-where-oil-war-and-the-internet-collide/articleshow/130573490.cms)
+- [UK Biobank records listed for sale in China: why open data might be the answer](https://theconversation.com/uk-biobank-records-listed-for-sale-in-china-why-open-data-might-be-the-answer-281388)
+- [pysae-ai-tools 0.1.838](https://pypi.org/project/pysae-ai-tools/0.1.838/)
 <!-- NEWS_SECTION_END -->
 
 
