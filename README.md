@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Valve have plans for the Steam Deck 2, plus a brief Steam Machine / Steam Frame update](https://www.gamingonlinux.com/2026/04/valve-have-plans-for-the-steam-deck-2-plus-a-brief-steam-machine-steam-frame-update/.)
-- [The Hormuz digital chokepoint: Where oil, war and the internet collide](https://economictimes.indiatimes.com/news/international/world-news/the-hormuz-digital-chokepoint-where-oil-war-and-the-internet-collide/articleshow/130573562.cms)
-- [The Hormuz digital chokepoint: Where oil, war and the internet collide](https://economictimes.indiatimes.com/news/international/world-news/the-hormuz-digital-chokepoint-where-oil-war-and-the-internet-collide/articleshow/130573490.cms)
-- [UK Biobank records listed for sale in China: why open data might be the answer](https://theconversation.com/uk-biobank-records-listed-for-sale-in-china-why-open-data-might-be-the-answer-281388)
-- [pysae-ai-tools 0.1.838](https://pypi.org/project/pysae-ai-tools/0.1.838/)
+- [The Data Moat Is Getting an AI Upgrade](https://www.pymnts.com/data/2026/the-data-moat-is-getting-an-ai-upgrade/)
+- [China Data Center Colocation Databook Report 2026: Service Type, Facility Architecture, Customer Segment, AI and Non AI Workloads, End Use Sector, Capacity Pipeline, Financial Metrics 2021-2030](https://www.globenewswire.com/news-release/2026/04/29/3283486/28124/en/China-Data-Center-Colocation-Databook-Report-2026-Service-Type-Facility-Architecture-Customer-Segment-AI-and-Non-AI-Workloads-End-Use-Sector-Capacity-Pipeline-Financial-Metrics-202.html)
+- [All3 raises $25m to automate construction with legged robots and AI design software](https://thenextweb.com/news/all3-25m-seed-construction-robots-ai-housing/)
+- [Steam update adds battery indicator for wireless gamepads, quick chat, remote downloads management and more](https://www.gamingonlinux.com/2026/04/steam-update-adds-battery-indicator-for-wireless-gamepads-quick-chat-remote-downloads-management-and-more/.)
+- [FIS Says Agentic Commerce Needs Proof, Not Promises](https://www.pymnts.com/opinion/2026/fis-says-agentic-commerce-needs-proof-not-promises/)
 <!-- NEWS_SECTION_END -->
 
 
