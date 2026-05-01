@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [The Data Moat Is Getting an AI Upgrade](https://www.pymnts.com/data/2026/the-data-moat-is-getting-an-ai-upgrade/)
-- [China Data Center Colocation Databook Report 2026: Service Type, Facility Architecture, Customer Segment, AI and Non AI Workloads, End Use Sector, Capacity Pipeline, Financial Metrics 2021-2030](https://www.globenewswire.com/news-release/2026/04/29/3283486/28124/en/China-Data-Center-Colocation-Databook-Report-2026-Service-Type-Facility-Architecture-Customer-Segment-AI-and-Non-AI-Workloads-End-Use-Sector-Capacity-Pipeline-Financial-Metrics-202.html)
-- [All3 raises $25m to automate construction with legged robots and AI design software](https://thenextweb.com/news/all3-25m-seed-construction-robots-ai-housing/)
-- [Steam update adds battery indicator for wireless gamepads, quick chat, remote downloads management and more](https://www.gamingonlinux.com/2026/04/steam-update-adds-battery-indicator-for-wireless-gamepads-quick-chat-remote-downloads-management-and-more/.)
-- [FIS Says Agentic Commerce Needs Proof, Not Promises](https://www.pymnts.com/opinion/2026/fis-says-agentic-commerce-needs-proof-not-promises/)
+- [Atos recognized as a Leader in ISG’s Provider Lens® 2026 Report for ServiceNow Ecosystem Partners](https://www.globenewswire.com/news-release/2026/04/30/3284520/0/en/Atos-recognized-as-a-Leader-in-ISG-s-Provider-Lens-2026-Report-for-ServiceNow-Ecosystem-Partners.html)
+- [Designing Stable Interfaces For Streaming Content](https://www.smashingmagazine.com/2026/04/designing-stable-interfaces-streaming-content/)
+- [GameMaker launches GMRT: The runtime professional developers have been waiting for](https://press.opera.com/2026/04/30/gamemaker-gmrt/)
+- [Exclusive: All Babbel language courses available for one lifetime price](https://www.macworld.com/article/3123289/exclusive-all-babbel-language-courses-available-for-one-lifetime-price.html)
+- [Let AI handle the repetitive stuff — MS Visual Studio makes coding easier for $35](https://www.macworld.com/article/3125512/let-ai-handle-the-repetitive-stuff-ms-visual-studio-makes-coding-easier-for-35.html)
 <!-- NEWS_SECTION_END -->
 
 
