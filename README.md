@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Atos recognized as a Leader in ISG’s Provider Lens® 2026 Report for ServiceNow Ecosystem Partners](https://www.globenewswire.com/news-release/2026/04/30/3284520/0/en/Atos-recognized-as-a-Leader-in-ISG-s-Provider-Lens-2026-Report-for-ServiceNow-Ecosystem-Partners.html)
-- [Designing Stable Interfaces For Streaming Content](https://www.smashingmagazine.com/2026/04/designing-stable-interfaces-streaming-content/)
-- [GameMaker launches GMRT: The runtime professional developers have been waiting for](https://press.opera.com/2026/04/30/gamemaker-gmrt/)
-- [Exclusive: All Babbel language courses available for one lifetime price](https://www.macworld.com/article/3123289/exclusive-all-babbel-language-courses-available-for-one-lifetime-price.html)
-- [Let AI handle the repetitive stuff — MS Visual Studio makes coding easier for $35](https://www.macworld.com/article/3125512/let-ai-handle-the-repetitive-stuff-ms-visual-studio-makes-coding-easier-for-35.html)
+- [aether-core 0.12.19](https://pypi.org/project/aether-core/0.12.19/)
+- [What Microsoft’s 10-Q Says About OpenAI](https://om.co/2026/05/01/what-microsofts-10-q-says-about-openai/)
+- [Google’s New AI Music Tool Gives You 500 Free Credits Every Day](https://www.geeky-gadgets.com/google-ai-music-generator/)
+- [cafitac-agent-memory 0.1.47](https://pypi.org/project/cafitac-agent-memory/0.1.47/)
+- [flux-git-agent added to PyPI](https://pypi.org/project/flux-git-agent/)
 <!-- NEWS_SECTION_END -->
 
 
