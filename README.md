@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [aether-core 0.12.19](https://pypi.org/project/aether-core/0.12.19/)
-- [What Microsoft’s 10-Q Says About OpenAI](https://om.co/2026/05/01/what-microsofts-10-q-says-about-openai/)
-- [Google’s New AI Music Tool Gives You 500 Free Credits Every Day](https://www.geeky-gadgets.com/google-ai-music-generator/)
-- [cafitac-agent-memory 0.1.47](https://pypi.org/project/cafitac-agent-memory/0.1.47/)
-- [flux-git-agent added to PyPI](https://pypi.org/project/flux-git-agent/)
+- [uidetox 1.4.0](https://pypi.org/project/uidetox/1.4.0/)
+- [‘Govt prioritises secure, inclusive and sustainable digital ecosystem”](https://peoplesreview.com.np/2026/05/02/govt-prioritises-secure-inclusive-and-sustainable-digital-ecosystem/)
+- [A vital midfielder remains under an injury cloud for Manchester City](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fb9c7b2b-881b-4055-8063-2563bdf84155)
+- [Show HN: Hollow is an open-sourced self-modifying agentic system](https://github.com/ninjahawk/hollow-agentOS)
+- [Show HN: Create the right image sizes for social media](https://skills.sh/branding5/social-media-image-sizes/social-media-image-sizes)
 <!-- NEWS_SECTION_END -->
 
 
