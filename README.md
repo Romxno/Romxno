@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [uidetox 1.4.0](https://pypi.org/project/uidetox/1.4.0/)
-- [‘Govt prioritises secure, inclusive and sustainable digital ecosystem”](https://peoplesreview.com.np/2026/05/02/govt-prioritises-secure-inclusive-and-sustainable-digital-ecosystem/)
-- [A vital midfielder remains under an injury cloud for Manchester City](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fb9c7b2b-881b-4055-8063-2563bdf84155)
-- [Show HN: Hollow is an open-sourced self-modifying agentic system](https://github.com/ninjahawk/hollow-agentOS)
-- [Show HN: Create the right image sizes for social media](https://skills.sh/branding5/social-media-image-sizes/social-media-image-sizes)
+- [Live3D – Edit photos with natural-language prompts in seconds](https://betalist.com/startups/live3d)
+- [Show HN: Editor, Browser, Terminal, Mail, Agents. AI Sharing Context](https://github.com/raiyanyahya/kit)
+- [I read my boyfriend's ChatGPT and it ended our relationship](https://www.businessinsider.com/i-read-my-boyfriends-chatgpt-broke-up-dont-regret-it-2026-5)
+- [molecule-ai-workspace-runtime 0.1.87](https://pypi.org/project/molecule-ai-workspace-runtime/0.1.87/)
+- [Mercury would 'still be alive': Shark victim's family welcomes new drone plan](https://www.abc.net.au/news/2026-05-03/surfers-trained-in-shark-drones-in-memory-mercury-psillakis/106634854)
 <!-- NEWS_SECTION_END -->
 
 
