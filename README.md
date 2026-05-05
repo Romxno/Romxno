@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Live3D – Edit photos with natural-language prompts in seconds](https://betalist.com/startups/live3d)
-- [Show HN: Editor, Browser, Terminal, Mail, Agents. AI Sharing Context](https://github.com/raiyanyahya/kit)
-- [I read my boyfriend's ChatGPT and it ended our relationship](https://www.businessinsider.com/i-read-my-boyfriends-chatgpt-broke-up-dont-regret-it-2026-5)
-- [molecule-ai-workspace-runtime 0.1.87](https://pypi.org/project/molecule-ai-workspace-runtime/0.1.87/)
-- [Mercury would 'still be alive': Shark victim's family welcomes new drone plan](https://www.abc.net.au/news/2026-05-03/surfers-trained-in-shark-drones-in-memory-mercury-psillakis/106634854)
+- [Around the Book World: Monday, May 4, 2026](https://publishingperspectives.com/2026/05/around-the-book-world-monday-may-4-2026/)
+- [Pentagon Signs AI Deals With OpenAI, Google, Microsoft, Nvidia, and Others, Cutting Out Anthropic](https://www.ghacks.net/2026/05/04/pentagon-signs-ai-deals-with-openai-google-microsoft-nvidia-and-others-cutting-out-anthropic/)
+- [regard-cli 0.23.2](https://pypi.org/project/regard-cli/0.23.2/)
+- [Global server market, 1Q 2026: Agentic AI sparks general-purpose server revival](https://www.digitimes.com/reports/item.php?id=20260504RS400)
+- [Lenovo Legion Y70 key specifications confirmed ahead of launch](https://www.gsmarena.com/lenovo_legion_y70_key_specifications_confirmed_ahead_of_launch-news-72656.php)
 <!-- NEWS_SECTION_END -->
 
 
