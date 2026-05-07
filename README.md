@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Around the Book World: Monday, May 4, 2026](https://publishingperspectives.com/2026/05/around-the-book-world-monday-may-4-2026/)
-- [Pentagon Signs AI Deals With OpenAI, Google, Microsoft, Nvidia, and Others, Cutting Out Anthropic](https://www.ghacks.net/2026/05/04/pentagon-signs-ai-deals-with-openai-google-microsoft-nvidia-and-others-cutting-out-anthropic/)
-- [regard-cli 0.23.2](https://pypi.org/project/regard-cli/0.23.2/)
-- [Global server market, 1Q 2026: Agentic AI sparks general-purpose server revival](https://www.digitimes.com/reports/item.php?id=20260504RS400)
-- [Lenovo Legion Y70 key specifications confirmed ahead of launch](https://www.gsmarena.com/lenovo_legion_y70_key_specifications_confirmed_ahead_of_launch-news-72656.php)
+- [Anthropic employee uses Claude Code to analyse his 12 years of chats with his girlfriend. From total number of 'I love you' to 9 pm spike, the data is hilarious](https://economictimes.indiatimes.com/magazines/panache/anthropic-employee-uses-claude-code-to-analyse-his-12-years-of-chats-with-his-girlfriend-from-total-number-of-i-love-you-to-9-pm-spike-the-data-is-hilarious/articleshow/130847004.cms)
+- [ouroboros-ai 0.34.1.dev1](https://pypi.org/project/ouroboros-ai/0.34.1.dev1/)
+- [Cries of censorship as Sydney council bars local paper from meetings](https://www.abc.net.au/news/2026-05-06/hawkesbury-gazette-barred-from-local-council-meetings/106643816)
+- [AI networking surge pushes Lumentum to record growth](https://www.digitimes.com/news/a20260506VL210/ai-infrastructure-earnings-revenue-growth-2026.html)
+- [My week inside the new Silicon Valley news rabbit hole](https://www.businessinsider.com/andreessen-horowitz-monitoring-the-situation-binge-watch-2026-5)
 <!-- NEWS_SECTION_END -->
 
 
