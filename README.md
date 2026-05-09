@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Snap says $400 million AI search deal with Perplexity was called off "amicably"](https://economictimes.indiatimes.com/tech/artificial-intelligence/400-million-ai-search-deal-with-perplexity-was-called-off-amicably-snap-in-earnings-report/articleshow/130883768.cms)
-- [Moonshot AI’s $20bn valuation seals one of China’s fastest AI funding trajectories](https://thenextweb.com/news/moonshot-ai-20bn-valuation-kimi-meituan-china-mobile/)
-- [Five Properties Make a Blockchain. The Rest Is Marketing.](https://www.linkedin.com/pulse/five-properties-make-blockchain-rest-marketing-greg-chew-qbwpf)
-- [aicode-verify added to PyPI](https://pypi.org/project/aicode-verify/)
-- [sealedmind added to PyPI](https://pypi.org/project/sealedmind/)
+- [ハリウッド基準の制作知見とAI時代のワークフローを融合。グローバル市場を見据えるVFXスタジオ「株式会社SEN PICTURES」が本格始動。海外案件、国内大型プロジェクトのスタートに伴い採用を強化](https://prtimes.jp/main/html/rd/p/000000002.000182881.html)
+- [「日本版「ネオクラウド」の事業化戦略」と題して、株式会社インフラコモンズ 代表取締役 今泉 大輔氏によるセミナーを2026年6月19日(金)に開催!!](https://prtimes.jp/main/html/rd/p/000004430.000032407.html)
+- [spec-guard 0.2.8](https://pypi.org/project/spec-guard/0.2.8/)
+- [Zcash gains 70% in a week amid growing interest in crypto privacy](https://cointelegraph.com/news/zcash-price-surges-privacy-coins-ai-surveillance-concerns)
+- [Femtech Market Outlook 2026–2031: Growing at 14.2% CAGR, Driven by Digital Women’s Health Adoption, Reports Mordor Intelligence](https://www.globenewswire.com/news-release/2026/05/08/3290833/0/en/Femtech-Market-Outlook-2026-2031-Growing-at-14-2-CAGR-Driven-by-Digital-Women-s-Health-Adoption-Reports-Mordor-Intelligence.html)
 <!-- NEWS_SECTION_END -->
 
 
