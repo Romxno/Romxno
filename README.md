@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [deepcraft-agent 0.5.0](https://pypi.org/project/deepcraft-agent/0.5.0/)
-- [striatum-orchestrator 1.11.0](https://pypi.org/project/striatum-orchestrator/1.11.0/)
-- [tgit 0.33.1](https://pypi.org/project/tgit/0.33.1/)
-- [ath-sdk added to PyPI](https://pypi.org/project/ath-sdk/)
-- [agv 0.3.8](https://pypi.org/project/agv/0.3.8/)
+- [Google Drops FAQ Rich Results From Search via @sejournal, @MattGSouthern](https://www.searchenginejournal.com/google-drops-faq-rich-results-from-search/574429/)
+- [ros-cdk-searchengine 1.13.0](https://pypi.org/project/ros-cdk-searchengine/1.13.0/)
+- [Swiggy, magicpin say delivery times improving as gig workers return to cities](https://economictimes.indiatimes.com/tech/technology/swiggy-magicpin-say-delivery-times-improving-as-gig-workers-return-to-cities/articleshow/130989559.cms)
+- [ros-cdk-ice 1.13.0](https://pypi.org/project/ros-cdk-ice/1.13.0/)
+- [aipa-cli 0.1.17](https://pypi.org/project/aipa-cli/0.1.17/)
 <!-- NEWS_SECTION_END -->
 
 
