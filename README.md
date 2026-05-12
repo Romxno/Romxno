@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Google Drops FAQ Rich Results From Search via @sejournal, @MattGSouthern](https://www.searchenginejournal.com/google-drops-faq-rich-results-from-search/574429/)
-- [ros-cdk-searchengine 1.13.0](https://pypi.org/project/ros-cdk-searchengine/1.13.0/)
-- [Swiggy, magicpin say delivery times improving as gig workers return to cities](https://economictimes.indiatimes.com/tech/technology/swiggy-magicpin-say-delivery-times-improving-as-gig-workers-return-to-cities/articleshow/130989559.cms)
-- [ros-cdk-ice 1.13.0](https://pypi.org/project/ros-cdk-ice/1.13.0/)
-- [aipa-cli 0.1.17](https://pypi.org/project/aipa-cli/0.1.17/)
+- [All aboard the voice to text train](https://bryanmanio.com/blog/all-aboard-the-voice-to-text-train/)
+- [Personal loan rates in May 2026: Compare SBI, HDFC, ICICI and other lenders with fees and EMIs](https://www.livemint.com/money/personal-finance/personal-loan-rates-in-may-2026-compare-sbi-hdfc-icici-and-other-lenders-with-fees-and-emis-11778482187343.html)
+- [Chinese AI inspection firm opens Silicon Valley HQ as US manufacturing reshores](https://www.globenewswire.com/news-release/2026/05/11/3291609/0/en/Chinese-AI-inspection-firm-opens-Silicon-Valley-HQ-as-US-manufacturing-reshores.html)
+- [llm-woodpecker 0.2.2](https://pypi.org/project/llm-woodpecker/0.2.2/)
+- [AWS Transform adds containerization capability during migrations](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-containerization/)
 <!-- NEWS_SECTION_END -->
 
 
