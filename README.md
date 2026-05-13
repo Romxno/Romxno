@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [All aboard the voice to text train](https://bryanmanio.com/blog/all-aboard-the-voice-to-text-train/)
-- [Personal loan rates in May 2026: Compare SBI, HDFC, ICICI and other lenders with fees and EMIs](https://www.livemint.com/money/personal-finance/personal-loan-rates-in-may-2026-compare-sbi-hdfc-icici-and-other-lenders-with-fees-and-emis-11778482187343.html)
-- [Chinese AI inspection firm opens Silicon Valley HQ as US manufacturing reshores](https://www.globenewswire.com/news-release/2026/05/11/3291609/0/en/Chinese-AI-inspection-firm-opens-Silicon-Valley-HQ-as-US-manufacturing-reshores.html)
-- [llm-woodpecker 0.2.2](https://pypi.org/project/llm-woodpecker/0.2.2/)
-- [AWS Transform adds containerization capability during migrations](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-containerization/)
+- [memnotary 0.1.2](https://pypi.org/project/memnotary/0.1.2/)
+- [A South Korean startup captures workers' techniques to develop AI brains for robots](https://economictimes.indiatimes.com/tech/artificial-intelligence/a-south-korean-startup-captures-workers-techniques-to-develop-ai-brains-for-robots/articleshow/131033611.cms)
+- [hellochusquis 1.4.0](https://pypi.org/project/hellochusquis/1.4.0/)
+- [Bye-Bye Narrow Screen: The Samsung Galaxy Z Fold 8 Wide Leak Reveals a Bold New Shape](https://www.geeky-gadgets.com/samsung-galaxy-z-fold-8-wide-11/)
+- [Daily Tech News 12 May 2026](https://acecomments.mu.nu/?post=419677)
 <!-- NEWS_SECTION_END -->
 
 
