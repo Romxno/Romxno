@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [memnotary 0.1.2](https://pypi.org/project/memnotary/0.1.2/)
-- [A South Korean startup captures workers' techniques to develop AI brains for robots](https://economictimes.indiatimes.com/tech/artificial-intelligence/a-south-korean-startup-captures-workers-techniques-to-develop-ai-brains-for-robots/articleshow/131033611.cms)
-- [hellochusquis 1.4.0](https://pypi.org/project/hellochusquis/1.4.0/)
-- [Bye-Bye Narrow Screen: The Samsung Galaxy Z Fold 8 Wide Leak Reveals a Bold New Shape](https://www.geeky-gadgets.com/samsung-galaxy-z-fold-8-wide-11/)
-- [Daily Tech News 12 May 2026](https://acecomments.mu.nu/?post=419677)
+- [tm-ai 2.66.4](https://pypi.org/project/tm-ai/2.66.4/)
+- [ZTE hosts 2026 Broadband User Congress in São Paulo, under the Theme "Monetize Your Intelligent Broadband"](https://www.theregister.com/networks/2026/05/13/zte-hosts-2026-broadband-user-congress-in-so-paulo-under-the-theme-monetize-your-intelligent-broadband/5239403)
+- [Concord Launches Skills, a New Form of Memory for its AI Media Buying Agent](https://www.exchangewire.com/blog/2026/05/13/concord-launches-skills-a-new-form-of-memory-for-its-ai-media-buying-agent/)
+- [Ocean Street Art That Feels Alive (15 Photos)](https://streetartutopia.com/2026/05/13/ocean-street-art-that-feels-alive/)
+- [Global Showdown: 526 Teams from 27 Countries Compete in the AGIBOT WORLD CHALLENGE @ ICRA 2026 Online Round](https://www.globenewswire.com/news-release/2026/05/13/3293715/0/en/Global-Showdown-526-Teams-from-27-Countries-Compete-in-the-AGIBOT-WORLD-CHALLENGE-ICRA-2026-Online-Round.html)
 <!-- NEWS_SECTION_END -->
 
 
