@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [tm-ai 2.66.4](https://pypi.org/project/tm-ai/2.66.4/)
-- [ZTE hosts 2026 Broadband User Congress in São Paulo, under the Theme "Monetize Your Intelligent Broadband"](https://www.theregister.com/networks/2026/05/13/zte-hosts-2026-broadband-user-congress-in-so-paulo-under-the-theme-monetize-your-intelligent-broadband/5239403)
-- [Concord Launches Skills, a New Form of Memory for its AI Media Buying Agent](https://www.exchangewire.com/blog/2026/05/13/concord-launches-skills-a-new-form-of-memory-for-its-ai-media-buying-agent/)
-- [Ocean Street Art That Feels Alive (15 Photos)](https://streetartutopia.com/2026/05/13/ocean-street-art-that-feels-alive/)
-- [Global Showdown: 526 Teams from 27 Countries Compete in the AGIBOT WORLD CHALLENGE @ ICRA 2026 Online Round](https://www.globenewswire.com/news-release/2026/05/13/3293715/0/en/Global-Showdown-526-Teams-from-27-Countries-Compete-in-the-AGIBOT-WORLD-CHALLENGE-ICRA-2026-Online-Round.html)
+- [askfaro-cli 0.1.0](https://pypi.org/project/askfaro-cli/0.1.0/)
+- [askfaro-cli added to PyPI](https://pypi.org/project/askfaro-cli/)
+- [Cerebras raises $5.55bn in the biggest US tech IPO since Snowflake](https://thenextweb.com/news/cerebras-ipo-5-55-billion-biggest-tech-2026/)
+- [Trump meets Xi in Beijing to discuss trade, Taiwan, and tech cooperation](https://cryptobriefing.com/trump-xi-beijing-summit-crypto-impact-2/)
+- [The answer to the AI-driven hardware crisis isn't more hardware, it's smarter software](https://www.techradar.com/pro/the-answer-to-the-ai-driven-hardware-crisis-isnt-more-hardware-its-smarter-software)
 <!-- NEWS_SECTION_END -->
 
 
