@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [askfaro-cli 0.1.0](https://pypi.org/project/askfaro-cli/0.1.0/)
-- [askfaro-cli added to PyPI](https://pypi.org/project/askfaro-cli/)
-- [Cerebras raises $5.55bn in the biggest US tech IPO since Snowflake](https://thenextweb.com/news/cerebras-ipo-5-55-billion-biggest-tech-2026/)
-- [Trump meets Xi in Beijing to discuss trade, Taiwan, and tech cooperation](https://cryptobriefing.com/trump-xi-beijing-summit-crypto-impact-2/)
-- [The answer to the AI-driven hardware crisis isn't more hardware, it's smarter software](https://www.techradar.com/pro/the-answer-to-the-ai-driven-hardware-crisis-isnt-more-hardware-its-smarter-software)
+- [Anthropic has agreed terms for $30 billion funding deal at $900 billion valuation: FT](https://economictimes.indiatimes.com/tech/funding/anthropic-has-agreed-terms-for-30-billion-funding-deal-at-900-billion-valuation-ft/articleshow/131111652.cms)
+- [hystersis 0.1.0](https://pypi.org/project/hystersis/0.1.0/)
+- [hystersis added to PyPI](https://pypi.org/project/hystersis/)
+- [Why OpenAI is considering legal action against Apple over Siri AI deal](https://indianexpress.com/article/explained/explained-sci-tech/openai-apple-ai-partnership-google-gemini-siri-dispute-10690723/)
+- [fx-alfred 1.17.0](https://pypi.org/project/fx-alfred/1.17.0/)
 <!-- NEWS_SECTION_END -->
 
 
