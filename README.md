@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Anthropic has agreed terms for $30 billion funding deal at $900 billion valuation: FT](https://economictimes.indiatimes.com/tech/funding/anthropic-has-agreed-terms-for-30-billion-funding-deal-at-900-billion-valuation-ft/articleshow/131111652.cms)
-- [hystersis 0.1.0](https://pypi.org/project/hystersis/0.1.0/)
-- [hystersis added to PyPI](https://pypi.org/project/hystersis/)
-- [Why OpenAI is considering legal action against Apple over Siri AI deal](https://indianexpress.com/article/explained/explained-sci-tech/openai-apple-ai-partnership-google-gemini-siri-dispute-10690723/)
-- [fx-alfred 1.17.0](https://pypi.org/project/fx-alfred/1.17.0/)
+- [ETtech Deals Digest: Startups raise $790 million in second week of May](https://economictimes.indiatimes.com/tech/funding/ettech-deals-digest-startups-raise-790-million-in-second-week-of-may/articleshow/131133770.cms)
+- [Eurovision 2026 live: Finalists prepare to battle it out as Delta Goodrem hopes to make history for Australia](https://www.the-independent.com/arts-entertainment/eurovision/eurovision-2026-final-uk-live-updates-results-b2977817.html)
+- [controlled-execution-system 0.1.26](https://pypi.org/project/controlled-execution-system/0.1.26/)
+- [agentic-memory-mcp 0.5.0](https://pypi.org/project/agentic-memory-mcp/0.5.0/)
+- [How to Watch Preakness Stakes 2026: Channel, Live Stream & Start Time for Triple Crown Race](https://sportsnetpittsburgh.com/more-sports/news/watch-preakness-stakes-2026-channel-stream-time-race/5a946a7df94977a595720e04)
 <!-- NEWS_SECTION_END -->
 
 
