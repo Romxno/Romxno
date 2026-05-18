@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [ETtech Deals Digest: Startups raise $790 million in second week of May](https://economictimes.indiatimes.com/tech/funding/ettech-deals-digest-startups-raise-790-million-in-second-week-of-may/articleshow/131133770.cms)
-- [Eurovision 2026 live: Finalists prepare to battle it out as Delta Goodrem hopes to make history for Australia](https://www.the-independent.com/arts-entertainment/eurovision/eurovision-2026-final-uk-live-updates-results-b2977817.html)
-- [controlled-execution-system 0.1.26](https://pypi.org/project/controlled-execution-system/0.1.26/)
-- [agentic-memory-mcp 0.5.0](https://pypi.org/project/agentic-memory-mcp/0.5.0/)
-- [How to Watch Preakness Stakes 2026: Channel, Live Stream & Start Time for Triple Crown Race](https://sportsnetpittsburgh.com/more-sports/news/watch-preakness-stakes-2026-channel-stream-time-race/5a946a7df94977a595720e04)
+- [xpander-sdk 2.0.321](https://pypi.org/project/xpander-sdk/2.0.321/)
+- [A student with a laptop and a radio stopped four high-speed trains. The crypto keys hadn’t been changed in 19 years.](https://thenextweb.com/news/taiwan-high-speed-rail-hacked-student-tetra-sdr/)
+- [Redistribution is a red flag: any mention of a ‘people’s dividend’ risks scaring off stock market investors](https://www.livemint.com/opinion/online-views/redistribution-red-flag-people-s-dividend-risks-stock-market-investors-kospi-korea-samsung-hynix-11778964933874.html)
+- [The Young Are Being Battered by AI as Hiring Shifts to Older Workers](https://gizmodo.com/the-young-are-being-battered-by-ai-as-hiring-shifts-to-older-workers-2000759608)
+- [chronos-mcp 0.1.5](https://pypi.org/project/chronos-mcp/0.1.5/)
 <!-- NEWS_SECTION_END -->
 
 
