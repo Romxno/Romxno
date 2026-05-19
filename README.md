@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [xpander-sdk 2.0.321](https://pypi.org/project/xpander-sdk/2.0.321/)
-- [A student with a laptop and a radio stopped four high-speed trains. The crypto keys hadn’t been changed in 19 years.](https://thenextweb.com/news/taiwan-high-speed-rail-hacked-student-tetra-sdr/)
-- [Redistribution is a red flag: any mention of a ‘people’s dividend’ risks scaring off stock market investors](https://www.livemint.com/opinion/online-views/redistribution-red-flag-people-s-dividend-risks-stock-market-investors-kospi-korea-samsung-hynix-11778964933874.html)
-- [The Young Are Being Battered by AI as Hiring Shifts to Older Workers](https://gizmodo.com/the-young-are-being-battered-by-ai-as-hiring-shifts-to-older-workers-2000759608)
-- [chronos-mcp 0.1.5](https://pypi.org/project/chronos-mcp/0.1.5/)
+- [sovyx 0.49.1](https://pypi.org/project/sovyx/0.49.1/)
+- [sourcecode 1.30.17](https://pypi.org/project/sourcecode/1.30.17/)
+- [Morgan Stanley’s Wilson Warns Stock Rally at Risk From Bond Rout](https://financialpost.com/pmn/business-pmn/morgan-stanleys-wilson-warns-stock-rally-at-risk-from-bond-rout)
+- [Linux head says "AI tools are great" but they're making the security list "almost entirely unmanageable"](https://www.gamingonlinux.com/2026/05/linux-head-says-ai-tools-are-great-but-theyre-making-the-security-list-almost-entirely-unmanageable/.)
+- [versyn-litellm 0.1.0](https://pypi.org/project/versyn-litellm/0.1.0/)
 <!-- NEWS_SECTION_END -->
 
 
