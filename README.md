@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [sovyx 0.49.1](https://pypi.org/project/sovyx/0.49.1/)
-- [sourcecode 1.30.17](https://pypi.org/project/sourcecode/1.30.17/)
-- [Morgan Stanley’s Wilson Warns Stock Rally at Risk From Bond Rout](https://financialpost.com/pmn/business-pmn/morgan-stanleys-wilson-warns-stock-rally-at-risk-from-bond-rout)
-- [Linux head says "AI tools are great" but they're making the security list "almost entirely unmanageable"](https://www.gamingonlinux.com/2026/05/linux-head-says-ai-tools-are-great-but-theyre-making-the-security-list-almost-entirely-unmanageable/.)
-- [versyn-litellm 0.1.0](https://pypi.org/project/versyn-litellm/0.1.0/)
+- [widdx 1.8.9](https://pypi.org/project/widdx/1.8.9/)
+- [amlexia 1.0.1](https://pypi.org/project/amlexia/1.0.1/)
+- [scc-firewall-manager-sdk 1.20.39](https://pypi.org/project/scc-firewall-manager-sdk/1.20.39/)
+- [This Small Crypto Miner Pivoting to AI Infrastructure Is Up by 75% This Year. Is It a Buy?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f6d0e187-f9bd-4e3c-9190-e0bc84ce108a)
+- [The quest for greater tech independence](https://www.welivesecurity.com/en/cybersecurity/quest-greater-tech-independence/)
 <!-- NEWS_SECTION_END -->
 
 
