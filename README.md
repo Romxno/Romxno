@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [widdx 1.8.9](https://pypi.org/project/widdx/1.8.9/)
-- [amlexia 1.0.1](https://pypi.org/project/amlexia/1.0.1/)
-- [scc-firewall-manager-sdk 1.20.39](https://pypi.org/project/scc-firewall-manager-sdk/1.20.39/)
-- [This Small Crypto Miner Pivoting to AI Infrastructure Is Up by 75% This Year. Is It a Buy?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f6d0e187-f9bd-4e3c-9190-e0bc84ce108a)
-- [The quest for greater tech independence](https://www.welivesecurity.com/en/cybersecurity/quest-greater-tech-independence/)
+- [docwright 0.1.20](https://pypi.org/project/docwright/0.1.20/)
+- [S&P 500 futures fall as traders await Nvidia’s earnings: Live updates - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=183296243)
+- [revive-my-lover 1.0.0](https://pypi.org/project/revive-my-lover/1.0.0/)
+- [How CloudPe Built a Scalable GPU Cloud for AI and Virtual Desktop Workloads with Virtuozzo](https://www.virtuozzo.com/company/blog/cloudpe-gpu-cloud-ai-case-study/)
+- [Avaya CX service blends AI, robots and human interactions](https://www.techtarget.com/searchcustomerexperience/feature/Avaya-CX-service-blends-AI-robots-and-human-interactions)
 <!-- NEWS_SECTION_END -->
 
 
