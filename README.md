@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [docwright 0.1.20](https://pypi.org/project/docwright/0.1.20/)
-- [S&P 500 futures fall as traders await Nvidia’s earnings: Live updates - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=183296243)
-- [revive-my-lover 1.0.0](https://pypi.org/project/revive-my-lover/1.0.0/)
-- [How CloudPe Built a Scalable GPU Cloud for AI and Virtual Desktop Workloads with Virtuozzo](https://www.virtuozzo.com/company/blog/cloudpe-gpu-cloud-ai-case-study/)
-- [Avaya CX service blends AI, robots and human interactions](https://www.techtarget.com/searchcustomerexperience/feature/Avaya-CX-service-blends-AI-robots-and-human-interactions)
+- [clawmetry 0.12.267](https://pypi.org/project/clawmetry/0.12.267/)
+- [xFusion drives CNY58.2 billion revenue as China backs domestic AI supply chain](https://www.digitimes.com/news/a20260521VL224/huawei-xfusion-revenue-supply-chain-china.html)
+- [nexusmemo 0.2.0](https://pypi.org/project/nexusmemo/0.2.0/)
+- [Why Apple’s New MLX Framework is Changing the AI Game](https://www.geeky-gadgets.com/wwdc-2026-apple-ai-announcements/)
+- [idun-agent-engine 0.6.2](https://pypi.org/project/idun-agent-engine/0.6.2/)
 <!-- NEWS_SECTION_END -->
 
 
