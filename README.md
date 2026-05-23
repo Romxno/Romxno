@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [clawmetry 0.12.267](https://pypi.org/project/clawmetry/0.12.267/)
-- [xFusion drives CNY58.2 billion revenue as China backs domestic AI supply chain](https://www.digitimes.com/news/a20260521VL224/huawei-xfusion-revenue-supply-chain-china.html)
-- [nexusmemo 0.2.0](https://pypi.org/project/nexusmemo/0.2.0/)
-- [Why Apple’s New MLX Framework is Changing the AI Game](https://www.geeky-gadgets.com/wwdc-2026-apple-ai-announcements/)
-- [idun-agent-engine 0.6.2](https://pypi.org/project/idun-agent-engine/0.6.2/)
+- [Realme 16T arrives with the Dimensity 6300 SoC, a 144Hz display, and an 8,000 mAh battery](https://www.gsmarena.com/realme_16t_features_price_sale_date-news-72945.php)
+- [EU-Anthropic Talks Over Mythos Concerns Are Stalled, Spain Says](https://financialpost.com/pmn/business-pmn/eu-anthropic-talks-over-mythos-concerns-are-stalled-spain-says)
+- [pixlstash 1.2.3](https://pypi.org/project/pixlstash/1.2.3/)
+- [Why the U.S. Delayed Its Major AI Executive Order](https://www.c-sharpcorner.com/article/why-the-u-s-delayed-its-major-ai-executive-order/)
+- [Inside the Global AI Infrastructure Boom Driven by OpenAI, Google, and Anthropic](https://www.c-sharpcorner.com/article/inside-the-global-ai-infrastructure-boom-driven-by-openai-google-and-anthropic/)
 <!-- NEWS_SECTION_END -->
 
 
