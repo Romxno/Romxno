@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Realme 16T arrives with the Dimensity 6300 SoC, a 144Hz display, and an 8,000 mAh battery](https://www.gsmarena.com/realme_16t_features_price_sale_date-news-72945.php)
-- [EU-Anthropic Talks Over Mythos Concerns Are Stalled, Spain Says](https://financialpost.com/pmn/business-pmn/eu-anthropic-talks-over-mythos-concerns-are-stalled-spain-says)
-- [pixlstash 1.2.3](https://pypi.org/project/pixlstash/1.2.3/)
-- [Why the U.S. Delayed Its Major AI Executive Order](https://www.c-sharpcorner.com/article/why-the-u-s-delayed-its-major-ai-executive-order/)
-- [Inside the Global AI Infrastructure Boom Driven by OpenAI, Google, and Anthropic](https://www.c-sharpcorner.com/article/inside-the-global-ai-infrastructure-boom-driven-by-openai-google-and-anthropic/)
+- [rtk-py 0.41.0.1](https://pypi.org/project/rtk-py/0.41.0.1/)
+- [novelscribe 6.4.7](https://pypi.org/project/novelscribe/6.4.7/)
+- [amcl-server 1.3.2](https://pypi.org/project/amcl-server/1.3.2/)
+- [gptauthor 1.1.0](https://pypi.org/project/gptauthor/1.1.0/)
+- [riskratchet added to PyPI](https://pypi.org/project/riskratchet/)
 <!-- NEWS_SECTION_END -->
 
 
