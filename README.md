@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [rtk-py 0.41.0.1](https://pypi.org/project/rtk-py/0.41.0.1/)
-- [novelscribe 6.4.7](https://pypi.org/project/novelscribe/6.4.7/)
-- [amcl-server 1.3.2](https://pypi.org/project/amcl-server/1.3.2/)
-- [gptauthor 1.1.0](https://pypi.org/project/gptauthor/1.1.0/)
-- [riskratchet added to PyPI](https://pypi.org/project/riskratchet/)
+- [Could anything but profit steer artificial intelligence?](https://www.hurriyetdailynews.com/could-anything-but-profit-steer-artificial-intelligence-222471)
+- [agent-dump 0.9.1](https://pypi.org/project/agent-dump/0.9.1/)
+- [China rescuers search for missing after mine blast kills 82](https://www.hurriyetdailynews.com/china-rescuers-index-for-missing-after-mine-blast-kills-82-222470)
+- [hive-agent 0.4.1.dev257](https://pypi.org/project/hive-agent/0.4.1.dev257/)
+- [mawlaia-pii-vault 0.3.1](https://pypi.org/project/mawlaia-pii-vault/0.3.1/)
 <!-- NEWS_SECTION_END -->
 
 
