@@ -1,10 +1,9 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Could anything but profit steer artificial intelligence?](https://www.hurriyetdailynews.com/could-anything-but-profit-steer-artificial-intelligence-222471)
-- [agent-dump 0.9.1](https://pypi.org/project/agent-dump/0.9.1/)
-- [China rescuers search for missing after mine blast kills 82](https://www.hurriyetdailynews.com/china-rescuers-index-for-missing-after-mine-blast-kills-82-222470)
-- [hive-agent 0.4.1.dev257](https://pypi.org/project/hive-agent/0.4.1.dev257/)
-- [mawlaia-pii-vault 0.3.1](https://pypi.org/project/mawlaia-pii-vault/0.3.1/)
+- [Quotes from Pope Leo's document warning world of AI risks](https://www.channelnewsasia.com/business/quotes-pope-leos-document-warning-world-ai-risks-6140386)
+- [Pope Leo urges world to 'slow down' on AI in fervent first manifesto](https://www.channelnewsasia.com/business/pope-leo-urges-world-slow-down-ai-in-fervent-first-manifesto-6140366)
+- [Pope Leo urges world to 'slow down' on AI in fervent first manifesto](https://www.channelnewsasia.com/world/pope-leo-ai-artificial-intelligence-manifesto-6140366)
+- [Pope Leo XIV urges AI regulation for the common good](https://apnews.com/article/pope-ai-tech-trump-vatican-anthropic-d92d0108730d146baa46da041b8523da)
 <!-- NEWS_SECTION_END -->
 
 
