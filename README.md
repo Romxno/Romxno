@@ -1,9 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Quotes from Pope Leo's document warning world of AI risks](https://www.channelnewsasia.com/business/quotes-pope-leos-document-warning-world-ai-risks-6140386)
-- [Pope Leo urges world to 'slow down' on AI in fervent first manifesto](https://www.channelnewsasia.com/business/pope-leo-urges-world-slow-down-ai-in-fervent-first-manifesto-6140366)
-- [Pope Leo urges world to 'slow down' on AI in fervent first manifesto](https://www.channelnewsasia.com/world/pope-leo-ai-artificial-intelligence-manifesto-6140366)
-- [Pope Leo XIV urges AI regulation for the common good](https://apnews.com/article/pope-ai-tech-trump-vatican-anthropic-d92d0108730d146baa46da041b8523da)
+- [The Digital Economy is Destroying Our Lives and Our Planet—and AI is Only Going to Make It Worse](https://lithub.com/the-digital-economy-is-destroying-our-lives-and-our-planet-and-ai-is-only-going-to-make-it-worse/)
+- [gwenflow 1.0.0](https://pypi.org/project/gwenflow/1.0.0/)
+- [Spain blocks Polymarket and Kalshi over missing gambling licences](https://thenextweb.com/news/spain-blocks-polymarket-kalshi-gambling-licence/)
+- [AI Studios Launches Context-Aware Expressive TTS with 1,000+ AI Voices](https://www.globenewswire.com/news-release/2026/05/26/3300838/0/en/AI-Studios-Launches-Context-Aware-Expressive-TTS-with-1-000-AI-Voices.html)
+- [CISA faces cuts and diminished role amid rising AI cyber threats](https://cryptobriefing.com/cisa-cuts-ai-cyber-threats/)
 <!-- NEWS_SECTION_END -->
 
 
