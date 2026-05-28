@@ -1,10 +1,9 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [The Digital Economy is Destroying Our Lives and Our Planet—and AI is Only Going to Make It Worse](https://lithub.com/the-digital-economy-is-destroying-our-lives-and-our-planet-and-ai-is-only-going-to-make-it-worse/)
-- [gwenflow 1.0.0](https://pypi.org/project/gwenflow/1.0.0/)
-- [Spain blocks Polymarket and Kalshi over missing gambling licences](https://thenextweb.com/news/spain-blocks-polymarket-kalshi-gambling-licence/)
-- [AI Studios Launches Context-Aware Expressive TTS with 1,000+ AI Voices](https://www.globenewswire.com/news-release/2026/05/26/3300838/0/en/AI-Studios-Launches-Context-Aware-Expressive-TTS-with-1-000-AI-Voices.html)
-- [CISA faces cuts and diminished role amid rising AI cyber threats](https://cryptobriefing.com/cisa-cuts-ai-cyber-threats/)
+- [mkdocs2confluence 0.13.9](https://pypi.org/project/mkdocs2confluence/0.13.9/)
+- [AI rally: SK Hynix, Micron Technology join trillion-dollar club; Taiwan bourse overtakes India in market value](https://economictimes.indiatimes.com/tech/technology/ai-rally-sk-hynix-micron-technology-join-trillion-dollar-club-taiwan-bourse-overtakes-india-in-market-value/articleshow/131346155.cms)
+- [Data Centers Just Keep Getting More Massive and Apocalyptic](https://www.jezebel.com/data-centers-energy-demands-use-utah-worlds-largest-kevin-oleary-water-corruption-louisiana-meta-john-morris)
+- [Taiwan chip stocks climb after Nvidia announces $150 billion spending plans](https://www.cnbc.com/2026/05/27/nvidia-taiwan-investment-150-billion-spending.html)
 <!-- NEWS_SECTION_END -->
 
 
