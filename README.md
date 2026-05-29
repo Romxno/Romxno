@@ -1,9 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [mkdocs2confluence 0.13.9](https://pypi.org/project/mkdocs2confluence/0.13.9/)
-- [AI rally: SK Hynix, Micron Technology join trillion-dollar club; Taiwan bourse overtakes India in market value](https://economictimes.indiatimes.com/tech/technology/ai-rally-sk-hynix-micron-technology-join-trillion-dollar-club-taiwan-bourse-overtakes-india-in-market-value/articleshow/131346155.cms)
-- [Data Centers Just Keep Getting More Massive and Apocalyptic](https://www.jezebel.com/data-centers-energy-demands-use-utah-worlds-largest-kevin-oleary-water-corruption-louisiana-meta-john-morris)
-- [Taiwan chip stocks climb after Nvidia announces $150 billion spending plans](https://www.cnbc.com/2026/05/27/nvidia-taiwan-investment-150-billion-spending.html)
+- [dstack 0.20.22](https://pypi.org/project/dstack/0.20.22/)
+- [Top Trends in Non-Alcoholic Beverages for 2026: Metabolic Balance, Clean Label, Sober is the New Social, Personalized Pour, Mini is Mighty](https://www.globenewswire.com/news-release/2026/05/28/3302599/28124/en/Top-Trends-in-Non-Alcoholic-Beverages-for-2026-Metabolic-Balance-Clean-Label-Sober-is-the-New-Social-Personalized-Pour-Mini-is-Mighty.html)
+- [2026 Social Media Marketing Trends Report under AI Reconstruction: Five Major Trends as Platforms, Users, and Brands Change](https://eu.36kr.com/en/p/3825724108873987)
+- [The gold in an ordinary wedding ring was not made on Earth, or even inside an ordinary star, but in the most violent events in the universe, the collisions of dead stars and the flares of magnetised neutron stars, long before the Sun was born and the cloud that became our solar system took shape.](https://spacedaily.com/t-the-gold-in-an-ordinary-wedding-ring-was-not-made-on-earth-or-even-inside-an-ordinary-star-but-in-the-most-violent-events-in-the-universe-the-collisions-of-dead-stars-and-the-flares-of-magnetised-n/)
+- [The Apple Watch Ultra 4 Leaks Are Here: See the Massive Redesign](https://www.geeky-gadgets.com/apple-watch-ultra-4-redesign-leak/)
 <!-- NEWS_SECTION_END -->
 
 
