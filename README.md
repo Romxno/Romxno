@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [dstack 0.20.22](https://pypi.org/project/dstack/0.20.22/)
-- [Top Trends in Non-Alcoholic Beverages for 2026: Metabolic Balance, Clean Label, Sober is the New Social, Personalized Pour, Mini is Mighty](https://www.globenewswire.com/news-release/2026/05/28/3302599/28124/en/Top-Trends-in-Non-Alcoholic-Beverages-for-2026-Metabolic-Balance-Clean-Label-Sober-is-the-New-Social-Personalized-Pour-Mini-is-Mighty.html)
-- [2026 Social Media Marketing Trends Report under AI Reconstruction: Five Major Trends as Platforms, Users, and Brands Change](https://eu.36kr.com/en/p/3825724108873987)
-- [The gold in an ordinary wedding ring was not made on Earth, or even inside an ordinary star, but in the most violent events in the universe, the collisions of dead stars and the flares of magnetised neutron stars, long before the Sun was born and the cloud that became our solar system took shape.](https://spacedaily.com/t-the-gold-in-an-ordinary-wedding-ring-was-not-made-on-earth-or-even-inside-an-ordinary-star-but-in-the-most-violent-events-in-the-universe-the-collisions-of-dead-stars-and-the-flares-of-magnetised-n/)
-- [The Apple Watch Ultra 4 Leaks Are Here: See the Massive Redesign](https://www.geeky-gadgets.com/apple-watch-ultra-4-redesign-leak/)
+- [Global Chemical Market to Hit USD 8.78 Trillion by 2035 Amid Rising Demand from Manufacturing, Agriculture, and Pharmaceuticals | Research by SNS Insider](https://www.globenewswire.com/news-release/2026/05/29/3303419/0/en/Global-Chemical-Market-to-Hit-USD-8-78-Trillion-by-2035-Amid-Rising-Demand-from-Manufacturing-Agriculture-and-Pharmaceuticals-Research-by-SNS-Insider.html)
+- [jac-coder 0.2.6](https://pypi.org/project/jac-coder/0.2.6/)
+- [khy-os 0.1.70](https://pypi.org/project/khy-os/0.1.70/)
+- [Netflix’s hiring process for $7,000 jobs: upGrad founder reveals why 97% resumes fail and one key mistake candidates make](https://economictimes.indiatimes.com/news/new-updates/netflixs-hiring-process-for-7000-jobs-upgrad-founder-reveals-why-97-resumes-fail-and-one-key-mistake-candidates-make/articleshow/131385240.cms)
+- [New lawsuit claims Satoshi Nakamoto’s Bitcoin is “Lost Property” worth under $10 per wallet](https://cryptoslate.com/new-lawsuit-claims-satoshi-nakamotos-bitcoin-is-lost-property-worth-under-10-per-wallet/)
 <!-- NEWS_SECTION_END -->
 
 
