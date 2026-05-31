@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Global Chemical Market to Hit USD 8.78 Trillion by 2035 Amid Rising Demand from Manufacturing, Agriculture, and Pharmaceuticals | Research by SNS Insider](https://www.globenewswire.com/news-release/2026/05/29/3303419/0/en/Global-Chemical-Market-to-Hit-USD-8-78-Trillion-by-2035-Amid-Rising-Demand-from-Manufacturing-Agriculture-and-Pharmaceuticals-Research-by-SNS-Insider.html)
-- [jac-coder 0.2.6](https://pypi.org/project/jac-coder/0.2.6/)
-- [khy-os 0.1.70](https://pypi.org/project/khy-os/0.1.70/)
-- [Netflix’s hiring process for $7,000 jobs: upGrad founder reveals why 97% resumes fail and one key mistake candidates make](https://economictimes.indiatimes.com/news/new-updates/netflixs-hiring-process-for-7000-jobs-upgrad-founder-reveals-why-97-resumes-fail-and-one-key-mistake-candidates-make/articleshow/131385240.cms)
-- [New lawsuit claims Satoshi Nakamoto’s Bitcoin is “Lost Property” worth under $10 per wallet](https://cryptoslate.com/new-lawsuit-claims-satoshi-nakamotos-bitcoin-is-lost-property-worth-under-10-per-wallet/)
+- [Why Dell Stock Skyrocketed to a New All-Time High Today - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=183452918)
+- [L'allenamento della nazionale sud coreana per i mondiali](https://www.ansa.it/sito/photogallery/sport/2026/05/30/lallenamento-della-nazionale-sud-coreana-per-i-mondiali_1e6753fb-3b94-4d02-8e12-58e871fbe9e4.html)
+- [An AI CEO explains how much he spent on Codex last month — and why he's still 'very nice' when prompting the tech](https://www.businessinsider.com/ai-ceo-codex-dan-shipper-every-2026-5)
+- [blockchain0x 0.0.1a0](https://pypi.org/project/blockchain0x/0.0.1a0/)
+- [blockchain0x added to PyPI](https://pypi.org/project/blockchain0x/)
 <!-- NEWS_SECTION_END -->
 
 
