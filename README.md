@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Why Dell Stock Skyrocketed to a New All-Time High Today - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=183452918)
-- [L'allenamento della nazionale sud coreana per i mondiali](https://www.ansa.it/sito/photogallery/sport/2026/05/30/lallenamento-della-nazionale-sud-coreana-per-i-mondiali_1e6753fb-3b94-4d02-8e12-58e871fbe9e4.html)
-- [An AI CEO explains how much he spent on Codex last month — and why he's still 'very nice' when prompting the tech](https://www.businessinsider.com/ai-ceo-codex-dan-shipper-every-2026-5)
-- [blockchain0x 0.0.1a0](https://pypi.org/project/blockchain0x/0.0.1a0/)
-- [blockchain0x added to PyPI](https://pypi.org/project/blockchain0x/)
+- [Dell Delivers On AI Infrastructure Demand](https://seekingalpha.com/article/4910418-dell-delivers-on-ai-infrastructure-demand)
+- [Nvidia N1X/N1 laptops vs MacBook Neo: "New AI PC era" could flop due to high prices and Windows, says insider](https://www.notebookcheck.net/Nvidia-N1X-N1-laptops-vs-MacBook-Neo-New-AI-PC-era-could-flop-due-to-high-prices-and-Windows-says-insider.1311542.0.html)
+- [AI Is Great At Analyzing The Past. Venture Capital Bets On The Future](https://www.forbes.com/sites/annademeo/2026/05/31/ai-is-great-at-analyzing-the-past-venture-capital-bets-on-the-future/)
+- [sunglasses 0.2.55](https://pypi.org/project/sunglasses/0.2.55/)
+- [falsiflow 0.1.9](https://pypi.org/project/falsiflow/0.1.9/)
 <!-- NEWS_SECTION_END -->
 
 
