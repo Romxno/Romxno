@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Dell Delivers On AI Infrastructure Demand](https://seekingalpha.com/article/4910418-dell-delivers-on-ai-infrastructure-demand)
-- [Nvidia N1X/N1 laptops vs MacBook Neo: "New AI PC era" could flop due to high prices and Windows, says insider](https://www.notebookcheck.net/Nvidia-N1X-N1-laptops-vs-MacBook-Neo-New-AI-PC-era-could-flop-due-to-high-prices-and-Windows-says-insider.1311542.0.html)
-- [AI Is Great At Analyzing The Past. Venture Capital Bets On The Future](https://www.forbes.com/sites/annademeo/2026/05/31/ai-is-great-at-analyzing-the-past-venture-capital-bets-on-the-future/)
-- [sunglasses 0.2.55](https://pypi.org/project/sunglasses/0.2.55/)
-- [falsiflow 0.1.9](https://pypi.org/project/falsiflow/0.1.9/)
+- [ai-dev-tools added to PyPI](https://pypi.org/project/ai-dev-tools/)
+- [Three Recent Graduates Share Their Thoughts on AI](https://www.kqed.org/news/12085502/three-recent-graduates-share-their-thoughts-on-ai)
+- [A SpaceX-Tesla merger would be valued at $3.4 trillion — and still not make a dime](https://fortune.com/2026/06/01/spacex-tesla-merger-3-4-trillion-profits/)
+- [May Top 12](https://sheaffertoldmeto.com/may-top-12-2/)
+- [Treating Reviews As Business Infrastructure, Not Marketing, Drives Real Business Results via @sejournal, @MattGSouthern](https://www.searchenginejournal.com/treating-reviews-as-business-infrastructure-not-marketing-drives-real-business-results/575702/)
 <!-- NEWS_SECTION_END -->
 
 
