@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [ai-dev-tools added to PyPI](https://pypi.org/project/ai-dev-tools/)
-- [Three Recent Graduates Share Their Thoughts on AI](https://www.kqed.org/news/12085502/three-recent-graduates-share-their-thoughts-on-ai)
-- [A SpaceX-Tesla merger would be valued at $3.4 trillion — and still not make a dime](https://fortune.com/2026/06/01/spacex-tesla-merger-3-4-trillion-profits/)
-- [May Top 12](https://sheaffertoldmeto.com/may-top-12-2/)
-- [Treating Reviews As Business Infrastructure, Not Marketing, Drives Real Business Results via @sejournal, @MattGSouthern](https://www.searchenginejournal.com/treating-reviews-as-business-infrastructure-not-marketing-drives-real-business-results/575702/)
+- [Taiwan's Lai: Status quo is key to secure tech supply chains](https://www.dw.com/en/taiwans-lai-status-quo-is-key-to-secure-tech-supply-chains/a-77386453)
+- [2 giugno: lo spettacolo delle Frecce Tricolori](https://www.ansa.it/sito/photogallery/primopiano/2026/06/02/2-giugno-lo-spettacolo-delle-frecce-tricolori_971509ef-6bf8-43c7-8583-e93240580dcf.html)
+- [afkbotio 1.9.13](https://pypi.org/project/afkbotio/1.9.13/)
+- [AIによる内視鏡外科情報手術支援システム「EIRL Surgery LC」が薬事承認を取得](https://prtimes.jp/main/html/rd/p/000000056.000047155.html)
+- [Data dive: Mapping the UK public sector’s hyperscale dependence](https://www.computerweekly.com/news/366643799/Data-dive-Mapping-the-UK-public-sectors-hyperscale-dependence)
 <!-- NEWS_SECTION_END -->
 
 
