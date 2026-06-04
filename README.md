@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Taiwan's Lai: Status quo is key to secure tech supply chains](https://www.dw.com/en/taiwans-lai-status-quo-is-key-to-secure-tech-supply-chains/a-77386453)
-- [2 giugno: lo spettacolo delle Frecce Tricolori](https://www.ansa.it/sito/photogallery/primopiano/2026/06/02/2-giugno-lo-spettacolo-delle-frecce-tricolori_971509ef-6bf8-43c7-8583-e93240580dcf.html)
-- [afkbotio 1.9.13](https://pypi.org/project/afkbotio/1.9.13/)
-- [AIによる内視鏡外科情報手術支援システム「EIRL Surgery LC」が薬事承認を取得](https://prtimes.jp/main/html/rd/p/000000056.000047155.html)
-- [Data dive: Mapping the UK public sector’s hyperscale dependence](https://www.computerweekly.com/news/366643799/Data-dive-Mapping-the-UK-public-sectors-hyperscale-dependence)
+- [crabagent 0.9.0](https://pypi.org/project/crabagent/0.9.0/)
+- [US SEC Names Digital Assets a Strategic Priority](https://bitcoinfoundation.org/news/regulation/us-sec-prioritises-crypto/)
+- [repo-rag 0.1.6](https://pypi.org/project/repo-rag/0.1.6/)
+- [Researchers show how AI-powered worms could wreak havoc on the internet](https://slashdot.org/firehose.pl?op=view&amp;id=183576724)
+- [Nvidia CEO Pitches ‘Insane’ AI Returns to Billionaire Families](https://financialpost.com/pmn/business-pmn/nvidia-ceo-pitches-insane-ai-returns-to-billionaire-families)
 <!-- NEWS_SECTION_END -->
 
 
