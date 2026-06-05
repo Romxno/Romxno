@@ -1,10 +1,9 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [crabagent 0.9.0](https://pypi.org/project/crabagent/0.9.0/)
-- [US SEC Names Digital Assets a Strategic Priority](https://bitcoinfoundation.org/news/regulation/us-sec-prioritises-crypto/)
-- [repo-rag 0.1.6](https://pypi.org/project/repo-rag/0.1.6/)
-- [Researchers show how AI-powered worms could wreak havoc on the internet](https://slashdot.org/firehose.pl?op=view&amp;id=183576724)
-- [Nvidia CEO Pitches ‘Insane’ AI Returns to Billionaire Families](https://financialpost.com/pmn/business-pmn/nvidia-ceo-pitches-insane-ai-returns-to-billionaire-families)
+- [UK mandates Google to attribute, link out to publisher sources in AI search results](https://www.medianama.com/2026/06/223-uk-google-attribute-link-out-publishers-ai-search-results/)
+- [Congo Eurobonds Defy Ebola as Investors Chase Rare Yield, AI Exposure](https://financialpost.com/pmn/business-pmn/congo-eurobonds-defy-ebola-as-investors-chase-rare-yield-ai-exposure)
+- [Black Caps v England live updates: First test day one from Lord’s](https://www.nzherald.co.nz/sport/cricket/black-caps/black-caps-v-england-live-updates-first-test-day-one-from-lords/6V3AFMHHPFHDLPGXFG5LL23UXI/)
+- [Google’s new Mac app keeps your AI chats off the internet](https://www.cultofmac.com/news/googles-new-mac-app-keeps-your-ai-chats-off-the-internet)
 <!-- NEWS_SECTION_END -->
 
 
