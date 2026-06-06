@@ -1,9 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [UK mandates Google to attribute, link out to publisher sources in AI search results](https://www.medianama.com/2026/06/223-uk-google-attribute-link-out-publishers-ai-search-results/)
-- [Congo Eurobonds Defy Ebola as Investors Chase Rare Yield, AI Exposure](https://financialpost.com/pmn/business-pmn/congo-eurobonds-defy-ebola-as-investors-chase-rare-yield-ai-exposure)
-- [Black Caps v England live updates: First test day one from Lord’s](https://www.nzherald.co.nz/sport/cricket/black-caps/black-caps-v-england-live-updates-first-test-day-one-from-lords/6V3AFMHHPFHDLPGXFG5LL23UXI/)
-- [Google’s new Mac app keeps your AI chats off the internet](https://www.cultofmac.com/news/googles-new-mac-app-keeps-your-ai-chats-off-the-internet)
+- [Rain warnings for two southern counties as wet weather to continue across weekend](https://www.thejournal.ie/status-yellow-rain-warning-cork-waterford-unsettled-weather-7061405-Jun2026/)
+- [sonible learn:bundle is on sale for €49 until June 8th](https://bedroomproducersblog.com/2026/06/05/sonible-learnbundle-sale/)
+- [Key Insights into North America Healthcare Analytics Market Growth: AI Adoption, Regulatory Impact, and Cloud Solutions](https://www.globenewswire.com/news-release/2026/06/05/3307227/28124/en/Key-Insights-into-North-America-Healthcare-Analytics-Market-Growth-AI-Adoption-Regulatory-Impact-and-Cloud-Solutions.html)
+- [shippy-ai 0.1.1](https://pypi.org/project/shippy-ai/0.1.1/)
+- [ttypal-ai 0.4.3](https://pypi.org/project/ttypal-ai/0.4.3/)
 <!-- NEWS_SECTION_END -->
 
 
