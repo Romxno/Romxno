@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Rain warnings for two southern counties as wet weather to continue across weekend](https://www.thejournal.ie/status-yellow-rain-warning-cork-waterford-unsettled-weather-7061405-Jun2026/)
-- [sonible learn:bundle is on sale for €49 until June 8th](https://bedroomproducersblog.com/2026/06/05/sonible-learnbundle-sale/)
-- [Key Insights into North America Healthcare Analytics Market Growth: AI Adoption, Regulatory Impact, and Cloud Solutions](https://www.globenewswire.com/news-release/2026/06/05/3307227/28124/en/Key-Insights-into-North-America-Healthcare-Analytics-Market-Growth-AI-Adoption-Regulatory-Impact-and-Cloud-Solutions.html)
-- [shippy-ai 0.1.1](https://pypi.org/project/shippy-ai/0.1.1/)
-- [ttypal-ai 0.4.3](https://pypi.org/project/ttypal-ai/0.4.3/)
+- [authsome 0.6.2](https://pypi.org/project/authsome/0.6.2/)
+- [jarv 0.15.1](https://pypi.org/project/jarv/0.15.1/)
+- [graphifyy 0.8.33](https://pypi.org/project/graphifyy/0.8.33/)
+- [vector-mcp 1.39.0](https://pypi.org/project/vector-mcp/1.39.0/)
+- [air-agent 0.3.1](https://pypi.org/project/air-agent/0.3.1/)
 <!-- NEWS_SECTION_END -->
 
 
