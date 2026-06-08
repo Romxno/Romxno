@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [authsome 0.6.2](https://pypi.org/project/authsome/0.6.2/)
-- [jarv 0.15.1](https://pypi.org/project/jarv/0.15.1/)
-- [graphifyy 0.8.33](https://pypi.org/project/graphifyy/0.8.33/)
-- [vector-mcp 1.39.0](https://pypi.org/project/vector-mcp/1.39.0/)
-- [air-agent 0.3.1](https://pypi.org/project/air-agent/0.3.1/)
+- [omniscout 0.2.7](https://pypi.org/project/omniscout/0.2.7/)
+- [hound-mcp 3.2.0](https://pypi.org/project/hound-mcp/3.2.0/)
+- [jupyter-ai-agents 0.20.3](https://pypi.org/project/jupyter-ai-agents/0.20.3/)
+- [meeting-helper 6.52.0](https://pypi.org/project/meeting-helper/6.52.0/)
+- [lerim 0.3.30](https://pypi.org/project/lerim/0.3.30/)
 <!-- NEWS_SECTION_END -->
 
 
