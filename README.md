@@ -1,10 +1,9 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [omniscout 0.2.7](https://pypi.org/project/omniscout/0.2.7/)
-- [hound-mcp 3.2.0](https://pypi.org/project/hound-mcp/3.2.0/)
-- [jupyter-ai-agents 0.20.3](https://pypi.org/project/jupyter-ai-agents/0.20.3/)
-- [meeting-helper 6.52.0](https://pypi.org/project/meeting-helper/6.52.0/)
-- [lerim 0.3.30](https://pypi.org/project/lerim/0.3.30/)
+- [clawmetry 0.12.481](https://pypi.org/project/clawmetry/0.12.481/)
+- [Molex expands in Taiwan as AI interconnect demand splits between copper and optics](https://www.digitimes.com/news/a20260608PD209/molex-taiwan-copper-optics-demand.html)
+- [zenlayercloud-sdk-python 2.0.60](https://pypi.org/project/zenlayercloud-sdk-python/2.0.60/)
+- [When AI Maps More Than Places](https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/12158290/4150956333307420910)
 <!-- NEWS_SECTION_END -->
 
 
