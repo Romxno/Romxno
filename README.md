@@ -1,9 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [clawmetry 0.12.481](https://pypi.org/project/clawmetry/0.12.481/)
-- [Molex expands in Taiwan as AI interconnect demand splits between copper and optics](https://www.digitimes.com/news/a20260608PD209/molex-taiwan-copper-optics-demand.html)
-- [zenlayercloud-sdk-python 2.0.60](https://pypi.org/project/zenlayercloud-sdk-python/2.0.60/)
-- [When AI Maps More Than Places](https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/12158290/4150956333307420910)
+- [tenetvault added to PyPI](https://pypi.org/project/tenetvault/)
+- [tenetvault 0.0.1](https://pypi.org/project/tenetvault/0.0.1/)
+- [twlegalrag 1.0.0](https://pypi.org/project/twlegalrag/1.0.0/)
+- [【ソフトバンク対阪神1回戦】ソフトバンク・野村勇、阪神・才木から今季第1号ソロホームラン！リードを3点に広げる！！！！！！！！！！！](http://blog.livedoor.jp/nanjstu/archives/63264191.html)
+- [Google updates NotebookLM with smarter research tools, new export formats, Gemini 3.5 integration](https://indianexpress.com/article/technology/tech-news-technology/google-updates-notebooklm-with-smarter-research-tools-new-export-formats-gemini-3-5-integration-10731255/)
 <!-- NEWS_SECTION_END -->
 
 
