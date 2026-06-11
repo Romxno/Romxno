@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [tenetvault added to PyPI](https://pypi.org/project/tenetvault/)
-- [tenetvault 0.0.1](https://pypi.org/project/tenetvault/0.0.1/)
-- [twlegalrag 1.0.0](https://pypi.org/project/twlegalrag/1.0.0/)
-- [【ソフトバンク対阪神1回戦】ソフトバンク・野村勇、阪神・才木から今季第1号ソロホームラン！リードを3点に広げる！！！！！！！！！！！](http://blog.livedoor.jp/nanjstu/archives/63264191.html)
-- [Google updates NotebookLM with smarter research tools, new export formats, Gemini 3.5 integration](https://indianexpress.com/article/technology/tech-news-technology/google-updates-notebooklm-with-smarter-research-tools-new-export-formats-gemini-3-5-integration-10731255/)
+- [agntspace 1.118.0](https://pypi.org/project/agntspace/1.118.0/)
+- [wikifier 4.3.2](https://pypi.org/project/wikifier/4.3.2/)
+- [Anthropic launches Claude Fable 5, a Mythos-class model made safe for general use](https://www.thehindubusinessline.com/info-tech/anthropic-launches-claude-fable-5-a-mythos-class-model-made-safe-for-general-use/article71084318.ece)
+- [Made in Space: UK funding boosts breakthrough space technologies](https://www.gov.uk/government/news/made-in-space-uk-funding-boosts-breakthrough-space-technologies)
+- [SoftBank shares fall 20% in a week, losing top value status in Japan](https://cryptobriefing.com/softbank-shares-fall-20-percent-lose-top-value/)
 <!-- NEWS_SECTION_END -->
 
 
