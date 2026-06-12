@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [agntspace 1.118.0](https://pypi.org/project/agntspace/1.118.0/)
-- [wikifier 4.3.2](https://pypi.org/project/wikifier/4.3.2/)
-- [Anthropic launches Claude Fable 5, a Mythos-class model made safe for general use](https://www.thehindubusinessline.com/info-tech/anthropic-launches-claude-fable-5-a-mythos-class-model-made-safe-for-general-use/article71084318.ece)
-- [Made in Space: UK funding boosts breakthrough space technologies](https://www.gov.uk/government/news/made-in-space-uk-funding-boosts-breakthrough-space-technologies)
-- [SoftBank shares fall 20% in a week, losing top value status in Japan](https://cryptobriefing.com/softbank-shares-fall-20-percent-lose-top-value/)
+- [Lammy’s Ministry of Justice to Hire Without CVs and Force 90% of Interview Panels to Be “Diverse”](https://order-order.com/2026/06/11/exc-lammys-ministry-of-justice-to-hire-without-cvs-and-force-90-of-interview-panels-to-be-diverse/)
+- [【楽天対巨人3回戦】巨人・田中将大　２回５失点ＫＯ](http://blog.livedoor.jp/nanjstu/archives/63268622.html)
+- [percolation-inversion-compiler added to PyPI](https://pypi.org/project/percolation-inversion-compiler/)
+- [ctxsync added to PyPI](https://pypi.org/project/ctxsync/)
+- [Mississippi residents file a 10,000-strong class action against Musk’s xAI and SpaceX over data-centre noise](https://thenextweb.com/news/xai-spacex-mississippi-data-centre-noise-lawsuit/)
 <!-- NEWS_SECTION_END -->
 
 
