@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Lammy’s Ministry of Justice to Hire Without CVs and Force 90% of Interview Panels to Be “Diverse”](https://order-order.com/2026/06/11/exc-lammys-ministry-of-justice-to-hire-without-cvs-and-force-90-of-interview-panels-to-be-diverse/)
-- [【楽天対巨人3回戦】巨人・田中将大　２回５失点ＫＯ](http://blog.livedoor.jp/nanjstu/archives/63268622.html)
-- [percolation-inversion-compiler added to PyPI](https://pypi.org/project/percolation-inversion-compiler/)
-- [ctxsync added to PyPI](https://pypi.org/project/ctxsync/)
-- [Mississippi residents file a 10,000-strong class action against Musk’s xAI and SpaceX over data-centre noise](https://thenextweb.com/news/xai-spacex-mississippi-data-centre-noise-lawsuit/)
+- [GOP Sen. Young: Energy Costs From Data Centers Need to Be 'Internalized' to Companies, Not Passed On](https://www.breitbart.com/clips/2026/06/12/gop-sen-young-energy-costs-from-data-centers-need-to-be-internalized-to-companies-not-passed-on/)
+- [After record IPO, Musk's SpaceX faces next test in market debut](https://www.thehindubusinessline.com/markets/after-record-ipo-musks-spacex-faces-next-test-in-market-debut/article71092827.ece)
+- [Top 6 AWS Cost Optimization Services For 2026](https://cloudtweaks.com/2026/06/6-aws-cost-optimization-services-2026/)
+- [Will IPOs make America's AI giants more accountable? - Asia Times](https://asiatimes.com/2026/06/will-ipos-make-americas-ai-giants-more-accountable/)
+- [NUU B30 5G Unlocked Android Smartphones for 2 for $279.99 + free shipping](https://www.dealnews.com/NUU-B30-5-G-Unlocked-Android-Smartphones-for-2-for-279-99-free-shipping/21840132.html)
 <!-- NEWS_SECTION_END -->
 
 
