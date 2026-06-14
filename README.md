@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [GOP Sen. Young: Energy Costs From Data Centers Need to Be 'Internalized' to Companies, Not Passed On](https://www.breitbart.com/clips/2026/06/12/gop-sen-young-energy-costs-from-data-centers-need-to-be-internalized-to-companies-not-passed-on/)
-- [After record IPO, Musk's SpaceX faces next test in market debut](https://www.thehindubusinessline.com/markets/after-record-ipo-musks-spacex-faces-next-test-in-market-debut/article71092827.ece)
-- [Top 6 AWS Cost Optimization Services For 2026](https://cloudtweaks.com/2026/06/6-aws-cost-optimization-services-2026/)
-- [Will IPOs make America's AI giants more accountable? - Asia Times](https://asiatimes.com/2026/06/will-ipos-make-americas-ai-giants-more-accountable/)
-- [NUU B30 5G Unlocked Android Smartphones for 2 for $279.99 + free shipping](https://www.dealnews.com/NUU-B30-5-G-Unlocked-Android-Smartphones-for-2-for-279-99-free-shipping/21840132.html)
+- [csoai-governance-crosswalk-mcp 1.0.15](https://pypi.org/project/csoai-governance-crosswalk-mcp/1.0.15/)
+- [crypto-tracker-ai-mcp 1.0.11](https://pypi.org/project/crypto-tracker-ai-mcp/1.0.11/)
+- [cron-ai-mcp 1.0.9](https://pypi.org/project/cron-ai-mcp/1.0.9/)
+- [crm-ai-mcp 1.0.10](https://pypi.org/project/crm-ai-mcp/1.0.10/)
+- [devhelm-mcp-server 1.3.0](https://pypi.org/project/devhelm-mcp-server/1.3.0/)
 <!-- NEWS_SECTION_END -->
 
 
