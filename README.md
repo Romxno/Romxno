@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [csoai-governance-crosswalk-mcp 1.0.15](https://pypi.org/project/csoai-governance-crosswalk-mcp/1.0.15/)
-- [crypto-tracker-ai-mcp 1.0.11](https://pypi.org/project/crypto-tracker-ai-mcp/1.0.11/)
-- [cron-ai-mcp 1.0.9](https://pypi.org/project/cron-ai-mcp/1.0.9/)
-- [crm-ai-mcp 1.0.10](https://pypi.org/project/crm-ai-mcp/1.0.10/)
-- [devhelm-mcp-server 1.3.0](https://pypi.org/project/devhelm-mcp-server/1.3.0/)
+- ["Innovation is embedded in India's DNA": PM Modi champions 'AI for All' at Bharat Innovates 2026](https://economictimes.indiatimes.com/news/india/innovation-is-embedded-in-indias-dna-pm-modi-champions-ai-for-all-at-bharat-innovates-2026/articleshow/131720382.cms)
+- [SES AI DEADLINE: ROSEN, THE FIRST FILING FIRM, Encourages SES AI Corporation Investors with Losses in Excess of $100K to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm – SES](https://www.globenewswire.com/news-release/2026/06/14/3311441/673/en/SES-AI-DEADLINE-ROSEN-THE-FIRST-FILING-FIRM-Encourages-SES-AI-Corporation-Investors-with-Losses-in-Excess-of-100K-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Ac.html)
+- [cfdpilot 0.1.3](https://pypi.org/project/cfdpilot/0.1.3/)
+- [FIFA World Cup 2026: How tech inside official match ball Trionda makes it ‘special’](https://timesofindia.indiatimes.com/technology/tech-news/fifa-world-cup-2026-how-tech-inside-official-match-ball-trionda-makes-it-special/articleshow/131720260.cms)
+- [nvidia-nat-memmachine 1.8.0a20260614](https://pypi.org/project/nvidia-nat-memmachine/1.8.0a20260614/)
 <!-- NEWS_SECTION_END -->
 
 
