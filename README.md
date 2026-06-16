@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- ["Innovation is embedded in India's DNA": PM Modi champions 'AI for All' at Bharat Innovates 2026](https://economictimes.indiatimes.com/news/india/innovation-is-embedded-in-indias-dna-pm-modi-champions-ai-for-all-at-bharat-innovates-2026/articleshow/131720382.cms)
-- [SES AI DEADLINE: ROSEN, THE FIRST FILING FIRM, Encourages SES AI Corporation Investors with Losses in Excess of $100K to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm – SES](https://www.globenewswire.com/news-release/2026/06/14/3311441/673/en/SES-AI-DEADLINE-ROSEN-THE-FIRST-FILING-FIRM-Encourages-SES-AI-Corporation-Investors-with-Losses-in-Excess-of-100K-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Ac.html)
-- [cfdpilot 0.1.3](https://pypi.org/project/cfdpilot/0.1.3/)
-- [FIFA World Cup 2026: How tech inside official match ball Trionda makes it ‘special’](https://timesofindia.indiatimes.com/technology/tech-news/fifa-world-cup-2026-how-tech-inside-official-match-ball-trionda-makes-it-special/articleshow/131720260.cms)
-- [nvidia-nat-memmachine 1.8.0a20260614](https://pypi.org/project/nvidia-nat-memmachine/1.8.0a20260614/)
+- [Aussies divided over shark cull after mother Leah Stewart was mauled at Coogee Beach and left fighting for life - as surgeons amputate her arm](https://www.dailymail.com/news/article-15900581/Shark-cull-divided-Coogee-Beach-Leah-Stewart.html)
+- [aidev-wxbot 2.0.0rc100](https://pypi.org/project/aidev-wxbot/2.0.0rc100/)
+- [15 Hidden Apple Intelligence Features Apple Didn't Talk About At WWDC](https://www.bgr.com/2194030/hidden-apple-intelligence-features-apple-didnt-speak-about/)
+- [42% slashed of Samsung's 990 Pro SSD, 2TB now $369 — $270 savings brings one of the fastest PCIe 4.0 SSDs to its lowest price in months](https://www.tomshardware.com/pc-components/42-percent-slashed-of-samsungs-990-pro-ssd-2tb-now-usd369-usd270-savings-brings-one-of-the-fastest-pcie-4-0-ssds-to-its-lowest-price-in-months)
+- [Google leaked its next Pixel Drop with Screen Reactions and paid features](https://www.androidauthority.com/google-pixel-drop-teaser-3677446/)
 <!-- NEWS_SECTION_END -->
 
 
