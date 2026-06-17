@@ -1,10 +1,9 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Aussies divided over shark cull after mother Leah Stewart was mauled at Coogee Beach and left fighting for life - as surgeons amputate her arm](https://www.dailymail.com/news/article-15900581/Shark-cull-divided-Coogee-Beach-Leah-Stewart.html)
-- [aidev-wxbot 2.0.0rc100](https://pypi.org/project/aidev-wxbot/2.0.0rc100/)
-- [15 Hidden Apple Intelligence Features Apple Didn't Talk About At WWDC](https://www.bgr.com/2194030/hidden-apple-intelligence-features-apple-didnt-speak-about/)
-- [42% slashed of Samsung's 990 Pro SSD, 2TB now $369 — $270 savings brings one of the fastest PCIe 4.0 SSDs to its lowest price in months](https://www.tomshardware.com/pc-components/42-percent-slashed-of-samsungs-990-pro-ssd-2tb-now-usd369-usd270-savings-brings-one-of-the-fastest-pcie-4-0-ssds-to-its-lowest-price-in-months)
-- [Google leaked its next Pixel Drop with Screen Reactions and paid features](https://www.androidauthority.com/google-pixel-drop-teaser-3677446/)
+- [Capita is about to sail past deadline to fix civil service pensions scheme](https://www.theregister.com/public-sector/2026/06/16/capita-is-about-to-sail-past-deadline-to-fix-civil-service-pensions-scheme/5256022)
+- [ai-agentswarm 0.7.1](https://pypi.org/project/ai-agentswarm/0.7.1/)
+- [Veteran Counter Drone Leader John Knag Joins MatrixSpace](https://www.prnewswire.com/news-releases/veteran-counter-drone-leader-john-knag-joins-matrixspace-302801074.html)
+- [Show HN: A prompt generator to help AI agents implement my new email API](https://emailsdone.dev/)
 <!-- NEWS_SECTION_END -->
 
 
