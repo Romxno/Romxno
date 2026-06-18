@@ -1,9 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Capita is about to sail past deadline to fix civil service pensions scheme](https://www.theregister.com/public-sector/2026/06/16/capita-is-about-to-sail-past-deadline-to-fix-civil-service-pensions-scheme/5256022)
-- [ai-agentswarm 0.7.1](https://pypi.org/project/ai-agentswarm/0.7.1/)
-- [Veteran Counter Drone Leader John Knag Joins MatrixSpace](https://www.prnewswire.com/news-releases/veteran-counter-drone-leader-john-knag-joins-matrixspace-302801074.html)
-- [Show HN: A prompt generator to help AI agents implement my new email API](https://emailsdone.dev/)
+- [NIQ Introduces NIQ Cadence: A Compound AI Operating System for Marketing Effectiveness](https://financialpost.com/pmn/business-wire-news-releases-pmn/niq-introduces-niq-cadence-a-compound-ai-operating-system-for-marketing-effectiveness)
+- [Hina Khan enjoys a feast prepared by sister-in-law; shares mouth-watering food pics](https://timesofindia.indiatimes.com/tv/news/hindi/hina-khan-enjoys-a-feast-prepared-by-sister-in-law-shares-mouth-watering-food-pics/articleshow/131795151.cms)
+- [Reports say Ensemble is close to a $12B private equity bid](https://www.techtarget.com/revcyclemanagement/news/366644812/Reports-say-Ensemble-is-close-to-a-12B-private-equity-bid)
+- [flowpad 0.2.63](https://pypi.org/project/flowpad/0.2.63/)
+- [Scientists Solve a 30-Year Mystery Behind Inflammatory Bowel Disease](https://www.sciencealert.com/scientists-solve-a-30-year-mystery-behind-inflammatory-bowel-disease)
 <!-- NEWS_SECTION_END -->
 
 
