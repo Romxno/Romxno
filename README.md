@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [NIQ Introduces NIQ Cadence: A Compound AI Operating System for Marketing Effectiveness](https://financialpost.com/pmn/business-wire-news-releases-pmn/niq-introduces-niq-cadence-a-compound-ai-operating-system-for-marketing-effectiveness)
-- [Hina Khan enjoys a feast prepared by sister-in-law; shares mouth-watering food pics](https://timesofindia.indiatimes.com/tv/news/hindi/hina-khan-enjoys-a-feast-prepared-by-sister-in-law-shares-mouth-watering-food-pics/articleshow/131795151.cms)
-- [Reports say Ensemble is close to a $12B private equity bid](https://www.techtarget.com/revcyclemanagement/news/366644812/Reports-say-Ensemble-is-close-to-a-12B-private-equity-bid)
-- [flowpad 0.2.63](https://pypi.org/project/flowpad/0.2.63/)
-- [Scientists Solve a 30-Year Mystery Behind Inflammatory Bowel Disease](https://www.sciencealert.com/scientists-solve-a-30-year-mystery-behind-inflammatory-bowel-disease)
+- [WATCH: How a sports team winning is good for fans' brains](https://abcnews.com/video/133991561/)
+- [Bell and Cohere team up to bolster Canada’s AI infrastructure](https://biztoc.com/x/8d8f1841f0b48523)
+- [JioHotstar Sees AI, Connected TV and Commerce Driving India’s Next Streaming Phase](https://variety.com/2026/tv/news/jiohotstar-ai-connected-tv-commerce-apos-2026-1236784804/)
+- [cartograph-v1 1.0.1](https://pypi.org/project/cartograph-v1/1.0.1/)
+- [Agentjacking: Researchers Show How One Fake Bug Report Can Hijack AI Coding Agents](https://hackread.com/agentjacking-fake-bug-report-hijack-ai-coding-agents/)
 <!-- NEWS_SECTION_END -->
 
 
