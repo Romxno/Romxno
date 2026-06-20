@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [WATCH: How a sports team winning is good for fans' brains](https://abcnews.com/video/133991561/)
-- [Bell and Cohere team up to bolster Canada’s AI infrastructure](https://biztoc.com/x/8d8f1841f0b48523)
-- [JioHotstar Sees AI, Connected TV and Commerce Driving India’s Next Streaming Phase](https://variety.com/2026/tv/news/jiohotstar-ai-connected-tv-commerce-apos-2026-1236784804/)
-- [cartograph-v1 1.0.1](https://pypi.org/project/cartograph-v1/1.0.1/)
-- [Agentjacking: Researchers Show How One Fake Bug Report Can Hijack AI Coding Agents](https://hackread.com/agentjacking-fake-bug-report-hijack-ai-coding-agents/)
+- [Use of HMRC's taxing IR35 status tool drops 71% in two years](https://biztoc.com/x/af3e12b44ef02ba0)
+- [Nutanix's Tech Day London 2026 offers infrastructure insights](https://biztoc.com/x/332566d5f530e8f1)
+- [aidial-sdk 0.38.0.dev12](https://pypi.org/project/aidial-sdk/0.38.0.dev12/)
+- [Towards Conversational AI for Disease Management](https://biztoc.com/x/eb991105e15576aa)
+- [What the Theory of the Flying Rock Tells Us About AI](https://biztoc.com/x/978979b68bc98fc6)
 <!-- NEWS_SECTION_END -->
 
 
