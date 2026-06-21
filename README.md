@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Use of HMRC's taxing IR35 status tool drops 71% in two years](https://biztoc.com/x/af3e12b44ef02ba0)
-- [Nutanix's Tech Day London 2026 offers infrastructure insights](https://biztoc.com/x/332566d5f530e8f1)
-- [aidial-sdk 0.38.0.dev12](https://pypi.org/project/aidial-sdk/0.38.0.dev12/)
-- [Towards Conversational AI for Disease Management](https://biztoc.com/x/eb991105e15576aa)
-- [What the Theory of the Flying Rock Tells Us About AI](https://biztoc.com/x/978979b68bc98fc6)
+- [motley-slayer 0.8.1](https://pypi.org/project/motley-slayer/0.8.1/)
+- [Show HN: Created On-Page SEO Tool – AI Action Plans for Search Console Data](https://blogr.ai)
+- [neon-guard-mcp 0.1.0](https://pypi.org/project/neon-guard-mcp/0.1.0/)
+- [neon-guard-mcp added to PyPI](https://pypi.org/project/neon-guard-mcp/)
+- [Google Assistant ruined my smart home setup — but Gemini just saved it](https://www.androidauthority.com/google-assistant-ruined-my-smart-home-gemini-saved-3674394/)
 <!-- NEWS_SECTION_END -->
 
 
