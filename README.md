@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [motley-slayer 0.8.1](https://pypi.org/project/motley-slayer/0.8.1/)
-- [Show HN: Created On-Page SEO Tool – AI Action Plans for Search Console Data](https://blogr.ai)
-- [neon-guard-mcp 0.1.0](https://pypi.org/project/neon-guard-mcp/0.1.0/)
-- [neon-guard-mcp added to PyPI](https://pypi.org/project/neon-guard-mcp/)
-- [Google Assistant ruined my smart home setup — but Gemini just saved it](https://www.androidauthority.com/google-assistant-ruined-my-smart-home-gemini-saved-3674394/)
+- [Claude Code felt overhyped until I discovered the workflow that makes it genuinely powerful](https://www.xda-developers.com/claude-code-felt-overhyped-until-discovered-workflow-makes-powerful/)
+- [60% surveyed professionals say AI now central to HR operations: Report](https://www.thehindubusinessline.com/info-tech/60-surveyed-professionals-say-ai-now-central-to-hr-operations-report/article71129121.ece)
+- [India’s largest lender deserves a better valuation, says bank chief. The market is starting to agree.](https://www.livemint.com/companies/news/why-sbi-deserves-a-better-valuation-11782036427413.html)
+- [Africa’s Data Dilemma: Lessons From Building an Offline AI Model for Health (RandomForest) and Agriculture (MobileNetV3)](https://www.linkedin.com/pulse/africas-data-dilemma-lessons-from-building-offline-ai-samuel-olusegun-vnpqe)
+- [sync-claude-md 1.0.0](https://pypi.org/project/sync-claude-md/1.0.0/)
 <!-- NEWS_SECTION_END -->
 
 
