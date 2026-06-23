@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Claude Code felt overhyped until I discovered the workflow that makes it genuinely powerful](https://www.xda-developers.com/claude-code-felt-overhyped-until-discovered-workflow-makes-powerful/)
-- [60% surveyed professionals say AI now central to HR operations: Report](https://www.thehindubusinessline.com/info-tech/60-surveyed-professionals-say-ai-now-central-to-hr-operations-report/article71129121.ece)
-- [India’s largest lender deserves a better valuation, says bank chief. The market is starting to agree.](https://www.livemint.com/companies/news/why-sbi-deserves-a-better-valuation-11782036427413.html)
-- [Africa’s Data Dilemma: Lessons From Building an Offline AI Model for Health (RandomForest) and Agriculture (MobileNetV3)](https://www.linkedin.com/pulse/africas-data-dilemma-lessons-from-building-offline-ai-samuel-olusegun-vnpqe)
-- [sync-claude-md 1.0.0](https://pypi.org/project/sync-claude-md/1.0.0/)
+- [PFRDA launches AI-powered portal to transform pension grievance redressal](https://economictimes.indiatimes.com/news/india/pfrda-launches-ai-powered-portal-to-transform-pension-grievance-redressal/articleshow/131904720.cms)
+- [chimeralang 0.2.0](https://pypi.org/project/chimeralang/0.2.0/)
+- [Smallbatch Pets Finds a Prime Day Edge in AI](https://biztoc.com/x/34de87f0d89c94fe)
+- [Mastercard Wants to Teach AI Agents How to Spend](https://biztoc.com/x/d96877c3ee0f1e9d)
+- [AI Shifts Payments Innovation From Features to Foundations](https://biztoc.com/x/3d8328499ea21446)
 <!-- NEWS_SECTION_END -->
 
 
