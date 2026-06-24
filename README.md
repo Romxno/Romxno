@@ -1,10 +1,9 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [PFRDA launches AI-powered portal to transform pension grievance redressal](https://economictimes.indiatimes.com/news/india/pfrda-launches-ai-powered-portal-to-transform-pension-grievance-redressal/articleshow/131904720.cms)
-- [chimeralang 0.2.0](https://pypi.org/project/chimeralang/0.2.0/)
-- [Smallbatch Pets Finds a Prime Day Edge in AI](https://biztoc.com/x/34de87f0d89c94fe)
-- [Mastercard Wants to Teach AI Agents How to Spend](https://biztoc.com/x/d96877c3ee0f1e9d)
-- [AI Shifts Payments Innovation From Features to Foundations](https://biztoc.com/x/3d8328499ea21446)
+- [Multiview?s Vendor Landscape: How Streaming Architectures Determine Success](https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=175414)
+- [Apple's £3 Billion UK iCloud Case Cleared for Trial](https://www.macrumors.com/2026/06/23/apple-3-billion-uk-icloud-case-cleared-for-trial/)
+- [OpenAI wants AI to fix vulnerabilities, not just find them](https://www.helpnetsecurity.com/2026/06/23/openai-expanded-daybreak-cybersecurity-initiative/)
+- [F5 launches AI Security Platform to uncover and secure shadow AI](https://www.helpnetsecurity.com/2026/06/23/f5-launches-ai-security-platform-to-uncover-and-secure-shadow-ai/)
 <!-- NEWS_SECTION_END -->
 
 
