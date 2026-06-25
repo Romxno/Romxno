@@ -1,9 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Multiview?s Vendor Landscape: How Streaming Architectures Determine Success](https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=175414)
-- [Apple's £3 Billion UK iCloud Case Cleared for Trial](https://www.macrumors.com/2026/06/23/apple-3-billion-uk-icloud-case-cleared-for-trial/)
-- [OpenAI wants AI to fix vulnerabilities, not just find them](https://www.helpnetsecurity.com/2026/06/23/openai-expanded-daybreak-cybersecurity-initiative/)
-- [F5 launches AI Security Platform to uncover and secure shadow AI](https://www.helpnetsecurity.com/2026/06/23/f5-launches-ai-security-platform-to-uncover-and-secure-shadow-ai/)
+- [OpenX Launches AI-Powered Media Decisioning Suite, OpenX IQ](https://www.exchangewire.com/blog/2026/06/24/openx-launches-ai-powered-media-decisioning-suite-openx-iq/)
+- [Halo’s Next Multiplayer Codenamed Ekur Shifts Back from an Extraction Shooter to a Warzone-style Big Team Battle, Sources Claim](https://wccftech.com/halo-ekur-multiplayer-warzone-big-team-battle/)
+- [Agility Robotics to go public in $2.5B SPAC deal with Churchill Capital](https://cryptobriefing.com/agility-robotics-spac-deal-churchill-capital/)
+- [Anthropic’s Mythos found flaws in classified US systems during a government test](https://thenextweb.com/news/anthropic-mythos-classified-systems-vulnerabilities/)
+- [I’ve covered Prime Day for 7 years — these are the 201+ best day 2 deals worth shopping (live updates)](https://www.nbcnews.com/select/shopping/best-amazon-prime-day-deals-2026-06-24-rcna351521)
 <!-- NEWS_SECTION_END -->
 
 
