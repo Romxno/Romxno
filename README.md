@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [OpenX Launches AI-Powered Media Decisioning Suite, OpenX IQ](https://www.exchangewire.com/blog/2026/06/24/openx-launches-ai-powered-media-decisioning-suite-openx-iq/)
-- [Halo’s Next Multiplayer Codenamed Ekur Shifts Back from an Extraction Shooter to a Warzone-style Big Team Battle, Sources Claim](https://wccftech.com/halo-ekur-multiplayer-warzone-big-team-battle/)
-- [Agility Robotics to go public in $2.5B SPAC deal with Churchill Capital](https://cryptobriefing.com/agility-robotics-spac-deal-churchill-capital/)
-- [Anthropic’s Mythos found flaws in classified US systems during a government test](https://thenextweb.com/news/anthropic-mythos-classified-systems-vulnerabilities/)
-- [I’ve covered Prime Day for 7 years — these are the 201+ best day 2 deals worth shopping (live updates)](https://www.nbcnews.com/select/shopping/best-amazon-prime-day-deals-2026-06-24-rcna351521)
+- [Qualcomm HBC Gen 1 Achieves 133 TB/s Bandwidth by Stacking LPDDR Memory](https://www.techpowerup.com/350281/qualcomm-hbc-gen-1-achieves-133-tb-s-bandwidth-by-stacking-lpddr-memory)
+- [Kioxia sees Apple fuel NAND memory supercycle, sets sights on US market](https://www.digitimes.com/news/a20260625VL212/kioxia-market-apple-nand-price.html)
+- [Forget Looping Rain Sounds. Mur Mur Has an Actual World Inside.](https://www.yankodesign.com/2026/06/25/forget-looping-rain-sounds-mur-mur-has-an-actual-world-inside/)
+- [Two types of Realtors are emerging in the AI era. Here’s the difference](https://www.inman.com/2026/06/25/ai-adoption-among-real-estate-agents/)
+- [Despite AI bubble fears, memory chip makers work to fill insatiable demand](https://www.npr.org/2026/06/25/nx-s1-5869540/despite-ai-bubble-fears-memory-chip-makers-work-to-fill-insatiable-demand)
 <!-- NEWS_SECTION_END -->
 
 
