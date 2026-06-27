@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Qualcomm HBC Gen 1 Achieves 133 TB/s Bandwidth by Stacking LPDDR Memory](https://www.techpowerup.com/350281/qualcomm-hbc-gen-1-achieves-133-tb-s-bandwidth-by-stacking-lpddr-memory)
-- [Kioxia sees Apple fuel NAND memory supercycle, sets sights on US market](https://www.digitimes.com/news/a20260625VL212/kioxia-market-apple-nand-price.html)
-- [Forget Looping Rain Sounds. Mur Mur Has an Actual World Inside.](https://www.yankodesign.com/2026/06/25/forget-looping-rain-sounds-mur-mur-has-an-actual-world-inside/)
-- [Two types of Realtors are emerging in the AI era. Here’s the difference](https://www.inman.com/2026/06/25/ai-adoption-among-real-estate-agents/)
-- [Despite AI bubble fears, memory chip makers work to fill insatiable demand](https://www.npr.org/2026/06/25/nx-s1-5869540/despite-ai-bubble-fears-memory-chip-makers-work-to-fill-insatiable-demand)
+- [Unveil “Jalapeño” AI Accelerator for Enhanced LLM Inference](https://biztoc.com/x/7b247f29fef4c262)
+- [, Mintoak Partner to Expand Merchant SaaS Offerings Across Asia Pacific](https://biztoc.com/x/37d00a6946320cfe)
+- [The Typography of whitehouse.gov, 2000–2026](https://fontsinuse.com/uses/78453/the-typography-of-whitehouse-gov-2000-2026)
+- [is One of the Best Stocks For Beginners to Buy Now](https://biztoc.com/x/8e5908df19a8bbf9)
+- [everyai-core 1.1.1](https://pypi.org/project/everyai-core/1.1.1/)
 <!-- NEWS_SECTION_END -->
 
 
