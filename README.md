@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Unveil “Jalapeño” AI Accelerator for Enhanced LLM Inference](https://biztoc.com/x/7b247f29fef4c262)
-- [, Mintoak Partner to Expand Merchant SaaS Offerings Across Asia Pacific](https://biztoc.com/x/37d00a6946320cfe)
-- [The Typography of whitehouse.gov, 2000–2026](https://fontsinuse.com/uses/78453/the-typography-of-whitehouse-gov-2000-2026)
-- [is One of the Best Stocks For Beginners to Buy Now](https://biztoc.com/x/8e5908df19a8bbf9)
-- [everyai-core 1.1.1](https://pypi.org/project/everyai-core/1.1.1/)
+- [Can India Inspire Europe’s Digital Revolution?](https://www.opinion-internationale.com/2026/06/27/can-india-inspire-europes-digital-revolution_143054.html)
+- [Remem-py added to PyPI](https://pypi.org/project/remem-py/)
+- [Remem-py 0.1.4](https://pypi.org/project/remem-py/0.1.4/)
+- [bbqsearch 0.1.7](https://pypi.org/project/bbqsearch/0.1.7/)
+- [bingo-ai 3.2.65](https://pypi.org/project/bingo-ai/3.2.65/)
 <!-- NEWS_SECTION_END -->
 
 
