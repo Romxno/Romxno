@@ -1,10 +1,9 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Can India Inspire Europe’s Digital Revolution?](https://www.opinion-internationale.com/2026/06/27/can-india-inspire-europes-digital-revolution_143054.html)
-- [Remem-py added to PyPI](https://pypi.org/project/remem-py/)
-- [Remem-py 0.1.4](https://pypi.org/project/remem-py/0.1.4/)
-- [bbqsearch 0.1.7](https://pypi.org/project/bbqsearch/0.1.7/)
-- [bingo-ai 3.2.65](https://pypi.org/project/bingo-ai/3.2.65/)
+- [AI Is Allegedly Being Used To Artificially Boost Fuel Prices In California](https://www.bgr.com/2200768/california-gas-ai-price-gouging-fuel-lawsuit-explained/)
+- [trinity-agent 1.0.682](https://pypi.org/project/trinity-agent/1.0.682/)
+- [contextl-mcp 1.2.33](https://pypi.org/project/contextl-mcp/1.2.33/)
+- [godel-py 3.16.5](https://pypi.org/project/godel-py/3.16.5/)
 <!-- NEWS_SECTION_END -->
 
 
