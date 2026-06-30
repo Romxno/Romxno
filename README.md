@@ -1,9 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [AI Is Allegedly Being Used To Artificially Boost Fuel Prices In California](https://www.bgr.com/2200768/california-gas-ai-price-gouging-fuel-lawsuit-explained/)
-- [trinity-agent 1.0.682](https://pypi.org/project/trinity-agent/1.0.682/)
-- [contextl-mcp 1.2.33](https://pypi.org/project/contextl-mcp/1.2.33/)
-- [godel-py 3.16.5](https://pypi.org/project/godel-py/3.16.5/)
+- [AI-Driven Patient Detection Surfaces Approximately 1,200 Likely-Undiagnosed GEP-NET Patients in UK Primary Care](https://apnews.com/press-release/ein-presswire-newsmatics/press-release-9883c17e85866adc5a8e4115d85a2d20)
+- [When AI agents go spectacularly wrong—and what to do about it](https://www.verdict.co.uk/when-ai-agents-go-spectacularly-wrong-and-what-to-do-about-it/)
+- [After missing UPSC and UPPCS final lists, Viral Sharma cracks Uttarakhand PCS and Bihar PCS with top ranks](https://timesofindia.indiatimes.com/education/news/after-missing-upsc-and-uppcs-final-lists-viral-sharma-cracks-uttarakhand-pcs-and-bihar-pcs-with-top-ranks/articleshow/132067927.cms)
+- [GTM Investors Have Opportunity to Lead ZoomInfo Technologies Inc. Securities Fraud Lawsuit with the Schall Law Firm](https://www.prnewswire.com/news-releases/gtm-investors-have-opportunity-to-lead-zoominfo-technologies-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302812878.html)
+- [Copper One begins AI-designed drilling at Majuba Hill in Nevada](https://www.mining-technology.com/news/copper-one-ai-designed-drilling-majuba-hill/)
 <!-- NEWS_SECTION_END -->
 
 
