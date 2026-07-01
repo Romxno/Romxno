@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [AI-Driven Patient Detection Surfaces Approximately 1,200 Likely-Undiagnosed GEP-NET Patients in UK Primary Care](https://apnews.com/press-release/ein-presswire-newsmatics/press-release-9883c17e85866adc5a8e4115d85a2d20)
-- [When AI agents go spectacularly wrong—and what to do about it](https://www.verdict.co.uk/when-ai-agents-go-spectacularly-wrong-and-what-to-do-about-it/)
-- [After missing UPSC and UPPCS final lists, Viral Sharma cracks Uttarakhand PCS and Bihar PCS with top ranks](https://timesofindia.indiatimes.com/education/news/after-missing-upsc-and-uppcs-final-lists-viral-sharma-cracks-uttarakhand-pcs-and-bihar-pcs-with-top-ranks/articleshow/132067927.cms)
-- [GTM Investors Have Opportunity to Lead ZoomInfo Technologies Inc. Securities Fraud Lawsuit with the Schall Law Firm](https://www.prnewswire.com/news-releases/gtm-investors-have-opportunity-to-lead-zoominfo-technologies-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302812878.html)
-- [Copper One begins AI-designed drilling at Majuba Hill in Nevada](https://www.mining-technology.com/news/copper-one-ai-designed-drilling-majuba-hill/)
+- [AI Agents Are Visiting Your Website. Which Ones Should You Trust?](https://www.imperva.com/blog/ai-agents-are-visiting-your-website-which-ones-should-you-trust/)
+- [AI Agents Are Visiting Your Website. Which Ones Should You Trust?](https://www.imperva.com/blog/ai-bot-traffic-which-bots-to-trust/)
+- [World's three largest memory chipmakers sued in US over DRAM supply shift to AI memory](https://economictimes.indiatimes.com/tech/artificial-intelligence/worlds-three-largest-memory-chipmakers-sued-in-us-over-dram-supply-shift-to-ai-memory/articleshow/132089551.cms)
+- [CU Medicine Ranked World No. 2 in Gastroenterology & Hepatology](https://www.prnewswire.com/news-releases/cu-medicine-ranked-world-no-2-in-gastroenterology--hepatology-302814326.html)
+- [iints-sdk-python35 1.5.19](https://pypi.org/project/iints-sdk-python35/1.5.19/)
 <!-- NEWS_SECTION_END -->
 
 
