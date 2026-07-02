@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [AI Agents Are Visiting Your Website. Which Ones Should You Trust?](https://www.imperva.com/blog/ai-agents-are-visiting-your-website-which-ones-should-you-trust/)
-- [AI Agents Are Visiting Your Website. Which Ones Should You Trust?](https://www.imperva.com/blog/ai-bot-traffic-which-bots-to-trust/)
-- [World's three largest memory chipmakers sued in US over DRAM supply shift to AI memory](https://economictimes.indiatimes.com/tech/artificial-intelligence/worlds-three-largest-memory-chipmakers-sued-in-us-over-dram-supply-shift-to-ai-memory/articleshow/132089551.cms)
-- [CU Medicine Ranked World No. 2 in Gastroenterology & Hepatology](https://www.prnewswire.com/news-releases/cu-medicine-ranked-world-no-2-in-gastroenterology--hepatology-302814326.html)
-- [iints-sdk-python35 1.5.19](https://pypi.org/project/iints-sdk-python35/1.5.19/)
+- [Yageo to raise capacitor prices, extending AI cost pressure to EMS and OEM customers](https://www.digitimes.com/news/a20260701PD226/yageo-passive-components-capacitor-oem-supplier.html)
+- [At 14, this Indian became Dubai's youngest AI startup founder and now works from an office in Burj Khalifa](https://timesofindia.indiatimes.com/education/news/at-14-this-indian-became-dubais-youngest-ai-startup-founder-and-now-works-from-an-office-in-burj-khalifa/articleshow/132108641.cms)
+- [OCBC to lift annual tech spending above $771mn as new CEO doubles down on AI](https://thenextweb.com/news/ocbc-annual-tech-spending-771-million-ai/)
+- [ai-simple-engine-api-musicgen added to PyPI](https://pypi.org/project/ai-simple-engine-api-musicgen/)
+- [The Samsung Galaxy Glasses app interface has been leaked](https://www.yugatech.com/news/the-samsung-galaxy-glasses-app-interface-has-been-leaked/)
 <!-- NEWS_SECTION_END -->
 
 
