@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Yageo to raise capacitor prices, extending AI cost pressure to EMS and OEM customers](https://www.digitimes.com/news/a20260701PD226/yageo-passive-components-capacitor-oem-supplier.html)
-- [At 14, this Indian became Dubai's youngest AI startup founder and now works from an office in Burj Khalifa](https://timesofindia.indiatimes.com/education/news/at-14-this-indian-became-dubais-youngest-ai-startup-founder-and-now-works-from-an-office-in-burj-khalifa/articleshow/132108641.cms)
-- [OCBC to lift annual tech spending above $771mn as new CEO doubles down on AI](https://thenextweb.com/news/ocbc-annual-tech-spending-771-million-ai/)
-- [ai-simple-engine-api-musicgen added to PyPI](https://pypi.org/project/ai-simple-engine-api-musicgen/)
-- [The Samsung Galaxy Glasses app interface has been leaked](https://www.yugatech.com/news/the-samsung-galaxy-glasses-app-interface-has-been-leaked/)
+- [2026 Renault Kwid India launch tomorrow: What to expect](https://timesofindia.indiatimes.com/auto/cars/2026-renault-kwid-india-launch-tomorrow-what-to-expect/articleshow/132130824.cms)
+- [Show HN: Get a structured knowledge base instantly from conversations](https://sofie.wiki)
+- [lx-ai-module 0.1.4](https://pypi.org/project/lx-ai-module/0.1.4/)
+- [Buckle Up! We Just Entered the Next Phase of Trumpflation](https://biztoc.com/x/e141265f2f250f30)
+- [airbyte-mcp 0.3.0](https://pypi.org/project/airbyte-mcp/0.3.0/)
 <!-- NEWS_SECTION_END -->
 
 
