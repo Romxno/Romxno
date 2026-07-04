@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [2026 Renault Kwid India launch tomorrow: What to expect](https://timesofindia.indiatimes.com/auto/cars/2026-renault-kwid-india-launch-tomorrow-what-to-expect/articleshow/132130824.cms)
-- [Show HN: Get a structured knowledge base instantly from conversations](https://sofie.wiki)
-- [lx-ai-module 0.1.4](https://pypi.org/project/lx-ai-module/0.1.4/)
-- [Buckle Up! We Just Entered the Next Phase of Trumpflation](https://biztoc.com/x/e141265f2f250f30)
-- [airbyte-mcp 0.3.0](https://pypi.org/project/airbyte-mcp/0.3.0/)
+- [Top Companies Driving Innovation in AI-Powered Education: Carnegie Learning and More](https://www.globenewswire.com/news-release/2026/07/03/3321701/28124/en/Top-Companies-Driving-Innovation-in-AI-Powered-Education-Carnegie-Learning-and-More.html)
+- [Exponential Growth Expected: AI in Industrial Machinery Market Projected to Reach $9.04 Billion by 2030 with a 29.1% CAGR](https://www.globenewswire.com/news-release/2026/07/03/3321699/28124/en/Exponential-Growth-Expected-AI-in-Industrial-Machinery-Market-Projected-to-Reach-9-04-Billion-by-2030-with-a-29-1-CAGR.html)
+- [an-web 0.9.0](https://pypi.org/project/an-web/0.9.0/)
+- [Chipmaker Kioxia ships next-gen memory samples as AI boom fuels dramatic comeback](https://economictimes.indiatimes.com/tech/technology/chipmaker-kioxia-ships-next-gen-memory-samples-as-ai-boom-fuels-dramatic-comeback/articleshow/132156264.cms)
+- [Blackstone’s QTS terminates its Digital Gateway data centre project in Virginia](https://thenextweb.com/news/blackstone-qts-terminates-digital-gateway-virginia/)
 <!-- NEWS_SECTION_END -->
 
 
