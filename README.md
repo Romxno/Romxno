@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Top Companies Driving Innovation in AI-Powered Education: Carnegie Learning and More](https://www.globenewswire.com/news-release/2026/07/03/3321701/28124/en/Top-Companies-Driving-Innovation-in-AI-Powered-Education-Carnegie-Learning-and-More.html)
-- [Exponential Growth Expected: AI in Industrial Machinery Market Projected to Reach $9.04 Billion by 2030 with a 29.1% CAGR](https://www.globenewswire.com/news-release/2026/07/03/3321699/28124/en/Exponential-Growth-Expected-AI-in-Industrial-Machinery-Market-Projected-to-Reach-9-04-Billion-by-2030-with-a-29-1-CAGR.html)
-- [an-web 0.9.0](https://pypi.org/project/an-web/0.9.0/)
-- [Chipmaker Kioxia ships next-gen memory samples as AI boom fuels dramatic comeback](https://economictimes.indiatimes.com/tech/technology/chipmaker-kioxia-ships-next-gen-memory-samples-as-ai-boom-fuels-dramatic-comeback/articleshow/132156264.cms)
-- [Blackstone’s QTS terminates its Digital Gateway data centre project in Virginia](https://thenextweb.com/news/blackstone-qts-terminates-digital-gateway-virginia/)
+- [aiekp-cli 0.1.0a1](https://pypi.org/project/aiekp-cli/0.1.0a1/)
+- [aiekp-cli added to PyPI](https://pypi.org/project/aiekp-cli/)
+- [utim-cli 1.44.9](https://pypi.org/project/utim-cli/1.44.9/)
+- [klodi-nanobot 0.3.9](https://pypi.org/project/klodi-nanobot/0.3.9/)
+- [klodi-hermes 0.3.9](https://pypi.org/project/klodi-hermes/0.3.9/)
 <!-- NEWS_SECTION_END -->
 
 
