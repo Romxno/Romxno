@@ -1,10 +1,9 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [aiekp-cli 0.1.0a1](https://pypi.org/project/aiekp-cli/0.1.0a1/)
-- [aiekp-cli added to PyPI](https://pypi.org/project/aiekp-cli/)
-- [utim-cli 1.44.9](https://pypi.org/project/utim-cli/1.44.9/)
-- [klodi-nanobot 0.3.9](https://pypi.org/project/klodi-nanobot/0.3.9/)
-- [klodi-hermes 0.3.9](https://pypi.org/project/klodi-hermes/0.3.9/)
+- [The debate over what's making it harder for college grads to get hired](https://biztoc.com/x/333270755c002bae)
+- [AI got this lawyer away from his desk: 'Dramatically more efficient'](https://biztoc.com/x/ecac61e014a0a776)
+- [bingo-ai 4.9.2](https://pypi.org/project/bingo-ai/4.9.2/)
+- [Animator](https://www.behance.net/joblist/fulltime/356517/Animator)
 <!-- NEWS_SECTION_END -->
 
 
