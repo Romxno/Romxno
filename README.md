@@ -1,9 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [The debate over what's making it harder for college grads to get hired](https://biztoc.com/x/333270755c002bae)
-- [AI got this lawyer away from his desk: 'Dramatically more efficient'](https://biztoc.com/x/ecac61e014a0a776)
-- [bingo-ai 4.9.2](https://pypi.org/project/bingo-ai/4.9.2/)
-- [Animator](https://www.behance.net/joblist/fulltime/356517/Animator)
+- [corvinos 0.10.9](https://pypi.org/project/corvinos/0.10.9/)
+- [regula-ai 1.7.4](https://pypi.org/project/regula-ai/1.7.4/)
+- [veto-agents 0.0.25](https://pypi.org/project/veto-agents/0.0.25/)
+- [PraisonAI 4.6.126](https://pypi.org/project/praisonai/4.6.126/)
+- [K-pop group KARD to disband after 10 years - The Korea Times](https://www.koreatimes.co.kr/entertainment/20260706/k-pop-group-kard-to-disband-after-10-years)
 <!-- NEWS_SECTION_END -->
 
 
