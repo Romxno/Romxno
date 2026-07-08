@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [corvinos 0.10.9](https://pypi.org/project/corvinos/0.10.9/)
-- [regula-ai 1.7.4](https://pypi.org/project/regula-ai/1.7.4/)
-- [veto-agents 0.0.25](https://pypi.org/project/veto-agents/0.0.25/)
-- [PraisonAI 4.6.126](https://pypi.org/project/praisonai/4.6.126/)
-- [K-pop group KARD to disband after 10 years - The Korea Times](https://www.koreatimes.co.kr/entertainment/20260706/k-pop-group-kard-to-disband-after-10-years)
+- [tilion 0.1.10](https://pypi.org/project/tilion/0.1.10/)
+- [AI時代だからこそ「人間の観察力」が鍵。顧客のリアルな本音をデータ化する新資格「コミュセラー(TM)検定」2026年度、申込受付を開始。7月31日まで](https://prtimes.jp/main/html/rd/p/000000002.000186738.html)
+- [seektalent 0.7.16](https://pypi.org/project/seektalent/0.7.16/)
+- [Georgia Toffolo, 31, is mocked by multi-millionaire husband James Watt, 44, for 'not putting a penny' in their joint account and making it seem like he's 'firing blanks' with her posts about their fertility woes](https://www.dailymail.com/tvshowbiz/article-15958437/Georgia-Toffolo-mocked-multi-millionaire-husband-James-Watt-not-putting-penny-joint-account-making-like-hes-firing-blanks-posts-fertility-woes.html)
+- [Forget the Sweater, AI Wants to Pay the Invoice (With a Card)](https://www.pymnts.com/news/b2b-payments/2026/forget-the-sweater-ai-wants-to-pay-the-invoice-with-a-card/)
 <!-- NEWS_SECTION_END -->
 
 
