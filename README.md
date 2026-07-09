@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [tilion 0.1.10](https://pypi.org/project/tilion/0.1.10/)
-- [AI時代だからこそ「人間の観察力」が鍵。顧客のリアルな本音をデータ化する新資格「コミュセラー(TM)検定」2026年度、申込受付を開始。7月31日まで](https://prtimes.jp/main/html/rd/p/000000002.000186738.html)
-- [seektalent 0.7.16](https://pypi.org/project/seektalent/0.7.16/)
-- [Georgia Toffolo, 31, is mocked by multi-millionaire husband James Watt, 44, for 'not putting a penny' in their joint account and making it seem like he's 'firing blanks' with her posts about their fertility woes](https://www.dailymail.com/tvshowbiz/article-15958437/Georgia-Toffolo-mocked-multi-millionaire-husband-James-Watt-not-putting-penny-joint-account-making-like-hes-firing-blanks-posts-fertility-woes.html)
-- [Forget the Sweater, AI Wants to Pay the Invoice (With a Card)](https://www.pymnts.com/news/b2b-payments/2026/forget-the-sweater-ai-wants-to-pay-the-invoice-with-a-card/)
+- [trialmatchai 0.5.0](https://pypi.org/project/trialmatchai/0.5.0/)
+- [aelvoxim 1.1.0](https://pypi.org/project/aelvoxim/1.1.0/)
+- [Samsung confirms Galaxy Unpacked event date; Galaxy Z Fold 8, Z Fold 8 Ultra and Z Flip 8 foldables expected to debut](https://economictimes.indiatimes.com/news/new-updates/samsung-confirms-galaxy-unpacked-event-date-galaxy-z-fold-8-z-fold-8-ultra-and-z-flip-8-foldables-expected-to-debut/articleshow/132259132.cms)
+- [SNP and Palantir Form Strategic Partnership to Accelerate Secure SAP Transformations](https://financialpost.com/pmn/business-wire-news-releases-pmn/snp-and-palantir-form-strategic-partnership-to-accelerate-secure-sap-transformations)
+- [Show HN: Comcent CE – An open-source self-hosted Voice Infrastructure platform](https://github.com/comcent-io/comcent-ce)
 <!-- NEWS_SECTION_END -->
 
 
