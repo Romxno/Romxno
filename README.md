@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [trialmatchai 0.5.0](https://pypi.org/project/trialmatchai/0.5.0/)
-- [aelvoxim 1.1.0](https://pypi.org/project/aelvoxim/1.1.0/)
-- [Samsung confirms Galaxy Unpacked event date; Galaxy Z Fold 8, Z Fold 8 Ultra and Z Flip 8 foldables expected to debut](https://economictimes.indiatimes.com/news/new-updates/samsung-confirms-galaxy-unpacked-event-date-galaxy-z-fold-8-z-fold-8-ultra-and-z-flip-8-foldables-expected-to-debut/articleshow/132259132.cms)
-- [SNP and Palantir Form Strategic Partnership to Accelerate Secure SAP Transformations](https://financialpost.com/pmn/business-wire-news-releases-pmn/snp-and-palantir-form-strategic-partnership-to-accelerate-secure-sap-transformations)
-- [Show HN: Comcent CE – An open-source self-hosted Voice Infrastructure platform](https://github.com/comcent-io/comcent-ce)
+- [How South Korea's silicon belt is changing its society](https://www.npr.org/2026/07/09/nx-s1-5872274/how-south-koreas-silicon-belt-is-changing-its-society)
+- [Rs 35 lakh CTC, but what's really in your account? Viral SBI salary slip starts a bigger conversation](https://timesofindia.indiatimes.com/education/news/rs-35-lakh-ctc-but-whats-really-in-your-account-viral-sbi-salary-slip-starts-a-bigger-conversation/articleshow/132281548.cms)
+- [Databricks tests GLM-5.2, finds it rivals top closed models in enterprise coding](https://cryptobriefing.com/databricks-glm-5-2-rivals-closed-models/)
+- [The Emergence of Generative UI: When Interfaces Stop Being Designed](https://slashdot.org/submission/17348842/the-emergence-of-generative-ui-when-interfaces-stop-being-designed)
+- [Beyond the jersey: FIFA fever finds its way to fingertips](https://timesofindia.indiatimes.com/city/mumbai/beyond-the-jersey-fifa-fever-finds-its-way-to-fingertips/articleshow/132281919.cms)
 <!-- NEWS_SECTION_END -->
 
 
