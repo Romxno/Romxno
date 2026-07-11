@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [How South Korea's silicon belt is changing its society](https://www.npr.org/2026/07/09/nx-s1-5872274/how-south-koreas-silicon-belt-is-changing-its-society)
-- [Rs 35 lakh CTC, but what's really in your account? Viral SBI salary slip starts a bigger conversation](https://timesofindia.indiatimes.com/education/news/rs-35-lakh-ctc-but-whats-really-in-your-account-viral-sbi-salary-slip-starts-a-bigger-conversation/articleshow/132281548.cms)
-- [Databricks tests GLM-5.2, finds it rivals top closed models in enterprise coding](https://cryptobriefing.com/databricks-glm-5-2-rivals-closed-models/)
-- [The Emergence of Generative UI: When Interfaces Stop Being Designed](https://slashdot.org/submission/17348842/the-emergence-of-generative-ui-when-interfaces-stop-being-designed)
-- [Beyond the jersey: FIFA fever finds its way to fingertips](https://timesofindia.indiatimes.com/city/mumbai/beyond-the-jersey-fifa-fever-finds-its-way-to-fingertips/articleshow/132281919.cms)
+- [ragnarbot-ai 0.11.3](https://pypi.org/project/ragnarbot-ai/0.11.3/)
+- [European Investment Bank launches €80B investment alliance for tech startups](https://cryptobriefing.com/eib-80-billion-tech-startup-alliance/)
+- [pulumi-linode 6.1.0a1783668291](https://pypi.org/project/pulumi-linode/6.1.0a1783668291/)
+- [OpenAI is killing its ChatGPT Atlas browser less than a year after launch](https://thenextweb.com/news/openai-chatgpt-atlas-browser-shutdown-superapp/)
+- [This fitness startup vibecoded an app to make you walk before you can scroll](https://www.businessinsider.com/venus-williams-fitness-app-vibe-coded-feature-locks-tiktok-weward-2026-7#article)
 <!-- NEWS_SECTION_END -->
 
 
