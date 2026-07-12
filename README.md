@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [ragnarbot-ai 0.11.3](https://pypi.org/project/ragnarbot-ai/0.11.3/)
-- [European Investment Bank launches €80B investment alliance for tech startups](https://cryptobriefing.com/eib-80-billion-tech-startup-alliance/)
-- [pulumi-linode 6.1.0a1783668291](https://pypi.org/project/pulumi-linode/6.1.0a1783668291/)
-- [OpenAI is killing its ChatGPT Atlas browser less than a year after launch](https://thenextweb.com/news/openai-chatgpt-atlas-browser-shutdown-superapp/)
-- [This fitness startup vibecoded an app to make you walk before you can scroll](https://www.businessinsider.com/venus-williams-fitness-app-vibe-coded-feature-locks-tiktok-weward-2026-7#article)
+- [memlife 0.5.3](https://pypi.org/project/memlife/0.5.3/)
+- [iPhone 18 Pro Unlikely To Use CXMT DRAM Due To Deep Integration Between A20 Pro’s Newer Packaging And Samsung, SK hynix Memory; Rumor Shares One Silver Lining](https://wccftech.com/iphone-18-pro-unlikely-to-use-cxmt-dram-due-to-deep-a20-pro-packaging-integration/)
+- [pulumi-gcp 9.30.0a1783754057](https://pypi.org/project/pulumi-gcp/9.30.0a1783754057/)
+- [mlloop 0.0.2](https://pypi.org/project/mlloop/0.0.2/)
+- [rust-ai-serving-engine added to PyPI](https://pypi.org/project/rust-ai-serving-engine/)
 <!-- NEWS_SECTION_END -->
 
 
