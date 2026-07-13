@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [memlife 0.5.3](https://pypi.org/project/memlife/0.5.3/)
-- [iPhone 18 Pro Unlikely To Use CXMT DRAM Due To Deep Integration Between A20 Pro’s Newer Packaging And Samsung, SK hynix Memory; Rumor Shares One Silver Lining](https://wccftech.com/iphone-18-pro-unlikely-to-use-cxmt-dram-due-to-deep-a20-pro-packaging-integration/)
-- [pulumi-gcp 9.30.0a1783754057](https://pypi.org/project/pulumi-gcp/9.30.0a1783754057/)
-- [mlloop 0.0.2](https://pypi.org/project/mlloop/0.0.2/)
-- [rust-ai-serving-engine added to PyPI](https://pypi.org/project/rust-ai-serving-engine/)
+- [I traded San Francisco's startup scene for a quieter life in Buenos Aires. It's helped me build a family.](https://www.businessinsider.com/moving-from-san-francisco-buenos-aires-argentina-family-having-kids-2026-7#article)
+- [memtomem 0.3.7](https://pypi.org/project/memtomem/0.3.7/)
+- [GPT-5.6に「無駄にエフェクトがド派手な電卓を作って！」と丸投げしたら想像以上にやかましいのができた](https://togetter.com/li/2719712)
+- [ethan-agent 0.4.23](https://pypi.org/project/ethan-agent/0.4.23/)
+- [$1,000 in Nvidia vs. $1,000 in Broadcom: Which AI Chip Bet Paid Off More?](https://biztoc.com/x/b1dc4d0dd02b79f2)
 <!-- NEWS_SECTION_END -->
 
 
