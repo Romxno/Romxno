@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [I traded San Francisco's startup scene for a quieter life in Buenos Aires. It's helped me build a family.](https://www.businessinsider.com/moving-from-san-francisco-buenos-aires-argentina-family-having-kids-2026-7#article)
-- [memtomem 0.3.7](https://pypi.org/project/memtomem/0.3.7/)
-- [GPT-5.6に「無駄にエフェクトがド派手な電卓を作って！」と丸投げしたら想像以上にやかましいのができた](https://togetter.com/li/2719712)
-- [ethan-agent 0.4.23](https://pypi.org/project/ethan-agent/0.4.23/)
-- [$1,000 in Nvidia vs. $1,000 in Broadcom: Which AI Chip Bet Paid Off More?](https://biztoc.com/x/b1dc4d0dd02b79f2)
+- [82-year-old Bihar man finds Rs 759 crore in pension account, balance disappears minutes later](https://timesofindia.indiatimes.com/city/patna/82-year-old-bihar-man-finds-rs-759-crore-in-pension-account-balance-disappears-minutes-later/articleshow/132359798.cms)
+- [knktx 0.7.1](https://pypi.org/project/knktx/0.7.1/)
+- [pysae-ai-tools 0.1.1579](https://pypi.org/project/pysae-ai-tools/0.1.1579/)
+- [seektalent 0.7.45](https://pypi.org/project/seektalent/0.7.45/)
+- [xtc-app-knowledge-mcp 0.2.1](https://pypi.org/project/xtc-app-knowledge-mcp/0.2.1/)
 <!-- NEWS_SECTION_END -->
 
 
