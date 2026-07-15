@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [82-year-old Bihar man finds Rs 759 crore in pension account, balance disappears minutes later](https://timesofindia.indiatimes.com/city/patna/82-year-old-bihar-man-finds-rs-759-crore-in-pension-account-balance-disappears-minutes-later/articleshow/132359798.cms)
-- [knktx 0.7.1](https://pypi.org/project/knktx/0.7.1/)
-- [pysae-ai-tools 0.1.1579](https://pypi.org/project/pysae-ai-tools/0.1.1579/)
-- [seektalent 0.7.45](https://pypi.org/project/seektalent/0.7.45/)
-- [xtc-app-knowledge-mcp 0.2.1](https://pypi.org/project/xtc-app-knowledge-mcp/0.2.1/)
+- [HUAWEI Pura 90s Pro, 90s Pro Max, MatePad Air now official](https://www.yugatech.com/news/huawei-pura-90s-90s-pro-90s-pro-max-matepad-air-now-official/)
+- [The future worth building is human](https://thinkingmachines.ai/blog/the-future-worth-building-is-human/)
+- [asposehtmlcloud 26.7.1](https://pypi.org/project/asposehtmlcloud/26.7.1/)
+- [Google’s July Play System brings welcome improvements to the Play Store, Wear OS and Maps](https://www.androidauthority.com/google-system-update-july-2026-3687139/)
+- [Microsoft Announces Windows 11 Search Overhaul With Local Result Priority and Ad Removal](https://www.ghacks.net/2026/07/14/microsoft-announces-windows-11-search-overhaul-with-local-result-priority-and-ad-removal/)
 <!-- NEWS_SECTION_END -->
 
 
