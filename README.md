@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [HUAWEI Pura 90s Pro, 90s Pro Max, MatePad Air now official](https://www.yugatech.com/news/huawei-pura-90s-90s-pro-90s-pro-max-matepad-air-now-official/)
-- [The future worth building is human](https://thinkingmachines.ai/blog/the-future-worth-building-is-human/)
-- [asposehtmlcloud 26.7.1](https://pypi.org/project/asposehtmlcloud/26.7.1/)
-- [Google’s July Play System brings welcome improvements to the Play Store, Wear OS and Maps](https://www.androidauthority.com/google-system-update-july-2026-3687139/)
-- [Microsoft Announces Windows 11 Search Overhaul With Local Result Priority and Ad Removal](https://www.ghacks.net/2026/07/14/microsoft-announces-windows-11-search-overhaul-with-local-result-priority-and-ad-removal/)
+- [terbium-parse 0.9.5](https://pypi.org/project/terbium-parse/0.9.5/)
+- [huimei 0.6.23](https://pypi.org/project/huimei/0.6.23/)
+- [webbee 0.3.5](https://pypi.org/project/webbee/0.3.5/)
+- [Tongfu Microelectronics forecasts sharp first-half profit rise on AI and memory demand](https://www.digitimes.com/news/a20260715PR202/tongfu-profit-demand-2026-infrastructure.html)
+- [smolmachines 1.6.1](https://pypi.org/project/smolmachines/1.6.1/)
 <!-- NEWS_SECTION_END -->
 
 
