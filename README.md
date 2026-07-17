@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [terbium-parse 0.9.5](https://pypi.org/project/terbium-parse/0.9.5/)
-- [huimei 0.6.23](https://pypi.org/project/huimei/0.6.23/)
-- [webbee 0.3.5](https://pypi.org/project/webbee/0.3.5/)
-- [Tongfu Microelectronics forecasts sharp first-half profit rise on AI and memory demand](https://www.digitimes.com/news/a20260715PR202/tongfu-profit-demand-2026-infrastructure.html)
-- [smolmachines 1.6.1](https://pypi.org/project/smolmachines/1.6.1/)
+- [India bets ₹10,000 crore on a leap from generic drugs to biologics](https://www.livemint.com/industry/india-biopharma-shakti-rs-10000-crore-generic-drugs-biologics-11784174014120.html)
+- [pulumi-vault 7.11.0a1784187398](https://pypi.org/project/pulumi-vault/7.11.0a1784187398/)
+- [Nvidia partners with Japanese robotics firms to advance AI development](https://cryptobriefing.com/nvidia-japan-robotics-ai-partnerships/)
+- [realitykernel 0.5.0](https://pypi.org/project/realitykernel/0.5.0/)
+- [AI chips are running hotter — and Niching is betting its future on keeping them cool](https://www.digitimes.com/news/a20260715PD231/chips-packaging-niching-hpc-demand.html)
 <!-- NEWS_SECTION_END -->
 
 
