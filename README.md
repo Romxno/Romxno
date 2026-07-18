@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [India bets ₹10,000 crore on a leap from generic drugs to biologics](https://www.livemint.com/industry/india-biopharma-shakti-rs-10000-crore-generic-drugs-biologics-11784174014120.html)
-- [pulumi-vault 7.11.0a1784187398](https://pypi.org/project/pulumi-vault/7.11.0a1784187398/)
-- [Nvidia partners with Japanese robotics firms to advance AI development](https://cryptobriefing.com/nvidia-japan-robotics-ai-partnerships/)
-- [realitykernel 0.5.0](https://pypi.org/project/realitykernel/0.5.0/)
-- [AI chips are running hotter — and Niching is betting its future on keeping them cool](https://www.digitimes.com/news/a20260715PD231/chips-packaging-niching-hpc-demand.html)
+- [Is the AI stock boom losing steam after the latest chip selloff?](https://m.economictimes.com/markets/us-stocks/news/is-the-ai-stock-boom-losing-steam-after-the-latest-chip-selloff/ai-rout/slideshow/132456124.cms)
+- [Is the AI stock boom losing steam after the latest chip selloff?](https://m.economictimes.com/markets/us-stocks/news/is-the-ai-stock-boom-losing-steam-after-the-latest-chip-selloff/wall-street-triggers-global-weakness/slideshow/132455850.cms)
+- [alibabacloud-hitsdb20200615 4.17.0](https://pypi.org/project/alibabacloud-hitsdb20200615/4.17.0/)
+- [falaw 0.0.21](https://pypi.org/project/falaw/0.0.21/)
+- [agentcrew-ai 0.19.0](https://pypi.org/project/agentcrew-ai/0.19.0/)
 <!-- NEWS_SECTION_END -->
 
 
