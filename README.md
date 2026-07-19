@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Is the AI stock boom losing steam after the latest chip selloff?](https://m.economictimes.com/markets/us-stocks/news/is-the-ai-stock-boom-losing-steam-after-the-latest-chip-selloff/ai-rout/slideshow/132456124.cms)
-- [Is the AI stock boom losing steam after the latest chip selloff?](https://m.economictimes.com/markets/us-stocks/news/is-the-ai-stock-boom-losing-steam-after-the-latest-chip-selloff/wall-street-triggers-global-weakness/slideshow/132455850.cms)
-- [alibabacloud-hitsdb20200615 4.17.0](https://pypi.org/project/alibabacloud-hitsdb20200615/4.17.0/)
-- [falaw 0.0.21](https://pypi.org/project/falaw/0.0.21/)
-- [agentcrew-ai 0.19.0](https://pypi.org/project/agentcrew-ai/0.19.0/)
+- [puppetmaster-ai 1.20.0](https://pypi.org/project/puppetmaster-ai/1.20.0/)
+- [scout-security 0.1.8](https://pypi.org/project/scout-security/0.1.8/)
+- [Data center battles marking politics worldwide](https://www.hurriyetdailynews.com/data-center-battles-marking-politics-worldwide-224523)
+- [Xpeng debuted its flying car in Germany. It has 7,000 orders and a factory that can build 10,000 a year.](https://thenextweb.com/news/xpeng-flying-car-land-aircraft-carrier-germany-7000-orders/)
+- [boomtick-cli 0.5.0](https://pypi.org/project/boomtick-cli/0.5.0/)
 <!-- NEWS_SECTION_END -->
 
 
