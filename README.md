@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [puppetmaster-ai 1.20.0](https://pypi.org/project/puppetmaster-ai/1.20.0/)
-- [scout-security 0.1.8](https://pypi.org/project/scout-security/0.1.8/)
-- [Data center battles marking politics worldwide](https://www.hurriyetdailynews.com/data-center-battles-marking-politics-worldwide-224523)
-- [Xpeng debuted its flying car in Germany. It has 7,000 orders and a factory that can build 10,000 a year.](https://thenextweb.com/news/xpeng-flying-car-land-aircraft-carrier-germany-7000-orders/)
-- [boomtick-cli 0.5.0](https://pypi.org/project/boomtick-cli/0.5.0/)
+- [Got $1,000? 5 Stocks to Buy Now While They're on Sale](https://biztoc.com/x/29e47a1e31406809)
+- [chronolith-lite 3.2.1](https://pypi.org/project/chronolith-lite/3.2.1/)
+- [cartha-sdk 0.2.0](https://pypi.org/project/cartha-sdk/0.2.0/)
+- [octop 0.9.11](https://pypi.org/project/octop/0.9.11/)
+- [Florian Lohoff: RouteQA: B1 broken](https://f.zz.de/posts/202607191034.b1_kaputt/)
 <!-- NEWS_SECTION_END -->
 
 
