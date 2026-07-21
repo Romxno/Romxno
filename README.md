@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Got $1,000? 5 Stocks to Buy Now While They're on Sale](https://biztoc.com/x/29e47a1e31406809)
-- [chronolith-lite 3.2.1](https://pypi.org/project/chronolith-lite/3.2.1/)
-- [cartha-sdk 0.2.0](https://pypi.org/project/cartha-sdk/0.2.0/)
-- [octop 0.9.11](https://pypi.org/project/octop/0.9.11/)
-- [Florian Lohoff: RouteQA: B1 broken](https://f.zz.de/posts/202607191034.b1_kaputt/)
+- [Musk brands US$52 billion SpaceX-Foxconn Nvidia server order 'fake news'](https://www.digitimes.com/news/a20260720VL220/spacex-elon-musk-foxconn-nvidia-ai-server-2026.html)
+- [Who Decides Now: How Developers and Tech Teams Are Reshaping the Future of AP Payments](https://www.pymnts.com/tracker_posts/who-decides-now-how-developers-and-tech-teams-are-reshaping-the-future-of-ap-payments/)
+- [AI Transparency: Governance, Explainability, and Data Practices](https://www.databricks.com/blog/ai-transparency)
+- [China's Moonshot pauses Kimi subscriptions amid hot demand, IPO push](https://finance.yahoo.com/technology/ai/articles/chinas-moonshot-pauses-kimi-subscriptions-080317250.html)
+- [mathai 1.7.9](https://pypi.org/project/mathai/1.7.9/)
 <!-- NEWS_SECTION_END -->
 
 
