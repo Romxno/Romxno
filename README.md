@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Musk brands US$52 billion SpaceX-Foxconn Nvidia server order 'fake news'](https://www.digitimes.com/news/a20260720VL220/spacex-elon-musk-foxconn-nvidia-ai-server-2026.html)
-- [Who Decides Now: How Developers and Tech Teams Are Reshaping the Future of AP Payments](https://www.pymnts.com/tracker_posts/who-decides-now-how-developers-and-tech-teams-are-reshaping-the-future-of-ap-payments/)
-- [AI Transparency: Governance, Explainability, and Data Practices](https://www.databricks.com/blog/ai-transparency)
-- [China's Moonshot pauses Kimi subscriptions amid hot demand, IPO push](https://finance.yahoo.com/technology/ai/articles/chinas-moonshot-pauses-kimi-subscriptions-080317250.html)
-- [mathai 1.7.9](https://pypi.org/project/mathai/1.7.9/)
+- [scc-firewall-manager-sdk 1.22.464](https://pypi.org/project/scc-firewall-manager-sdk/1.22.464/)
+- [ClickHouse Announced as Principal Partner & Front of Shirt Sponsor of Fulham Football Club](https://financialpost.com/pmn/business-wire-news-releases-pmn/clickhouse-announced-as-principal-partner-front-of-shirt-sponsor-of-fulham-football-club)
+- [The Agentic Enterprise Connects AI to Real Business Results](https://www.pymnts.com/news/artificial-intelligence/2026/agentic-enterprise-connects-ai-to-real-business-results/)
+- [30+ Fast Gravel Bikes with Wide Tyre Clearance (57mm / 2.25″ MTB Tyres)](https://www.cyclingabout.com/fast-gravel-bikes-wide-tyre-clearance-mtb-tyres/)
+- [deyta-cli 0.5.0](https://pypi.org/project/deyta-cli/)
 <!-- NEWS_SECTION_END -->
 
 
