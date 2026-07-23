@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [scc-firewall-manager-sdk 1.22.464](https://pypi.org/project/scc-firewall-manager-sdk/1.22.464/)
-- [ClickHouse Announced as Principal Partner & Front of Shirt Sponsor of Fulham Football Club](https://financialpost.com/pmn/business-wire-news-releases-pmn/clickhouse-announced-as-principal-partner-front-of-shirt-sponsor-of-fulham-football-club)
-- [The Agentic Enterprise Connects AI to Real Business Results](https://www.pymnts.com/news/artificial-intelligence/2026/agentic-enterprise-connects-ai-to-real-business-results/)
-- [30+ Fast Gravel Bikes with Wide Tyre Clearance (57mm / 2.25″ MTB Tyres)](https://www.cyclingabout.com/fast-gravel-bikes-wide-tyre-clearance-mtb-tyres/)
-- [deyta-cli 0.5.0](https://pypi.org/project/deyta-cli/)
+- [A Bali in corso i rituali sacri per la festa di Ngerebeg](https://www.ansa.it/sito/photogallery/primopiano/2026/07/22/a-bali-in-corso-i-rituali-sacri-per-la-festa-di-ngerebeg_43f78885-c50e-45b1-991c-05bee2d824a0.html)
+- [crawl4ai-mcp-llm added to PyPI](https://pypi.org/project/crawl4ai-mcp-llm/)
+- [Yanis Varoufakis: An Athenian View of America’s Democracy](https://www.nakedcapitalism.com/2026/07/yanis-varoufakis-an-athenian-view-of-americas-democracy.html)
+- [Ucraina, Drapatji nuovo comandante in capo delle Forze Armate](https://www.ansa.it/sito/photogallery/primopiano/2026/07/22/ucraina-drapatji-nuovo-comandante-in-capo-delle-forze-armate_9d91b5cb-ca79-48e3-a7e4-4b6fa533f5c6.html)
+- [Corea, un bluebird si posa su di un albero nel Gangwon](https://www.ansa.it/sito/photogallery/primopiano/2026/07/22/corea-un-bluebird-si-posa-su-di-un-albero-nel-gangwon_6c68c61a-8d13-4aa0-861c-47be3e9b7c32.html)
 <!-- NEWS_SECTION_END -->
 
 
