@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [A Bali in corso i rituali sacri per la festa di Ngerebeg](https://www.ansa.it/sito/photogallery/primopiano/2026/07/22/a-bali-in-corso-i-rituali-sacri-per-la-festa-di-ngerebeg_43f78885-c50e-45b1-991c-05bee2d824a0.html)
-- [crawl4ai-mcp-llm added to PyPI](https://pypi.org/project/crawl4ai-mcp-llm/)
-- [Yanis Varoufakis: An Athenian View of America’s Democracy](https://www.nakedcapitalism.com/2026/07/yanis-varoufakis-an-athenian-view-of-americas-democracy.html)
-- [Ucraina, Drapatji nuovo comandante in capo delle Forze Armate](https://www.ansa.it/sito/photogallery/primopiano/2026/07/22/ucraina-drapatji-nuovo-comandante-in-capo-delle-forze-armate_9d91b5cb-ca79-48e3-a7e4-4b6fa533f5c6.html)
-- [Corea, un bluebird si posa su di un albero nel Gangwon](https://www.ansa.it/sito/photogallery/primopiano/2026/07/22/corea-un-bluebird-si-posa-su-di-un-albero-nel-gangwon_6c68c61a-8d13-4aa0-861c-47be3e9b7c32.html)
+- [snipara-mcp 2.8.26](https://pypi.org/project/snipara-mcp/2.8.26/)
+- [Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs](https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html)
+- [pulumi-azure 6.40.0a1784790197](https://pypi.org/project/pulumi-azure/6.40.0a1784790197/)
+- [Should You Buy DigitalOcean Stock After Its 12-Month Gain of 360%? An Upcoming Event on Aug. 4 Might Hold the Answer](https://biztoc.com/x/1b74cf27067481b1)
+- [The Future of Finance Depends on Better Workflows, Not Better AI](https://biztoc.com/x/de3bff7b1df434ad)
 <!-- NEWS_SECTION_END -->
 
 
