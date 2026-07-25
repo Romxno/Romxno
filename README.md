@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [snipara-mcp 2.8.26](https://pypi.org/project/snipara-mcp/2.8.26/)
-- [Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs](https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html)
-- [pulumi-azure 6.40.0a1784790197](https://pypi.org/project/pulumi-azure/6.40.0a1784790197/)
-- [Should You Buy DigitalOcean Stock After Its 12-Month Gain of 360%? An Upcoming Event on Aug. 4 Might Hold the Answer](https://biztoc.com/x/1b74cf27067481b1)
-- [The Future of Finance Depends on Better Workflows, Not Better AI](https://biztoc.com/x/de3bff7b1df434ad)
+- [China’s Tianwen-1 captures interstellar comet 3I/ATLAS near Mars](https://www.sciencedaily.com/releases/2026/07/260723084052.htm)
+- [prismor 1.34.1](https://pypi.org/project/prismor/1.34.1/)
+- [fastsdk 0.4.2](https://pypi.org/project/fastsdk/0.4.2/)
+- [pulumi-venafi 1.14.0a1784878739](https://pypi.org/project/pulumi-venafi/1.14.0a1784878739/)
+- [Mozilla Releases Firefox 153 ESR With Profile Management, Split View, and On-Device AI Features for Enterprise](https://www.ghacks.net/2026/07/24/mozilla-releases-firefox-153-esr-with-profile-management-split-view-and-on-device-ai-features-for-enterprise/)
 <!-- NEWS_SECTION_END -->
 
 
