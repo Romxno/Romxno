@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [China’s Tianwen-1 captures interstellar comet 3I/ATLAS near Mars](https://www.sciencedaily.com/releases/2026/07/260723084052.htm)
-- [prismor 1.34.1](https://pypi.org/project/prismor/1.34.1/)
-- [fastsdk 0.4.2](https://pypi.org/project/fastsdk/0.4.2/)
-- [pulumi-venafi 1.14.0a1784878739](https://pypi.org/project/pulumi-venafi/1.14.0a1784878739/)
-- [Mozilla Releases Firefox 153 ESR With Profile Management, Split View, and On-Device AI Features for Enterprise](https://www.ghacks.net/2026/07/24/mozilla-releases-firefox-153-esr-with-profile-management-split-view-and-on-device-ai-features-for-enterprise/)
+- [CarvusTrain 1.0.0](https://pypi.org/project/carvustrain/1.0.0/)
+- [novelai-image-mcp 0.1.0](https://pypi.org/project/novelai-image-mcp/0.1.0/)
+- [novelai-image-mcp added to PyPI](https://pypi.org/project/novelai-image-mcp/)
+- [tokdash 1.4.3](https://pypi.org/project/tokdash/1.4.3/)
+- [ai-dev-browser 0.14.0](https://pypi.org/project/ai-dev-browser/0.14.0/)
 <!-- NEWS_SECTION_END -->
 
 
