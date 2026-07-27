@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [CarvusTrain 1.0.0](https://pypi.org/project/carvustrain/1.0.0/)
-- [novelai-image-mcp 0.1.0](https://pypi.org/project/novelai-image-mcp/0.1.0/)
-- [novelai-image-mcp added to PyPI](https://pypi.org/project/novelai-image-mcp/)
-- [tokdash 1.4.3](https://pypi.org/project/tokdash/1.4.3/)
-- [ai-dev-browser 0.14.0](https://pypi.org/project/ai-dev-browser/0.14.0/)
+- [The AI industry has already spent $65 million ahead of the midterm elections with no signs of slowing down.](https://www.businessinsider.com/ai-midterm-elections-spending-super-pacs-greg-brockman-anthropic-2026-7#article)
+- [Warren Buffett's Successor, Greg Abel, Tripled Berkshire's Stake in This Megacap AI Stock (Hint: Not Apple)](https://biztoc.com/x/844077f5ec610077)
+- [Queen in Black: Defenders of Light and Dark #1 Preview](https://bleedingcool.com/comics/queen-in-black-defenders-of-light-and-dark-1-preview/)
+- [clawmetry 0.12.570](https://pypi.org/project/clawmetry/0.12.570/)
+- [Incendi Spagna: il premier Pedro Sanchez arriva ad Avila](https://www.ansa.it/sito/photogallery/people/2026/07/26/incendi-spagna-il-premier-pedro-sanchez-arriva-ad-avila_07d2794f-d68e-4f8a-b3f1-9992f0630dd5.html)
 <!-- NEWS_SECTION_END -->
 
 
