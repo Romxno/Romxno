@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [The AI industry has already spent $65 million ahead of the midterm elections with no signs of slowing down.](https://www.businessinsider.com/ai-midterm-elections-spending-super-pacs-greg-brockman-anthropic-2026-7#article)
-- [Warren Buffett's Successor, Greg Abel, Tripled Berkshire's Stake in This Megacap AI Stock (Hint: Not Apple)](https://biztoc.com/x/844077f5ec610077)
-- [Queen in Black: Defenders of Light and Dark #1 Preview](https://bleedingcool.com/comics/queen-in-black-defenders-of-light-and-dark-1-preview/)
-- [clawmetry 0.12.570](https://pypi.org/project/clawmetry/0.12.570/)
-- [Incendi Spagna: il premier Pedro Sanchez arriva ad Avila](https://www.ansa.it/sito/photogallery/people/2026/07/26/incendi-spagna-il-premier-pedro-sanchez-arriva-ad-avila_07d2794f-d68e-4f8a-b3f1-9992f0630dd5.html)
+- [autonoma-ai 0.2.10.dev1785139849](https://pypi.org/project/autonoma-ai/0.2.10.dev1785139849/)
+- [Fact Check: Did NaLyssa Smith cheat on ex DiJonai Carrington with multiple players? The truth explained](https://timesofindia.indiatimes.com/sports/nba/top-stories/fact-check-did-nalyssa-smith-cheat-on-ex-dijonai-carrington-with-multiple-players-the-truth-explained/articleshow/132655949.cms)
+- [Biogas Market to Reach USD 109.62 Billion by 2036 Driven by Renewable Energy Mandates, Methane Reduction Initiatives, and Expanding Biomethane Production](https://www.prnewswire.com/news-releases/biogas-market-to-reach-usd-109-62-billion-by-2036-driven-by-renewable-energy-mandates-methane-reduction-initiatives-and-expanding-biomethane-production-302835076.html)
+- [The grid inside the grid](https://africasacountry.com/2026/07/the-grid-inside-the-grid)
+- [The AI military complex: Which are the main companies in it?](https://www.aljazeera.com/news/2026/7/27/the-ai-military-complex-which-are-the-main-companies-in-it)
 <!-- NEWS_SECTION_END -->
 
 
