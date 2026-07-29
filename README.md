@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [autonoma-ai 0.2.10.dev1785139849](https://pypi.org/project/autonoma-ai/0.2.10.dev1785139849/)
-- [Fact Check: Did NaLyssa Smith cheat on ex DiJonai Carrington with multiple players? The truth explained](https://timesofindia.indiatimes.com/sports/nba/top-stories/fact-check-did-nalyssa-smith-cheat-on-ex-dijonai-carrington-with-multiple-players-the-truth-explained/articleshow/132655949.cms)
-- [Biogas Market to Reach USD 109.62 Billion by 2036 Driven by Renewable Energy Mandates, Methane Reduction Initiatives, and Expanding Biomethane Production](https://www.prnewswire.com/news-releases/biogas-market-to-reach-usd-109-62-billion-by-2036-driven-by-renewable-energy-mandates-methane-reduction-initiatives-and-expanding-biomethane-production-302835076.html)
-- [The grid inside the grid](https://africasacountry.com/2026/07/the-grid-inside-the-grid)
-- [The AI military complex: Which are the main companies in it?](https://www.aljazeera.com/news/2026/7/27/the-ai-military-complex-which-are-the-main-companies-in-it)
+- [Gemini 3.5 Pro Delays Explained and Why Google Shifts to Gemini 3.6 Flash](https://www.geeky-gadgets.com/gemini-3-5-pro-delay/)
+- [Taiwan detains Nvidia employee in Super Micro probe, Taiwan media says](https://economictimes.indiatimes.com/tech/technology/taiwan-detains-nvidia-employee-in-super-micro-probe-taiwan-media-says/articleshow/132679028.cms)
+- [Why Alnylam’s Best Quarter Ever Didn’t Come With a Richer Valuation](https://finance.yahoo.com/healthcare/articles/why-alnylam-best-quarter-ever-081611164.html)
+- [Anthropic gives thoughts on open-weights models, especially those from China](https://www.tweaktown.com/news/112880/anthropic-gives-thoughts-on-open-weights-models-especially-those-from-china/index.html)
+- [Bombay HC to hear Nitin Gadkari's plea against Meta, Google, X over AI deepfakes on August 5](https://economictimes.indiatimes.com/news/india/bombay-hc-to-hear-nitin-gadkaris-plea-against-meta-google-x-over-ai-deepfakes-on-august-5/articleshow/132678945.cms)
 <!-- NEWS_SECTION_END -->
 
 
