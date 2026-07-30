@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Gemini 3.5 Pro Delays Explained and Why Google Shifts to Gemini 3.6 Flash](https://www.geeky-gadgets.com/gemini-3-5-pro-delay/)
-- [Taiwan detains Nvidia employee in Super Micro probe, Taiwan media says](https://economictimes.indiatimes.com/tech/technology/taiwan-detains-nvidia-employee-in-super-micro-probe-taiwan-media-says/articleshow/132679028.cms)
-- [Why Alnylam’s Best Quarter Ever Didn’t Come With a Richer Valuation](https://finance.yahoo.com/healthcare/articles/why-alnylam-best-quarter-ever-081611164.html)
-- [Anthropic gives thoughts on open-weights models, especially those from China](https://www.tweaktown.com/news/112880/anthropic-gives-thoughts-on-open-weights-models-especially-those-from-china/index.html)
-- [Bombay HC to hear Nitin Gadkari's plea against Meta, Google, X over AI deepfakes on August 5](https://economictimes.indiatimes.com/news/india/bombay-hc-to-hear-nitin-gadkaris-plea-against-meta-google-x-over-ai-deepfakes-on-august-5/articleshow/132678945.cms)
+- [Kimi K3 and DeepSeek: is your access to cheap AI at risk?](https://www.notebookcheck.net/Kimi-K3-and-DeepSeek-is-your-access-to-cheap-AI-at-risk.1352370.0.html)
+- [HBX GROUP ANNOUNCES THIRD QUARTER 2026 TRADING UPDATE](https://www.prnewswire.com/news-releases/hbx-group-announces-third-quarter-2026-trading-update-302837541.html)
+- [Beyond Content Creation: How Wizstar Helps Enterprises Scale AI Across Business](https://www.prnewswire.com/news-releases/beyond-content-creation-how-wizstar-helps-enterprises-scale-ai-across-business-302837539.html)
+- [12 Passport Tips That Could Save Your Vacation](https://johnnyjet.com/passport-tips/)
+- [How cloud architecture is reinventing primary storage for the AI era](https://www.techradar.com/pro/how-cloud-architecture-is-reinventing-primary-storage-for-the-ai-era)
 <!-- NEWS_SECTION_END -->
 
 
