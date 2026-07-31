@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Kimi K3 and DeepSeek: is your access to cheap AI at risk?](https://www.notebookcheck.net/Kimi-K3-and-DeepSeek-is-your-access-to-cheap-AI-at-risk.1352370.0.html)
-- [HBX GROUP ANNOUNCES THIRD QUARTER 2026 TRADING UPDATE](https://www.prnewswire.com/news-releases/hbx-group-announces-third-quarter-2026-trading-update-302837541.html)
-- [Beyond Content Creation: How Wizstar Helps Enterprises Scale AI Across Business](https://www.prnewswire.com/news-releases/beyond-content-creation-how-wizstar-helps-enterprises-scale-ai-across-business-302837539.html)
-- [12 Passport Tips That Could Save Your Vacation](https://johnnyjet.com/passport-tips/)
-- [How cloud architecture is reinventing primary storage for the AI era](https://www.techradar.com/pro/how-cloud-architecture-is-reinventing-primary-storage-for-the-ai-era)
+- [How the US created its own global challenger through its role in China’s rise over half a century](https://www.livemint.com/opinion/online-views/us-global-challenger-china-rise-hegemony-beijing-washington-nixon-kissinger-11785313315221.html)
+- [AI ports The Legend of Zelda: Ocarina of Time to iPhone and iPad](https://www.tweaktown.com/news/112920/ai-ports-the-legend-of-zelda-ocarina-of-time-to-iphone-and-ipad/index.html)
+- [timbal 2.3.2](https://pypi.org/project/timbal/2.3.2/)
+- [alpacon-mcp 0.8.0](https://pypi.org/project/alpacon-mcp/0.8.0/)
+- [letsfg 2026.5.81](https://pypi.org/project/letsfg/2026.5.81/)
 <!-- NEWS_SECTION_END -->
 
 
