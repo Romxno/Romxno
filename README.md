@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [How the US created its own global challenger through its role in China’s rise over half a century](https://www.livemint.com/opinion/online-views/us-global-challenger-china-rise-hegemony-beijing-washington-nixon-kissinger-11785313315221.html)
-- [AI ports The Legend of Zelda: Ocarina of Time to iPhone and iPad](https://www.tweaktown.com/news/112920/ai-ports-the-legend-of-zelda-ocarina-of-time-to-iphone-and-ipad/index.html)
-- [timbal 2.3.2](https://pypi.org/project/timbal/2.3.2/)
-- [alpacon-mcp 0.8.0](https://pypi.org/project/alpacon-mcp/0.8.0/)
-- [letsfg 2026.5.81](https://pypi.org/project/letsfg/2026.5.81/)
+- [Tech rebound fuels record-breaking rally in South Korean stocks](https://biztoc.com/x/422f396f11e63379)
+- [Human rights in the shadow of military exceptionalism: reflections on the Informal Exchange on Artificial Intelligence in the military domain](http://opiniojuris.org/2026/07/31/human-rights-in-the-shadow-of-military-exceptionalism-reflections-on-the-informal-exchange-on-artificial-intelligence-in-the-military-domain/)
+- [How Harald Haas is matching industry problems with academic solutions](https://www.telecomtv.com/content/access-evolution/how-harald-haas-is-matching-industry-problems-with-academic-solutions-55978/)
+- [autonoma-ai 0.2.10.dev1785484819](https://pypi.org/project/autonoma-ai/0.2.10.dev1785484819/)
+- [AI Agents Need Rules Before They Can Run Payments](https://www.pymnts.com/opinion/2026/ai-agents-need-rules-before-they-can-run-payments/)
 <!-- NEWS_SECTION_END -->
 
 
