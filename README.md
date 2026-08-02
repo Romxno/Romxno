@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Tech rebound fuels record-breaking rally in South Korean stocks](https://biztoc.com/x/422f396f11e63379)
-- [Human rights in the shadow of military exceptionalism: reflections on the Informal Exchange on Artificial Intelligence in the military domain](http://opiniojuris.org/2026/07/31/human-rights-in-the-shadow-of-military-exceptionalism-reflections-on-the-informal-exchange-on-artificial-intelligence-in-the-military-domain/)
-- [How Harald Haas is matching industry problems with academic solutions](https://www.telecomtv.com/content/access-evolution/how-harald-haas-is-matching-industry-problems-with-academic-solutions-55978/)
-- [autonoma-ai 0.2.10.dev1785484819](https://pypi.org/project/autonoma-ai/0.2.10.dev1785484819/)
-- [AI Agents Need Rules Before They Can Run Payments](https://www.pymnts.com/opinion/2026/ai-agents-need-rules-before-they-can-run-payments/)
+- [If your young child seems to have no friends, it helps to know that children usually play alongside one another for years before they play together, and that being alone is not the same as being lonely](https://artfulparent.com/t-if-your-young-child-seems-to-have-no-friends-it-helps-to-know-that-children-usually-play-alongside-one-another-for-years-before-they-play-together-and-that-being-alone-is-not-the-same-as-being-lonel/)
+- [incident-commander 0.1.0](https://pypi.org/project/incident-commander/0.1.0/)
+- [incident-commander added to PyPI](https://pypi.org/project/incident-commander/)
+- [kanibako-cli 1.8.0rc1](https://pypi.org/project/kanibako-cli/1.8.0rc1/)
+- [kanibako 1.8.0rc1](https://pypi.org/project/kanibako/1.8.0rc1/)
 <!-- NEWS_SECTION_END -->
 
 
