@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [If your young child seems to have no friends, it helps to know that children usually play alongside one another for years before they play together, and that being alone is not the same as being lonely](https://artfulparent.com/t-if-your-young-child-seems-to-have-no-friends-it-helps-to-know-that-children-usually-play-alongside-one-another-for-years-before-they-play-together-and-that-being-alone-is-not-the-same-as-being-lonel/)
-- [incident-commander 0.1.0](https://pypi.org/project/incident-commander/0.1.0/)
-- [incident-commander added to PyPI](https://pypi.org/project/incident-commander/)
-- [kanibako-cli 1.8.0rc1](https://pypi.org/project/kanibako-cli/1.8.0rc1/)
-- [kanibako 1.8.0rc1](https://pypi.org/project/kanibako/1.8.0rc1/)
+- [octop 0.9.18](https://pypi.org/project/octop/0.9.18/)
+- [Google Pixel 11 Pro Fold 規格全曝光：8 吋大螢幕、Tensor G6 處理器，售價近 6.2 萬](https://www.kocpc.com.tw/archives/661463)
+- [ambertraceai 1.0.17](https://pypi.org/project/ambertraceai/1.0.17/)
+- [weasley-assistant 0.1.1](https://pypi.org/project/weasley-assistant/0.1.1/)
+- [dedrift 0.1.0](https://pypi.org/project/dedrift/0.1.0/)
 <!-- NEWS_SECTION_END -->
 
 
