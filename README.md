@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [octop 0.9.18](https://pypi.org/project/octop/0.9.18/)
-- [Google Pixel 11 Pro Fold 規格全曝光：8 吋大螢幕、Tensor G6 處理器，售價近 6.2 萬](https://www.kocpc.com.tw/archives/661463)
-- [ambertraceai 1.0.17](https://pypi.org/project/ambertraceai/1.0.17/)
-- [weasley-assistant 0.1.1](https://pypi.org/project/weasley-assistant/0.1.1/)
-- [dedrift 0.1.0](https://pypi.org/project/dedrift/0.1.0/)
+- [cleanlib-mcp-server 0.5.6](https://pypi.org/project/cleanlib-mcp-server/0.5.6/)
+- [bingo-ai 7.1.10](https://pypi.org/project/bingo-ai/7.1.10/)
+- [Why not to use bear spray for self-defense?](https://www.lifesciencesworld.com/why-not-to-use-bear-spray-for-self-defense-2/)
+- [duduclaw 1.48.0](https://pypi.org/project/duduclaw/1.48.0/)
+- [Boat Maintenance Log : KEEL](https://iphone.giveawayoftheday.com/boat-maintenance-log-keel/)
 <!-- NEWS_SECTION_END -->
 
 
