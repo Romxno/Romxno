@@ -1,10 +1,9 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [cleanlib-mcp-server 0.5.6](https://pypi.org/project/cleanlib-mcp-server/0.5.6/)
-- [bingo-ai 7.1.10](https://pypi.org/project/bingo-ai/7.1.10/)
-- [Why not to use bear spray for self-defense?](https://www.lifesciencesworld.com/why-not-to-use-bear-spray-for-self-defense-2/)
-- [duduclaw 1.48.0](https://pypi.org/project/duduclaw/1.48.0/)
-- [Boat Maintenance Log : KEEL](https://iphone.giveawayoftheday.com/boat-maintenance-log-keel/)
+- [Exclusive | BTS concerts, auditions, India's music future: HYBE India CEO tells all](https://www.indiatoday.in/entertainment/music/story/hybe-india-ceo-damien-woochang-lee-bts-concerts-girl-group-hanumankind-guru-randhawa-auditions-2963069-2026-08-04)
+- [inspeximus 2.1.0](https://pypi.org/project/inspeximus/2.1.0/)
+- [smartlyq 0.1.19](https://pypi.org/project/smartlyq/0.1.19/)
+- [AI-generated fashion models: innovation, illusion or a step too far?](https://theconversation.com/ai-generated-fashion-models-innovation-illusion-or-a-step-too-far-285550)
 <!-- NEWS_SECTION_END -->
 
 
