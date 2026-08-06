@@ -1,9 +1,9 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Exclusive | BTS concerts, auditions, India's music future: HYBE India CEO tells all](https://www.indiatoday.in/entertainment/music/story/hybe-india-ceo-damien-woochang-lee-bts-concerts-girl-group-hanumankind-guru-randhawa-auditions-2963069-2026-08-04)
-- [inspeximus 2.1.0](https://pypi.org/project/inspeximus/2.1.0/)
-- [smartlyq 0.1.19](https://pypi.org/project/smartlyq/0.1.19/)
-- [AI-generated fashion models: innovation, illusion or a step too far?](https://theconversation.com/ai-generated-fashion-models-innovation-illusion-or-a-step-too-far-285550)
+- [Even G2 Smart Glasses Cut Screen Time with an Aircraft-Style HUD](https://www.geeky-gadgets.com/even-g2-smart-glasses-review/)
+- [hound-mcp 13.1.1](https://pypi.org/project/hound-mcp/13.1.1/)
+- [OpenAI, Anthropic AI agents implicated in new security breaches - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=184862370)
+- [AMD Stock Tumbles Overnight As CapEx Surge And SpaceX’s Nvidia Switch Overshadow Q2 Beat - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=184862368)
 <!-- NEWS_SECTION_END -->
 
 
