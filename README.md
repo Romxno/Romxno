@@ -1,9 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Even G2 Smart Glasses Cut Screen Time with an Aircraft-Style HUD](https://www.geeky-gadgets.com/even-g2-smart-glasses-review/)
-- [hound-mcp 13.1.1](https://pypi.org/project/hound-mcp/13.1.1/)
-- [OpenAI, Anthropic AI agents implicated in new security breaches - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=184862370)
-- [AMD Stock Tumbles Overnight As CapEx Surge And SpaceX’s Nvidia Switch Overshadow Q2 Beat - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=184862368)
+- [Allcargo Logistics shares rally 15% after Q1 profit jumps 258% YoY to Rs 31 crore](https://economictimes.indiatimes.com/markets/stocks/news/allcargo-logistics-shares-rally-15-after-q1-profit-jumps-258-yoy-to-rs-31-crore/articleshow/132987175.cms)
+- [Building Self-Healing Background Services in ASP.NET Core](https://www.c-sharpcorner.com/article/building-self-healing-background-services-in-asp-net-core/)
+- [crewai-cli 1.15.12.dev20260806](https://pypi.org/project/crewai-cli/1.15.12.dev20260806/)
+- [crewai 1.15.12.dev20260806](https://pypi.org/project/crewai/1.15.12.dev20260806/)
+- [Implementing AI Request Tracing Across Microservices with OpenTelemetry](https://www.c-sharpcorner.com/article/implementing-ai-request-tracing-across-microservices-with-opentelemetry/)
 <!-- NEWS_SECTION_END -->
 
 
