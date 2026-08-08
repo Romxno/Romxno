@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Allcargo Logistics shares rally 15% after Q1 profit jumps 258% YoY to Rs 31 crore](https://economictimes.indiatimes.com/markets/stocks/news/allcargo-logistics-shares-rally-15-after-q1-profit-jumps-258-yoy-to-rs-31-crore/articleshow/132987175.cms)
-- [Building Self-Healing Background Services in ASP.NET Core](https://www.c-sharpcorner.com/article/building-self-healing-background-services-in-asp-net-core/)
-- [crewai-cli 1.15.12.dev20260806](https://pypi.org/project/crewai-cli/1.15.12.dev20260806/)
-- [crewai 1.15.12.dev20260806](https://pypi.org/project/crewai/1.15.12.dev20260806/)
-- [Implementing AI Request Tracing Across Microservices with OpenTelemetry](https://www.c-sharpcorner.com/article/implementing-ai-request-tracing-across-microservices-with-opentelemetry/)
+- [美術家の清川あさみと彫刻家の名和晃平による二人展「Invisible Garden」](https://prtimes.jp/main/html/rd/p/000000069.000069355.html)
+- [【無料ウェビナー】「『THE MODEL』から脱却せよ。顧客行動が変容する今、どうリードから受注に繋げるか」を3社共催で開催](https://prtimes.jp/main/html/rd/p/000000212.000006043.html)
+- [Türkiye close to joining world’s top 10 defense exporters](https://www.hurriyetdailynews.com/turkiye-close-to-joining-worlds-top-10-defense-exporters-225333)
+- [DeepSeek Takes RMB141 Million Strategic Placement in Unitree IPO](https://technode.com/2026/08/07/deepseek-takes-rmb141-million-strategic-placement-in-unitree-ipo/)
+- [Huawei named event partner for GSMA M360 ASEAN 2026 in Kuala Lumpur](https://soyacincau.com/2026/08/07/huawei-named-event-partner-for-gsma-m360-asean-2026-in-kuala-lumpur/)
 <!-- NEWS_SECTION_END -->
 
 
