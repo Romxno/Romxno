@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [美術家の清川あさみと彫刻家の名和晃平による二人展「Invisible Garden」](https://prtimes.jp/main/html/rd/p/000000069.000069355.html)
-- [【無料ウェビナー】「『THE MODEL』から脱却せよ。顧客行動が変容する今、どうリードから受注に繋げるか」を3社共催で開催](https://prtimes.jp/main/html/rd/p/000000212.000006043.html)
-- [Türkiye close to joining world’s top 10 defense exporters](https://www.hurriyetdailynews.com/turkiye-close-to-joining-worlds-top-10-defense-exporters-225333)
-- [DeepSeek Takes RMB141 Million Strategic Placement in Unitree IPO](https://technode.com/2026/08/07/deepseek-takes-rmb141-million-strategic-placement-in-unitree-ipo/)
-- [Huawei named event partner for GSMA M360 ASEAN 2026 in Kuala Lumpur](https://soyacincau.com/2026/08/07/huawei-named-event-partner-for-gsma-m360-asean-2026-in-kuala-lumpur/)
+- [EPAM Systems Q2 Earnings Call Highlights](https://biztoc.com/x/f4f1032528351d26)
+- [video-dailies added to PyPI](https://pypi.org/project/video-dailies/)
+- [thinkingsdk 0.1.2](https://pypi.org/project/thinkingsdk/0.1.2/)
+- [We put enormous weight on how parents shape a child and almost none on siblings, but the research suggests brothers and sisters do quiet developmental work of their own, including buffering each other through the hardest stretches of childhood](https://theartfulage.com/g-sibling-relationships-are-underrated-developmental-work/)
+- [PreviousNext: Why PreviousNext signed Drupal's Manifesto for an Open Future](https://www.previousnext.com.au/blog/why-previousnext-signed-drupals-manifesto-open-future)
 <!-- NEWS_SECTION_END -->
 
 
