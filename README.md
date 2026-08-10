@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [EPAM Systems Q2 Earnings Call Highlights](https://biztoc.com/x/f4f1032528351d26)
-- [video-dailies added to PyPI](https://pypi.org/project/video-dailies/)
-- [thinkingsdk 0.1.2](https://pypi.org/project/thinkingsdk/0.1.2/)
-- [We put enormous weight on how parents shape a child and almost none on siblings, but the research suggests brothers and sisters do quiet developmental work of their own, including buffering each other through the hardest stretches of childhood](https://theartfulage.com/g-sibling-relationships-are-underrated-developmental-work/)
-- [PreviousNext: Why PreviousNext signed Drupal's Manifesto for an Open Future](https://www.previousnext.com.au/blog/why-previousnext-signed-drupals-manifesto-open-future)
+- [isa-agent-sdk 0.5.46](https://pypi.org/project/isa-agent-sdk/0.5.46/)
+- [agent-learning 0.5.0](https://pypi.org/project/agent-learning/0.5.0/)
+- [Kavel – Generate images and video in one studio with upfront credit costs](https://betalist.com/startups/kavel)
+- [temaq-agent 17.0.0](https://pypi.org/project/temaq-agent/17.0.0/)
+- [agent-strace 0.83.0](https://pypi.org/project/agent-strace/0.83.0/)
 <!-- NEWS_SECTION_END -->
 
 
