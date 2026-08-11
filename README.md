@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [isa-agent-sdk 0.5.46](https://pypi.org/project/isa-agent-sdk/0.5.46/)
-- [agent-learning 0.5.0](https://pypi.org/project/agent-learning/0.5.0/)
-- [Kavel – Generate images and video in one studio with upfront credit costs](https://betalist.com/startups/kavel)
-- [temaq-agent 17.0.0](https://pypi.org/project/temaq-agent/17.0.0/)
-- [agent-strace 0.83.0](https://pypi.org/project/agent-strace/0.83.0/)
+- [Pre-Surgical Complications (Part 1)](https://thehealthcareblog.com/blog/2026/08/10/pre-surgical-complications-part-1/)
+- [Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal](https://biztoc.com/x/54ad4c01b49ee3ca)
+- [Advertisers are trying to influence AI bots with secret ads](https://biztoc.com/x/9a8d6512b5da7820)
+- [Hyundai targets 1 million connected cars by 2027 as software takes over India’s roads](https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-targets-1-million-connected-cars-by-2027-as-software-takes-over-indias-roads/articleshow/133087853.cms)
+- [Former kindergarten cleaner jailed over AI-produced child abuse material](https://www.abc.net.au/news/2026-08-10/mildura-kindergarten-cleaner-jailed-over-child-abuse-material/107015828)
 <!-- NEWS_SECTION_END -->
 
 
