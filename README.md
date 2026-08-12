@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Pre-Surgical Complications (Part 1)](https://thehealthcareblog.com/blog/2026/08/10/pre-surgical-complications-part-1/)
-- [Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal](https://biztoc.com/x/54ad4c01b49ee3ca)
-- [Advertisers are trying to influence AI bots with secret ads](https://biztoc.com/x/9a8d6512b5da7820)
-- [Hyundai targets 1 million connected cars by 2027 as software takes over India’s roads](https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-targets-1-million-connected-cars-by-2027-as-software-takes-over-indias-roads/articleshow/133087853.cms)
-- [Former kindergarten cleaner jailed over AI-produced child abuse material](https://www.abc.net.au/news/2026-08-10/mildura-kindergarten-cleaner-jailed-over-child-abuse-material/107015828)
+- [operonx 1.1.0](https://pypi.org/project/operonx/1.1.0/)
+- [Claude can now leave an invisible mark on your writing, even if you wrote it yourself](https://www.notebookcheck.net/Claude-can-now-leave-an-invisible-mark-on-your-writing-even-if-you-wrote-it-yourself.1365486.0.html)
+- [GNexusOS – Hire AI agents on your desktop with governance and verifiable work](https://betalist.com/startups/gnexusos)
+- [Hyundai Motor India targeting having on road one million connected cars by 2027](https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-targeting-having-on-road-one-million-connected-cars-by-2027/articleshow/133145300.cms)
+- [FM leases 220,000 sq ft office space at Bhartiya Centre in Bengaluru](https://economictimes.indiatimes.com/industry/services/property-/-cstruction/fm-leases-220000-sq-ft-office-space-at-bhartiya-centre-in-bengaluru/articleshow/133145325.cms)
 <!-- NEWS_SECTION_END -->
 
 
