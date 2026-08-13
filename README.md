@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [operonx 1.1.0](https://pypi.org/project/operonx/1.1.0/)
-- [Claude can now leave an invisible mark on your writing, even if you wrote it yourself](https://www.notebookcheck.net/Claude-can-now-leave-an-invisible-mark-on-your-writing-even-if-you-wrote-it-yourself.1365486.0.html)
-- [GNexusOS – Hire AI agents on your desktop with governance and verifiable work](https://betalist.com/startups/gnexusos)
-- [Hyundai Motor India targeting having on road one million connected cars by 2027](https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-motor-india-targeting-having-on-road-one-million-connected-cars-by-2027/articleshow/133145300.cms)
-- [FM leases 220,000 sq ft office space at Bhartiya Centre in Bengaluru](https://economictimes.indiatimes.com/industry/services/property-/-cstruction/fm-leases-220000-sq-ft-office-space-at-bhartiya-centre-in-bengaluru/articleshow/133145325.cms)
+- [prism-shield 0.2.0](https://pypi.org/project/prism-shield/0.2.0/)
+- [prism-shield added to PyPI](https://pypi.org/project/prism-shield/)
+- [Foxconn posts quarterly profit surge on AI server demand](https://biztoc.com/x/c8744d06edeff71d)
+- [STRGY AI raises €1M to scale its AI-powered strategy execution platform](https://biztoc.com/x/a43b509b5c246904)
+- [Foxconn’s AI Hardware Sales Drive Profit Beat](https://biztoc.com/x/794c7c75cc30ddc3)
 <!-- NEWS_SECTION_END -->
 
 
