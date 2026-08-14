@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [prism-shield 0.2.0](https://pypi.org/project/prism-shield/0.2.0/)
-- [prism-shield added to PyPI](https://pypi.org/project/prism-shield/)
-- [Foxconn posts quarterly profit surge on AI server demand](https://biztoc.com/x/c8744d06edeff71d)
-- [STRGY AI raises €1M to scale its AI-powered strategy execution platform](https://biztoc.com/x/a43b509b5c246904)
-- [Foxconn’s AI Hardware Sales Drive Profit Beat](https://biztoc.com/x/794c7c75cc30ddc3)
+- [Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes](https://biztoc.com/x/acba5e06429d4160)
+- [Pegatron stocks AI server parts early as shortages spread through supply chain](https://www.digitimes.com/news/a20260813PD201/pegatron-ai-server-supply-chain-demand-2026.html)
+- [Pegatron profit surges on AI server shipments and stronger product mix](https://www.digitimes.com/news/a20260813PD207/pegatron-shipments-profit-ai-server-2026.html)
+- [Amazon is using Twitch to train generative AI](https://www.bbc.co.uk/news/videos/cwyq22g0ylxo)
+- [Asus raises server outlook as AI demand lifts record second quarter results](https://www.digitimes.com/news/a20260813PD204/asus-demand-growth-revenue-2026.html)
 <!-- NEWS_SECTION_END -->
 
 
