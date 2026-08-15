@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes](https://biztoc.com/x/acba5e06429d4160)
-- [Pegatron stocks AI server parts early as shortages spread through supply chain](https://www.digitimes.com/news/a20260813PD201/pegatron-ai-server-supply-chain-demand-2026.html)
-- [Pegatron profit surges on AI server shipments and stronger product mix](https://www.digitimes.com/news/a20260813PD207/pegatron-shipments-profit-ai-server-2026.html)
-- [Amazon is using Twitch to train generative AI](https://www.bbc.co.uk/news/videos/cwyq22g0ylxo)
-- [Asus raises server outlook as AI demand lifts record second quarter results](https://www.digitimes.com/news/a20260813PD204/asus-demand-growth-revenue-2026.html)
+- [Marathi rule for drivers, waterfront projects and a murder case: What is trending in Mumbai today](https://timesofindia.indiatimes.com/city/mumbai/marathi-rule-for-drivers-waterfront-projects-and-a-murder-case-what-is-trending-in-mumbai-today/articleshow/133230548.cms)
+- [gllm-memory-binary 0.3.1b1](https://pypi.org/project/gllm-memory-binary/0.3.1b1/)
+- [scrapeunblocker-cloud 0.1.0](https://pypi.org/project/scrapeunblocker-cloud/0.1.0/)
+- [scrapeunblocker-cloud added to PyPI](https://pypi.org/project/scrapeunblocker-cloud/)
+- [Move Over Galaxy: The Pixel Watch 5 Might Be My New Favorite Android Smartwatch](https://me.pcmag.com/en/smartwatches/37831/move-over-galaxy-the-pixel-watch-5-might-be-my-new-favorite-android-smartwatch)
 <!-- NEWS_SECTION_END -->
 
 
