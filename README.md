@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Marathi rule for drivers, waterfront projects and a murder case: What is trending in Mumbai today](https://timesofindia.indiatimes.com/city/mumbai/marathi-rule-for-drivers-waterfront-projects-and-a-murder-case-what-is-trending-in-mumbai-today/articleshow/133230548.cms)
-- [gllm-memory-binary 0.3.1b1](https://pypi.org/project/gllm-memory-binary/0.3.1b1/)
-- [scrapeunblocker-cloud 0.1.0](https://pypi.org/project/scrapeunblocker-cloud/0.1.0/)
-- [scrapeunblocker-cloud added to PyPI](https://pypi.org/project/scrapeunblocker-cloud/)
-- [Move Over Galaxy: The Pixel Watch 5 Might Be My New Favorite Android Smartwatch](https://me.pcmag.com/en/smartwatches/37831/move-over-galaxy-the-pixel-watch-5-might-be-my-new-favorite-android-smartwatch)
+- [lunardump 0.4.0](https://pypi.org/project/lunardump/0.4.0/)
+- [Show HN: Bernstein – run 44 CLI coding agents from one deterministic scheduler](https://github.com/sipyourdrink-ltd/bernstein)
+- [Elon Musk Admits Anthropic Leads AI Race as Amazon Secures Major Cloud Partnership Gains](https://www.ibtimes.com.au/elon-musk-anthropic-ai-leader-amazon-partnership-1874067)
+- [PM appeals to opposition to support constitutional amendment Bill for women's reservation](https://economictimes.indiatimes.com/news/india/pm-appeals-to-opposition-to-support-constitutional-amendment-bill-for-womens-reservation/articleshow/133257279.cms)
+- [Dell's New $700 XPS 13 Emerges As A Serious Windows Rival To Apple's MacBook Neo](https://www.ibtimes.com.au/dell-xps-13-vs-macbook-neo-1874066)
 <!-- NEWS_SECTION_END -->
 
 
