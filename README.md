@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Analysis: The big AI worry may not be that it betrays us, but that it does what it's told](https://www.thejournal.ie/readme/artificial-intelligence-4-7130489-Aug2026/)
-- [eqbuilder added to PyPI](https://pypi.org/project/eqbuilder/)
-- [fastclaw-ai 1.1.23](https://pypi.org/project/fastclaw-ai/1.1.23/)
-- [inspeximus 2.10.2](https://pypi.org/project/inspeximus/2.10.2/)
-- [Anthropic CEO Dario Amodei rejects claim AI regulation would concentrate power](https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ceo-dario-amodei-rejects-claim-ai-regulation-would-concentrate-power/articleshow/133271001.cms)
+- [fc-ai-agent 0.9.5](https://pypi.org/project/fc-ai-agent/0.9.5/)
+- [whiskerless 0.2.0rc26](https://pypi.org/project/whiskerless/0.2.0rc26/)
+- [mureo 0.10.47](https://pypi.org/project/mureo/0.10.47/)
+- [datacoolie 0.1.6](https://pypi.org/project/datacoolie/0.1.6/)
+- [Nestle looks to develop new products to serve users of weight-loss drugs](https://www.business-standard.com/world-news/nestle-looks-to-develop-new-products-to-serve-users-of-weight-loss-drugs-126081700398_1.html)
 <!-- NEWS_SECTION_END -->
 
 
