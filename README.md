@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [fc-ai-agent 0.9.5](https://pypi.org/project/fc-ai-agent/0.9.5/)
-- [whiskerless 0.2.0rc26](https://pypi.org/project/whiskerless/0.2.0rc26/)
-- [mureo 0.10.47](https://pypi.org/project/mureo/0.10.47/)
-- [datacoolie 0.1.6](https://pypi.org/project/datacoolie/0.1.6/)
-- [Nestle looks to develop new products to serve users of weight-loss drugs](https://www.business-standard.com/world-news/nestle-looks-to-develop-new-products-to-serve-users-of-weight-loss-drugs-126081700398_1.html)
+- [dbt-cloud-cli 0.9.0](https://pypi.org/project/dbt-cloud-cli/0.9.0/)
+- [Show HN: Agents Workbook watch Claude Code, Codex write down their working notes](https://github.com/softcane/agents-workbook)
+- [myra-ai-assistant 0.2.11](https://pypi.org/project/myra-ai-assistant/0.2.11/)
+- [Anthropicの年換算収益が10兆円超で2025年末実績の約7倍に、四半期売上高は前年同期比14倍以上](https://news.livedoor.com/article/detail/32096239/)
+- [Jim Cramer says it’s not too late to own any one of these 4 soaring memory stocks](https://biztoc.com/x/9be942d860119b05)
 <!-- NEWS_SECTION_END -->
 
 
