@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [dbt-cloud-cli 0.9.0](https://pypi.org/project/dbt-cloud-cli/0.9.0/)
-- [Show HN: Agents Workbook watch Claude Code, Codex write down their working notes](https://github.com/softcane/agents-workbook)
-- [myra-ai-assistant 0.2.11](https://pypi.org/project/myra-ai-assistant/0.2.11/)
-- [Anthropicの年換算収益が10兆円超で2025年末実績の約7倍に、四半期売上高は前年同期比14倍以上](https://news.livedoor.com/article/detail/32096239/)
-- [Jim Cramer says it’s not too late to own any one of these 4 soaring memory stocks](https://biztoc.com/x/9be942d860119b05)
+- [Microsoft.Extensions.AI Routing: Benchmarking Cost, Latency, and Failover](https://www.c-sharpcorner.com/article/microsoft-extensions-ai-routing-benchmarking-cost-latency-and-failover/)
+- [project-guard 0.6.1](https://pypi.org/project/project-guard/0.6.1/)
+- [GitHub Copilot Coding Agents: Optimizing Context Cache and Tool Failures](https://www.c-sharpcorner.com/article/github-copilot-coding-agents-optimizing-context-cache-and-tool-failures/)
+- [Yossi Cohen appointed strategic advisor at SoftBank as fund pivots toward AI](https://cryptobriefing.com/yossi-cohen-strategic-advisor-softbank/)
+- [FY27 to be challenging for PSU banks, limited room for upside: Seshadri Sen](https://www.business-standard.com/markets/interviews/fy27-to-be-challenging-for-psu-banks-limited-room-for-upside-seshadri-sen-126081900391_1.html)
 <!-- NEWS_SECTION_END -->
 
 
