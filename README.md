@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Microsoft.Extensions.AI Routing: Benchmarking Cost, Latency, and Failover](https://www.c-sharpcorner.com/article/microsoft-extensions-ai-routing-benchmarking-cost-latency-and-failover/)
-- [project-guard 0.6.1](https://pypi.org/project/project-guard/0.6.1/)
-- [GitHub Copilot Coding Agents: Optimizing Context Cache and Tool Failures](https://www.c-sharpcorner.com/article/github-copilot-coding-agents-optimizing-context-cache-and-tool-failures/)
-- [Yossi Cohen appointed strategic advisor at SoftBank as fund pivots toward AI](https://cryptobriefing.com/yossi-cohen-strategic-advisor-softbank/)
-- [FY27 to be challenging for PSU banks, limited room for upside: Seshadri Sen](https://www.business-standard.com/markets/interviews/fy27-to-be-challenging-for-psu-banks-limited-room-for-upside-seshadri-sen-126081900391_1.html)
+- [langchain-wavespeed added to PyPI](https://pypi.org/project/langchain-wavespeed/)
+- [converge-agent-harness 0.0.2](https://pypi.org/project/converge-agent-harness/0.0.2/)
+- [niitaka-sdk 0.1.18](https://pypi.org/project/niitaka-sdk/0.1.18/)
+- [CNBC Daily Open: Trump bemoans 'ridiculous rates'](https://www.cnbc.com/2026/08/20/daily-open-trump-interest-rates.html)
+- [imgnorm 1.0.7](https://pypi.org/project/imgnorm/1.0.7/)
 <!-- NEWS_SECTION_END -->
 
 
