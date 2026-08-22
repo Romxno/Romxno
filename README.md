@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [langchain-wavespeed added to PyPI](https://pypi.org/project/langchain-wavespeed/)
-- [converge-agent-harness 0.0.2](https://pypi.org/project/converge-agent-harness/0.0.2/)
-- [niitaka-sdk 0.1.18](https://pypi.org/project/niitaka-sdk/0.1.18/)
-- [CNBC Daily Open: Trump bemoans 'ridiculous rates'](https://www.cnbc.com/2026/08/20/daily-open-trump-interest-rates.html)
-- [imgnorm 1.0.7](https://pypi.org/project/imgnorm/1.0.7/)
+- [The boring part first: Building a crosswalk from O*NET-SOC to ANZSCO](https://www.r-bloggers.com/2026/08/the-boring-part-first-building-a-crosswalk-from-onet-soc-to-anzsco/)
+- [ppt-master 0.1.98](https://pypi.org/project/ppt-master/0.1.98/)
+- [Salman Khan gym franchise catches fire in Delhi's Greater Kailash-I](https://timesofindia.indiatimes.com/city/delhi/salman-khan-gym-franchise-catches-fire-in-delhis-greater-kailash-i/articleshow/133395012.cms)
+- [an 0.1.22](https://pypi.org/project/an/0.1.22/)
+- [code-assist-cli 0.1.0](https://pypi.org/project/code-assist-cli/0.1.0/)
 <!-- NEWS_SECTION_END -->
 
 
