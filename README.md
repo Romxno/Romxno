@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [The boring part first: Building a crosswalk from O*NET-SOC to ANZSCO](https://www.r-bloggers.com/2026/08/the-boring-part-first-building-a-crosswalk-from-onet-soc-to-anzsco/)
-- [ppt-master 0.1.98](https://pypi.org/project/ppt-master/0.1.98/)
-- [Salman Khan gym franchise catches fire in Delhi's Greater Kailash-I](https://timesofindia.indiatimes.com/city/delhi/salman-khan-gym-franchise-catches-fire-in-delhis-greater-kailash-i/articleshow/133395012.cms)
-- [an 0.1.22](https://pypi.org/project/an/0.1.22/)
-- [code-assist-cli 0.1.0](https://pypi.org/project/code-assist-cli/0.1.0/)
+- [Rain deficit inches up even as monsoon eyes East and North-East India](https://www.thehindubusinessline.com/economy/agri-business/rain-deficit-inches-up-even-as-monsoon-eyes-east-and-north-east-india/article71376708.ece)
+- [google-search-console-mcp 0.10.6](https://pypi.org/project/google-search-console-mcp/0.10.6/)
+- [nautex 0.5.12](https://pypi.org/project/nautex/0.5.12/)
+- [boomcode 0.5.4](https://pypi.org/project/boomcode/0.5.4/)
+- [Creality Falcon A1C review: I was instantly impressed with this compact, affordable, beginner-friendly laser engraver](https://www.techradar.com/pro/creality-falcon-a1c-laser-engraver-review)
 <!-- NEWS_SECTION_END -->
 
 
