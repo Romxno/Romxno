@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Rain deficit inches up even as monsoon eyes East and North-East India](https://www.thehindubusinessline.com/economy/agri-business/rain-deficit-inches-up-even-as-monsoon-eyes-east-and-north-east-india/article71376708.ece)
-- [google-search-console-mcp 0.10.6](https://pypi.org/project/google-search-console-mcp/0.10.6/)
-- [nautex 0.5.12](https://pypi.org/project/nautex/0.5.12/)
-- [boomcode 0.5.4](https://pypi.org/project/boomcode/0.5.4/)
-- [Creality Falcon A1C review: I was instantly impressed with this compact, affordable, beginner-friendly laser engraver](https://www.techradar.com/pro/creality-falcon-a1c-laser-engraver-review)
+- [McDonald's Really Keeps 515-Page Customer Dossiers Rivaling FBI Files, Investigation Reveals](https://www.ibtimes.com.au/mcdonalds-data-collection-customer-profiling-1874410)
+- [chatwalaau 0.136.0](https://pypi.org/project/chatwalaau/0.136.0/)
+- [reveal-cli 0.122.0](https://pypi.org/project/reveal-cli/0.122.0/)
+- [How to Clean Brass Safely Without Removing Patina?](https://ahouseinthehills.com/how-to-clean-brass/)
+- [agentic-security-harness 1.2.0](https://pypi.org/project/agentic-security-harness/1.2.0/)
 <!-- NEWS_SECTION_END -->
 
 
