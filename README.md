@@ -1,10 +1,9 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [McDonald's Really Keeps 515-Page Customer Dossiers Rivaling FBI Files, Investigation Reveals](https://www.ibtimes.com.au/mcdonalds-data-collection-customer-profiling-1874410)
-- [chatwalaau 0.136.0](https://pypi.org/project/chatwalaau/0.136.0/)
-- [reveal-cli 0.122.0](https://pypi.org/project/reveal-cli/0.122.0/)
-- [How to Clean Brass Safely Without Removing Patina?](https://ahouseinthehills.com/how-to-clean-brass/)
-- [agentic-security-harness 1.2.0](https://pypi.org/project/agentic-security-harness/1.2.0/)
+- [Taiwan concludes probe into illegal high-end server exports, indicts 9](https://cryptobriefing.com/taiwan-indicts-nine-illegal-server-exports/)
+- [heimdall-egress added to PyPI](https://pypi.org/project/heimdall-egress/)
+- [WIX Investors Have Opportunity to Lead Wix.com Ltd. Securities Fraud Lawsuit with SBS Law](https://www.prnewswire.com/news-releases/wix-investors-have-opportunity-to-lead-wixcom-ltd-securities-fraud-lawsuit-with-sbs-law-302857933.html)
+- [pro-ledin-ebook-import 0.1.0](https://pypi.org/project/pro-ledin-ebook-import/0.1.0/)
 <!-- NEWS_SECTION_END -->
 
 
