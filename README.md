@@ -1,9 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Taiwan concludes probe into illegal high-end server exports, indicts 9](https://cryptobriefing.com/taiwan-indicts-nine-illegal-server-exports/)
-- [heimdall-egress added to PyPI](https://pypi.org/project/heimdall-egress/)
-- [WIX Investors Have Opportunity to Lead Wix.com Ltd. Securities Fraud Lawsuit with SBS Law](https://www.prnewswire.com/news-releases/wix-investors-have-opportunity-to-lead-wixcom-ltd-securities-fraud-lawsuit-with-sbs-law-302857933.html)
-- [pro-ledin-ebook-import 0.1.0](https://pypi.org/project/pro-ledin-ebook-import/0.1.0/)
+- [ZINZINO AB (PUBL.): INTERIM REPORT Q2 2026](https://www.prnewswire.com/news-releases/zinzino-ab-publ-interim-report-q2-2026-302859115.html)
+- [Show HN: Planetary Energy Routing Protocol (PERP)](https://github.com/WVGlobal/Planetary-Energy-Routing-Protocol)
+- [Chinese automakers expand to humanoid robotics with technology, supply chain and scenario advantages](https://www.digitimes.com/reports/item.php?id=20260824RS400)
+- [pulumi-linode 6.4.0a1787638247](https://pypi.org/project/pulumi-linode/6.4.0a1787638247/)
+- [aegisdb 0.8.0](https://pypi.org/project/aegisdb/0.8.0/)
 <!-- NEWS_SECTION_END -->
 
 
