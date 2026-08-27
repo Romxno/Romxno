@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [ZINZINO AB (PUBL.): INTERIM REPORT Q2 2026](https://www.prnewswire.com/news-releases/zinzino-ab-publ-interim-report-q2-2026-302859115.html)
-- [Show HN: Planetary Energy Routing Protocol (PERP)](https://github.com/WVGlobal/Planetary-Energy-Routing-Protocol)
-- [Chinese automakers expand to humanoid robotics with technology, supply chain and scenario advantages](https://www.digitimes.com/reports/item.php?id=20260824RS400)
-- [pulumi-linode 6.4.0a1787638247](https://pypi.org/project/pulumi-linode/6.4.0a1787638247/)
-- [aegisdb 0.8.0](https://pypi.org/project/aegisdb/0.8.0/)
+- [Advanced Micro Devices (AMD) and Intel (INTC) Both Just Raised Billions for AI. Here’s How Their Strategies Differ](https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-intel-170203392.html)
+- [ChatGPT expands its foothold in the nation's classrooms](https://www.businessinsider.com/openai-chatgpt-for-teachers-us-schools-2026-8#article)
+- [Joanna Mattrey, Camila Nebbia, Camilo Ángeles, Violeta García – Heavy Handed (2026)](https://exystence.net/blog/2026/08/26/joanna-mattrey-camila-nebbia-camilo-angeles-violeta-garcia-heavy-handed-2026/)
+- [The Hearthstone decks you need to win the Who’s the Boss Now? Tavern Brawl](https://blizzardwatch.com/2026/08/26/hearthstone-tavern-brawl-whos-the-boss-now/)
+- [Gatik Raises $200 Million as It Ramps Up Driverless Truck Fleet](http://wwd.com/sourcing-journal/logistics/gatik-200-million-series-d-funding-ai-driverless-autonomous-trucks-trucking-1239164645/)
 <!-- NEWS_SECTION_END -->
 
 
