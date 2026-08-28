@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Advanced Micro Devices (AMD) and Intel (INTC) Both Just Raised Billions for AI. Here’s How Their Strategies Differ](https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-intel-170203392.html)
-- [ChatGPT expands its foothold in the nation's classrooms](https://www.businessinsider.com/openai-chatgpt-for-teachers-us-schools-2026-8#article)
-- [Joanna Mattrey, Camila Nebbia, Camilo Ángeles, Violeta García – Heavy Handed (2026)](https://exystence.net/blog/2026/08/26/joanna-mattrey-camila-nebbia-camilo-angeles-violeta-garcia-heavy-handed-2026/)
-- [The Hearthstone decks you need to win the Who’s the Boss Now? Tavern Brawl](https://blizzardwatch.com/2026/08/26/hearthstone-tavern-brawl-whos-the-boss-now/)
-- [Gatik Raises $200 Million as It Ramps Up Driverless Truck Fleet](http://wwd.com/sourcing-journal/logistics/gatik-200-million-series-d-funding-ai-driverless-autonomous-trucks-trucking-1239164645/)
+- [Meta memo reveals what its new 'Hatch' AI agent can do, from booking a restaurant to finding a dog sitter](https://www.businessinsider.com/meta-hatch-personal-ai-agent-capabilities-employees-memo-2026-8#article)
+- [John Lydon On New PiL And Facing Off Against Sex Pistols At Riot Fest](https://www.forbes.com/sites/jimryan1/2026/08/27/john-lydon-on-new-pil-and-facing-off-against-sex-pistols-at-riot-fest/)
+- [OpenAI issues call for 'collective action' on cyber defense: 'We have a limited window'](https://www.businessinsider.com/openai-collective-action-cyber-defense-anthropic-hugging-face-hack-2026-8#article)
+- [Key recent baseball hitter changes: Why Wilyer Abreu, Alex Bregman, others are surging](https://www.nbcsports.com/fantasy/baseball/news/key-recent-baseball-hitter-changes-why-wilyer-abreu-alex-bregman-others-are-surging)
+- ['We have a limited window': 116 companies, entities sign on to major AI cyber defense push](https://www.cnbc.com/2026/08/27/ai-cyber-defense-letter.html)
 <!-- NEWS_SECTION_END -->
 
 
