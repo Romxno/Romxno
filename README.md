@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Meta memo reveals what its new 'Hatch' AI agent can do, from booking a restaurant to finding a dog sitter](https://www.businessinsider.com/meta-hatch-personal-ai-agent-capabilities-employees-memo-2026-8#article)
-- [John Lydon On New PiL And Facing Off Against Sex Pistols At Riot Fest](https://www.forbes.com/sites/jimryan1/2026/08/27/john-lydon-on-new-pil-and-facing-off-against-sex-pistols-at-riot-fest/)
-- [OpenAI issues call for 'collective action' on cyber defense: 'We have a limited window'](https://www.businessinsider.com/openai-collective-action-cyber-defense-anthropic-hugging-face-hack-2026-8#article)
-- [Key recent baseball hitter changes: Why Wilyer Abreu, Alex Bregman, others are surging](https://www.nbcsports.com/fantasy/baseball/news/key-recent-baseball-hitter-changes-why-wilyer-abreu-alex-bregman-others-are-surging)
-- ['We have a limited window': 116 companies, entities sign on to major AI cyber defense push](https://www.cnbc.com/2026/08/27/ai-cyber-defense-letter.html)
+- [Her Manager Criticized Her Work Ethic Despite Years of Going Above and Beyond—So She Made the Deliberate Choice to Start Doing Only the Bare Minimum, and Now She’s Watching to See What Happens](https://twistedsifter.com/2026/08/manager-criticized-hardworking-employees-work-ethic-so-she-decided-to-stop-going-above-and-beyond-and-only-do-the-bare-minimum/)
+- [Anthropic’s implied valuation hits $2 trillion as tokenized trading takes off](https://cryptobriefing.com/anthropic-valuation-tokenized-market-trading/)
+- [Online event "Spec-Driven Development for More Efficient Teams", 17 September](https://dou.ua/calendar/58199/)
+- [In 2020, 10-year-old Murphy picked up a tiny spider from a remote Australian island; he took it to experts, who later identified a completely new species & named it after him](https://economictimes.indiatimes.com/news/new-updates/in-2020-10-year-old-murphy-picked-up-a-tiny-spider-from-a-remote-australian-island-he-took-it-to-experts-who-later-identified-a-completely-new-species-named-it-after-him/articleshow/133590300.cms)
+- [qdb-ai 2.4.7](https://pypi.org/project/qdb-ai/2.4.7/)
 <!-- NEWS_SECTION_END -->
 
 
