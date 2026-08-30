@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Her Manager Criticized Her Work Ethic Despite Years of Going Above and Beyond—So She Made the Deliberate Choice to Start Doing Only the Bare Minimum, and Now She’s Watching to See What Happens](https://twistedsifter.com/2026/08/manager-criticized-hardworking-employees-work-ethic-so-she-decided-to-stop-going-above-and-beyond-and-only-do-the-bare-minimum/)
-- [Anthropic’s implied valuation hits $2 trillion as tokenized trading takes off](https://cryptobriefing.com/anthropic-valuation-tokenized-market-trading/)
-- [Online event "Spec-Driven Development for More Efficient Teams", 17 September](https://dou.ua/calendar/58199/)
-- [In 2020, 10-year-old Murphy picked up a tiny spider from a remote Australian island; he took it to experts, who later identified a completely new species & named it after him](https://economictimes.indiatimes.com/news/new-updates/in-2020-10-year-old-murphy-picked-up-a-tiny-spider-from-a-remote-australian-island-he-took-it-to-experts-who-later-identified-a-completely-new-species-named-it-after-him/articleshow/133590300.cms)
-- [qdb-ai 2.4.7](https://pypi.org/project/qdb-ai/2.4.7/)
+- [agentnorm added to PyPI](https://pypi.org/project/agentnorm/)
+- [agentnorm 0.1.0](https://pypi.org/project/agentnorm/0.1.0/)
+- [semantra-classify added to PyPI](https://pypi.org/project/semantra-classify/)
+- [Google’s Antigravity is coming to Windows 11 with native WSL support](https://4sysops.com/archives/googles-antigravity-is-coming-to-windows-11-with-native-wsl-support/)
+- [OpenAI sets November 2026 cutoff for Cursor after SpaceX acquisition](https://4sysops.com/archives/openai-sets-november-2026-cutoff-for-cursor-after-spacex-acquisition/)
 <!-- NEWS_SECTION_END -->
 
 
