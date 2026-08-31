@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [agentnorm added to PyPI](https://pypi.org/project/agentnorm/)
-- [agentnorm 0.1.0](https://pypi.org/project/agentnorm/0.1.0/)
-- [semantra-classify added to PyPI](https://pypi.org/project/semantra-classify/)
-- [Google’s Antigravity is coming to Windows 11 with native WSL support](https://4sysops.com/archives/googles-antigravity-is-coming-to-windows-11-with-native-wsl-support/)
-- [OpenAI sets November 2026 cutoff for Cursor after SpaceX acquisition](https://4sysops.com/archives/openai-sets-november-2026-cutoff-for-cursor-after-spacex-acquisition/)
+- [Farmers risk lives crossing swollen Gandak despite small boat ban in West Champaran](https://timesofindia.indiatimes.com/city/patna/farmers-risk-lives-crossing-swollen-gandak-despite-small-boat-ban-in-west-champaran/articleshow/133629078.cms)
+- [WhatsApp updates, inspections to monitor Eklayva residential schools in West Singhbhum](https://timesofindia.indiatimes.com/city/ranchi/whatsapp-updates-inspections-to-monitor-eklayva-residential-schools-in-west-singhbhum/articleshow/133629083.cms)
+- [NGT orders probe into Khurda quarry over env violations](https://timesofindia.indiatimes.com/city/bhubaneswar/ngt-orders-probe-into-khurda-quarry-over-env-violations/articleshow/133629080.cms)
+- [The Dishonor Code](https://www.theatlantic.com/ideas/2026/08/ai-use-college-cheat/688451/)
+- [Ramgarh youth step out for fitness on National Sports Day](https://timesofindia.indiatimes.com/city/ranchi/ramgarh-youth-step-out-for-fitness-on-national-sports-day/articleshow/133629077.cms)
 <!-- NEWS_SECTION_END -->
 
 
