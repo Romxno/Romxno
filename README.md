@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Farmers risk lives crossing swollen Gandak despite small boat ban in West Champaran](https://timesofindia.indiatimes.com/city/patna/farmers-risk-lives-crossing-swollen-gandak-despite-small-boat-ban-in-west-champaran/articleshow/133629078.cms)
-- [WhatsApp updates, inspections to monitor Eklayva residential schools in West Singhbhum](https://timesofindia.indiatimes.com/city/ranchi/whatsapp-updates-inspections-to-monitor-eklayva-residential-schools-in-west-singhbhum/articleshow/133629083.cms)
-- [NGT orders probe into Khurda quarry over env violations](https://timesofindia.indiatimes.com/city/bhubaneswar/ngt-orders-probe-into-khurda-quarry-over-env-violations/articleshow/133629080.cms)
-- [The Dishonor Code](https://www.theatlantic.com/ideas/2026/08/ai-use-college-cheat/688451/)
-- [Ramgarh youth step out for fitness on National Sports Day](https://timesofindia.indiatimes.com/city/ranchi/ramgarh-youth-step-out-for-fitness-on-national-sports-day/articleshow/133629077.cms)
+- [Japan to beef up its defense with drones, AI and missiles, defense budget plans show](https://abcnews.com/Technology/wireStory/japan-beef-defense-drones-ai-missiles-defense-budget-136081905)
+- [Trump threatens to blow Kharg Island ‘to smithereens’ as U.S. and Iran trade fresh strikes in the Gulf, driving up the price of oil](https://fortune.com/2026/08/31/trump-blow-kharg-island-smithereens-us-iran-strikes-gulf-oil/)
+- [China's answer to Area 51 is expanding at an accelerating pace](https://www.unexplained-mysteries.com/news/400138/chinas-answer-to-area-51-is-expanding-at-an-accelerating-pace)
+- [The Hidden Math Behind the AI Agent Cost Crisis](https://forkast.news/the-hidden-math-behind-the-ai-agent-cost-crisis/)
+- [At Jackson Hole,  global central bankers glimpse dystopian AI future](https://finance.yahoo.com/economy/policy/articles/jackson-hole-global-central-bankers-100541446.html)
 <!-- NEWS_SECTION_END -->
 
 
