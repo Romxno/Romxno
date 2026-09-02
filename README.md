@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Japan to beef up its defense with drones, AI and missiles, defense budget plans show](https://abcnews.com/Technology/wireStory/japan-beef-defense-drones-ai-missiles-defense-budget-136081905)
-- [Trump threatens to blow Kharg Island ‘to smithereens’ as U.S. and Iran trade fresh strikes in the Gulf, driving up the price of oil](https://fortune.com/2026/08/31/trump-blow-kharg-island-smithereens-us-iran-strikes-gulf-oil/)
-- [China's answer to Area 51 is expanding at an accelerating pace](https://www.unexplained-mysteries.com/news/400138/chinas-answer-to-area-51-is-expanding-at-an-accelerating-pace)
-- [The Hidden Math Behind the AI Agent Cost Crisis](https://forkast.news/the-hidden-math-behind-the-ai-agent-cost-crisis/)
-- [At Jackson Hole,  global central bankers glimpse dystopian AI future](https://finance.yahoo.com/economy/policy/articles/jackson-hole-global-central-bankers-100541446.html)
+- [Amid divorce announcement, Jeeva and Aparna’s old interview on marriage and open communication gains attention](https://timesofindia.indiatimes.com/tv/news/malayalam/amid-divorce-announcement-jeeva-and-aparnas-old-interview-on-marriage-and-communication-gains-attention/articleshow/133676762.cms)
+- [Autoware Foundation Partners with Renesas to Accelerate Production-Ready End-to-End AI for ADAS and Autonomous Driving](https://www.prnewswire.com/news-releases/autoware-foundation-partners-with-renesas-to-accelerate-production-ready-end-to-end-ai-for-adas-and-autonomous-driving-302866054.html)
+- [ICAC Commissioner in Vienna to meet new UNODC Chief to foster anti-corruption strategic collaboration and unveil ICAC's AI enforcement system "Tianma" at UNODC's anti-graft conference](https://www.prnewswire.com/news-releases/icac-commissioner-in-vienna-to-meet-new-unodc-chief-to-foster-anti-corruption-strategic-collaboration-and-unveil-icacs-ai-enforcement-system-tianma-at-unodcs-anti-graft-conference-302866105.html)
+- [In 2014, a Colorado couple bought land to build a family ranch; by 2025 bird species had risen from 29 to 37 and grassland-bird detections doubled from 178 to 356](https://timesofindia.indiatimes.com/world/us/in-2014-a-colorado-couple-bought-land-to-build-a-family-ranch-by-2025-bird-species-had-risen-from-29-to-37-and-grassland-bird-detections-doubled-from-178-to-356/articleshow/133675718.cms)
+- [Ex-APC presidential aspirant withdraws from active politics](https://punchng.com/ex-apc-presidential-aspirant-withdraws-from-active-politics/)
 <!-- NEWS_SECTION_END -->
 
 
