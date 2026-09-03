@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Amid divorce announcement, Jeeva and Aparna’s old interview on marriage and open communication gains attention](https://timesofindia.indiatimes.com/tv/news/malayalam/amid-divorce-announcement-jeeva-and-aparnas-old-interview-on-marriage-and-communication-gains-attention/articleshow/133676762.cms)
-- [Autoware Foundation Partners with Renesas to Accelerate Production-Ready End-to-End AI for ADAS and Autonomous Driving](https://www.prnewswire.com/news-releases/autoware-foundation-partners-with-renesas-to-accelerate-production-ready-end-to-end-ai-for-adas-and-autonomous-driving-302866054.html)
-- [ICAC Commissioner in Vienna to meet new UNODC Chief to foster anti-corruption strategic collaboration and unveil ICAC's AI enforcement system "Tianma" at UNODC's anti-graft conference](https://www.prnewswire.com/news-releases/icac-commissioner-in-vienna-to-meet-new-unodc-chief-to-foster-anti-corruption-strategic-collaboration-and-unveil-icacs-ai-enforcement-system-tianma-at-unodcs-anti-graft-conference-302866105.html)
-- [In 2014, a Colorado couple bought land to build a family ranch; by 2025 bird species had risen from 29 to 37 and grassland-bird detections doubled from 178 to 356](https://timesofindia.indiatimes.com/world/us/in-2014-a-colorado-couple-bought-land-to-build-a-family-ranch-by-2025-bird-species-had-risen-from-29-to-37-and-grassland-bird-detections-doubled-from-178-to-356/articleshow/133675718.cms)
-- [Ex-APC presidential aspirant withdraws from active politics](https://punchng.com/ex-apc-presidential-aspirant-withdraws-from-active-politics/)
+- [The robot butler dream doesn’t have legs](https://www.theverge.com/tech/987756/humanoid-robot-butlers-lg-cloid-smart-home-ifa)
+- [In 1986, Houston bought 1,400 acres for an airport that was never built; 40 years later, the land is becoming parks and flood-control space](https://timesofindia.indiatimes.com/world/us/in-1986-houston-bought-1400-acres-for-an-airport-that-was-never-built-40-years-later-the-land-is-becoming-parks-and-flood-control-space/articleshow/133706438.cms)
+- [A former eBay CEO bought a 1,530-acre California fishing ranch for $12.6 million; seven years later, she sold it for $17.9 million](https://timesofindia.indiatimes.com/world/us/a-former-ebay-ceo-bought-a-1530-acre-california-fishing-ranch-for-12-6-million-seven-years-later-she-sold-it-for-17-9-million/articleshow/133706029.cms)
+- [oddsrail 0.10.0](https://pypi.org/project/oddsrail/0.10.0/)
+- [Kalyan Silks’ Rs 1,500 Onam offer ad ruled misleading; consumer court orders Rs 31,500 payout](https://timesofindia.indiatimes.com/legal/news/kalyan-silks-rs-1500-onam-offer-ad-ruled-misleading-consumer-court-orders-rs-31500-payout/articleshow/133706139.cms)
 <!-- NEWS_SECTION_END -->
 
 
