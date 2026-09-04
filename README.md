@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [The robot butler dream doesn’t have legs](https://www.theverge.com/tech/987756/humanoid-robot-butlers-lg-cloid-smart-home-ifa)
-- [In 1986, Houston bought 1,400 acres for an airport that was never built; 40 years later, the land is becoming parks and flood-control space](https://timesofindia.indiatimes.com/world/us/in-1986-houston-bought-1400-acres-for-an-airport-that-was-never-built-40-years-later-the-land-is-becoming-parks-and-flood-control-space/articleshow/133706438.cms)
-- [A former eBay CEO bought a 1,530-acre California fishing ranch for $12.6 million; seven years later, she sold it for $17.9 million](https://timesofindia.indiatimes.com/world/us/a-former-ebay-ceo-bought-a-1530-acre-california-fishing-ranch-for-12-6-million-seven-years-later-she-sold-it-for-17-9-million/articleshow/133706029.cms)
-- [oddsrail 0.10.0](https://pypi.org/project/oddsrail/0.10.0/)
-- [Kalyan Silks’ Rs 1,500 Onam offer ad ruled misleading; consumer court orders Rs 31,500 payout](https://timesofindia.indiatimes.com/legal/news/kalyan-silks-rs-1500-onam-offer-ad-ruled-misleading-consumer-court-orders-rs-31500-payout/articleshow/133706139.cms)
+- [scc-firewall-manager-sdk 1.22.1150](https://pypi.org/project/scc-firewall-manager-sdk/1.22.1150/)
+- [HashKey Settlement Platform (HSP) and ONERWAY Announce Strategic Partnership to Shape the Future of On-Chain Payments and Support Cross-Border Commerce Development](https://www.prnewswire.com/news-releases/hashkey-settlement-platform-hsp-and-onerway-announce-strategic-partnership-to-shape-the-future-of-on-chain-payments-and-support-cross-border-commerce-development-302868883.html)
+- [Soitec Shares Jump After Guidance Upgrade on Strong AI Demand](https://biztoc.com/x/087860519be56c80)
+- [NYC Mayor Zohran Mamdani Bans Student-Facing AI for Nearly 600,000 Kids — Here's What the New Rules Mean](https://biztoc.com/x/82d49f6273178587)
+- [vera-ai 1.3.1](https://pypi.org/project/vera-ai/1.3.1/)
 <!-- NEWS_SECTION_END -->
 
 
