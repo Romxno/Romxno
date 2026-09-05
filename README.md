@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [scc-firewall-manager-sdk 1.22.1150](https://pypi.org/project/scc-firewall-manager-sdk/1.22.1150/)
-- [HashKey Settlement Platform (HSP) and ONERWAY Announce Strategic Partnership to Shape the Future of On-Chain Payments and Support Cross-Border Commerce Development](https://www.prnewswire.com/news-releases/hashkey-settlement-platform-hsp-and-onerway-announce-strategic-partnership-to-shape-the-future-of-on-chain-payments-and-support-cross-border-commerce-development-302868883.html)
-- [Soitec Shares Jump After Guidance Upgrade on Strong AI Demand](https://biztoc.com/x/087860519be56c80)
-- [NYC Mayor Zohran Mamdani Bans Student-Facing AI for Nearly 600,000 Kids — Here's What the New Rules Mean](https://biztoc.com/x/82d49f6273178587)
-- [vera-ai 1.3.1](https://pypi.org/project/vera-ai/1.3.1/)
+- [AI models are becoming unknowable](https://biztoc.com/x/a2a58dddcd7bb21c)
+- [The Cancer Vaccine Gold Rush Has Begun. So Has the Race for Picks and Shovels](https://biztoc.com/x/3a5eab4d0edaf4b8)
+- [Spain’s proposed AI secrecy law would make tax audits impossible to challenge, warns economist](https://biztoc.com/x/6cd4df3d28f8a67e)
+- [Deputy minister urges caution against AI-driven misinformation](https://en.antaranews.com/news/429917/deputy-minister-urges-caution-against-ai-driven-misinformation)
+- [Nissan's AI-powered factory robots can haul 4,000 pounds — and call each other for backup](https://biztoc.com/x/8fd58b2c8cc7d467)
 <!-- NEWS_SECTION_END -->
 
 
