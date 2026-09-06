@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [AI models are becoming unknowable](https://biztoc.com/x/a2a58dddcd7bb21c)
-- [The Cancer Vaccine Gold Rush Has Begun. So Has the Race for Picks and Shovels](https://biztoc.com/x/3a5eab4d0edaf4b8)
-- [Spain’s proposed AI secrecy law would make tax audits impossible to challenge, warns economist](https://biztoc.com/x/6cd4df3d28f8a67e)
-- [Deputy minister urges caution against AI-driven misinformation](https://en.antaranews.com/news/429917/deputy-minister-urges-caution-against-ai-driven-misinformation)
-- [Nissan's AI-powered factory robots can haul 4,000 pounds — and call each other for backup](https://biztoc.com/x/8fd58b2c8cc7d467)
+- [hol-guard 3.0.86](https://pypi.org/project/hol-guard/3.0.86/)
+- [He waited nearly 20 years to start a company. Now he's the cofounder of a double unicorn.](https://www.businessinsider.com/horizon3-ceo-snehal-antani-prepared-2-billion-startup-2026-9#article)
+- [Advika’s journey from silence to the keyboard](https://timesofindia.indiatimes.com/toi-blogs/roots-identity/advikas-journey-from-silence-to-the-keyboard/articleshow/133795988.cms)
+- [fa-redact 0.1.0](https://pypi.org/project/fa-redact/0.1.0/)
+- [fa-redact added to PyPI](https://pypi.org/project/fa-redact/)
 <!-- NEWS_SECTION_END -->
 
 
