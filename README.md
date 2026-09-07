@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [hol-guard 3.0.86](https://pypi.org/project/hol-guard/3.0.86/)
-- [He waited nearly 20 years to start a company. Now he's the cofounder of a double unicorn.](https://www.businessinsider.com/horizon3-ceo-snehal-antani-prepared-2-billion-startup-2026-9#article)
-- [Advika’s journey from silence to the keyboard](https://timesofindia.indiatimes.com/toi-blogs/roots-identity/advikas-journey-from-silence-to-the-keyboard/articleshow/133795988.cms)
-- [fa-redact 0.1.0](https://pypi.org/project/fa-redact/0.1.0/)
-- [fa-redact added to PyPI](https://pypi.org/project/fa-redact/)
+- [Qinwen Zheng's Big U.S. Open Comeback, Naomi Osaka Advances On Saturday](https://www.huffpost.com/entry/us-open-2026-live-updates_n_6a8c4a52e4b07583705ab450/liveblog_6a9d4630e4b0783b3d92fb93)
+- [OpenAI cofounder Greg Brockman and his wife Anna put $5.5 million toward buying the 63-acre Moon Camp shoreline at Big Bear Lake, stopping a planned 50-home marina near the Jackie and Shadow bald eagle nest](https://spacedaily.com/j-openai-cofounder-greg-brockman-anna-5-5-million-moon-camp-big-bear-jackie-shadow/)
+- [Links 9/6/2026](https://www.nakedcapitalism.com/2026/09/links-9-6-2026.html)
+- [‘Regulates food safety, not festivals’: FDA chief Tukaram Mundhe clarifies new order](https://timesofindia.indiatimes.com/city/mumbai/regulates-food-safety-not-festivals-fda-chief-tukaram-mundhe-clarifies-new-order/articleshow/133834065.cms)
+- [yeaboi 3.43.0](https://pypi.org/project/yeaboi/3.43.0/)
 <!-- NEWS_SECTION_END -->
 
 
