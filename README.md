@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Qinwen Zheng's Big U.S. Open Comeback, Naomi Osaka Advances On Saturday](https://www.huffpost.com/entry/us-open-2026-live-updates_n_6a8c4a52e4b07583705ab450/liveblog_6a9d4630e4b0783b3d92fb93)
-- [OpenAI cofounder Greg Brockman and his wife Anna put $5.5 million toward buying the 63-acre Moon Camp shoreline at Big Bear Lake, stopping a planned 50-home marina near the Jackie and Shadow bald eagle nest](https://spacedaily.com/j-openai-cofounder-greg-brockman-anna-5-5-million-moon-camp-big-bear-jackie-shadow/)
-- [Links 9/6/2026](https://www.nakedcapitalism.com/2026/09/links-9-6-2026.html)
-- [‘Regulates food safety, not festivals’: FDA chief Tukaram Mundhe clarifies new order](https://timesofindia.indiatimes.com/city/mumbai/regulates-food-safety-not-festivals-fda-chief-tukaram-mundhe-clarifies-new-order/articleshow/133834065.cms)
-- [yeaboi 3.43.0](https://pypi.org/project/yeaboi/3.43.0/)
+- [Google to build new AI chip in Israel, tapping Hailo talent](https://www.haaretz.com/israel-news/tech-news/2026-09-07/ty-article/.premium/google-to-build-new-ai-chip-in-israel-tapping-hailo-talent/000001a0-7a4e-d245-a5bc-feee329f0000)
+- [This AI-generated iPhone 18 Pro mock ad makes me actually love dark cherry color - 9to5Mac](https://slashdot.org/firehose.pl?op=view&amp;id=185488348)
+- [ICTbusiness.biz | OpenAI Unveils GPT-6 Astra Model](https://www.ictbusiness.biz/business/openai-unveils-gpt-6-astra-model)
+- [argus-agents 0.11.0](https://pypi.org/project/argus-agents/0.11.0/)
+- [Cathay Pacific and Google partner on AI contrail avoidance for ultra-long-haul flights](https://thenextweb.com/news/google-cathay-pacific-contrail-avoidance-asia-pacific)
 <!-- NEWS_SECTION_END -->
 
 
