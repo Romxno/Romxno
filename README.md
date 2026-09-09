@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Google to build new AI chip in Israel, tapping Hailo talent](https://www.haaretz.com/israel-news/tech-news/2026-09-07/ty-article/.premium/google-to-build-new-ai-chip-in-israel-tapping-hailo-talent/000001a0-7a4e-d245-a5bc-feee329f0000)
-- [This AI-generated iPhone 18 Pro mock ad makes me actually love dark cherry color - 9to5Mac](https://slashdot.org/firehose.pl?op=view&amp;id=185488348)
-- [ICTbusiness.biz | OpenAI Unveils GPT-6 Astra Model](https://www.ictbusiness.biz/business/openai-unveils-gpt-6-astra-model)
-- [argus-agents 0.11.0](https://pypi.org/project/argus-agents/0.11.0/)
-- [Cathay Pacific and Google partner on AI contrail avoidance for ultra-long-haul flights](https://thenextweb.com/news/google-cathay-pacific-contrail-avoidance-asia-pacific)
+- [IC Optimize Announces Odin and Joins the Cadence Connections Program](https://www.prnewswire.com/news-releases/ic-optimize-announces-odin-and-joins-the-cadence-connections-program-302872160.html)
+- [Extraordinary in Hand, Effortless in Control HUAWEI Mate XT 2 | ULTIMATE DESIGN Debuts as the First Smartphone to Feature LogicFolding Tau (τ) Chip and Reach Mass Commercialization](https://www.prnewswire.com/news-releases/extraordinary-in-hand-effortless-in-control-huawei-mate-xt-2--ultimate-design-debuts-as-the-first-smartphone-to-feature-logicfolding-tau--chip-and-reach-mass-commercialization-302872159.html)
+- [Canada's retaliatory tariffs on American goods are in effect](https://www.nationalobserver.com/2026/09/08/news/canadas-retaliatory-tariffs-american-goods-are-effect)
+- [TSMC backs ASML’s plan for bigger masks so its newest machines can print AI’s biggest chips](https://thenextweb.com/news/asml-tsmc-12-inch-masks-high-na-euv)
+- [Amazon hires banks for first sterling bond sale to fund AI expansion](https://www.business-standard.com/world-news/amazon-hires-banks-for-first-sterling-bond-sale-to-fund-ai-expansion-126090800830_1.html)
 <!-- NEWS_SECTION_END -->
 
 
