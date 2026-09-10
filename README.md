@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [IC Optimize Announces Odin and Joins the Cadence Connections Program](https://www.prnewswire.com/news-releases/ic-optimize-announces-odin-and-joins-the-cadence-connections-program-302872160.html)
-- [Extraordinary in Hand, Effortless in Control HUAWEI Mate XT 2 | ULTIMATE DESIGN Debuts as the First Smartphone to Feature LogicFolding Tau (τ) Chip and Reach Mass Commercialization](https://www.prnewswire.com/news-releases/extraordinary-in-hand-effortless-in-control-huawei-mate-xt-2--ultimate-design-debuts-as-the-first-smartphone-to-feature-logicfolding-tau--chip-and-reach-mass-commercialization-302872159.html)
-- [Canada's retaliatory tariffs on American goods are in effect](https://www.nationalobserver.com/2026/09/08/news/canadas-retaliatory-tariffs-american-goods-are-effect)
-- [TSMC backs ASML’s plan for bigger masks so its newest machines can print AI’s biggest chips](https://thenextweb.com/news/asml-tsmc-12-inch-masks-high-na-euv)
-- [Amazon hires banks for first sterling bond sale to fund AI expansion](https://www.business-standard.com/world-news/amazon-hires-banks-for-first-sterling-bond-sale-to-fund-ai-expansion-126090800830_1.html)
+- [Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits](https://biztoc.com/x/674693205b2fa86e)
+- [Anthropic insiders warn AI could kill all humans](https://biztoc.com/x/f7cef9c128e805a6)
+- [More than 1 in 10 chance AI ‘could kill all humans,’ says Anthropic safety lead after colleague quits](https://biztoc.com/x/b4133ae68b2018bd)
+- [portage-mcp added to PyPI](https://pypi.org/project/portage-mcp/)
+- [AidKit Named to Fast Company's 2026 List of the 100 Best Workplaces for Innovators](https://www.prnewswire.com/news-releases/aidkit-named-to-fast-companys-2026-list-of-the-100-best-workplaces-for-innovators-302872699.html)
 <!-- NEWS_SECTION_END -->
 
 
