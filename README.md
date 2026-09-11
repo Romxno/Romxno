@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits](https://biztoc.com/x/674693205b2fa86e)
-- [Anthropic insiders warn AI could kill all humans](https://biztoc.com/x/f7cef9c128e805a6)
-- [More than 1 in 10 chance AI ‘could kill all humans,’ says Anthropic safety lead after colleague quits](https://biztoc.com/x/b4133ae68b2018bd)
-- [portage-mcp added to PyPI](https://pypi.org/project/portage-mcp/)
-- [AidKit Named to Fast Company's 2026 List of the 100 Best Workplaces for Innovators](https://www.prnewswire.com/news-releases/aidkit-named-to-fast-companys-2026-list-of-the-100-best-workplaces-for-innovators-302872699.html)
+- [scc-firewall-manager-sdk 1.22.1261](https://pypi.org/project/scc-firewall-manager-sdk/1.22.1261/)
+- [Health questions? “Ask Away.” PC Health™ launches new “Built in Canada for Canadians” AI-powered health chat](https://financialpost.com/globe-newswire/health-questions-ask-away-pc-health-launches-new-built-in-canada-for-canadians-ai-powered-health-chat)
+- [WordPress adds automated security checks to block risky plugin releases](https://www.helpnetsecurity.com/2026/09/10/wordpress-automated-plugin-security-review/)
+- [Türkiye’s 2025 PISA results are a ‘success story’: OECD official](https://www.hurriyetdailynews.com/turkiyes-2025-pisa-results-are-a-success-story-oecd-official-226714)
+- [Episode 829: The Race To Replace Humans Is Already On: Will Jones’ Fight To Ban Superintelligent AI and What Most Leaders Have No Idea Is Coming](https://careynieuwhof.com/episode-829/)
 <!-- NEWS_SECTION_END -->
 
 
