@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [scc-firewall-manager-sdk 1.22.1261](https://pypi.org/project/scc-firewall-manager-sdk/1.22.1261/)
-- [Health questions? “Ask Away.” PC Health™ launches new “Built in Canada for Canadians” AI-powered health chat](https://financialpost.com/globe-newswire/health-questions-ask-away-pc-health-launches-new-built-in-canada-for-canadians-ai-powered-health-chat)
-- [WordPress adds automated security checks to block risky plugin releases](https://www.helpnetsecurity.com/2026/09/10/wordpress-automated-plugin-security-review/)
-- [Türkiye’s 2025 PISA results are a ‘success story’: OECD official](https://www.hurriyetdailynews.com/turkiyes-2025-pisa-results-are-a-success-story-oecd-official-226714)
-- [Episode 829: The Race To Replace Humans Is Already On: Will Jones’ Fight To Ban Superintelligent AI and What Most Leaders Have No Idea Is Coming](https://careynieuwhof.com/episode-829/)
+- [Show HN: What happened to 14,229 launches from Show HN, YC and Product Hunt](https://www.buildorskip.com)
+- [Biotechnology is a 50-year journey, not a five-year plan: Suchitra Ella of Bharat Biotech](https://www.thehindubusinessline.com/news/biotechnology-is-a-50-year-journey-not-a-five-year-plan-suchitra-ella-of-bharat-biotech/article71455501.ece)
+- [Weather tomorrow: IMD forecasts heavy to very heavy rain across several states; Odisha under yellow alert](https://timesofindia.indiatimes.com/city/delhi/weather-tomorrow-imd-forecasts-heavy-to-very-heavy-rain-across-several-states-odisha-under-yellow-alert/articleshow/134057286.cms)
+- [【産業DX・AI意識調査】約950名で判明！政府のDX方針に「追い風」も、世代で異なるAI活用の課題](https://prtimes.jp/main/html/rd/p/000000255.000078233.html)
+- [AIの回答生成の裏側を60分で可視化 バクリ株式会社／オンラインセミナー開催](https://prtimes.jp/main/html/rd/p/000000010.000155164.html)
 <!-- NEWS_SECTION_END -->
 
 
