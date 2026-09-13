@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Show HN: What happened to 14,229 launches from Show HN, YC and Product Hunt](https://www.buildorskip.com)
-- [Biotechnology is a 50-year journey, not a five-year plan: Suchitra Ella of Bharat Biotech](https://www.thehindubusinessline.com/news/biotechnology-is-a-50-year-journey-not-a-five-year-plan-suchitra-ella-of-bharat-biotech/article71455501.ece)
-- [Weather tomorrow: IMD forecasts heavy to very heavy rain across several states; Odisha under yellow alert](https://timesofindia.indiatimes.com/city/delhi/weather-tomorrow-imd-forecasts-heavy-to-very-heavy-rain-across-several-states-odisha-under-yellow-alert/articleshow/134057286.cms)
-- [【産業DX・AI意識調査】約950名で判明！政府のDX方針に「追い風」も、世代で異なるAI活用の課題](https://prtimes.jp/main/html/rd/p/000000255.000078233.html)
-- [AIの回答生成の裏側を60分で可視化 バクリ株式会社／オンラインセミナー開催](https://prtimes.jp/main/html/rd/p/000000010.000155164.html)
+- [elephantine added to PyPI](https://pypi.org/project/elephantine/)
+- [elephantine 0.3.5](https://pypi.org/project/elephantine/0.3.5/)
+- [Donald Trump optimistic about resolving trade war with Canada](https://cryptobriefing.com/trump-optimistic-canada-trade-deal/)
+- [Jim Cramer Names NVIDIA the Main Portfolio “Running Back”](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-names-nvidia-main-104325250.html)
+- [‘Immature playground boasting’: Mathematicians uneasy at OpenAI’s latest scalp](https://biztoc.com/x/fbae6d98d4a82919)
 <!-- NEWS_SECTION_END -->
 
 
