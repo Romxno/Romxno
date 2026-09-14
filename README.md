@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [elephantine added to PyPI](https://pypi.org/project/elephantine/)
-- [elephantine 0.3.5](https://pypi.org/project/elephantine/0.3.5/)
-- [Donald Trump optimistic about resolving trade war with Canada](https://cryptobriefing.com/trump-optimistic-canada-trade-deal/)
-- [Jim Cramer Names NVIDIA the Main Portfolio “Running Back”](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-names-nvidia-main-104325250.html)
-- [‘Immature playground boasting’: Mathematicians uneasy at OpenAI’s latest scalp](https://biztoc.com/x/fbae6d98d4a82919)
+- [Anthropic chief urges slowdown in AI development to safer pace](https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace)
+- [AI mapped 39,619 grounded icebergs around Antarctica for the first time; 93% are under 1 square kilometre and form a “picket fence” that helps hold sea ice in place](https://timesofindia.indiatimes.com/science/earth/ai-mapped-39619-grounded-icebergs-around-antarctica-for-the-first-time-93-are-under-1-square-kilometre-and-form-a-picket-fence-that-helps-hold-sea-ice-in-place/articleshow/134196006.cms)
+- [Anthropic’s Jacob Coxon resigns, calls for China’s buy-in on AI safety](https://cryptobriefing.com/anthropic-coxon-resigns-ai-safety-china/)
+- [Former CIA official found with $40 million in gold bars reaches tentative plea deal: What happened to David Rush and what prosecutors say he stole](https://economictimes.indiatimes.com/news/international/global-trends/former-cia-official-found-with-40-million-in-gold-bars-reaches-tentative-plea-deal-what-happened-to-david-rush-and-what-prosecutors-say-he-stole/articleshow/134154815.cms)
+- [pandaone-guard added to PyPI](https://pypi.org/project/pandaone-guard/)
 <!-- NEWS_SECTION_END -->
 
 
