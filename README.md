@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [mengram-ai 2.44.0](https://pypi.org/project/mengram-ai/2.44.0/)
-- [typesafe-sdk 0.6.0](https://pypi.org/project/typesafe-sdk/0.6.0/)
-- [Google’s Traffic Numbers Look Fine, Its Search Economics Tell Another Story](https://finance.yahoo.com/markets/stocks/articles/google-traffic-numbers-look-fine-102257813.html)
-- [In 2016, Jennifer Lopez bought an 8-acre Bel Air estate for $28 million; seven years later, it sold for about $34 million, $8.5 million below its $42.5 million ask](https://timesofindia.indiatimes.com/real-estate/news/in-2016-jennifer-lopez-bought-an-8-acre-bel-air-estate-for-28-million-seven-years-later-it-sold-for-about-34-million-8-5-million-below-its-42-5-million-ask/articleshow/134258635.cms)
-- [U.S. 10-Year Treasury Yield Hits 5% as Oil Surge Raises Fed Rate Fears](https://bitcoinfoundation.org/news/bitcoin/u-s-10-year-treasury-yield-hits-5-as-oil-surge-raises-fed-rate-fears/)
+- [EQT to sell Ontinue, a provider of AI-powered Managed Extended Detection & Response cybersecurity services](https://www.prnewswire.com/news-releases/eqt-to-sell-ontinue-a-provider-of-ai-powered-managed-extended-detection--response-cybersecurity-services-302880484.html)
+- [Amazon launches Alexa+ in India with Hindi support | TechCrunch](https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/)
+- [Europe wants Canada to be its first 'associate member', von der Leyen tells Mark Carney](https://www.nationalobserver.com/2026/09/16/news/europe-wants-canada-be-its-first-associate-member-von-der-leyen-tells-mark-carney)
+- [Agentic AI Readiness Framework for Marketing Teams](https://deepsmith.ai/blog/is-your-marketing-team-ready-for-agentic-ai)
+- [If someone comes from the internet and tries to sexually extort you, tell us - SLCERT](https://english.gossiplankanews.com/2026/09/if-someone-comes-from-internet-and.html)
 <!-- NEWS_SECTION_END -->
 
 
