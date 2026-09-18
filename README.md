@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [EQT to sell Ontinue, a provider of AI-powered Managed Extended Detection & Response cybersecurity services](https://www.prnewswire.com/news-releases/eqt-to-sell-ontinue-a-provider-of-ai-powered-managed-extended-detection--response-cybersecurity-services-302880484.html)
-- [Amazon launches Alexa+ in India with Hindi support | TechCrunch](https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/)
-- [Europe wants Canada to be its first 'associate member', von der Leyen tells Mark Carney](https://www.nationalobserver.com/2026/09/16/news/europe-wants-canada-be-its-first-associate-member-von-der-leyen-tells-mark-carney)
-- [Agentic AI Readiness Framework for Marketing Teams](https://deepsmith.ai/blog/is-your-marketing-team-ready-for-agentic-ai)
-- [If someone comes from the internet and tries to sexually extort you, tell us - SLCERT](https://english.gossiplankanews.com/2026/09/if-someone-comes-from-internet-and.html)
+- [Meta One is here: Here’s everything you need to know about Instagram, Facebook, and WhatsApp tools](https://soyacincau.com/2026/09/17/meta-one-is-here-heres-everything-you-need-to-know-xrs/)
+- [El Niño may increase dengue risk in Kerala, IITM study finds; climate model predicts 16-20% rise by 2040, with warning signals potentially available months before seasonal outbreaks](https://timesofindia.indiatimes.com/city/pune/el-nio-may-increase-dengue-risk-in-kerala-iitm-study-finds-climate-model-predicts-16-20-rise-by-2040-with-warning-signals-potentially-available-months-before-seasonal-outbreaks/articleshow/134307871.cms)
+- [JPMorgan sets $2K monthly spending limits for Claude Code use](https://cryptobriefing.com/jpmorgan-claude-code-spending-limits/)
+- [Scammers leave AI fingerprints all over fake antivirus renewal page](https://www.helpnetsecurity.com/2026/09/17/ai-antivirus-renewal-scam-fake-pages/)
+- [EU moves to ban social media for under-13s, tighten rules for teenagers](https://timesofindia.indiatimes.com/world/europe/eu-moves-to-ban-social-media-for-under-13s-tighten-rules-for-teenagers/articleshow/134308111.cms)
 <!-- NEWS_SECTION_END -->
 
 
