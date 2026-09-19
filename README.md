@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Meta One is here: Here’s everything you need to know about Instagram, Facebook, and WhatsApp tools](https://soyacincau.com/2026/09/17/meta-one-is-here-heres-everything-you-need-to-know-xrs/)
-- [El Niño may increase dengue risk in Kerala, IITM study finds; climate model predicts 16-20% rise by 2040, with warning signals potentially available months before seasonal outbreaks](https://timesofindia.indiatimes.com/city/pune/el-nio-may-increase-dengue-risk-in-kerala-iitm-study-finds-climate-model-predicts-16-20-rise-by-2040-with-warning-signals-potentially-available-months-before-seasonal-outbreaks/articleshow/134307871.cms)
-- [JPMorgan sets $2K monthly spending limits for Claude Code use](https://cryptobriefing.com/jpmorgan-claude-code-spending-limits/)
-- [Scammers leave AI fingerprints all over fake antivirus renewal page](https://www.helpnetsecurity.com/2026/09/17/ai-antivirus-renewal-scam-fake-pages/)
-- [EU moves to ban social media for under-13s, tighten rules for teenagers](https://timesofindia.indiatimes.com/world/europe/eu-moves-to-ban-social-media-for-under-13s-tighten-rules-for-teenagers/articleshow/134308111.cms)
+- [uipath-langchain 0.18.10](https://pypi.org/project/uipath-langchain/0.18.10/)
+- [Uttar Pradesh’s startup revolution: From 120 to 24,000 in 9 years](https://timesofindia.indiatimes.com/city/lucknow/uttar-pradeshs-startup-revolution-from-120-to-24000-in-9-years/articleshow/134331421.cms)
+- [OpenAI, Anthropic eye 20-30 MW AI clusters in UK, Nordics for expansion](https://cryptobriefing.com/openai-anthropic-eye-20-30-mw-ai-clusters-in-uk-nordics-for-expansion/)
+- [Queen offered to restore Diana's HRH title, says brother](https://www.rte.ie/news/uk/2026/0918/1592051-uk-royals-book/)
+- [cacholong-cloud-cli 1.11.1](https://pypi.org/project/cacholong-cloud-cli/1.11.1/)
 <!-- NEWS_SECTION_END -->
 
 
