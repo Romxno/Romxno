@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [uipath-langchain 0.18.10](https://pypi.org/project/uipath-langchain/0.18.10/)
-- [Uttar Pradesh’s startup revolution: From 120 to 24,000 in 9 years](https://timesofindia.indiatimes.com/city/lucknow/uttar-pradeshs-startup-revolution-from-120-to-24000-in-9-years/articleshow/134331421.cms)
-- [OpenAI, Anthropic eye 20-30 MW AI clusters in UK, Nordics for expansion](https://cryptobriefing.com/openai-anthropic-eye-20-30-mw-ai-clusters-in-uk-nordics-for-expansion/)
-- [Queen offered to restore Diana's HRH title, says brother](https://www.rte.ie/news/uk/2026/0918/1592051-uk-royals-book/)
-- [cacholong-cloud-cli 1.11.1](https://pypi.org/project/cacholong-cloud-cli/1.11.1/)
+- [LG B6E Series OLED55B6EUA 55" 4K OLED Smart TV for $800 + free shipping](https://www.dealnews.com/LG-B6-E-Series-OLED55-B6-EUA-55-4-K-OLED-Smart-TV-for-800-free-shipping/22197843.html)
+- [Experts Call for Greater Push on Energy Efficiency at CII Summit](https://timesofindia.indiatimes.com/city/hyderabad/experts-call-for-greater-push-on-energy-efficiency-at-cii-summit/articleshow/134352015.cms)
+- [3 Stocks to Buy Before Wall Street Catches On Before September Ends](https://biztoc.com/x/f0a131dda8cca0de)
+- [The AI threat keeping scientists up at night](https://biztoc.com/x/979fc50f3d343fe5)
+- [The Agent Economy Runs on Concrete: Why $660 Billion Is Pouring Into Physical Infrastructure](https://forkast.news/the-agent-economy-runs-on-concrete-why-660-billion-is-pouring-into-physical-infrastructure/)
 <!-- NEWS_SECTION_END -->
 
 
