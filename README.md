@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [LG B6E Series OLED55B6EUA 55" 4K OLED Smart TV for $800 + free shipping](https://www.dealnews.com/LG-B6-E-Series-OLED55-B6-EUA-55-4-K-OLED-Smart-TV-for-800-free-shipping/22197843.html)
-- [Experts Call for Greater Push on Energy Efficiency at CII Summit](https://timesofindia.indiatimes.com/city/hyderabad/experts-call-for-greater-push-on-energy-efficiency-at-cii-summit/articleshow/134352015.cms)
-- [3 Stocks to Buy Before Wall Street Catches On Before September Ends](https://biztoc.com/x/f0a131dda8cca0de)
-- [The AI threat keeping scientists up at night](https://biztoc.com/x/979fc50f3d343fe5)
-- [The Agent Economy Runs on Concrete: Why $660 Billion Is Pouring Into Physical Infrastructure](https://forkast.news/the-agent-economy-runs-on-concrete-why-660-billion-is-pouring-into-physical-infrastructure/)
+- [Autonomous strike drone uses Nvidia Jetson Orin Nano to independently pick and bomb targets — Swedish startup's attack drones run small AI model, require no human input and zero external comms](https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms)
+- [Anthropic employees warn of greater-than-10% chance AI causes human extinction](https://cryptobriefing.com/openai-employees-skeptical-ai-existential-risks/)
+- [noscium added to PyPI](https://pypi.org/project/noscium/)
+- [I'm Tired of the AI Tone](https://sagivo.com/blog/im-tired-of-the-ai-tone)
+- [King Charles accused of ‘gaslighting’ by Princess Diana’s brother in dispute over book claims](https://www.nbcnews.com/world/united-kingdom/king-charles-accused-gaslighting-princess-dianas-brother-dispute-book-rcna598765)
 <!-- NEWS_SECTION_END -->
 
 
