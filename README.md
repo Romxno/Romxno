@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Autonomous strike drone uses Nvidia Jetson Orin Nano to independently pick and bomb targets — Swedish startup's attack drones run small AI model, require no human input and zero external comms](https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms)
-- [Anthropic employees warn of greater-than-10% chance AI causes human extinction](https://cryptobriefing.com/openai-employees-skeptical-ai-existential-risks/)
-- [noscium added to PyPI](https://pypi.org/project/noscium/)
-- [I'm Tired of the AI Tone](https://sagivo.com/blog/im-tired-of-the-ai-tone)
-- [King Charles accused of ‘gaslighting’ by Princess Diana’s brother in dispute over book claims](https://www.nbcnews.com/world/united-kingdom/king-charles-accused-gaslighting-princess-dianas-brother-dispute-book-rcna598765)
+- [10 Monday AM Reads](https://ritholtz.com/2026/09/10-monday-am-reads-493/)
+- [Fundraiser 2026: Finding the High Ground in the Informational Fog](https://www.nakedcapitalism.com/2026/09/fundraiser-2026-finding-the-high-ground-in-the-informational-fog.html)
+- [Currency swaps market seeks to automate trading, reduce phone reliance](https://cryptobriefing.com/fx-swaps-market-automation-trading/)
+- [Xbox Helix could target RTX 5080-class graphics, claims analysis based on new RDNA 5 leak](https://www.tweaktown.com/news/113665/xbox-helix-could-target-rtx-5080-class-graphics-claims-analysis-based-on-new-rdna-5-leak/index.html)
+- [Symphony by Business Core Solutions is Recognized as an Level 3 SAP Cloud ALM Preferred Partner Extension](https://www.prnewswire.com/news-releases/symphony-by-business-core-solutions-is-recognized-as-an-level-3-sap-cloud-alm-preferred-partner-extension-302884512.html)
 <!-- NEWS_SECTION_END -->
 
 
