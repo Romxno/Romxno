@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [10 Monday AM Reads](https://ritholtz.com/2026/09/10-monday-am-reads-493/)
-- [Fundraiser 2026: Finding the High Ground in the Informational Fog](https://www.nakedcapitalism.com/2026/09/fundraiser-2026-finding-the-high-ground-in-the-informational-fog.html)
-- [Currency swaps market seeks to automate trading, reduce phone reliance](https://cryptobriefing.com/fx-swaps-market-automation-trading/)
-- [Xbox Helix could target RTX 5080-class graphics, claims analysis based on new RDNA 5 leak](https://www.tweaktown.com/news/113665/xbox-helix-could-target-rtx-5080-class-graphics-claims-analysis-based-on-new-rdna-5-leak/index.html)
-- [Symphony by Business Core Solutions is Recognized as an Level 3 SAP Cloud ALM Preferred Partner Extension](https://www.prnewswire.com/news-releases/symphony-by-business-core-solutions-is-recognized-as-an-level-3-sap-cloud-alm-preferred-partner-extension-302884512.html)
+- [Live Coverage: General Assembly Begins General Debate](https://press.un.org/en/2026/ga12785.doc.htm)
+- [Ant Group Consolidates Alipay Into Single Business Unit to Bet on ‘Agentic Commerce’](https://forkast.news/ant-group-consolidates-alipay-into-single-business-unit-to-bet-on-agentic-commerce/)
+- [Xiaomi’s MiMo-V2.6 Ships Open Weights at Frontier-Class Performance – and the Timing Is Not an Accident](https://forkast.news/xiaomis-mimo-v2-6-ships-open-weights-at-frontier-class-performance-and-the-timing-is-not-an-accident/)
+- [django-ag-ui 0.63.0](https://pypi.org/project/django-ag-ui/0.63.0/)
+- [pulumi-opsgenie 1.4.2a1790071863](https://pypi.org/project/pulumi-opsgenie/1.4.2a1790071863/)
 <!-- NEWS_SECTION_END -->
 
 
