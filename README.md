@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Live Coverage: General Assembly Begins General Debate](https://press.un.org/en/2026/ga12785.doc.htm)
-- [Ant Group Consolidates Alipay Into Single Business Unit to Bet on ‘Agentic Commerce’](https://forkast.news/ant-group-consolidates-alipay-into-single-business-unit-to-bet-on-agentic-commerce/)
-- [Xiaomi’s MiMo-V2.6 Ships Open Weights at Frontier-Class Performance – and the Timing Is Not an Accident](https://forkast.news/xiaomis-mimo-v2-6-ships-open-weights-at-frontier-class-performance-and-the-timing-is-not-an-accident/)
-- [django-ag-ui 0.63.0](https://pypi.org/project/django-ag-ui/0.63.0/)
-- [pulumi-opsgenie 1.4.2a1790071863](https://pypi.org/project/pulumi-opsgenie/1.4.2a1790071863/)
+- [Agentic AI widening cyber risks even as defence tools improve: Trellix MD](https://www.business-standard.com/technology/tech-news/trellix-india-cybersecurity-ai-action-gap-agentic-threats-ganesh-iyer-126092300820_1.html)
+- [SmartLabels QR Code Organizing System Review (2026): AI Made Sense of My Junk Drawer](https://www.wired.com/review/smartlabels-qr-code-organizing-system/)
+- [Why Shift Left is Dead](https://devops.com/why-shift-left-is-dead/)
+- [Industrial Transformation Africa 2026: Shaping the Future of African Manufacturing - Hannover Fairs MENA](https://www.prnewswire.com/news-releases/industrial-transformation-africa-2026-shaping-the-future-of-african-manufacturing---hannover-fairs-mena-302887547.html)
+- [cplt](https://kitploit.com/en/tools/github/navikt/cplt/)
 <!-- NEWS_SECTION_END -->
 
 
