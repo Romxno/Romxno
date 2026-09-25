@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Agentic AI widening cyber risks even as defence tools improve: Trellix MD](https://www.business-standard.com/technology/tech-news/trellix-india-cybersecurity-ai-action-gap-agentic-threats-ganesh-iyer-126092300820_1.html)
-- [SmartLabels QR Code Organizing System Review (2026): AI Made Sense of My Junk Drawer](https://www.wired.com/review/smartlabels-qr-code-organizing-system/)
-- [Why Shift Left is Dead](https://devops.com/why-shift-left-is-dead/)
-- [Industrial Transformation Africa 2026: Shaping the Future of African Manufacturing - Hannover Fairs MENA](https://www.prnewswire.com/news-releases/industrial-transformation-africa-2026-shaping-the-future-of-african-manufacturing---hannover-fairs-mena-302887547.html)
-- [cplt](https://kitploit.com/en/tools/github/navikt/cplt/)
+- [China’s AI surveillance machine: Beijing-linked actors turn Claude against dissidents, religious groups](https://english.khabarhub.com/2026/24/569077/)
+- [Nisarga Adhikary, who exposed CBSE and US defence flaws, says India’s obsession with exam rank and reward for mugging PCM killing tech talent](https://economictimes.indiatimes.com/news/new-updates/nisarga-adhikary-who-exposed-cbse-and-us-defence-flaws-says-indias-obsession-with-exam-rank-and-reward-for-mugging-pcm-killing-tech-talent/articleshow/134458121.cms)
+- [CISA: Ransomware gangs now exploiting critical TeamCity flaw](https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/)
+- [Autonomous AI hacks raise thorny questions of legal accountability](https://abcnews.com/Technology/wireStory/autonomous-ai-hacks-raise-thorny-questions-legal-accountability-136712019)
+- [India workforce to grow 5.4% in H2 FY27, led by e-commerce and tech start-ups](https://www.nationpress.com/business/india-workforce-set-for-54percent-growth-in-h2-fy27)
 <!-- NEWS_SECTION_END -->
 
 
