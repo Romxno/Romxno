@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [China’s AI surveillance machine: Beijing-linked actors turn Claude against dissidents, religious groups](https://english.khabarhub.com/2026/24/569077/)
-- [Nisarga Adhikary, who exposed CBSE and US defence flaws, says India’s obsession with exam rank and reward for mugging PCM killing tech talent](https://economictimes.indiatimes.com/news/new-updates/nisarga-adhikary-who-exposed-cbse-and-us-defence-flaws-says-indias-obsession-with-exam-rank-and-reward-for-mugging-pcm-killing-tech-talent/articleshow/134458121.cms)
-- [CISA: Ransomware gangs now exploiting critical TeamCity flaw](https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/)
-- [Autonomous AI hacks raise thorny questions of legal accountability](https://abcnews.com/Technology/wireStory/autonomous-ai-hacks-raise-thorny-questions-legal-accountability-136712019)
-- [India workforce to grow 5.4% in H2 FY27, led by e-commerce and tech start-ups](https://www.nationpress.com/business/india-workforce-set-for-54percent-growth-in-h2-fy27)
+- [13 films you don’t want to miss at this year’s London Film Festival](https://www.timeout.com/london/news/13-films-you-dont-want-to-miss-at-this-years-london-film-festival-092526)
+- [Royals 'not starstruck' by PSG visit for AI summit](https://www.bbc.com/sport/football/articles/cv62k9k2nwx2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D)
+- [Fresha Cements Its Position as the Leading Software Powering The Global Barbering Industry](https://www.prnewswire.com/news-releases/fresha-cements-its-position-as-the-leading-software-powering-the-global-barbering-industry-302890197.html)
+- [The FTC’s AI Enforcement Triage: Comment Deadline Closes on a Pivot From Deception to Pricing](https://forkast.news/the-ftcs-ai-enforcement-triage-comment-deadline-closes-on-a-pivot-from-deception-to-pricing/)
+- [AI Needs Trusted Journalism](https://www.project-syndicate.org/commentary/ai-needs-trusted-journalism-to-thrive-by-stig-orskov-2026-09)
 <!-- NEWS_SECTION_END -->
 
 
