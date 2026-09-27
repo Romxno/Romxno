@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [13 films you don’t want to miss at this year’s London Film Festival](https://www.timeout.com/london/news/13-films-you-dont-want-to-miss-at-this-years-london-film-festival-092526)
-- [Royals 'not starstruck' by PSG visit for AI summit](https://www.bbc.com/sport/football/articles/cv62k9k2nwx2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D)
-- [Fresha Cements Its Position as the Leading Software Powering The Global Barbering Industry](https://www.prnewswire.com/news-releases/fresha-cements-its-position-as-the-leading-software-powering-the-global-barbering-industry-302890197.html)
-- [The FTC’s AI Enforcement Triage: Comment Deadline Closes on a Pivot From Deception to Pricing](https://forkast.news/the-ftcs-ai-enforcement-triage-comment-deadline-closes-on-a-pivot-from-deception-to-pricing/)
-- [AI Needs Trusted Journalism](https://www.project-syndicate.org/commentary/ai-needs-trusted-journalism-to-thrive-by-stig-orskov-2026-09)
+- [sqube-agent-guard 1.0.2](https://pypi.org/project/sqube-agent-guard/1.0.2/)
+- [my-claude-code 7.57.1](https://pypi.org/project/my-claude-code/7.57.1/)
+- [muvue 0.2.2](https://pypi.org/project/muvue/0.2.2/)
+- [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
+- [Apple's Creepy New Siri Recap Feature Turns Every Apple Watch Into a Spy Device](https://uk.pcmag.com/migrated-99802-smartwatches/167506/apples-creepy-new-siri-recap-feature-turns-every-apple-watch-into-a-spy-device)
 <!-- NEWS_SECTION_END -->
 
 
