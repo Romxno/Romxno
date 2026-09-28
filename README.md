@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [sqube-agent-guard 1.0.2](https://pypi.org/project/sqube-agent-guard/1.0.2/)
-- [my-claude-code 7.57.1](https://pypi.org/project/my-claude-code/7.57.1/)
-- [muvue 0.2.2](https://pypi.org/project/muvue/0.2.2/)
-- [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
-- [Apple's Creepy New Siri Recap Feature Turns Every Apple Watch Into a Spy Device](https://uk.pcmag.com/migrated-99802-smartwatches/167506/apples-creepy-new-siri-recap-feature-turns-every-apple-watch-into-a-spy-device)
+- [Show HN: Orders of Magnitude – guess quantities to the nearest power of ten](https://oom.giacomotag.io/)
+- [What makes Scottie Scheffler laugh about the arrest that once stunned golf?](https://gamedaychatter.com/what-makes-scottie-scheffler-laugh-about-the-arrest-that-once-stunned-golf/)
+- [Bangok allagata a seguito di forti piogge](https://www.ansa.it/sito/photogallery/primopiano/2026/09/27/bangok-allagata-a-seguito-di-forti-piogge_baaea509-e198-4a8c-93f5-e60ca1ccb571.html)
+- [La collezione primavera estate 2027 di Giorgio Armani alla Milano Fashion Week](https://www.ansa.it/sito/photogallery/moda/2026/09/27/la-collezione-primavera-estate-2027-di-giorgio-armani-alla-milano-fashion-week_39ee6306-e5a6-46e9-a77a-4bfcd58a51ec.html)
+- [La Maratona di Mosca per le vie della capitale della Russia](https://www.ansa.it/sito/photogallery/sport/2026/09/27/la-maratona-di-mosca-per-le-vie-della-capitale-della-russia_949f3575-1dd5-42a1-b6c3-65ce39b3941f.html)
 <!-- NEWS_SECTION_END -->
 
 
