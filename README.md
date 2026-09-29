@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Show HN: Orders of Magnitude – guess quantities to the nearest power of ten](https://oom.giacomotag.io/)
-- [What makes Scottie Scheffler laugh about the arrest that once stunned golf?](https://gamedaychatter.com/what-makes-scottie-scheffler-laugh-about-the-arrest-that-once-stunned-golf/)
-- [Bangok allagata a seguito di forti piogge](https://www.ansa.it/sito/photogallery/primopiano/2026/09/27/bangok-allagata-a-seguito-di-forti-piogge_baaea509-e198-4a8c-93f5-e60ca1ccb571.html)
-- [La collezione primavera estate 2027 di Giorgio Armani alla Milano Fashion Week](https://www.ansa.it/sito/photogallery/moda/2026/09/27/la-collezione-primavera-estate-2027-di-giorgio-armani-alla-milano-fashion-week_39ee6306-e5a6-46e9-a77a-4bfcd58a51ec.html)
-- [La Maratona di Mosca per le vie della capitale della Russia](https://www.ansa.it/sito/photogallery/sport/2026/09/27/la-maratona-di-mosca-per-le-vie-della-capitale-della-russia_949f3575-1dd5-42a1-b6c3-65ce39b3941f.html)
+- [Equifax Second Quarter 2026 Market Pulse Index Report Sees First Pause in K-Shaped Economic Widening in Three Years](https://www.prnewswire.com/news-releases/equifax-second-quarter-2026-market-pulse-index-report-sees-first-pause-in-k-shaped-economic-widening-in-three-years-302890538.html)
+- [CII TCM ‘Cost Congress 2026’ to Be Held on 26–27 October 2026 at the JW Marriott Hotel, Pune Under the Theme “India’s Decade: Building Global Competitiveness in an Era of Disruption”](https://www.thehindubusinessline.com/brandhub/pr-release/cii-tcm-cost-congress-2026-to-be-held-on-2627-october-2026-at-the-jw-marriott-hotel-pune-under-the-theme-indias-decade-building-global-competitiveness-in-an-era-of-disruption/article71519092.ece)
+- [Synduality Echo of Ada Game to End Online Service in 2027](https://www.animenewsnetwork.com/news/2026-09-28/synduality-echo-of-ada-game-to-end-online-service-in-2027/.242266)
+- [Granite raises €4M to bring its agentic cloud infrastructure to market](https://biztoc.com/x/f1616650c824d1d3)
+- [Chinese chip foundry CanSemi’s IPO oversubscribed 2,360 times as investors chase AI boom](https://biztoc.com/x/438169bf1bcfcd1d)
 <!-- NEWS_SECTION_END -->
 
 
