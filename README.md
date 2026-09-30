@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Equifax Second Quarter 2026 Market Pulse Index Report Sees First Pause in K-Shaped Economic Widening in Three Years](https://www.prnewswire.com/news-releases/equifax-second-quarter-2026-market-pulse-index-report-sees-first-pause-in-k-shaped-economic-widening-in-three-years-302890538.html)
-- [CII TCM ‘Cost Congress 2026’ to Be Held on 26–27 October 2026 at the JW Marriott Hotel, Pune Under the Theme “India’s Decade: Building Global Competitiveness in an Era of Disruption”](https://www.thehindubusinessline.com/brandhub/pr-release/cii-tcm-cost-congress-2026-to-be-held-on-2627-october-2026-at-the-jw-marriott-hotel-pune-under-the-theme-indias-decade-building-global-competitiveness-in-an-era-of-disruption/article71519092.ece)
-- [Synduality Echo of Ada Game to End Online Service in 2027](https://www.animenewsnetwork.com/news/2026-09-28/synduality-echo-of-ada-game-to-end-online-service-in-2027/.242266)
-- [Granite raises €4M to bring its agentic cloud infrastructure to market](https://biztoc.com/x/f1616650c824d1d3)
-- [Chinese chip foundry CanSemi’s IPO oversubscribed 2,360 times as investors chase AI boom](https://biztoc.com/x/438169bf1bcfcd1d)
+- [I replaced Windows' Snipping Tool with ShareX for screenshots, but the best part is everything else it can do](https://www.xda-developers.com/replaced-windows-snipping-tool-with-sharex-screenshots-best-part-everything-else/)
+- [Meet Brooke Sweeney, 15, who turned overnight oats into a business](https://timesofindia.indiatimes.com/science/discovery/meet-brooke-sweeney-the-15-year-old-kentucky-student-who-turned-overnight-oats-into-a-business-and-won-a-3000-student-pitch-prize/articleshow/134564114.cms)
+- [RemoteThreat launches with $7M for an offensive cyber operations platform](https://siliconangle.com/2026/09/29/remotethreat-launches-with-7m-for-an-offensive-cyber-operations-platform/)
+- [EliseAI secures $350M funding, reaching $4B valuation](https://cryptobriefing.com/eliseai-350m-funding-4b-valuation/)
+- [b.well Connected Health Awarded on TIME's List of the World's Top HealthTech Companies 2026 List](https://www.prnewswire.com/news-releases/bwell-connected-health-awarded-on-times-list-of-the-worlds-top-healthtech-companies-2026-list-302892097.html)
 <!-- NEWS_SECTION_END -->
 
 
