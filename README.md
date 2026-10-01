@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [I replaced Windows' Snipping Tool with ShareX for screenshots, but the best part is everything else it can do](https://www.xda-developers.com/replaced-windows-snipping-tool-with-sharex-screenshots-best-part-everything-else/)
-- [Meet Brooke Sweeney, 15, who turned overnight oats into a business](https://timesofindia.indiatimes.com/science/discovery/meet-brooke-sweeney-the-15-year-old-kentucky-student-who-turned-overnight-oats-into-a-business-and-won-a-3000-student-pitch-prize/articleshow/134564114.cms)
-- [RemoteThreat launches with $7M for an offensive cyber operations platform](https://siliconangle.com/2026/09/29/remotethreat-launches-with-7m-for-an-offensive-cyber-operations-platform/)
-- [EliseAI secures $350M funding, reaching $4B valuation](https://cryptobriefing.com/eliseai-350m-funding-4b-valuation/)
-- [b.well Connected Health Awarded on TIME's List of the World's Top HealthTech Companies 2026 List](https://www.prnewswire.com/news-releases/bwell-connected-health-awarded-on-times-list-of-the-worlds-top-healthtech-companies-2026-list-302892097.html)
+- [Samsung Galaxy Tab S12 Ultra and Galaxy Tab S12+ debut](https://www.gsmarena.com/samsung_galaxy_tab_s12_ultra_and_galaxy_tab_s12_debut-news-74834.php)
+- [Todoist Review: The Gold Standard for Personal Task Management](https://uk.pcmag.com/productivity/1544/todoist)
+- [Intentional Design in AI Adoption, Not Just Speed (Blog)](https://ssir.org/articles/entry/ai-adoption-intentional-design-not-just-speed)
+- [Park Place Technologies' New AI-Powered Platform Provides Full View of IT Infrastructure Health](https://www.prnewswire.com/news-releases/park-place-technologies-new-ai-powered-platform-provides-full-view-of-it-infrastructure-health-302894336.html)
+- [Every Saver Deserves an Advisor: Ascensus Launches Industry-First Way to Connect Workplace Savers and Financial Advisors](https://www.prnewswire.com/news-releases/every-saver-deserves-an-advisor-ascensus-launches-industry-first-way-to-connect-workplace-savers-and-financial-advisors-302893579.html)
 <!-- NEWS_SECTION_END -->
 
 
