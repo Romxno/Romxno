@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Samsung Galaxy Tab S12 Ultra and Galaxy Tab S12+ debut](https://www.gsmarena.com/samsung_galaxy_tab_s12_ultra_and_galaxy_tab_s12_debut-news-74834.php)
-- [Todoist Review: The Gold Standard for Personal Task Management](https://uk.pcmag.com/productivity/1544/todoist)
-- [Intentional Design in AI Adoption, Not Just Speed (Blog)](https://ssir.org/articles/entry/ai-adoption-intentional-design-not-just-speed)
-- [Park Place Technologies' New AI-Powered Platform Provides Full View of IT Infrastructure Health](https://www.prnewswire.com/news-releases/park-place-technologies-new-ai-powered-platform-provides-full-view-of-it-infrastructure-health-302894336.html)
-- [Every Saver Deserves an Advisor: Ascensus Launches Industry-First Way to Connect Workplace Savers and Financial Advisors](https://www.prnewswire.com/news-releases/every-saver-deserves-an-advisor-ascensus-launches-industry-first-way-to-connect-workplace-savers-and-financial-advisors-302893579.html)
+- [F1: Arvin Lindlbad, Lance Stroll e Pierre Gasly alla conferenza piloti a Sepang](https://www.ansa.it/sito/photogallery/sport/2026/10/01/f1-arvin-lindlbad-lance-stroll-e-pierre-gasly-alla-conferenza-piloti-a-sepang_0757583d-4638-47e3-b1d3-7bea5884916a.html)
+- [Myanmar drug kingpin’s money trail leads ED to Rs 4 cr parked in 22 bank accounts](https://timesofindia.indiatimes.com/city/guwahati/myanmar-drug-kingpins-money-trail-leads-ed-to-rs-4-cr-parked-in-22-bank-accounts/articleshow/134617521.cms)
+- [mangools 0.2.0](https://pypi.org/project/mangools/0.2.0/)
+- [AI is operating inside the healthcare billing system. Patients may already be paying the price](https://www.cnbc.com/2026/10/01/health-care-costs-insurance-claims-billing-ai.html)
+- [DeFi Technologies Provides September Corporate Update: Valour Reports $640.2 Million in AUM, Up 61.2% from Q2 End](https://www.prnewswire.com/news-releases/defi-technologies-provides-september-corporate-update-valour-reports-640-2-million-in-aum-up-61-2-from-q2-end-302895454.html)
 <!-- NEWS_SECTION_END -->
 
 
