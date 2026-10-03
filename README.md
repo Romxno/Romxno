@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [F1: Arvin Lindlbad, Lance Stroll e Pierre Gasly alla conferenza piloti a Sepang](https://www.ansa.it/sito/photogallery/sport/2026/10/01/f1-arvin-lindlbad-lance-stroll-e-pierre-gasly-alla-conferenza-piloti-a-sepang_0757583d-4638-47e3-b1d3-7bea5884916a.html)
-- [Myanmar drug kingpin’s money trail leads ED to Rs 4 cr parked in 22 bank accounts](https://timesofindia.indiatimes.com/city/guwahati/myanmar-drug-kingpins-money-trail-leads-ed-to-rs-4-cr-parked-in-22-bank-accounts/articleshow/134617521.cms)
-- [mangools 0.2.0](https://pypi.org/project/mangools/0.2.0/)
-- [AI is operating inside the healthcare billing system. Patients may already be paying the price](https://www.cnbc.com/2026/10/01/health-care-costs-insurance-claims-billing-ai.html)
-- [DeFi Technologies Provides September Corporate Update: Valour Reports $640.2 Million in AUM, Up 61.2% from Q2 End](https://www.prnewswire.com/news-releases/defi-technologies-provides-september-corporate-update-valour-reports-640-2-million-in-aum-up-61-2-from-q2-end-302895454.html)
+- [NIQ Brings New AI and Automation Capabilities to Retail Space Planning and Merchandising](https://financialpost.com/pmn/business-wire-news-releases-pmn/niq-brings-new-ai-and-automation-capabilities-to-retail-space-planning-and-merchandising)
+- [How to Generate Detailed 3D buildings on OSM](https://www.openstreetmap.org/user/Rawaz/diary/409427)
+- [15 Ways The Internet Is Making Us Dumber](http://www.denofgeek.com/msn/15-ways-the-internet-is-making-us-dumber/)
+- [orq-ai-sdk 4.15.15](https://pypi.org/project/orq-ai-sdk/4.15.15/)
+- [aip-agents-binary 0.6.175.post1](https://pypi.org/project/aip-agents-binary/0.6.175.post1/)
 <!-- NEWS_SECTION_END -->
 
 
