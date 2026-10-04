@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [NIQ Brings New AI and Automation Capabilities to Retail Space Planning and Merchandising](https://financialpost.com/pmn/business-wire-news-releases-pmn/niq-brings-new-ai-and-automation-capabilities-to-retail-space-planning-and-merchandising)
-- [How to Generate Detailed 3D buildings on OSM](https://www.openstreetmap.org/user/Rawaz/diary/409427)
-- [15 Ways The Internet Is Making Us Dumber](http://www.denofgeek.com/msn/15-ways-the-internet-is-making-us-dumber/)
-- [orq-ai-sdk 4.15.15](https://pypi.org/project/orq-ai-sdk/4.15.15/)
-- [aip-agents-binary 0.6.175.post1](https://pypi.org/project/aip-agents-binary/0.6.175.post1/)
+- [Mysterious coded Napoleon letter has been cracked after 217 years](https://www.unexplained-mysteries.com/news/400171/mysterious-coded-napoleon-letter-has-been-cracked-after-217-years)
+- [streamtex 0.7.41](https://pypi.org/project/streamtex/0.7.41/)
+- [agentic-security-harness 1.11.0](https://pypi.org/project/agentic-security-harness/1.11.0/)
+- [inferweave 0.2.0](https://pypi.org/project/inferweave/0.2.0/)
+- [Bahrain Grand Prix: Qualifying team notes - Pirelli](https://www.pitpass.com/83722/Bahrain-Grand-Prix-Qualifying-team-notes-Pirelli)
 <!-- NEWS_SECTION_END -->
 
 
