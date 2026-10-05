@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Mysterious coded Napoleon letter has been cracked after 217 years](https://www.unexplained-mysteries.com/news/400171/mysterious-coded-napoleon-letter-has-been-cracked-after-217-years)
-- [streamtex 0.7.41](https://pypi.org/project/streamtex/0.7.41/)
-- [agentic-security-harness 1.11.0](https://pypi.org/project/agentic-security-harness/1.11.0/)
-- [inferweave 0.2.0](https://pypi.org/project/inferweave/0.2.0/)
-- [Bahrain Grand Prix: Qualifying team notes - Pirelli](https://www.pitpass.com/83722/Bahrain-Grand-Prix-Qualifying-team-notes-Pirelli)
+- [Man kills brother over domestic dispute in Rohtas](https://timesofindia.indiatimes.com/city/patna/man-kills-brother-over-domestic-dispute-in-rohtas/articleshow/134675515.cms)
+- [geo-scope added to PyPI](https://pypi.org/project/geo-scope/)
+- [answerpath-geo added to PyPI](https://pypi.org/project/answerpath-geo/)
+- [Wildlife Week 2026: Jharkhand forest officer urges respect for lizards](https://timesofindia.indiatimes.com/city/ranchi/wildlife-week-2026-jharkhand-forest-officer-urges-respect-for-lizards/articleshow/134675481.cms)
+- [AI-Fueled Earnings Keep Climbing: 3 Top Stocks With Bullish EPS Revisions - Seeking Alpha](https://slashdot.org/firehose.pl?op=view&amp;id=186020570)
 <!-- NEWS_SECTION_END -->
 
 
