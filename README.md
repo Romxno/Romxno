@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Man kills brother over domestic dispute in Rohtas](https://timesofindia.indiatimes.com/city/patna/man-kills-brother-over-domestic-dispute-in-rohtas/articleshow/134675515.cms)
-- [geo-scope added to PyPI](https://pypi.org/project/geo-scope/)
-- [answerpath-geo added to PyPI](https://pypi.org/project/answerpath-geo/)
-- [Wildlife Week 2026: Jharkhand forest officer urges respect for lizards](https://timesofindia.indiatimes.com/city/ranchi/wildlife-week-2026-jharkhand-forest-officer-urges-respect-for-lizards/articleshow/134675481.cms)
-- [AI-Fueled Earnings Keep Climbing: 3 Top Stocks With Bullish EPS Revisions - Seeking Alpha](https://slashdot.org/firehose.pl?op=view&amp;id=186020570)
+- [OpenAI safety leader resigns, raising governance concerns](https://cryptobriefing.com/openai-safety-leader-resigns-raising-governance-concerns/)
+- [cdk8s 2.70.109](https://pypi.org/project/cdk8s/2.70.109/)
+- [A French geologist spent 205 days underground with no clock or daylight, and his body eventually treated almost 48 hours as a single day](https://timesofindia.indiatimes.com/world/rest-of-world/a-french-geologist-spent-205-days-underground-with-no-clock-or-daylight-and-his-body-eventually-treated-almost-48-hours-as-a-single-day/articleshow/134705257.cms)
+- [AI giants targeted by scraping bots — ChatGPT and Perplexity enter the most-scraped websites list for the first time](https://www.techradar.com/pro/ai-giants-targeted-by-scraping-bots-chatgpt-and-perplexity-enter-the-most-scraped-websites-list-for-the-first-time)
+- [Amazon ends secret data center pacts and pledges $1 billion to host towns](https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-ends-secret-data-center-pacts-and-pledges-usd1-billion-to-host-towns-aws-promises-30-000-home-efficiency-retrofits-amid-100-proposed-bans)
 <!-- NEWS_SECTION_END -->
 
 
