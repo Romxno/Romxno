@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [OpenAI safety leader resigns, raising governance concerns](https://cryptobriefing.com/openai-safety-leader-resigns-raising-governance-concerns/)
-- [cdk8s 2.70.109](https://pypi.org/project/cdk8s/2.70.109/)
-- [A French geologist spent 205 days underground with no clock or daylight, and his body eventually treated almost 48 hours as a single day](https://timesofindia.indiatimes.com/world/rest-of-world/a-french-geologist-spent-205-days-underground-with-no-clock-or-daylight-and-his-body-eventually-treated-almost-48-hours-as-a-single-day/articleshow/134705257.cms)
-- [AI giants targeted by scraping bots — ChatGPT and Perplexity enter the most-scraped websites list for the first time](https://www.techradar.com/pro/ai-giants-targeted-by-scraping-bots-chatgpt-and-perplexity-enter-the-most-scraped-websites-list-for-the-first-time)
-- [Amazon ends secret data center pacts and pledges $1 billion to host towns](https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-ends-secret-data-center-pacts-and-pledges-usd1-billion-to-host-towns-aws-promises-30-000-home-efficiency-retrofits-amid-100-proposed-bans)
+- [ADP National Employment Report Preliminary Estimate for September 19, 2026](https://www.prnewswire.com/news-releases/adp-national-employment-report-preliminary-estimate-for-september-19-2026-302898928.html)
+- [NFL fans question officiating after Mahomes call](https://gamedaychatter.com/nfl-fans-question-officiating-after-mahomes-call/)
+- [Eagles fans criticized over behavior after Rams loss](https://gamedaychatter.com/eagles-fans-criticized-over-behavior-after-rams-loss/)
+- [Hackers suspected of using AI agents for cyberattacks on South Korean banks, exposing data from about 25,000 customers](https://www.tomshardware.com/tech-industry/cyber-security/hackers-suspected-of-using-ai-agents-for-cyberattacks-on-south-korean-banks-exposing-data-from-about-25-000-customers-officials-believe-ai-models-enable-actors-to-hack-with-ease-even-without-specialized-skills)
+- [QuerySurge 15 Delivers Unified Environment for Data Mapping, Lineage, and Automated Validation](https://www.prnewswire.com/news-releases/querysurge-15-delivers-unified-environment-for-data-mapping-lineage-and-automated-validation-302899731.html)
 <!-- NEWS_SECTION_END -->
 
 
