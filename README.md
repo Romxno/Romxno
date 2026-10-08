@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [ADP National Employment Report Preliminary Estimate for September 19, 2026](https://www.prnewswire.com/news-releases/adp-national-employment-report-preliminary-estimate-for-september-19-2026-302898928.html)
-- [NFL fans question officiating after Mahomes call](https://gamedaychatter.com/nfl-fans-question-officiating-after-mahomes-call/)
-- [Eagles fans criticized over behavior after Rams loss](https://gamedaychatter.com/eagles-fans-criticized-over-behavior-after-rams-loss/)
-- [Hackers suspected of using AI agents for cyberattacks on South Korean banks, exposing data from about 25,000 customers](https://www.tomshardware.com/tech-industry/cyber-security/hackers-suspected-of-using-ai-agents-for-cyberattacks-on-south-korean-banks-exposing-data-from-about-25-000-customers-officials-believe-ai-models-enable-actors-to-hack-with-ease-even-without-specialized-skills)
-- [QuerySurge 15 Delivers Unified Environment for Data Mapping, Lineage, and Automated Validation](https://www.prnewswire.com/news-releases/querysurge-15-delivers-unified-environment-for-data-mapping-lineage-and-automated-validation-302899731.html)
+- [SEBI’s latest reforms for the PMS industry build upon the legacy of economic liberalisation](https://timesofindia.indiatimes.com/toi-blogs/policy-prices/sebis-latest-reforms-for-the-pms-industry-build-upon-the-legacy-of-economic-liberalisation/articleshow/134765835.cms)
+- [Billionaires like former Twitter CEO Parag Agrawal are bullish on artificial intelligence: Check options to invest in AI](https://www.livemint.com/money/billionaires-like-former-twitter-ceo-parag-agrawal-are-bullish-on-artificial-intelligence-check-options-to-invest-in-ai-11791375166143.html)
+- [Nine in 10 VMware customers eye the exit as licensing bills bite](https://www.theregister.com/virtualization/2026/10/07/nine-in-10-vmware-customers-eye-the-exit-as-licensing-bills-bite/5301591)
+- [Surfshark claims a major first by bringing full post-quantum security to WireGuard](https://www.techradar.com/vpn/vpn-services/surfshark-claims-a-major-first-by-bringing-full-post-quantum-security-to-wireguard)
+- [NGT fines Odisha chief secretary, 7 officials Rs 2L for absence in sand mining case](https://timesofindia.indiatimes.com/city/bhubaneswar/ngt-fines-odisha-chief-secretary-7-officials-rs-2l-for-absence-in-sand-mining-case/articleshow/134765992.cms)
 <!-- NEWS_SECTION_END -->
 
 
