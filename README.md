@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [SEBI’s latest reforms for the PMS industry build upon the legacy of economic liberalisation](https://timesofindia.indiatimes.com/toi-blogs/policy-prices/sebis-latest-reforms-for-the-pms-industry-build-upon-the-legacy-of-economic-liberalisation/articleshow/134765835.cms)
-- [Billionaires like former Twitter CEO Parag Agrawal are bullish on artificial intelligence: Check options to invest in AI](https://www.livemint.com/money/billionaires-like-former-twitter-ceo-parag-agrawal-are-bullish-on-artificial-intelligence-check-options-to-invest-in-ai-11791375166143.html)
-- [Nine in 10 VMware customers eye the exit as licensing bills bite](https://www.theregister.com/virtualization/2026/10/07/nine-in-10-vmware-customers-eye-the-exit-as-licensing-bills-bite/5301591)
-- [Surfshark claims a major first by bringing full post-quantum security to WireGuard](https://www.techradar.com/vpn/vpn-services/surfshark-claims-a-major-first-by-bringing-full-post-quantum-security-to-wireguard)
-- [NGT fines Odisha chief secretary, 7 officials Rs 2L for absence in sand mining case](https://timesofindia.indiatimes.com/city/bhubaneswar/ngt-fines-odisha-chief-secretary-7-officials-rs-2l-for-absence-in-sand-mining-case/articleshow/134765992.cms)
+- ["She Put Her Body on the Line": Maricarmen, 87, Dies; Her Eviction Sparked Spain Housing Protests](https://www.democracynow.org/2026/10/8/maricarmen_abascal_dies)
+- [Samsung eyes $80B quarterly profit as memory buyers pay the price](https://www.theregister.com/systems/2026/10/08/samsung-eyes-80b-quarterly-profit-as-memory-buyers-pay-the-price/5301933)
+- [Nestlé CEO says workers need more than prompting skills to use AI well](https://thenextweb.com/news/nestle-ceo-philipp-navratil-ai-skills)
+- [AMD's EPYC Verano AI host CPU will reportedly use a special SB1 socket](https://slashdot.org/firehose.pl?op=view&amp;id=186066394)
+- [Microsoft’s new Surface Laptop Ultra finally has a starting price (you should sit down)](https://www.zdnet.com/tech/microsoft-surface-laptop-ultra-preorder-starting-price/)
 <!-- NEWS_SECTION_END -->
 
 
