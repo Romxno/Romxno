@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- ["She Put Her Body on the Line": Maricarmen, 87, Dies; Her Eviction Sparked Spain Housing Protests](https://www.democracynow.org/2026/10/8/maricarmen_abascal_dies)
-- [Samsung eyes $80B quarterly profit as memory buyers pay the price](https://www.theregister.com/systems/2026/10/08/samsung-eyes-80b-quarterly-profit-as-memory-buyers-pay-the-price/5301933)
-- [Nestlé CEO says workers need more than prompting skills to use AI well](https://thenextweb.com/news/nestle-ceo-philipp-navratil-ai-skills)
-- [AMD's EPYC Verano AI host CPU will reportedly use a special SB1 socket](https://slashdot.org/firehose.pl?op=view&amp;id=186066394)
-- [Microsoft’s new Surface Laptop Ultra finally has a starting price (you should sit down)](https://www.zdnet.com/tech/microsoft-surface-laptop-ultra-preorder-starting-price/)
+- [Web Review, Week 2026-41](https://ervin.ipsquad.net/blog/2026/10/09/web-review-week-2026-41/)
+- [The Smart Display Is Becoming the Home Agent’s Face—and Four Companies Are Fighting Over What Goes Behind It](https://forkast.news/the-smart-display-is-becoming-the-home-agents-face-and-four-companies-are-fighting-over-what-goes-behind-it/)
+- [Indonesia vows to strengthen UNESCO as pillar of world peace](https://en.antaranews.com/news/434820/indonesia-vows-to-strengthen-unesco-as-pillar-of-world-peace)
+- [scc-firewall-manager-sdk 1.23.215](https://pypi.org/project/scc-firewall-manager-sdk/1.23.215/)
+- [Social Commerce Surges 457% and AI Fashion Searches Rise 44% During Christmas, Captify UK Data Reveals](https://www.exchangewire.com/blog/2026/10/09/social-commerce-surges-457-and-ai-fashion-searches-rise-44-during-christmas-captify-uk-data-reveals/)
 <!-- NEWS_SECTION_END -->
 
 
