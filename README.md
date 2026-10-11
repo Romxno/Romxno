@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Web Review, Week 2026-41](https://ervin.ipsquad.net/blog/2026/10/09/web-review-week-2026-41/)
-- [The Smart Display Is Becoming the Home Agent’s Face—and Four Companies Are Fighting Over What Goes Behind It](https://forkast.news/the-smart-display-is-becoming-the-home-agents-face-and-four-companies-are-fighting-over-what-goes-behind-it/)
-- [Indonesia vows to strengthen UNESCO as pillar of world peace](https://en.antaranews.com/news/434820/indonesia-vows-to-strengthen-unesco-as-pillar-of-world-peace)
-- [scc-firewall-manager-sdk 1.23.215](https://pypi.org/project/scc-firewall-manager-sdk/1.23.215/)
-- [Social Commerce Surges 457% and AI Fashion Searches Rise 44% During Christmas, Captify UK Data Reveals](https://www.exchangewire.com/blog/2026/10/09/social-commerce-surges-457-and-ai-fashion-searches-rise-44-during-christmas-captify-uk-data-reveals/)
+- [kern-sandbox 0.2.46](https://pypi.org/project/kern-sandbox/0.2.46/)
+- [agentic-devtools 0.2.530](https://pypi.org/project/agentic-devtools/0.2.530/)
+- [India entering tech transformation era with AI advances: AEC chief](https://www.business-standard.com/technology/artificial-intelligence/india-entering-tech-transformation-era-with-ai-advances-aec-chief-126101000543_1.html)
+- [Copyright key to journalism's sustainability: Law Minister](https://en.antaranews.com/news/434924/copyright-key-to-journalisms-sustainability-law-minister)
+- [Ex-OpenAI safety lead David Robinson warns of 'broken' tech culture](https://www.npr.org/2026/10/10/nx-s1-5992872/ex-openai-safety-lead-david-robinson-warns-of-broken-tech-culture)
 <!-- NEWS_SECTION_END -->
 
 
