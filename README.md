@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [kern-sandbox 0.2.46](https://pypi.org/project/kern-sandbox/0.2.46/)
-- [agentic-devtools 0.2.530](https://pypi.org/project/agentic-devtools/0.2.530/)
-- [India entering tech transformation era with AI advances: AEC chief](https://www.business-standard.com/technology/artificial-intelligence/india-entering-tech-transformation-era-with-ai-advances-aec-chief-126101000543_1.html)
-- [Copyright key to journalism's sustainability: Law Minister](https://en.antaranews.com/news/434924/copyright-key-to-journalisms-sustainability-law-minister)
-- [Ex-OpenAI safety lead David Robinson warns of 'broken' tech culture](https://www.npr.org/2026/10/10/nx-s1-5992872/ex-openai-safety-lead-david-robinson-warns-of-broken-tech-culture)
+- [Traditional IT growth to taper as AI takes centre stage: TCS CEO](https://www.thehindubusinessline.com/info-tech/traditional-it-growth-to-taper-as-ai-takes-centre-stage-tcs-ceo/article71571793.ece)
+- [Kimberly Guilfoyle’s Grifting Scandal Keeps Getting Worse](https://www.motherjones.com/politics/2026/10/kimberly-guilfoyles-grifting-scandal-keeps-getting-worse/)
+- [ai-agentbox added to PyPI](https://pypi.org/project/ai-agentbox/)
+- [ai-agentbox 0.1.1](https://pypi.org/project/ai-agentbox/0.1.1/)
+- [novi-model-jobs added to PyPI](https://pypi.org/project/novi-model-jobs/)
 <!-- NEWS_SECTION_END -->
 
 
