@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Traditional IT growth to taper as AI takes centre stage: TCS CEO](https://www.thehindubusinessline.com/info-tech/traditional-it-growth-to-taper-as-ai-takes-centre-stage-tcs-ceo/article71571793.ece)
-- [Kimberly Guilfoyle’s Grifting Scandal Keeps Getting Worse](https://www.motherjones.com/politics/2026/10/kimberly-guilfoyles-grifting-scandal-keeps-getting-worse/)
-- [ai-agentbox added to PyPI](https://pypi.org/project/ai-agentbox/)
-- [ai-agentbox 0.1.1](https://pypi.org/project/ai-agentbox/0.1.1/)
-- [novi-model-jobs added to PyPI](https://pypi.org/project/novi-model-jobs/)
+- [Contracted Capacity Becomes Key Metric for AI Infrastructure Investors to Watch](https://financialpost.com/globe-newswire/contracted-capacity-becomes-key-metric-for-ai-infrastructure-investors-to-watch)
+- [Conservation of Human Value](https://www.psychologytoday.com/us/blog/incompetence/202610/conservation-of-human-value)
+- [Frankfurter Buchmesse 2026: New Frankfurt Chief Has Ideas (Plan to Come)](https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-new-frankfurt-chief-has-ideas-plan-to-come/)
+- [Meltwater launches brand campaign “Intelligence is Always in Style” starring Kim Cattrall](https://financialpost.com/globe-newswire/meltwater-launches-brand-campaign-intelligence-is-always-in-style-starring-kim-cattrall)
+- [Microsoft unveils Maia 300 AI chip to reduce reliance on Nvidia](https://cryptobriefing.com/microsoft-maia-300-ai-chip-nvidia/)
 <!-- NEWS_SECTION_END -->
 
 
