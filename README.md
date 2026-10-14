@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Contracted Capacity Becomes Key Metric for AI Infrastructure Investors to Watch](https://financialpost.com/globe-newswire/contracted-capacity-becomes-key-metric-for-ai-infrastructure-investors-to-watch)
-- [Conservation of Human Value](https://www.psychologytoday.com/us/blog/incompetence/202610/conservation-of-human-value)
-- [Frankfurter Buchmesse 2026: New Frankfurt Chief Has Ideas (Plan to Come)](https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-new-frankfurt-chief-has-ideas-plan-to-come/)
-- [Meltwater launches brand campaign “Intelligence is Always in Style” starring Kim Cattrall](https://financialpost.com/globe-newswire/meltwater-launches-brand-campaign-intelligence-is-always-in-style-starring-kim-cattrall)
-- [Microsoft unveils Maia 300 AI chip to reduce reliance on Nvidia](https://cryptobriefing.com/microsoft-maia-300-ai-chip-nvidia/)
+- [lithovox-exports added to PyPI](https://pypi.org/project/lithovox-exports/)
+- [Apple's best defense in the AI race could be winning your home](https://www.businessinsider.com/apple-welcome-home-event-new-smart-home-devices-unveiled-2026-10#article)
+- [Live updates: Bitcoin whipsaws between $81,000 and $84,000 as altcoins slide](https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide)
+- [zim-pro 0.4.0](https://pypi.org/project/zim-pro/0.4.0/)
+- [Wells Fargo profit rises on robust loan growth](https://www.rte.ie/news/business/2026/1013/1595200-wells-fargo-quarterly-results/)
 <!-- NEWS_SECTION_END -->
 
 
