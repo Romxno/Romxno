@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [lithovox-exports added to PyPI](https://pypi.org/project/lithovox-exports/)
-- [Apple's best defense in the AI race could be winning your home](https://www.businessinsider.com/apple-welcome-home-event-new-smart-home-devices-unveiled-2026-10#article)
-- [Live updates: Bitcoin whipsaws between $81,000 and $84,000 as altcoins slide](https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide)
-- [zim-pro 0.4.0](https://pypi.org/project/zim-pro/0.4.0/)
-- [Wells Fargo profit rises on robust loan growth](https://www.rte.ie/news/business/2026/1013/1595200-wells-fargo-quarterly-results/)
+- [shvgroups-veto 1.0.0](https://pypi.org/project/shvgroups-veto/1.0.0/)
+- [shvgroups-veto added to PyPI](https://pypi.org/project/shvgroups-veto/)
+- [KPMG tech and data boss tells staff facing the boot he's getting promoted](https://www.theregister.com/channel/2026/10/14/kpmg-tech-and-data-boss-tells-staff-facing-the-boot-hes-getting-promoted/5302761)
+- [Most small businesses aren't reviewing their own AI usage properly](https://www.techradar.com/pro/most-small-businesses-arent-reviewing-their-own-ai-usage-properly)
+- [I spent years running AmeriCorps. The best job training in America isn’t happening in the classroom](https://fortune.com/2026/10/14/michael-d-smith-americorps-eckerd-ai-job-training/)
 <!-- NEWS_SECTION_END -->
 
 
