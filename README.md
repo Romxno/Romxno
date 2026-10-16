@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [shvgroups-veto 1.0.0](https://pypi.org/project/shvgroups-veto/1.0.0/)
-- [shvgroups-veto added to PyPI](https://pypi.org/project/shvgroups-veto/)
-- [KPMG tech and data boss tells staff facing the boot he's getting promoted](https://www.theregister.com/channel/2026/10/14/kpmg-tech-and-data-boss-tells-staff-facing-the-boot-hes-getting-promoted/5302761)
-- [Most small businesses aren't reviewing their own AI usage properly](https://www.techradar.com/pro/most-small-businesses-arent-reviewing-their-own-ai-usage-properly)
-- [I spent years running AmeriCorps. The best job training in America isn’t happening in the classroom](https://fortune.com/2026/10/14/michael-d-smith-americorps-eckerd-ai-job-training/)
+- [unlimited 0.1.53](https://pypi.org/project/unlimited/0.1.53/)
+- [Five types of disinformation – and how to spot red flags that trigger climate inaction](https://theconversation.com/five-types-of-disinformation-and-how-to-spot-red-flags-that-trigger-climate-inaction-278588)
+- [BlackRock CEO warns US data center ban could trigger recession](https://cryptobriefing.com/blackrock-ceo-warns-us-data-center-ban-could-trigger-recession/)
+- [Live updates: Bitcoin back under $81,000 as AI selloff worsens](https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens)
+- [Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies](https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/)
 <!-- NEWS_SECTION_END -->
 
 
