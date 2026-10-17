@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [unlimited 0.1.53](https://pypi.org/project/unlimited/0.1.53/)
-- [Five types of disinformation – and how to spot red flags that trigger climate inaction](https://theconversation.com/five-types-of-disinformation-and-how-to-spot-red-flags-that-trigger-climate-inaction-278588)
-- [BlackRock CEO warns US data center ban could trigger recession](https://cryptobriefing.com/blackrock-ceo-warns-us-data-center-ban-could-trigger-recession/)
-- [Live updates: Bitcoin back under $81,000 as AI selloff worsens](https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens)
-- [Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies](https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/)
+- [Easy Voice Spellcasting / Voice Commands by ClemCa](https://assetstore.unity.com/packages/tools/utilities/easy-voice-spellcasting-voice-commands-407436)
+- [The case for CEOs who can laugh at themselves](https://fortune.com/2026/10/16/mark-zuckerberg-guinness-ceos-laugh-at-themselves/)
+- [Cornerstone Ventures eyes $250 million third fund in 2027](https://www.livemint.com/companies/cornerstone-ventures-eyes-250-million-third-fund-in-2027-11792125577501.html)
+- [How to lower Android™ development costs by removing hardware from the critical path](https://ubuntu.com/blog/lower-android-development-cost)
+- [pipelex 0.87.0](https://pypi.org/project/pipelex/0.87.0/)
 <!-- NEWS_SECTION_END -->
 
 
