@@ -1,10 +1,9 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Easy Voice Spellcasting / Voice Commands by ClemCa](https://assetstore.unity.com/packages/tools/utilities/easy-voice-spellcasting-voice-commands-407436)
-- [The case for CEOs who can laugh at themselves](https://fortune.com/2026/10/16/mark-zuckerberg-guinness-ceos-laugh-at-themselves/)
-- [Cornerstone Ventures eyes $250 million third fund in 2027](https://www.livemint.com/companies/cornerstone-ventures-eyes-250-million-third-fund-in-2027-11792125577501.html)
-- [How to lower Android™ development costs by removing hardware from the critical path](https://ubuntu.com/blog/lower-android-development-cost)
-- [pipelex 0.87.0](https://pypi.org/project/pipelex/0.87.0/)
+- [adversary-gate 3.0.10](https://pypi.org/project/adversary-gate/3.0.10/)
+- [eudr-compliance-agent 1.9.0](https://pypi.org/project/eudr-compliance-agent/1.9.0/)
+- ['No Kings' foot soldiers ignore organizers' warning, go all in for Democrats](https://www.foxnews.com/politics/no-kings-says-dont-partisan-politics-300-groups-protest-network-organizers-say-vote-blue)
+- [Ohio State football at Indiana live updates, score, highlights, stats](https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/)
 <!-- NEWS_SECTION_END -->
 
 
