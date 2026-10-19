@@ -1,9 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [adversary-gate 3.0.10](https://pypi.org/project/adversary-gate/3.0.10/)
-- [eudr-compliance-agent 1.9.0](https://pypi.org/project/eudr-compliance-agent/1.9.0/)
-- ['No Kings' foot soldiers ignore organizers' warning, go all in for Democrats](https://www.foxnews.com/politics/no-kings-says-dont-partisan-politics-300-groups-protest-network-organizers-say-vote-blue)
-- [Ohio State football at Indiana live updates, score, highlights, stats](https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/)
+- ['How many canaries have we killed in the coal mine?' — Wall Street debates if the latest AI bubble warnings are another head fake or the real thing](https://biztoc.com/x/40830034be544bc7)
+- [Is AI Growth Slowing Down? Memory Industry Expert Says It's 'Too Early' To Tell](https://biztoc.com/x/378166617309925b)
+- [wavoice 0.3.2](https://pypi.org/project/wavoice/0.3.2/)
+- [3 UK Grid Stocks Retail Investors Are Watching for AI Data Centre Power](https://biztoc.com/x/0d71c3dd613e0575)
+- [arena-bridge 0.7.8](https://pypi.org/project/arena-bridge/0.7.8/)
 <!-- NEWS_SECTION_END -->
 
 
