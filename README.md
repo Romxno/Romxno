@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- ['How many canaries have we killed in the coal mine?' — Wall Street debates if the latest AI bubble warnings are another head fake or the real thing](https://biztoc.com/x/40830034be544bc7)
-- [Is AI Growth Slowing Down? Memory Industry Expert Says It's 'Too Early' To Tell](https://biztoc.com/x/378166617309925b)
-- [wavoice 0.3.2](https://pypi.org/project/wavoice/0.3.2/)
-- [3 UK Grid Stocks Retail Investors Are Watching for AI Data Centre Power](https://biztoc.com/x/0d71c3dd613e0575)
-- [arena-bridge 0.7.8](https://pypi.org/project/arena-bridge/0.7.8/)
+- [You would not use a Ferrari for the school run. Why are you doing it for AI?](https://www.techradar.com/pro/you-would-not-use-a-ferrari-for-the-school-run-why-are-you-doing-it-for-ai)
+- [She won a beauty pageant in 2017 but chose the Army over an international opportunity; Major Garima Yadav became the first woman Army officer to serve as ADC to the UP Governor](https://timesofindia.indiatimes.com/education/news/she-won-a-beauty-pageant-in-2017-but-chose-the-army-over-an-international-opportunity-major-garima-yadav-became-the-first-woman-army-officer-to-serve-as-adc-to-the-up-governor/articleshow/135042394.cms)
+- [langchain-oneshot 0.22.0](https://pypi.org/project/langchain-oneshot/0.22.0/)
+- [game-plugin-oneshot 0.21.0](https://pypi.org/project/game-plugin-oneshot/0.21.0/)
+- [Guerre en Ukraine : l'invasion russe a laissé des milliers d'enfants ukrainiens bloqués en Russie (Anglais)](https://meduza.io/en/feature/2026/10/19/russia-s-invasion-left-thousands-of-ukrainian-children-stranded-in-russia-for-one-12-year-old-girl-the-only-way-out-of-her-occupied-village-led-away-from-her-mother)
 <!-- NEWS_SECTION_END -->
 
 
