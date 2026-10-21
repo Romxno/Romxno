@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [You would not use a Ferrari for the school run. Why are you doing it for AI?](https://www.techradar.com/pro/you-would-not-use-a-ferrari-for-the-school-run-why-are-you-doing-it-for-ai)
-- [She won a beauty pageant in 2017 but chose the Army over an international opportunity; Major Garima Yadav became the first woman Army officer to serve as ADC to the UP Governor](https://timesofindia.indiatimes.com/education/news/she-won-a-beauty-pageant-in-2017-but-chose-the-army-over-an-international-opportunity-major-garima-yadav-became-the-first-woman-army-officer-to-serve-as-adc-to-the-up-governor/articleshow/135042394.cms)
-- [langchain-oneshot 0.22.0](https://pypi.org/project/langchain-oneshot/0.22.0/)
-- [game-plugin-oneshot 0.21.0](https://pypi.org/project/game-plugin-oneshot/0.21.0/)
-- [Guerre en Ukraine : l'invasion russe a laissé des milliers d'enfants ukrainiens bloqués en Russie (Anglais)](https://meduza.io/en/feature/2026/10/19/russia-s-invasion-left-thousands-of-ukrainian-children-stranded-in-russia-for-one-12-year-old-girl-the-only-way-out-of-her-occupied-village-led-away-from-her-mother)
+- [pulumi-mongodbatlas 4.18.0a1792492170](https://pypi.org/project/pulumi-mongodbatlas/4.18.0a1792492170/)
+- ['They chose Canada': Alberta rejects separation bid in win for Carney](https://timesofindia.indiatimes.com/world/rest-of-world/they-chose-canada-alberta-rejects-separation-bid-in-win-for-carney/articleshow/135067820.cms)
+- [Orlando Digital Marketing Agency | SEO, AI Search & Ads | Web Strategy Plus](https://webstrategyplus.com/locations/orlando)
+- [mayi 0.2.1](https://pypi.org/project/mayi/0.2.1/)
+- [We’re Teaching Kids to Read. Are We Teaching Them to Think?](https://www.gettingsmart.com/2026/10/20/were-teaching-kids-to-read-are-we-teaching-them-to-think/)
 <!-- NEWS_SECTION_END -->
 
 
