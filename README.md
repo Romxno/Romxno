@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [pulumi-mongodbatlas 4.18.0a1792492170](https://pypi.org/project/pulumi-mongodbatlas/4.18.0a1792492170/)
-- ['They chose Canada': Alberta rejects separation bid in win for Carney](https://timesofindia.indiatimes.com/world/rest-of-world/they-chose-canada-alberta-rejects-separation-bid-in-win-for-carney/articleshow/135067820.cms)
-- [Orlando Digital Marketing Agency | SEO, AI Search & Ads | Web Strategy Plus](https://webstrategyplus.com/locations/orlando)
-- [mayi 0.2.1](https://pypi.org/project/mayi/0.2.1/)
-- [We’re Teaching Kids to Read. Are We Teaching Them to Think?](https://www.gettingsmart.com/2026/10/20/were-teaching-kids-to-read-are-we-teaching-them-to-think/)
+- [nextcloud-mcp-server 0.200.4](https://pypi.org/project/nextcloud-mcp-server/0.200.4/)
+- [onetrace-explain added to PyPI](https://pypi.org/project/onetrace-explain/)
+- [HIPAA Still Treats Healthcare AI Like Ordinary IT. That Is the Risk.](https://cloudtweaks.com/2026/10/hipaa-still-treats-healthcare-ai-like-ordinary-risk/)
+- [Indonesia positions artificial intelligence as new growth engine](https://en.antaranews.com/news/437057/indonesia-positions-artificial-intelligence-as-new-growth-engine)
+- [aiperf 0.13.0.dev20261021](https://pypi.org/project/aiperf/0.13.0.dev20261021/)
 <!-- NEWS_SECTION_END -->
 
 
