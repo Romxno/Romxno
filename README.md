@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [nextcloud-mcp-server 0.200.4](https://pypi.org/project/nextcloud-mcp-server/0.200.4/)
-- [onetrace-explain added to PyPI](https://pypi.org/project/onetrace-explain/)
-- [HIPAA Still Treats Healthcare AI Like Ordinary IT. That Is the Risk.](https://cloudtweaks.com/2026/10/hipaa-still-treats-healthcare-ai-like-ordinary-risk/)
-- [Indonesia positions artificial intelligence as new growth engine](https://en.antaranews.com/news/437057/indonesia-positions-artificial-intelligence-as-new-growth-engine)
-- [aiperf 0.13.0.dev20261021](https://pypi.org/project/aiperf/0.13.0.dev20261021/)
+- [Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls](https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls)
+- [China's AI leader DeepSeek raises $15B](https://biztoc.com/x/afa889b01f6b18e0)
+- [The surprising popularity of AI](https://biztoc.com/x/3bbc9b334c7684aa)
+- [AI Could Bring Clinical Trials to Rural America](https://biztoc.com/x/2ffe6bf0857c2880)
+- [Morgan Stanley says these 24 AI infrastructure stocks are built to hold up even if capex slows](https://biztoc.com/x/3fd772c0e81a0f67)
 <!-- NEWS_SECTION_END -->
 
 
