@@ -1,10 +1,8 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [2027: Police promise adequate security in Plateau](https://punchng.com/2027-police-promise-adequate-security-in-plateau/)
-- [India smartphone shipments fall to decadal low as prices squeeze demand](https://economictimes.indiatimes.com/industry/cons-products/electronics/india-smartphone-shipments-fall-to-decadal-low-as-prices-squeeze-demand/articleshow/135142054.cms)
-- [Chain Reactions Africa Secures Six ICCO Global Awards Nominations, Sole Nigerian Consultancy on Shortlist](https://punchng.com/chain-reactions-africa-secures-six-icco-global-awards-nominations-sole-nigerian-consultancy-on-shortlist/)
-- [I'm a CTO who was awake for 48 hours because of the PHP crisis. October feels like the month of hell for tech.](https://www.businessinsider.com/php-vulnerability-cto-stress-cybersecurity-fix-2026-10#article)
-- [PlanetiQ Expands GNSS-RO Coverage with Second Satellite Launch This Month](https://www.prnewswire.com/news-releases/planetiq-expands-gnss-ro-coverage-with-second-satellite-launch-this-month-302916069.html)
+- [Offline Password Manager](https://android.giveawayoftheday.com/offline-password-manager/)
+- [Adani Wind bags 696 MW turbine orders from 5 power producers, targets 10 GW capacity](https://economictimes.indiatimes.com/industry/renewables/adani-wind-bags-696-mw-turbine-orders-from-5-power-producers-targets-10-gw-capacity/articleshow/135167621.cms)
+- [Ukraine says Starlink, Starshield connections return to normal speeds after weeklong disruption](https://timesofindia.indiatimes.com/world/europe/ukraine-says-starlink-starshield-connections-return-to-normal-speeds-after-weeklong-disruption/articleshow/135167729.cms)
 <!-- NEWS_SECTION_END -->
 
 
