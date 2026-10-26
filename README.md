@@ -1,8 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Offline Password Manager](https://android.giveawayoftheday.com/offline-password-manager/)
-- [Adani Wind bags 696 MW turbine orders from 5 power producers, targets 10 GW capacity](https://economictimes.indiatimes.com/industry/renewables/adani-wind-bags-696-mw-turbine-orders-from-5-power-producers-targets-10-gw-capacity/articleshow/135167621.cms)
-- [Ukraine says Starlink, Starshield connections return to normal speeds after weeklong disruption](https://timesofindia.indiatimes.com/world/europe/ukraine-says-starlink-starshield-connections-return-to-normal-speeds-after-weeklong-disruption/articleshow/135167729.cms)
+- [shadow-vault 0.3.0](https://pypi.org/project/shadow-vault/0.3.0/)
+- [shadow-vault added to PyPI](https://pypi.org/project/shadow-vault/)
+- [myorb 0.18.1](https://pypi.org/project/myorb/0.18.1/)
+- [callin 0.1.0](https://pypi.org/project/callin/0.1.0/)
+- [callin added to PyPI](https://pypi.org/project/callin/)
 <!-- NEWS_SECTION_END -->
 
 
