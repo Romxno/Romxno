@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [shadow-vault 0.3.0](https://pypi.org/project/shadow-vault/0.3.0/)
-- [shadow-vault added to PyPI](https://pypi.org/project/shadow-vault/)
-- [myorb 0.18.1](https://pypi.org/project/myorb/0.18.1/)
-- [callin 0.1.0](https://pypi.org/project/callin/0.1.0/)
-- [callin added to PyPI](https://pypi.org/project/callin/)
+- [Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle](https://slashdot.org/firehose.pl?op=view&amp;id=186460192)
+- [tg-signer-plus 1.0.74](https://pypi.org/project/tg-signer-plus/1.0.74/)
+- [django-ag-ui 0.70.0](https://pypi.org/project/django-ag-ui/0.70.0/)
+- [Two swept away at Datam Patam waterfall, bodies recovered](https://timesofindia.indiatimes.com/city/ranchi/two-swept-away-at-datam-patam-waterfall-bodies-recovered/articleshow/135210309.cms)
+- [Sensex today | Stock Market Highlights: Stock markets rebound after 4-day slump; Sensex jumps 483 points](https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-26-october-2026/article71622964.ece)
 <!-- NEWS_SECTION_END -->
 
 
