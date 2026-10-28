@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle](https://slashdot.org/firehose.pl?op=view&amp;id=186460192)
-- [tg-signer-plus 1.0.74](https://pypi.org/project/tg-signer-plus/1.0.74/)
-- [django-ag-ui 0.70.0](https://pypi.org/project/django-ag-ui/0.70.0/)
-- [Two swept away at Datam Patam waterfall, bodies recovered](https://timesofindia.indiatimes.com/city/ranchi/two-swept-away-at-datam-patam-waterfall-bodies-recovered/articleshow/135210309.cms)
-- [Sensex today | Stock Market Highlights: Stock markets rebound after 4-day slump; Sensex jumps 483 points](https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-26-october-2026/article71622964.ece)
+- [Cop among 2 hurt as liquor smugglers attack police team](https://timesofindia.indiatimes.com/city/patna/cop-among-2-hurt-as-liquor-smugglers-attack-police-team/articleshow/135233084.cms)
+- [OT Security Still Buys Visibility. Plants Need Consequence Control](https://cloudtweaks.com/2026/10/ot-security-still-buys-visibility-plants-need-consequence-control/)
+- [Why This Team of Ninjas Is Tripling Down on Mining Bitcoin](https://decrypt.co/381906/why-this-team-of-ninjas-is-tripling-down-on-mining-bitcoin)
+- [A Pennsylvania tire-shop worker turned discarded rubber into a prize-winning parade lion, then built an eight-foot, 700-pound fire-breathing dragon that won first prize and became a roadside attraction](https://timesofindia.indiatimes.com/world/us/a-pennsylvania-tire-shop-worker-turned-discarded-rubber-into-a-prize-winning-parade-lion-then-built-an-eight-foot-700-pound-fire-breathing-dragon-that-won-first-prize-and-became-a-roadside-attraction/articleshow/135219263.cms)
+- [In 2023, Nina Dobrev and Shaun White bought a $4.3 million Hollywood Hills home and began renovating it; after their engagement ended in 2025, the house was reportedly offered for rent at $35,000 a month](https://timesofindia.indiatimes.com/real-estate/news/in-2023-nina-dobrev-and-shaun-white-bought-a-4-3-million-hollywood-hills-home-and-began-renovating-it-after-their-engagement-ended-in-2025-the-house-was-reportedly-offered-for-rent-at-35000-a-month/articleshow/135231732.cms)
 <!-- NEWS_SECTION_END -->
 
 
