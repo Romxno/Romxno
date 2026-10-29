@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Cop among 2 hurt as liquor smugglers attack police team](https://timesofindia.indiatimes.com/city/patna/cop-among-2-hurt-as-liquor-smugglers-attack-police-team/articleshow/135233084.cms)
-- [OT Security Still Buys Visibility. Plants Need Consequence Control](https://cloudtweaks.com/2026/10/ot-security-still-buys-visibility-plants-need-consequence-control/)
-- [Why This Team of Ninjas Is Tripling Down on Mining Bitcoin](https://decrypt.co/381906/why-this-team-of-ninjas-is-tripling-down-on-mining-bitcoin)
-- [A Pennsylvania tire-shop worker turned discarded rubber into a prize-winning parade lion, then built an eight-foot, 700-pound fire-breathing dragon that won first prize and became a roadside attraction](https://timesofindia.indiatimes.com/world/us/a-pennsylvania-tire-shop-worker-turned-discarded-rubber-into-a-prize-winning-parade-lion-then-built-an-eight-foot-700-pound-fire-breathing-dragon-that-won-first-prize-and-became-a-roadside-attraction/articleshow/135219263.cms)
-- [In 2023, Nina Dobrev and Shaun White bought a $4.3 million Hollywood Hills home and began renovating it; after their engagement ended in 2025, the house was reportedly offered for rent at $35,000 a month](https://timesofindia.indiatimes.com/real-estate/news/in-2023-nina-dobrev-and-shaun-white-bought-a-4-3-million-hollywood-hills-home-and-began-renovating-it-after-their-engagement-ended-in-2025-the-house-was-reportedly-offered-for-rent-at-35000-a-month/articleshow/135231732.cms)
+- [agentic-devtools 0.2.645](https://pypi.org/project/agentic-devtools/0.2.645/)
+- [mechvane 0.1.0a3](https://pypi.org/project/mechvane/0.1.0a3/)
+- [123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus](https://slashdot.org/firehose.pl?op=view&amp;id=186483406)
+- [ego-webqa 0.2.1](https://pypi.org/project/ego-webqa/0.2.1/)
+- [Acer Predator Atlas 8 tested: Asus ROG Xbox Ally X20 stands no chance despite same price](https://www.notebookcheck.net/Acer-Predator-Atlas-8-tested-Asus-ROG-Xbox-Ally-X20-stands-no-chance-despite-same-price.1435067.0.html)
 <!-- NEWS_SECTION_END -->
 
 
