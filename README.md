@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [agentic-devtools 0.2.645](https://pypi.org/project/agentic-devtools/0.2.645/)
-- [mechvane 0.1.0a3](https://pypi.org/project/mechvane/0.1.0a3/)
-- [123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus](https://slashdot.org/firehose.pl?op=view&amp;id=186483406)
-- [ego-webqa 0.2.1](https://pypi.org/project/ego-webqa/0.2.1/)
-- [Acer Predator Atlas 8 tested: Asus ROG Xbox Ally X20 stands no chance despite same price](https://www.notebookcheck.net/Acer-Predator-Atlas-8-tested-Asus-ROG-Xbox-Ally-X20-stands-no-chance-despite-same-price.1435067.0.html)
+- [nemo-agent-toolkit-hol-guard added to PyPI](https://pypi.org/project/nemo-agent-toolkit-hol-guard/)
+- [In 2026, a Massachusetts woman skied 700 miles to the South Pole alone, without support; she finished the frozen crossing in exactly 57 days](https://timesofindia.indiatimes.com/world/us/in-2026-a-massachusetts-woman-skied-700-miles-to-the-south-pole-alone-without-support-she-finished-the-frozen-crossing-in-exactly-57-days/articleshow/135298251.cms)
+- [adriane-ai 2.8.0](https://pypi.org/project/adriane-ai/2.8.0/)
+- [auditrail 0.3.2](https://pypi.org/project/auditrail/0.3.2/)
+- [scc-firewall-manager-sdk 1.23.536](https://pypi.org/project/scc-firewall-manager-sdk/1.23.536/)
 <!-- NEWS_SECTION_END -->
 
 
