@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [nemo-agent-toolkit-hol-guard added to PyPI](https://pypi.org/project/nemo-agent-toolkit-hol-guard/)
-- [In 2026, a Massachusetts woman skied 700 miles to the South Pole alone, without support; she finished the frozen crossing in exactly 57 days](https://timesofindia.indiatimes.com/world/us/in-2026-a-massachusetts-woman-skied-700-miles-to-the-south-pole-alone-without-support-she-finished-the-frozen-crossing-in-exactly-57-days/articleshow/135298251.cms)
-- [adriane-ai 2.8.0](https://pypi.org/project/adriane-ai/2.8.0/)
-- [auditrail 0.3.2](https://pypi.org/project/auditrail/0.3.2/)
-- [scc-firewall-manager-sdk 1.23.536](https://pypi.org/project/scc-firewall-manager-sdk/1.23.536/)
+- [Text-to-cad](https://www.texttocad.dev)
+- [jobstate 0.4.2](https://pypi.org/project/jobstate/0.4.2/)
+- [Binance flags 'potential security issue,' says approximately $6.3 billion impacted](https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue)
+- [imperal-mcp 0.8.13](https://pypi.org/project/imperal-mcp/0.8.13/)
+- [shipmill 0.99.0](https://pypi.org/project/shipmill/0.99.0/)
 <!-- NEWS_SECTION_END -->
 
 
