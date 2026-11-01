@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Text-to-cad](https://www.texttocad.dev)
-- [jobstate 0.4.2](https://pypi.org/project/jobstate/0.4.2/)
-- [Binance flags 'potential security issue,' says approximately $6.3 billion impacted](https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue)
-- [imperal-mcp 0.8.13](https://pypi.org/project/imperal-mcp/0.8.13/)
-- [shipmill 0.99.0](https://pypi.org/project/shipmill/0.99.0/)
+- [Startup uses AI agent to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig](https://slashdot.org/firehose.pl?op=view&amp;id=186527188)
+- [o41-checkpoint 0.1.0](https://pypi.org/project/o41-checkpoint/)
+- [ske-bridge added to PyPI](https://pypi.org/project/ske-bridge/)
+- [Bose Sport Open Earbuds Review - CNET](https://www.cnet.com/tech/mobile/bose-sport-open-earbuds-review-2/)
+- [poa-agent-kit 0.2.26](https://pypi.org/project/poa-agent-kit/0.2.26/)
 <!-- NEWS_SECTION_END -->
 
 
