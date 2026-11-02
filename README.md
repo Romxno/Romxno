@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Startup uses AI agent to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig](https://slashdot.org/firehose.pl?op=view&amp;id=186527188)
-- [o41-checkpoint 0.1.0](https://pypi.org/project/o41-checkpoint/)
-- [ske-bridge added to PyPI](https://pypi.org/project/ske-bridge/)
-- [Bose Sport Open Earbuds Review - CNET](https://www.cnet.com/tech/mobile/bose-sport-open-earbuds-review-2/)
-- [poa-agent-kit 0.2.26](https://pypi.org/project/poa-agent-kit/0.2.26/)
+- [HomePod Mini 2 first look: Three things I love and one disappointment](https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker)
+- [aioli-cli 0.4.0](https://pypi.org/project/aioli-cli/0.4.0/)
+- [uro-core 0.12.0](https://pypi.org/project/uro-core/0.12.0/)
+- [How to Shoot and Edit a Giant Moonrise Behind a Landmark](https://fstoppers.com/education/how-shoot-and-edit-giant-moonrise-behind-landmark-905323)
+- [Trump Living in Alternate World of AI Slop, Insiders Say](https://futurism.com/artificial-intelligence/trump-alternate-world-ai-slop)
 <!-- NEWS_SECTION_END -->
 
 
