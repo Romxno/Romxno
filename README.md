@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [HomePod Mini 2 first look: Three things I love and one disappointment](https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker)
-- [aioli-cli 0.4.0](https://pypi.org/project/aioli-cli/0.4.0/)
-- [uro-core 0.12.0](https://pypi.org/project/uro-core/0.12.0/)
-- [How to Shoot and Edit a Giant Moonrise Behind a Landmark](https://fstoppers.com/education/how-shoot-and-edit-giant-moonrise-behind-landmark-905323)
-- [Trump Living in Alternate World of AI Slop, Insiders Say](https://futurism.com/artificial-intelligence/trump-alternate-world-ai-slop)
+- [Why investors are dumping tech stocks, in one image](https://biztoc.com/x/991c3ee9f9ae366d)
+- [US Stock Market Live Updates: US stock futures rise as AI stocks stabilise; midterm elections and earnings in focus](https://m.economictimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-us-midterm-elections-ai-stocks-tech-stocks-openai-anthropic-intel-amd-apple-alphabet-spacex-earnings-oil-prices-treasury-yields-news-2nd-november-2026/liveblog/135463461.cms)
+- [South Park Season 29 Just Found The Funniest Replacement For Kenny](https://www.slashfilm.com/2303647/south-park-season-29-kenny-funniest-replacement-randy-marsh/)
+- [Stop counting tokens, start counting what ships](https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/)
+- [NVDA stock rally: Analysts Predict Quick Gains Ahead](https://blogdoandroid.com/nvda-stock-rally/)
 <!-- NEWS_SECTION_END -->
 
 
