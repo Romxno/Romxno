@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Why investors are dumping tech stocks, in one image](https://biztoc.com/x/991c3ee9f9ae366d)
-- [US Stock Market Live Updates: US stock futures rise as AI stocks stabilise; midterm elections and earnings in focus](https://m.economictimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-us-midterm-elections-ai-stocks-tech-stocks-openai-anthropic-intel-amd-apple-alphabet-spacex-earnings-oil-prices-treasury-yields-news-2nd-november-2026/liveblog/135463461.cms)
-- [South Park Season 29 Just Found The Funniest Replacement For Kenny](https://www.slashfilm.com/2303647/south-park-season-29-kenny-funniest-replacement-randy-marsh/)
-- [Stop counting tokens, start counting what ships](https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/)
-- [NVDA stock rally: Analysts Predict Quick Gains Ahead](https://blogdoandroid.com/nvda-stock-rally/)
+- [Apple India’s record sales; Giva’s $100 million fundraise](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/apple-indias-record-sales-givas-100-million-fundraise/articleshow/135500613.cms)
+- [Land of Never #5 Preview: No Parental Controls Installed](https://bleedingcool.com/comics/land-of-never-5-preview-no-parental-controls-installed/)
+- [The U.S. Midterms Were Once Again Flooded By Fake ‘Pink Slime’ Local Newspaper Propaganda](http://www.techdirt.com/2026/11/03/the-u-s-midterms-were-once-again-flooded-by-fake-pink-slime-local-newspaper-propaganda/)
+- [Penguin Solutions 13D filing reveals SK hynix acquires $377M stake](https://cryptobriefing.com/sk-hynix-acquires-377m-penguin-solutions-stake/)
+- [listriver-mcp added to PyPI](https://pypi.org/project/listriver-mcp/)
 <!-- NEWS_SECTION_END -->
 
 
