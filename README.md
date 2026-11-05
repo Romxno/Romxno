@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Apple India’s record sales; Giva’s $100 million fundraise](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/apple-indias-record-sales-givas-100-million-fundraise/articleshow/135500613.cms)
-- [Land of Never #5 Preview: No Parental Controls Installed](https://bleedingcool.com/comics/land-of-never-5-preview-no-parental-controls-installed/)
-- [The U.S. Midterms Were Once Again Flooded By Fake ‘Pink Slime’ Local Newspaper Propaganda](http://www.techdirt.com/2026/11/03/the-u-s-midterms-were-once-again-flooded-by-fake-pink-slime-local-newspaper-propaganda/)
-- [Penguin Solutions 13D filing reveals SK hynix acquires $377M stake](https://cryptobriefing.com/sk-hynix-acquires-377m-penguin-solutions-stake/)
-- [listriver-mcp added to PyPI](https://pypi.org/project/listriver-mcp/)
+- [Schools that want Google Search for students will have to accept its AI too](https://www.gsmarena.com/schools_that_want_google_search_for_students_will_have_to_accept_its_ai_too-news-75341.php)
+- [The midterms won’t ease borrowing costs. Here’s what CFOs should do now](https://biztoc.com/x/08acf5c3cb00ad6d)
+- [Big Tech barely moved after the midterms, but Tesla and SpaceX fell up to 5%, and even Tesla missed the solar rally: Did Elon Musk’s big bet on Republicans just backfire?](https://economictimes.indiatimes.com/news/international/us/big-tech-barely-moved-after-the-midterms-but-tesla-and-spacex-fell-up-to-5-and-even-tesla-missed-the-solar-rally-did-elon-musks-big-bet-on-republicans-just-backfire/articleshow/135540520.cms)
+- [Fractal Analytics bets on large AI deals, partnerships to drive growth](https://www.business-standard.com/companies/news/fractal-analytics-bets-on-large-ai-deals-partnerships-to-drive-growth-126110401719_1.html)
+- [iOS 27.3 Beta Adds Siri AI Features and Redesigned Health App](https://mezha.ua/en/news/apple-vipustila-beta-versiyu-ios-27-3-yaki-novi-funkciji-otrimayut-iphone-316848/)
 <!-- NEWS_SECTION_END -->
 
 
