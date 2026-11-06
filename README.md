@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Schools that want Google Search for students will have to accept its AI too](https://www.gsmarena.com/schools_that_want_google_search_for_students_will_have_to_accept_its_ai_too-news-75341.php)
-- [The midterms won’t ease borrowing costs. Here’s what CFOs should do now](https://biztoc.com/x/08acf5c3cb00ad6d)
-- [Big Tech barely moved after the midterms, but Tesla and SpaceX fell up to 5%, and even Tesla missed the solar rally: Did Elon Musk’s big bet on Republicans just backfire?](https://economictimes.indiatimes.com/news/international/us/big-tech-barely-moved-after-the-midterms-but-tesla-and-spacex-fell-up-to-5-and-even-tesla-missed-the-solar-rally-did-elon-musks-big-bet-on-republicans-just-backfire/articleshow/135540520.cms)
-- [Fractal Analytics bets on large AI deals, partnerships to drive growth](https://www.business-standard.com/companies/news/fractal-analytics-bets-on-large-ai-deals-partnerships-to-drive-growth-126110401719_1.html)
-- [iOS 27.3 Beta Adds Siri AI Features and Redesigned Health App](https://mezha.ua/en/news/apple-vipustila-beta-versiyu-ios-27-3-yaki-novi-funkciji-otrimayut-iphone-316848/)
+- [Amagi Media Labs’ Q2 PAT surges 30-fold to ₹75 crore](https://www.thehindubusinessline.com/info-tech/amagi-media-labs-q2-pat-surges-30-fold-to-75-crore/article71670083.ece)
+- [safepay 0.5.0](https://pypi.org/project/safepay/0.5.0/)
+- [The UK wants to combine AI with satellites and military aircraft](https://www.techradar.com/ai-platforms-assistants/the-uk-wants-to-combine-ai-with-satellites-and-military-aircraft-to-spot-and-fight-fires-faster-and-its-exactly-what-ai-should-have-been-used-for-all-along)
+- [aegis-mail-companion 1.0.20](https://pypi.org/project/aegis-mail-companion/1.0.20/)
+- [port-ocean 0.58.1](https://pypi.org/project/port-ocean/0.58.1/)
 <!-- NEWS_SECTION_END -->
 
 
