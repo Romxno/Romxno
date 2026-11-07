@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Amagi Media Labs’ Q2 PAT surges 30-fold to ₹75 crore](https://www.thehindubusinessline.com/info-tech/amagi-media-labs-q2-pat-surges-30-fold-to-75-crore/article71670083.ece)
-- [safepay 0.5.0](https://pypi.org/project/safepay/0.5.0/)
-- [The UK wants to combine AI with satellites and military aircraft](https://www.techradar.com/ai-platforms-assistants/the-uk-wants-to-combine-ai-with-satellites-and-military-aircraft-to-spot-and-fight-fires-faster-and-its-exactly-what-ai-should-have-been-used-for-all-along)
-- [aegis-mail-companion 1.0.20](https://pypi.org/project/aegis-mail-companion/1.0.20/)
-- [port-ocean 0.58.1](https://pypi.org/project/port-ocean/0.58.1/)
+- [Ericsson: 63% of Greek smartphone users expect to use AI daily by 2030](https://www.naftemporiki.gr/english/2185442/ericsson-63-of-greek-smartphone-users-expect-to-use-ai-daily-by-2030/)
+- [Stocks tumble as midterms fuel AI fears and judge halts Trump’s D.C. arch: Morning Rundown](https://www.nbcnews.com/news/us-news/stocks-blue-wave-ai-construction-trump-arch-morning-rundown-rcna607801)
+- [Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones](https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone)
+- [Oregon State football 'resetting' after Fresno State loss](https://www.statesmanjournal.com/story/sports/college/oregon-state/2026/11/06/oregon-state-beavers-football-jamarcus-shephard-fresno-state-texas-state/92624658007/)
+- [Dan Ives says the post-midterm tech selloff is overdone](https://cryptobriefing.com/dan-ives-tech-selloff-midterms-overdone/)
 <!-- NEWS_SECTION_END -->
 
 
