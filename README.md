@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Matic gets an FCC exemption for its robot vacuum and charging dock](https://the-gadgeteer.com/2026/11/07/matic-gets-an-fcc-exemption-for-its-robot-vacuum-and-charging-dock/)
-- [security-review 11.1.0](https://pypi.org/project/security-review/11.1.0/)
-- [Beyond 2000 km: Iran removes cap on ballistic missile range, vows to demonstrate capabilities on battlefield](https://timesofindia.indiatimes.com/world/middle-east/beyond-2000-km-iran-removes-cap-on-ballistic-missile-range-vows-to-demonstrate-capabilities-on-battlefield/articleshow/135636348.cms)
-- [I Can't Code, But AI Let Me Fix Everything I Hated About My Favorite Games](https://uk.pcmag.com/ai/168291/i-cant-code-but-ai-let-me-fix-everything-i-hated-about-my-favorite-games)
-- [ECO-WORTHY PS 2400W 2048Wh (4800W Peak) LiFePO4 Power Station + 200W Solar Panel $547 + Free S/H](https://slickdeals.net/f/20271096-eco-worthy-ps-2400w-2048wh-4800w-peak-lifepo4-power-station-200w-solar-panel-547-free-s-h)
+- [Will you buy the Pocketbook Q e-reader?](https://goodereader.com/blog/electronic-readers/will-you-buy-the-pocketbook-q-e-reader)
+- [Festival Sounds 2026 by Kontor (2026.11.06)](https://post.rlsbb.cc/festival-sounds-2026-by-kontor-2026-11-06/)
+- [Ukraine builds combat robots to hunt Russian troops in underground gas pipelines](https://www.tomshardware.com/tech-industry/robotics/ukraine-builds-combat-robots-to-hunt-russian-troops-in-underground-gas-pipelines-ugvs-adapted-following-15-kilometer-subterranean-assault)
+- [The hard part begins for a divided Washington: Letters to the Editor — Nov. 9, 2026](https://nypost.com/2026/11/08/opinion/the-hard-part-begins-for-a-divided-washington-letters/)
+- [Windows 11 gets 11 notable changes this November, and two stand above the rest](https://www.windowscentral.com/microsoft/windows-11/i-found-the-11-biggest-changes-coming-to-windows-11-in-november)
 <!-- NEWS_SECTION_END -->
 
 
