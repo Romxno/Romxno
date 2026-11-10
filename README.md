@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Will you buy the Pocketbook Q e-reader?](https://goodereader.com/blog/electronic-readers/will-you-buy-the-pocketbook-q-e-reader)
-- [Festival Sounds 2026 by Kontor (2026.11.06)](https://post.rlsbb.cc/festival-sounds-2026-by-kontor-2026-11-06/)
-- [Ukraine builds combat robots to hunt Russian troops in underground gas pipelines](https://www.tomshardware.com/tech-industry/robotics/ukraine-builds-combat-robots-to-hunt-russian-troops-in-underground-gas-pipelines-ugvs-adapted-following-15-kilometer-subterranean-assault)
-- [The hard part begins for a divided Washington: Letters to the Editor — Nov. 9, 2026](https://nypost.com/2026/11/08/opinion/the-hard-part-begins-for-a-divided-washington-letters/)
-- [Windows 11 gets 11 notable changes this November, and two stand above the rest](https://www.windowscentral.com/microsoft/windows-11/i-found-the-11-biggest-changes-coming-to-windows-11-in-november)
+- [Avalanche to support NYSE's affiliated upcoming digital ATS: NYSE Content Update](https://www.prnewswire.co.uk/news-releases/avalanche-to-support-nyses-affiliated-upcoming-digital-ats-nyse-content-update-302933394.html)
+- [Bybit Joins Web Summit 2026 in Lisbon as Official Partner](https://www.prnewswire.co.uk/news-releases/bybit-joins-web-summit-2026-in-lisbon-as-official-partner-302933413.html)
+- [Congress is coming back to Washington. Here's what to expect - NPR](https://slashdot.org/firehose.pl?op=view&amp;id=186664095)
+- [What hardware does your PC need to run a local AI model?](https://slashdot.org/firehose.pl?op=view&amp;id=186664059)
+- [New PlayStation Portal Player Gets Built-In Storage in Japan and Korea, Purpose Still Unknown](https://www.techpowerup.com/354607/new-playstation-portal-player-gets-built-in-storage-in-japan-and-korea-purpose-still-unknown)
 <!-- NEWS_SECTION_END -->
 
 
