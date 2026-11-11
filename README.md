@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Avalanche to support NYSE's affiliated upcoming digital ATS: NYSE Content Update](https://www.prnewswire.co.uk/news-releases/avalanche-to-support-nyses-affiliated-upcoming-digital-ats-nyse-content-update-302933394.html)
-- [Bybit Joins Web Summit 2026 in Lisbon as Official Partner](https://www.prnewswire.co.uk/news-releases/bybit-joins-web-summit-2026-in-lisbon-as-official-partner-302933413.html)
-- [Congress is coming back to Washington. Here's what to expect - NPR](https://slashdot.org/firehose.pl?op=view&amp;id=186664095)
-- [What hardware does your PC need to run a local AI model?](https://slashdot.org/firehose.pl?op=view&amp;id=186664059)
-- [New PlayStation Portal Player Gets Built-In Storage in Japan and Korea, Purpose Still Unknown](https://www.techpowerup.com/354607/new-playstation-portal-player-gets-built-in-storage-in-japan-and-korea-purpose-still-unknown)
+- [Trump Renews Designation of Nicaragua as an “Extraordinary Threat”](https://www.globalresearch.ca/trump-renews-designation-nicaragua-extraordinary-threat/5945430)
+- [teleleo added to PyPI](https://pypi.org/project/teleleo/)
+- [Steve Wynn’s $70 million Central Park penthouse goes under contract after years on market](https://timesofindia.indiatimes.com/real-estate/news/in-2012-casino-billionaire-steve-wynn-paid-70-million-for-a-central-park-penthouse-after-asking-90-million-in-2022-and-cutting-the-price-the-10875-square-foot-duplex-finally-went-under-contract-in-november-2026/articleshow/135711394.cms)
+- [Ashes of the Singularity II-RUNE](https://post.rlsbb.cc/ashes-of-the-singularity-ii-rune/)
+- [Samsung Gallery Makes It Easier To Access Photos and Videos Across Galaxy Devices](https://news.samsung.com/global/samsung-gallery-makes-it-easier-to-access-photos-and-videos-across-galaxy-devices)
 <!-- NEWS_SECTION_END -->
 
 
