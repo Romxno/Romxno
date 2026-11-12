@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Trump Renews Designation of Nicaragua as an “Extraordinary Threat”](https://www.globalresearch.ca/trump-renews-designation-nicaragua-extraordinary-threat/5945430)
-- [teleleo added to PyPI](https://pypi.org/project/teleleo/)
-- [Steve Wynn’s $70 million Central Park penthouse goes under contract after years on market](https://timesofindia.indiatimes.com/real-estate/news/in-2012-casino-billionaire-steve-wynn-paid-70-million-for-a-central-park-penthouse-after-asking-90-million-in-2022-and-cutting-the-price-the-10875-square-foot-duplex-finally-went-under-contract-in-november-2026/articleshow/135711394.cms)
-- [Ashes of the Singularity II-RUNE](https://post.rlsbb.cc/ashes-of-the-singularity-ii-rune/)
-- [Samsung Gallery Makes It Easier To Access Photos and Videos Across Galaxy Devices](https://news.samsung.com/global/samsung-gallery-makes-it-easier-to-access-photos-and-videos-across-galaxy-devices)
+- [BJP plans week-long statewide events to mark Birsa Munda’s 151st birth anniversary](https://timesofindia.indiatimes.com/city/kolkata/bjp-plans-week-long-statewide-events-to-mark-birsa-mundas-151st-birth-anniversary/articleshow/135740409.cms)
+- [Show HN: Tensward – Local AI inference optimisation](https://github.com/Tensward/tensward)
+- [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
+- [sebbi 1.4.0](https://pypi.org/project/sebbi/1.4.0/)
+- [This Is Not the End of the AI Trade, Says Shah](https://biztoc.com/x/6a8e7d2fc0c011a0)
 <!-- NEWS_SECTION_END -->
 
 
