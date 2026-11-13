@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [BJP plans week-long statewide events to mark Birsa Munda’s 151st birth anniversary](https://timesofindia.indiatimes.com/city/kolkata/bjp-plans-week-long-statewide-events-to-mark-birsa-mundas-151st-birth-anniversary/articleshow/135740409.cms)
-- [Show HN: Tensward – Local AI inference optimisation](https://github.com/Tensward/tensward)
-- [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
-- [sebbi 1.4.0](https://pypi.org/project/sebbi/1.4.0/)
-- [This Is Not the End of the AI Trade, Says Shah](https://biztoc.com/x/6a8e7d2fc0c011a0)
+- [mipiti-mcp 0.103.0](https://pypi.org/project/mipiti-mcp/0.103.0/)
+- [Huangs Could See 'Largest Divorce Settlement of All Time'](https://freerepublic.com/focus/f-chat/4402751/posts)
+- [zambo-delivery 1.0.13](https://pypi.org/project/zambo-delivery/1.0.13/)
+- [The CEO, the Spy, and a Crisis for AI](https://www.theatlantic.com/podcasts/2026/11/the-jensen-huang-crisis-for-ai/689392/?utm_source=feed)
+- [Alphabet reportedly raises $3.8B in first Hong Kong and Singapore bonds](https://thenextweb.com/news/alphabet-3-8b-hong-kong-singapore-bonds)
 <!-- NEWS_SECTION_END -->
 
 
