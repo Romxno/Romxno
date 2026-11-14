@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [mipiti-mcp 0.103.0](https://pypi.org/project/mipiti-mcp/0.103.0/)
-- [Huangs Could See 'Largest Divorce Settlement of All Time'](https://freerepublic.com/focus/f-chat/4402751/posts)
-- [zambo-delivery 1.0.13](https://pypi.org/project/zambo-delivery/1.0.13/)
-- [The CEO, the Spy, and a Crisis for AI](https://www.theatlantic.com/podcasts/2026/11/the-jensen-huang-crisis-for-ai/689392/?utm_source=feed)
-- [Alphabet reportedly raises $3.8B in first Hong Kong and Singapore bonds](https://thenextweb.com/news/alphabet-3-8b-hong-kong-singapore-bonds)
+- [Alice Huang made 10 trips to the US since 2017: What border records reveal about the alleged Chinese spy’s movements](https://economictimes.indiatimes.com/news/international/us/alice-huang-made-10-trips-to-the-us-since-2017-what-border-records-reveal-about-the-alleged-chinese-spys-movements/articleshow/135802371.cms)
+- [Dem Rep: Congress Must Investigate Trump Role In Nvidia Scandal](https://crooksandliars.com/2026/11/dem-rep-congress-must-investigate-trump)
+- [Microsoft 365 begins to recover with Outlook back online](https://www.itnews.com.au/news/microsoft-365-begins-to-recover-with-outlook-back-online-630336)
+- [pvd 0.4.4](https://pypi.org/project/pvd/0.4.4/)
+- [pear-sim 0.1.1](https://pypi.org/project/pear-sim/0.1.1/)
 <!-- NEWS_SECTION_END -->
 
 
