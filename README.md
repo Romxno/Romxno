@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Alice Huang made 10 trips to the US since 2017: What border records reveal about the alleged Chinese spy’s movements](https://economictimes.indiatimes.com/news/international/us/alice-huang-made-10-trips-to-the-us-since-2017-what-border-records-reveal-about-the-alleged-chinese-spys-movements/articleshow/135802371.cms)
-- [Dem Rep: Congress Must Investigate Trump Role In Nvidia Scandal](https://crooksandliars.com/2026/11/dem-rep-congress-must-investigate-trump)
-- [Microsoft 365 begins to recover with Outlook back online](https://www.itnews.com.au/news/microsoft-365-begins-to-recover-with-outlook-back-online-630336)
-- [pvd 0.4.4](https://pypi.org/project/pvd/0.4.4/)
-- [pear-sim 0.1.1](https://pypi.org/project/pear-sim/0.1.1/)
+- [How To Get A Screaming Deal On Your Next Car Rental](https://www.jalopnik.com/2314274/how-to-get-good-deal-car-rental/)
+- [Bitcoin Policy Institute pitches mining as a fix for Scotland’s wasted wind power](https://cryptobriefing.com/bitcoin-mining-scottish-wind-power-report/)
+- [How Investors May Respond To SoftBank (TSE:9434) AI Robotics Funding](https://biztoc.com/x/4e307b0ee833c160)
+- [The Security Jobs Growing Around Enterprise AI Agents](https://hackread.com/security-jobs-growing-around-enterprise-ai-agents/)
+- [3 Broker Stocks Retail Investors Are Watching After Nvidia Volatility](https://biztoc.com/x/ebe23cea05a2c9a2)
 <!-- NEWS_SECTION_END -->
 
 
