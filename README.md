@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [How To Get A Screaming Deal On Your Next Car Rental](https://www.jalopnik.com/2314274/how-to-get-good-deal-car-rental/)
-- [Bitcoin Policy Institute pitches mining as a fix for Scotland’s wasted wind power](https://cryptobriefing.com/bitcoin-mining-scottish-wind-power-report/)
-- [How Investors May Respond To SoftBank (TSE:9434) AI Robotics Funding](https://biztoc.com/x/4e307b0ee833c160)
-- [The Security Jobs Growing Around Enterprise AI Agents](https://hackread.com/security-jobs-growing-around-enterprise-ai-agents/)
-- [3 Broker Stocks Retail Investors Are Watching After Nvidia Volatility](https://biztoc.com/x/ebe23cea05a2c9a2)
+- [If you want to be the grandparent your grandkids can’t wait to see, say goodbye to these 8 habits](https://artfulparent.com/grandparent-grandkids-cant-wait-to-see-habits/)
+- [geenii 0.4.0.dev5](https://pypi.org/project/geenii/0.4.0.dev5/)
+- [The race to build autonomous war robots faces a problem that self-driving cars don't. There are no rules of the road.](https://www.businessinsider.com/making-autonomous-war-robots-challenges-self-driving-cars-dont-ukraine-2026-11#article)
+- [livekit-plugins-dtln 0.1.7](https://pypi.org/project/livekit-plugins-dtln/0.1.7/)
+- [Upgrade the home office this holiday season with HP printers from just $50 (Up to $100 off)](http://9to5toys.com/2026/11/15/home-office-gift-holiday-season-hp-printer-deals/)
 <!-- NEWS_SECTION_END -->
 
 
