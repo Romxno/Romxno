@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [If you want to be the grandparent your grandkids can’t wait to see, say goodbye to these 8 habits](https://artfulparent.com/grandparent-grandkids-cant-wait-to-see-habits/)
-- [geenii 0.4.0.dev5](https://pypi.org/project/geenii/0.4.0.dev5/)
-- [The race to build autonomous war robots faces a problem that self-driving cars don't. There are no rules of the road.](https://www.businessinsider.com/making-autonomous-war-robots-challenges-self-driving-cars-dont-ukraine-2026-11#article)
-- [livekit-plugins-dtln 0.1.7](https://pypi.org/project/livekit-plugins-dtln/0.1.7/)
-- [Upgrade the home office this holiday season with HP printers from just $50 (Up to $100 off)](http://9to5toys.com/2026/11/15/home-office-gift-holiday-season-hp-printer-deals/)
+- [ethan-agent 1.0.0b22](https://pypi.org/project/ethan-agent/1.0.0b22/)
+- [The AI layoff wave never arrived in 2026. Goldman says it’s just delayed](https://fortune.com/2026/11/16/why-no-ai-layoff-wave-goldman-sachs-outlook-recession-jobs/)
+- [Nvidia Faces $108B Earnings Test in First Report Under Kress](https://bitcoinfoundation.org/news/ai/nvidia-faces-108b-earnings-test-in-first-report-under-kress/)
+- [RESO Pilot Pro Intercom review: Riding with the new kid on the block](https://newatlas.com/motorcycles/reso-pilot-pro-intercom-review/)
+- [boarai 0.0.1](https://pypi.org/project/boarai/0.0.1/)
 <!-- NEWS_SECTION_END -->
 
 
