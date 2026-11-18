@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [ethan-agent 1.0.0b22](https://pypi.org/project/ethan-agent/1.0.0b22/)
-- [The AI layoff wave never arrived in 2026. Goldman says it’s just delayed](https://fortune.com/2026/11/16/why-no-ai-layoff-wave-goldman-sachs-outlook-recession-jobs/)
-- [Nvidia Faces $108B Earnings Test in First Report Under Kress](https://bitcoinfoundation.org/news/ai/nvidia-faces-108b-earnings-test-in-first-report-under-kress/)
-- [RESO Pilot Pro Intercom review: Riding with the new kid on the block](https://newatlas.com/motorcycles/reso-pilot-pro-intercom-review/)
-- [boarai 0.0.1](https://pypi.org/project/boarai/0.0.1/)
+- [VisionQuest: Bettany on Series Needing to Focus on Vision, Not Wanda](https://bleedingcool.com/tv/visionquest-bettany-on-series-needing-to-focus-on-vision-not-wanda/)
+- [Threat of Hollywood break-ins force brokers to take extreme measures to protect high-end clients](https://pagesix.com/2026/11/17/hollywood/threat-of-hollywood-break-ins-force-brokers-to-take-extreme-measures-to-protect-high-end-clients/)
+- [Microdrama star acts across his own AI double — and claims A-listers will all do the same](https://pagesix.com/2026/11/17/hollywood/microdrama-star-acts-across-his-own-ai-double-and-claims-a-listers-will-all-do-the-same/)
+- [Show HN: Aktor – Agents that hire their own sub-agents for deep work](https://aktor.app/welcome)
+- [Shogi Set - Pieces, Board and Box by 7works](https://assetstore.unity.com/packages/3d/props/shogi-set-pieces-board-and-box-428214)
 <!-- NEWS_SECTION_END -->
 
 
