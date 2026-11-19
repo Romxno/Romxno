@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [VisionQuest: Bettany on Series Needing to Focus on Vision, Not Wanda](https://bleedingcool.com/tv/visionquest-bettany-on-series-needing-to-focus-on-vision-not-wanda/)
-- [Threat of Hollywood break-ins force brokers to take extreme measures to protect high-end clients](https://pagesix.com/2026/11/17/hollywood/threat-of-hollywood-break-ins-force-brokers-to-take-extreme-measures-to-protect-high-end-clients/)
-- [Microdrama star acts across his own AI double — and claims A-listers will all do the same](https://pagesix.com/2026/11/17/hollywood/microdrama-star-acts-across-his-own-ai-double-and-claims-a-listers-will-all-do-the-same/)
-- [Show HN: Aktor – Agents that hire their own sub-agents for deep work](https://aktor.app/welcome)
-- [Shogi Set - Pieces, Board and Box by 7works](https://assetstore.unity.com/packages/3d/props/shogi-set-pieces-board-and-box-428214)
+- [meeting-helper 7.25.0](https://pypi.org/project/meeting-helper/7.25.0/)
+- [Terrifying security investigation reveals major chatbots generated plans for terrorist attacks on America... triggering Senate alarm](https://www.dailymail.com/sciencetech/article-16303001/ai-chatbots-terrorist-attack-plans-america.html)
+- [qcoscloud 0.3.3](https://pypi.org/project/qcoscloud/0.3.3/)
+- [This cloud forest in Costa Rica is losing its clouds....](https://kottke.org/26/11/0049999-this-cloud-forest-in-cost)
+- [An Amazing Journey](https://jamierubin.net/2026/11/18/an-amazing-journey/)
 <!-- NEWS_SECTION_END -->
 
 
