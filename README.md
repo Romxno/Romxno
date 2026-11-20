@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [meeting-helper 7.25.0](https://pypi.org/project/meeting-helper/7.25.0/)
-- [Terrifying security investigation reveals major chatbots generated plans for terrorist attacks on America... triggering Senate alarm](https://www.dailymail.com/sciencetech/article-16303001/ai-chatbots-terrorist-attack-plans-america.html)
-- [qcoscloud 0.3.3](https://pypi.org/project/qcoscloud/0.3.3/)
-- [This cloud forest in Costa Rica is losing its clouds....](https://kottke.org/26/11/0049999-this-cloud-forest-in-cost)
-- [An Amazing Journey](https://jamierubin.net/2026/11/18/an-amazing-journey/)
+- [Google is giving YouTube Premium Family for free with another subscription - PhoneArena](https://slashdot.org/firehose.pl?op=view&id=186792752)
+- [You Can Trick Claude Into Drone Striking Civilians and Wounded Soldiers in Real Life By Telling It Everything’s a Video Game](https://futurism.com/artificial-intelligence/trick-claude-chatgpt-drone-strike-video-game)
+- [Anthropic’s blockbuster IPO raises the stakes for its enterprise AI business](https://biztoc.com/x/2539f7dc34fe2353)
+- [Anthropic IPO, AI wealth spawn a new, leaner kind of family office](https://biztoc.com/x/e4a04622410ececc)
+- [With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line](https://biztoc.com/x/0e1e0f6101224d7d)
 <!-- NEWS_SECTION_END -->
 
 
