@@ -1,10 +1,10 @@
 ## 📰 Latest Tech News
 <!-- NEWS_SECTION_START -->
-- [Google is giving YouTube Premium Family for free with another subscription - PhoneArena](https://slashdot.org/firehose.pl?op=view&id=186792752)
-- [You Can Trick Claude Into Drone Striking Civilians and Wounded Soldiers in Real Life By Telling It Everything’s a Video Game](https://futurism.com/artificial-intelligence/trick-claude-chatgpt-drone-strike-video-game)
-- [Anthropic’s blockbuster IPO raises the stakes for its enterprise AI business](https://biztoc.com/x/2539f7dc34fe2353)
-- [Anthropic IPO, AI wealth spawn a new, leaner kind of family office](https://biztoc.com/x/e4a04622410ececc)
-- [With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line](https://biztoc.com/x/0e1e0f6101224d7d)
+- [Arrive AI's Pro Forma Stockholders' Equity Now Above Nasdaq Minimum Requirement Following Recent Transactions](https://biztoc.com/x/70b1bfceef03171f)
+- [BitFuFu Earnings: Revenue Fell 79%, Yet Bitcoin Gains Doubled Q3 Profit to $24.9M](https://www.dcforecasts.com/bitcoin-news/bitfufu-earnings-q3-2026-bitcoin-fair-value-profit/)
+- [staticvet added to PyPI](https://pypi.org/project/staticvet/)
+- [Amazon - Smart Bird Feeder Camera Solar Powered 2K HD Video with AI Bird Identification $35.99](https://www.dealcatcher.com/deals/electronics/digital-cameras/smart-bird-feeder-camera-solar-powered-hd-video-with-ai-bird-identification-470466)
+- [Show HN: Hobby MQTT 3.1.1 broker written in Zig](https://github.com/threeaccents/zancudo)
 <!-- NEWS_SECTION_END -->
 
 
